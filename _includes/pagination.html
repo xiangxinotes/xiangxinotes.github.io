@@ -3,15 +3,15 @@
     <div class="pagination__list">
 
       {% if paginator.previous_page %}
-      
+
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/">Prev Posts</a>
+        <a class="previous-link" href="{{ site.baseurl }}/">上一篇文章</a>
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Prev Posts</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">上一篇文章</a>
       {% endif %}
-      
+
       {% else %}
-        <span class="disabled">Prev Posts</span>
+        <span class="disabled">上一篇文章</span>
       {% endif %}
 
       <div class="counter-box">
@@ -33,9 +33,9 @@
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next Posts</a>
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">下一篇文章</a>
       {% else %}
-        <span class="disabled">Next Posts</span>
+        <span class="disabled">下一篇文章</span>
       {% endif %}
 
 
