@@ -5,3 +5,4 @@ _site
 Gemfile.lock
 brief_introduction.ignore
 README_template.md
+styleguide.md
