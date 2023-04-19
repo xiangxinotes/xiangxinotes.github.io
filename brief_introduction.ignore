@@ -1,0 +1,47 @@
+_data/: （网站设置，包含GA、订阅、社交）
+  _data/settings.yml:
+_includes/:（可以在页面中包含的不同模块、不同部分）
+  _includes/article-content.html
+  _includes/contact-link.html
+  _includes/disqus-comments.html
+  _includes/footer.html
+  _includes/google-analytics.html
+  _includes/head.html
+  _includes/header.html
+  _includes/hero.html
+  _includes/instagram.html
+  _includes/javascripts.html
+  _includes/main.scss
+  _includes/pagination.html
+  _includes/search.html
+  _includes/subscribe.html
+_layouts/:（每个网页都从这里选要用的模板）
+  _layouts/default.html
+  _layouts/page.html
+  _layouts/post.html（博文的模板）
+  _layouts/tag_page.html
+_pages/:（其他的非博客的静态网页，自定义非常多，自动出现在navigation上）
+  _pages/about.md
+  _pages/styleguide.md
+_posts/:（博文放在这里）
+  _posts/2018-05-29-welcome-to-jekyll.markdown
+_sass/:（css文件存在地，暂不改）
+  _sass/0-settings
+  _sass/1-tools
+  _sass/2-base
+  _sass/3-modules
+  _sass/4-layouts
+images/:（所有图片都放这里）
+  images/01.jpg
+  images/logo.svg
+js/:（所有js都放这里）
+  js/vendors/
+  js/common.js
+_config.yml:
+.gitignore
+404.html
+favicon.ico
+Gemlife
+index.html
+README.md
+search.json
