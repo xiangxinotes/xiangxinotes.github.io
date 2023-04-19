@@ -1,26 +1,35 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
-image: 01.jpg
+image: me.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+你好，我是向西，**INFP**，和所有I型人一样，最喜欢独处，尤其喜爱独处时的那份自在，关注内心世界的富有。
+因此花了很多时间做研究，研究各种各样的东西，主要是为了满足自己的好奇心、**探究世界**。
+曾因发现中国大部分景区文化都和佛教关系很大，就详细研究了敦煌壁画，因此喜欢上了敦煌艺术，目前是可以自在介绍本生故事、因缘故事的程度。
+**外企**工作8年，积累了很多经验和技巧，可以从**面试官**角度提供面试建议。
+喜欢探究外在世界，曾在5个城市**旅居**，可以提供旅居建议。除了旅居建议还有旅游经验分享，主要是**路线分析**和**小tips**。
+在家呆着的时候通常都在读书、看纪录片，近3年读过200+书，看过100+纪录片，因此有了分享**书单**的底气。
+网上购物通常用淘宝，会在这里分享**用着不错的商品**。
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### 对敦煌艺术的喜爱
+<small>Since 2021</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+2021年十一，在南京大报恩寺景区游览琉璃塔的时候，被自己对经变画的无知震惊到，决定摆脱知识=0的无知状态，因此踏上了研究佛教的不归路。电视节目、纪录片、书、网站，找了各种各样的资料，一遍一遍的阅读琢磨，终于成功达到了现在的高度。2023年早春在北京看展时，已经能自在的欣赏壁画、给朋友做向导解说了！
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### 对购物的总结
+<small>Since 2022</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+从前购物倒是经常购，总结就没怎么做了。但从2022年，我开始记录我的所有网上购物记录，因为我实在讨厌刷来刷去的浪费时间。记录的目的是：
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+好的商品之后直接买，省了看商品、检查、看评论等等花费的时间。
+不好的商品再也不买。如果在一家店持续买到不好的商品我就会把这家店拉入黑名单再也看，再不买了。
+从这之后就发现网上购物变得很高效，很省心！
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+#### 旅游和读书
+<small>Since 2011</small>
+
+身体和灵魂总要有一个在路上？成年人当然两个都要！从上大学到工作，我抓住假期旅游，看不同城市风光，看自然。在学习和家则是看书、看电影、看纪录片，学习文化知识。现在更是在不同城市旅居，脱离游客视角细细领会各地生活中。最近喜欢的话：冒险可能会受伤，但单调是会死人的。
