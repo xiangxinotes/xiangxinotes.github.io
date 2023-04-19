@@ -3,7 +3,4 @@ _site
 .jekyll-metadata
 *.DS_Store
 Gemfile.lock
-styleguide.md
-README_template.md
 .git
-brief_introduction.ignore
