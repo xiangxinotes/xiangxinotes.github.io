@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  看美剧学英语有用吗？
-date:   2023-04-18 20:50:35 +0800
-image:  2022-04-18.jpg
-tags:   英语
+title: 看美剧学英语有用吗？
+date: 2023-04-18 20:50:35 +0800
+image: 2023-04-18.jpg
+tags: 英语
 ---
 
 你看过几部美剧？老友记 (Friends)、生活大爆炸 (The Bigbang Theory)、犯罪心理 (Criminal Minds)、别对我说谎 (Lie to Me)、查理日记 (Good Luck Charlie)，你都看过吗？
