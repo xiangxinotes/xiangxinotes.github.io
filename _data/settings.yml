@@ -2,7 +2,7 @@
 # General Site Settings
 title: 向西笔记
 logo: logo.png # You can add own logo.
-description: 向西笔记提供：购物推荐、旅居建议、工作建议，分享旅游经验、工作心得、面试技巧、知识、书单、美好小工具。
+description: 向西笔记提供：商品推荐、旅居建议、工作建议，分享旅游经验、工作心得、面试技巧、知识、书单、美好小工具。
 
 
 #-------------------------------
@@ -11,7 +11,7 @@ author:
   name: 向西
   image: me.jpg
   say-hello: 你好，我是<strong>向西</strong>
-  bio: 向西结合自身经历经验，为你提供<strong>购物推荐</strong>、<strong>旅居建议</strong>和<strong>工作建议</strong>，分享<strong>面试技巧</strong>、<strong>旅游经验</strong>、<strong>书单</strong>和让你变幸福的小工具。
+  bio: 向西结合自身经历经验，为你提供<strong>商品推荐</strong>、<strong>旅居建议</strong>和<strong>工作建议</strong>，分享<strong>面试技巧</strong>、<strong>旅游经验</strong>、<strong>书单</strong>和让你变幸福的小工具。
 
 
 #-------------------------------
