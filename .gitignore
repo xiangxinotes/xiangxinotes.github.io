@@ -8,3 +8,4 @@ README_template.md
 .gitignore
 brief_introduction.ignore
 styleguide.md
+.jekyll-cache
