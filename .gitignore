@@ -9,3 +9,4 @@ README_template.md
 brief_introduction.ignore
 styleguide.md
 .jekyll-cache
+plugins_ignore
