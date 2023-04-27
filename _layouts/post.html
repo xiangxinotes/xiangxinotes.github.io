@@ -21,7 +21,7 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
+              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag | upcase | replace: "-", " " }}</a>
             {% endfor %}
           </div>
           {% endif %}
@@ -30,17 +30,16 @@ layout: default
     </div>
   </div>
 
-  {% assign no-image = nil %}
+  <!-- {% assign no-image = nil %}
   {% if page.image %}
     <div class="post__head">
       <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
     </div>
   {% else %}
     {% assign no-image = 'post-no-image' %}
-  {% endif %}
-
-  </div>
-
+  {% endif %} -->
+  <!-- remove post image above, because no need to show it. -->
+ </div>
 
   <div class="container">
   <div class="row">
@@ -83,41 +82,65 @@ layout: default
     </div>
   </div>
 
-  <div class="container">
+  <div class="container container__article__navigation">
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="prev">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
-      <h2 class="post__nav__title">
-        <i class="ion ion-md-arrow-back"></i>
-        <a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
-      </h2>
-      <p class="prev__excerpt">
-        {% if page.previous.description %}
-          {{ page.previous.description }}
-        {% else %}
-          {{ page.previous.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
+      <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a> -->
+      <a  href="{{ site.baseurl }}{{page.previous.url}}">
+        <div class="post__nav__image" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></div>
+        <h2 class="post__nav__title">
+          <i class="ion ion-md-arrow-back"></i>
+          {{page.previous.title}}
+        </h2>
+        <p class="prev__excerpt">
+          {% if page.previous.description %}
+            {{ page.previous.description }}
+            {% else %}
+            {{ page.previous.content | strip_html | truncate: 110 }}
+            {% endif %}
+        </p>
+      </a>
     </div>
+      {% else %}
+      {% include card.html %}
+      <a href="/">
+      <i class="ion ion-md-arrow-back"></i>
+      查看所有文章
+      </a>
+   </div>
+      <!-- add above else block to display some general blogs -->
     {% endif %}
 
     {% if page.next.url %}
     <div class="next">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+      <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+      </a> -->
+      <a  href="{{ site.baseurl }}{{page.next.url}}">
+        <div class="post__nav__image" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+        </div>
+        <h2 class="post__nav__title">
+          <!-- <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a> -->
+          {{page.next.title}}
+          <i class="ion ion-md-arrow-forward"></i>
+        </h2>
+        <p class="next__excerpt">
+          {% if page.next.description %}
+            {{ page.next.description }}
+          {% else %}
+            {{ page.next.content | strip_html | truncate: 110 }}
+          {% endif %}
+        </p>
       </a>
-      <h2 class="post__nav__title">
-        <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a>
-        <i class="ion ion-md-arrow-forward"></i>
-      </h2>
-      <p class="next__excerpt">
-        {% if page.next.description %}
-          {{ page.next.description }}
-        {% else %}
-          {{ page.next.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
     </div>
+      {% else %}
+      {% include card.html %}
+      <a class="link__to__home" href="/">
+      查看所有文章
+      <i class="ion ion-md-arrow-forward"></i>
+      </a>
+    </div>
+      <!-- add above else block to display some general blogs -->
     {% endif %}
   </div>
 

@@ -4,7 +4,8 @@
 
   .post-title {
     margin-bottom: 10px;
-    width: 500px;
+    // width: 500px;
+    //remove 1 line above since no need to start a new line at this point. 20230427
     max-width: 100%;
     font-size: 57px;
     line-height: 70px;
@@ -77,7 +78,8 @@
 }
 
 .post {
-  margin: 80px auto;
+  margin: 0 auto 5em;
+  //change it to 0 auto 5em; from 80px auto;
 
   &.post-no-image {
     margin: 0 auto 80px;
@@ -128,21 +130,57 @@
 
 .post__navigation {
   display: flex;
-  align-items: baseline;
+  // align-items: baseline;
+  // remove 1 line above to use the highest height for all navigation
   margin-bottom: 80px;
   padding-bottom: 80px;
   border-bottom: 1px solid $light-gray;
+  justify-content: center;
+  //add 1 line above to center the navigation. 20230425
+  gap: 1em;
+  //add 1 line above to use gap for the navigation. 20230425
 
   .prev,
   .next {
     flex: 1 0 50%;
+    //remove 1 line above so that it won't display 100% images when only 1 of prev,next is available. 20230425
+    border-radius: 5px;
+    box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+    transition: all .5s ease;
+    //add 3 lines above to distinct the navigation from the background. 20230425
+    display: flex;
+    flex-direction: column;
+    //add 3 lines above to better style the navigation. 20230425
+    text-align: center;
+    //add 1line above to center the text;
+
+    a {
+      // display: inline-block;
+      // max-width: 250px;
+      // padding: 0 10px;
+      // vertical-align: middle;
+      // white-space: nowrap;
+      // overflow: hidden;
+      // text-overflow: ellipsis;
+      text-align: center;
+      //add 1 line above to center the words of the whole block. 20230426
+      color: $dark;
+      &:hover {
+        color: $black;
+      }
+      // padding: 0 1em;
+      //remove 1em padding for a; since 1 include the whole block now. 20230426
+    }
+    //add(copied before) style for anchor inside prev, next 20230425
+
     &:last-child {
       padding-right: 0;
     }
 
     .post__nav__image {
       display: block;
-      margin-bottom: 40px;
+      // margin-bottom: 40px;
+      // remove 1 line above to make the whole area clickable. 20230425
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -155,18 +193,24 @@
         content: "";
         display: table;
         width: 100%;
-        padding-bottom: 65%;
+        padding-bottom: 35%;
+        //update 1 line above from 65% to 35% to display a smaller thumbnail. 20230425
       }
     }
 
     .post__nav__title {
-      margin-bottom: 20px;
-      font-size: 27px;
-      line-height: 37px;
+
+      margin: 0.5em 2em;
+      //change 1 line above from margin-bottom: 20px; to 0.5em 2em;. 20230426
+      font-size: 1.25em;
+      line-height: 1.85em;
+      //update 1 line above from 37px to 1.85em; 20230425
       text-transform: uppercase;
       letter-spacing: 2px;
-      text-align: center;
+      // text-align: center;
+      // remove 1 line above since it won't work; 20230426
 
+      /*
       a {
         display: inline-block;
         max-width: 250px;
@@ -180,9 +224,13 @@
           color: $black;
         }
       }
+      */
+      //remove anchor style inside of .post__nav__title, because it changed its position. 20230425
+
     }
   }
 
+  /*
   .prev {
     padding-right: 10px;
   }
@@ -190,13 +238,21 @@
   .next {
     padding-left: 10px;
   }
+  */
+  //remove above .prev and .next to use gap instead. 20230425
 
   .prev__excerpt,
   .next__excerpt {
-    width: 100%;
-    max-width: 400px;
-    margin: 0 auto;
-    text-align: center;
+    // width: 100%;
+    //remove 1 line above, to add left,right margin but not overflow. 20230426
+    // max-width: 400px;
+    //remove 1 line above, to display more text when available. 20230426
+    margin: 0 2em 1em;
+    //update 1 line above from margin: 0 auto; to margin: 0 2em 1em; 20230426
+    // text-align: center;
+    // remove 1 line above, to use left alignment for the excerpt. 20230425
+    text-align: left;
+    //add 1 line above, to make the excerpt left. 20230426
   }
 
   @media only screen and (max-width: $tablet) {
@@ -219,7 +275,9 @@
     .prev,
     .next {
       .post__nav__image {
-        margin-bottom: 20px;
+        // margin-bottom: 20px;
+        padding-bottom: 20px;
+        //remove 1 line above to make the whole area clickable
       }
     }
   }
@@ -234,7 +292,7 @@
 }
 
 
-// 20230423, post tableofcontents
+// Add post tableofcontents. 20230423
 .scroll-nav__list, .scroll-nav__sub-list {
   margin: 0;
   padding-left: 1.4em;
@@ -268,4 +326,77 @@
   //padding-left: 42px;
 }
 
-//end of tableofcontents
+//end of tableofcontents. 20230423
+
+.post__nav__card {
+  background-blend-mode: multiply;
+  background-color: #00505e;
+  // background: linear-gradient(135deg,rgba(0,40,60,.8),rgba(0,20,40,.7));
+  background-image: url(../../../../images/me.jpg);
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: #f2f2f2;
+  justify-content: center;
+  padding: 1.5em 0;
+
+      ul {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+      }
+
+      li {
+        list-style: none;
+        border-bottom: 1px solid hsla(0,0%,100%,.3);
+        padding: 0 1em;
+      }
+
+      li:last-child {
+        margin-bottom: 1em;
+      }
+
+      a {
+        color: #cac8c8 !important;
+        line-height: 3;
+        &:hover {
+          color: #fff !important;
+        }
+      }
+
+      .link__to__home {
+        font-size: 0.9em;
+      }
+}
+//add above post__nav__card class. 20230426
+
+ .post__general__navigation {
+
+    position: relative;
+    text-align: center;
+
+   &::before,
+   &::after {
+     content: "";
+     display: block;
+     position: absolute;
+     top: 50%;
+     transform: translateY(-50%);
+     height: 1px;
+     width: calc(50% - 90px);
+     background: #3c3c3c;
+   }
+
+   &::before {
+     right: 0;
+   }
+   &::after {
+     left: 0;
+   }
+ }
+
+.container__article__navigation {
+  max-width: 1080px;
+}
+//add above container__article__navigation class. 20230426
