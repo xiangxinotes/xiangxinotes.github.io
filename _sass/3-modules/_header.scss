@@ -14,7 +14,7 @@
     opacity: 0;
     visibility: hidden;
     transition: all 0.5s ease;
-    
+
     @media only screen and (max-width: $desktop) {
       &.is-visible {
         opacity: 1;
@@ -29,7 +29,7 @@
   top: 50%;
   left: 0;
   transform: translateY(-50%);
-  
+
   .logo__link {
     font-size: 30px;
     font-weight: 700;
@@ -40,7 +40,7 @@
       color: $black;
     }
   }
-  
+
   .logo__image {
     max-height: 50px;
   }
@@ -68,14 +68,14 @@
 
   .nav__list {
     white-space: nowrap;
-    
+
     .nav__item {
       display: inline-block;
 
       .nav__link {
         display: inline-block;
         padding: 10px 30px;
-        font-size: 14px;
+        font-size: 1em;
         font-weight: 700;
         letter-spacing: 0.5px;
         text-transform: uppercase;
@@ -131,7 +131,7 @@
   right: 0;
   transform: translateY(-50%);
   font-size: 21px;
-  
+
   .nav__icon {
     color: $dark;
     cursor: pointer;
@@ -139,14 +139,14 @@
       color: $black;
     }
   }
-  
+
   .nav__icon-menu {
     display: none;
     margin-right: 10px;
     &:hover {
       color: $black;
     }
-    
+
     @media only screen and (max-width: $desktop) {
       display: inline-block;
     }

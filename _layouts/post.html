@@ -21,7 +21,7 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
+              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag | upcase | replace: "-", " " }}</a>
             {% endfor %}
           </div>
           {% endif %}
@@ -30,17 +30,16 @@ layout: default
     </div>
   </div>
 
-  {% assign no-image = nil %}
+  <!-- {% assign no-image = nil %}
   {% if page.image %}
     <div class="post__head">
       <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
     </div>
   {% else %}
     {% assign no-image = 'post-no-image' %}
-  {% endif %}
-
-  </div>
-
+  {% endif %} -->
+  <!-- remove post image above, because no need to show it. -->
+ </div>
 
   <div class="container">
   <div class="row">
@@ -87,15 +86,13 @@ layout: default
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="prev">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
-      <a href="{{ site.baseurl }}{{page.previous.url}}">
+      <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a> -->
+      <a  href="{{ site.baseurl }}{{page.previous.url}}">
+        <div class="post__nav__image" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></div>
         <h2 class="post__nav__title">
           <i class="ion ion-md-arrow-back"></i>
           {{page.previous.title}}
         </h2>
-      </a>
-      <a href="{{ site.baseurl }}{{page.previous.url}}">
-        <!-- Add 1 line above to make the whole area clickable -->
         <p class="prev__excerpt">
           {% if page.previous.description %}
             {{ page.previous.description }}
@@ -109,19 +106,24 @@ layout: default
 
     {% if page.next.url %}
     <div class="next">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+      <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+      </a> -->
+      <a  href="{{ site.baseurl }}{{page.next.url}}">
+        <div class="post__nav__image" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+        </div>
+        <h2 class="post__nav__title">
+          <!-- <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a> -->
+          {{page.next.title}}
+          <i class="ion ion-md-arrow-forward"></i>
+        </h2>
+        <p class="next__excerpt">
+          {% if page.next.description %}
+            {{ page.next.description }}
+          {% else %}
+            {{ page.next.content | strip_html | truncate: 110 }}
+          {% endif %}
+        </p>
       </a>
-      <h2 class="post__nav__title">
-        <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a>
-        <i class="ion ion-md-arrow-forward"></i>
-      </h2>
-      <p class="next__excerpt">
-        {% if page.next.description %}
-          {{ page.next.description }}
-        {% else %}
-          {{ page.next.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
     </div>
     {% endif %}
   </div>

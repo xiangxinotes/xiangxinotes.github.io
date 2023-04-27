@@ -40,7 +40,7 @@
     .subscribe__button {
       width: 127px;
       height: 57px;
-      font-size: 14px;
+      font-size: 1em;
       font-weight: 700;
       letter-spacing: 0.5px;
       border-radius: 30px;
@@ -58,7 +58,7 @@
 
   @media only screen and (max-width: $mobile) {
     margin: 0 auto 40px;
-    
+
     .subscribe__subtitle {
       font-size: 16px;
       line-height: 26px;
