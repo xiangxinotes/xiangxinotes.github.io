@@ -1,5 +1,8 @@
 .hero {
   padding: 80px 0;
+  // change back to 80px 0; 20230427
+  // padding: 180px 0 80px;
+  // change 1 line above to 180px 0 80px; from 80px 0; 20230427
   margin-bottom: 80px;
   background: #f5f5f5;
 
@@ -13,7 +16,7 @@
     justify-content: center;
     width: 100%;
     padding: 0 40px 0 0;
-    
+
     .hero__title {
       font-size: 38px;
       font-weight: normal;
@@ -68,7 +71,7 @@
 
     .hero__image {
       margin-bottom: 20px;
-      
+
       img {
         box-shadow: none;
       }

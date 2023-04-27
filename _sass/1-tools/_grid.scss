@@ -27,6 +27,8 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   flex-wrap: wrap;
   flex: 0 1 auto;
   flex-direction: row;
+  justify-content: center;
+  //add 1line above to center components. 20230427
   box-sizing: border-box;
   margin-left: ($base-spacing-unit * -1);
   margin-right: ($base-spacing-unit * -1);

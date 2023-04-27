@@ -97,6 +97,14 @@ $(document).ready(function() {
       $(".top").removeClass("is-active");
     }
   });
+  // $(window).scroll(function() {
+  //   if ($(this).scrollTop() > 500) {
+  //     $(".nav__bar").addClass("is-active");
+  //   } else {
+  //     $(".nav__bar").removeClass("is-active");
+  //   }
+  // });
+  // add 1 block above to fix the header. 20230427
 
 
 });
