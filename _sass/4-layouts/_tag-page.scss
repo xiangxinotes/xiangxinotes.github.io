@@ -1,12 +1,16 @@
 .arhive-head {
-  padding: 80px 0;
+  // padding: 80px 0;
+  //remove 1 line above to not add spacing. 20230427
   margin-bottom: 40px;
-  background: #f5f5f5;
+  // background: #f5f5f5;
+  //remove 1 line above to not distinct with others. 20230427
 
   .archive-title {
     text-align: center;
     font-weight: normal;
-    
+    display: none;
+    //add 1line above to not show tag. 20230427
+
     span {
       font-weight: 700;
     }

@@ -151,6 +151,8 @@
     display: flex;
     flex-direction: column;
     //add 3 lines above to better style the navigation. 20230425
+    text-align: center;
+    //add 1line above to center the text;
 
     a {
       // display: inline-block;
@@ -198,10 +200,8 @@
 
     .post__nav__title {
 
-      margin-bottom: 0.5em;
-      //change 1 line above from margin-bottom: 20px; to 0.5em. 20230425
-      margin-top: 0.5em;
-      //add 1 line above. 20230425
+      margin: 0.5em 2em;
+      //change 1 line above from margin-bottom: 20px; to 0.5em 2em;. 20230426
       font-size: 1.25em;
       line-height: 1.85em;
       //update 1 line above from 37px to 1.85em; 20230425
@@ -209,15 +209,6 @@
       letter-spacing: 2px;
       // text-align: center;
       // remove 1 line above since it won't work; 20230426
-
-      display: inline-block;
-      max-width: 18em;
-      // padding: 0 10px;
-      vertical-align: middle;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      //add 6 lines before to make the title hid when it has too many words.
 
       /*
       a {
@@ -336,3 +327,76 @@
 }
 
 //end of tableofcontents. 20230423
+
+.post__nav__card {
+  background-blend-mode: multiply;
+  background-color: #00505e;
+  // background: linear-gradient(135deg,rgba(0,40,60,.8),rgba(0,20,40,.7));
+  background-image: url(../../../../images/me.jpg);
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: #f2f2f2;
+  justify-content: center;
+  padding: 1.5em 0;
+
+      ul {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+      }
+
+      li {
+        list-style: none;
+        border-bottom: 1px solid hsla(0,0%,100%,.3);
+        padding: 0 1em;
+      }
+
+      li:last-child {
+        margin-bottom: 1em;
+      }
+
+      a {
+        color: #cac8c8 !important;
+        line-height: 3;
+        &:hover {
+          color: #fff !important;
+        }
+      }
+
+      .link__to__home {
+        font-size: 0.9em;
+      }
+}
+//add above post__nav__card class. 20230426
+
+ .post__general__navigation {
+
+    position: relative;
+    text-align: center;
+
+   &::before,
+   &::after {
+     content: "";
+     display: block;
+     position: absolute;
+     top: 50%;
+     transform: translateY(-50%);
+     height: 1px;
+     width: calc(50% - 90px);
+     background: #3c3c3c;
+   }
+
+   &::before {
+     right: 0;
+   }
+   &::after {
+     left: 0;
+   }
+ }
+
+.container__article__navigation {
+  max-width: 1080px;
+}
+//add above container__article__navigation class. 20230426
