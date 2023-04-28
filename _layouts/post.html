@@ -97,7 +97,7 @@ layout: default
           {% if page.previous.description %}
             {{ page.previous.description }}
             {% else %}
-            {{ page.previous.content | strip_html | truncate: 110 }}
+            {{ page.previous.content | strip_html | truncate: 70 }}
             {% endif %}
         </p>
       </a>
@@ -121,14 +121,14 @@ layout: default
         </div>
         <h2 class="post__nav__title">
           <!-- <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a> -->
-          {{page.next.title}}
+          {{ page.next.title }}
           <i class="ion ion-md-arrow-forward"></i>
         </h2>
         <p class="next__excerpt">
           {% if page.next.description %}
             {{ page.next.description }}
           {% else %}
-            {{ page.next.content | strip_html | truncate: 110 }}
+            {{ page.next.content | strip_html | truncate: 70 }}
           {% endif %}
         </p>
       </a>
