@@ -2,6 +2,7 @@
 layout: post
 title: 震惊！解决 Github pages 使用 jekyll 主题时 tag 目录出现的 404 NOT FOUND 问题竟然如此简单！
 date: 2023-04-28 17:27:35 +0800
+description: 用 Github pages 搭建个人网站，jekyll theme 都选好了，但在自己的 Github pages 出现了 tag 目录404？别担心，向西来帮你！
 image: xiangxi-forked-zolan-tag-404-not-found.png
 tags: Github-pages jekyll-themes
 ---
