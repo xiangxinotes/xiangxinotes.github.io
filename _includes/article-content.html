@@ -38,8 +38,8 @@
               <!-- remove article__date span above since there's no need to show on this part. 20230429 -->
               <span class="reading-time">
                   <!-- {% assign words = post.content | strip_html | number_of_words: "cjk" %} -->
-                  {% assign words = post.content | strip_html | number_of_words %}
-                  <!-- {% assign words = post.content | strip_html | truncate: 185 %} -->
+                  <!-- {% assign words = post.content | strip_html | number_of_words %} -->
+                  {% assign words = post.content | strip_html | truncate: 185 %}
                   {% if words <= words_per_minute %}
                     1 分钟
                   {% else %}
