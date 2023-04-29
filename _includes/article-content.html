@@ -38,10 +38,11 @@
               <!-- remove article__date span above since there's no need to show on this part. 20230429 -->
               <span class="reading-time">
                   {% assign words = post.content | strip_html %}
-                  {% if words <= words_per_minute %}
+                  {% assign words_of_post = words | number_of_words: "cjk" %}
+                  {% if words_of_post <= words_per_minute %}
                     1 分钟
                   {% else %}
-                    {{ words | divided_by:words_per_minute }} 分钟
+                    {{ words_of_post | divided_by:words_per_minute }} 分钟
                   {% endif %}
               </span>
               <!-- add reading-time above to give a brief idea of how long it is. 20230429 -->
