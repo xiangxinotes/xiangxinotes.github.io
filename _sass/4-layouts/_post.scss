@@ -286,6 +286,10 @@
 .comments {
   margin-bottom: 80px;
 
+  #idc-container {
+    margin: 1.5em auto;
+  }
+
   @media only screen and (max-width: $mobile) {
     margin-bottom: 40px;
   }

@@ -29,6 +29,11 @@ disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brow
 
 
 #-------------------------------
+# Comment Section (IntenseDebate) For compatible with CN
+intensedebate-identifier: 848807791b33d240193718a7e05a0e22 # add your identifier for IntenseDebate Comment. For example 848807791b33d240193718a7e05a0e22
+
+
+#-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile:  # Add instagram username

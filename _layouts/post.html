@@ -144,8 +144,15 @@ layout: default
     {% endif %}
   </div>
 
-  {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+  <!-- {% if site.data.settings.disqus-identifier %}
+    {% include disqus-comments.html %}
+  {% endif %} -->
+  <!-- remove disqus comment area since it won't fit for CN users 20230429 -->
+  {% if site.data.settings.intensedebate-identifier %}
+    {% include intensedebate-comments.html %}
+  {% endif %}
   </div>
+  <!-- Add intensedebate comment area since it will fit for CN users as well. 20230429 -->
 
   <!-- <script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
   <script>
