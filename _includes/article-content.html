@@ -37,7 +37,7 @@
               <!-- <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span> -->
               <!-- remove article__date span above since there's no need to show on this part. 20230429 -->
               <span class="reading-time">
-                  {% assign words = post.content | strip_html | number_of_words: "cjk" %}
+                  {% assign words = post.content | strip_html %}
                   {% if words <= words_per_minute %}
                     1 分钟
                   {% else %}
