@@ -1,4 +1,6 @@
 {% assign without-image = nil %}
+{% assign words_per_minute = site.words_per_minute | default: 200 %}
+
 <!-- begin article -->
 <div class="article">
   <div class="container">
@@ -34,6 +36,7 @@
             <div class="article__meta">
               <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
             </div>
+            <!-- remove article__date span above since there's no need to show on this part. 20230429 -->
 
             <a href="{{post.url | prepend: site.baseurl}}" class="read-more">继续阅读 <i class="ion ion-ios-arrow-forward"></i></a>
           </div>
