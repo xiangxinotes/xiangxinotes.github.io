@@ -2,7 +2,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 language: zh-CN # the main language of your site, e.g. en-US
 timezone: Asia/Shanghai # the time zone of your site.
-destination: ./build
+destination: ./build # to use github actions to build site
 
 # Build settings
 markdown: kramdown
