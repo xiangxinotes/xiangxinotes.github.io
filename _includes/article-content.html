@@ -39,12 +39,11 @@
             <!-- remove article__date span above since there's no need to show on this part. 20230429 -->
             <div class="article__meta">
               <span class="reading-time">
-                  {% comment %}{% assign words = post.content | strip_html | number_of_words: "cjk" %}{% endcomment %}
-                  {% assign words = 1000 %}
+                  {% assign words = post.content | strip_html | number_of_words: "cjk" %}
                   {% if words <= words_per_minute %}
                     1 分钟
                   {% else %}
-                    {{ words | divided_by:words_per_minute }} 分钟
+                    {{ words | divided_by: words_per_minute }} 分钟
                   {% endif %}
               </span>
             </div>
