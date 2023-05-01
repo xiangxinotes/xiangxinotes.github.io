@@ -136,5 +136,6 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 }
 
-//update all percentage( $i / $columns ) to math.percentage(math.div($i,$columns)) since percentage will be deprecated. 200230428
+//update all percentage( $i / $columns ) to math.percentage(math.div($i,$columns)) since percentage will be deprecated. 20230428
 // change back to percentage( $i / $columns ) since github error.
+// update all percentage( $i / $columns ) to math.percentage(math.div($i,$columns)) since I will be using newer version of jekyll for github pages. 20230501
