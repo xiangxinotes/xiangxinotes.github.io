@@ -10,7 +10,7 @@ description: 向西笔记分享让你生活变好的商品、让你变幸福的�
 author:
   name: 向西
   image: me.jpg
-  say-hello: 你好，我是<strong>向西</strong>
+  say-hello: 你好，我是<a href="/about"><strong>向西</strong></a>
   bio: 向西结合自身经历经验，为你提供<a href="/tag/product"><strong>商品推荐</strong></a>、<a href="/tag/sojourn"><strong>旅居建议</strong></a>和<strong>工作建议</strong>，分享<a href="/tag/interview"><strong>面试技巧</strong></a>、<strong>旅游经验</strong>、<strong>书单</strong>和让你变幸福的<a href="/tag/tools"><strong>小工具</strong></a>。
 
 
