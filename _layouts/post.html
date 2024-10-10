@@ -43,6 +43,17 @@ layout: default
 
   <div class="container">
   <div class="row">
+    <!-- begin sidebar -->
+    <div class="sidebar">
+      <div class="sidebar__inner">
+        <header class="sidebar__header">
+          <h2 class="sidebar__heading">文章目录</h2>
+        </header>
+        <nav class="toc">
+        </nav>
+      </div>
+    </div>
+
     <!-- begin post -->
     <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
 
@@ -154,11 +165,15 @@ layout: default
   </div>
   <!-- Add intensedebate comment area since it will fit for CN users as well. 20230429 -->
 
-  <!-- <script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
+  <script src="{{ site.baseurl }}/js/vendors/scrollnav.min.umd.js"></script>
   <script>
-    const content = document.querySelector('.post__content');
+    // const content = document.querySelector('.post__content');
+    const content = document.querySelector('.post');
+    const sidebar = document.querySelector('.toc');
     scrollnav.init(content, {
+      debug: false,
+      insertTarget: sidebar,
       easingStyle: 'linear',
       subSections: 'h3',
     });
-  </script> -->
+  </script>

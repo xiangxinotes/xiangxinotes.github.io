@@ -296,7 +296,48 @@
 }
 
 
-// Add post tableofcontents. 20230423
+// Add post tableofcontents. 20241010
+
+.sidebar__inner {
+    position: sticky;
+    top: 50px;
+    margin-bottom: 80px;
+}
+
+.sidebar__header {
+    background-color: #e8eaf3;
+    border: 1px solid #e8eaf3;
+}
+
+.sidebar__header, .toc {
+    padding: 10px 20px;
+}
+
+.sidebar__heading {
+    font-size: 1.11765em;
+    font-weight: 900;
+    margin: 0;
+}
+
+.scroll-nav {
+  background-color: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 15px 10px;
+  top: 10px;
+  
+  @media screen and (min-width: 700px) {
+    float: left;
+    padding: 15px 10px;
+    width: 200px;
+    
+    top: 60px;
+  }
+  
+  @media screen and (min-width: 1000px) {
+    width: 300px;
+  }
+}
+
 .scroll-nav__list, .scroll-nav__sub-list {
   margin: 0;
   padding-left: 1.4em;
@@ -313,24 +354,28 @@
   //padding: 5px;
   font-weight: bold;
   position: relative;
-  color: #000000;
+  //color: $dark;
   //background: $red;
   text-decoration: none;
   //transition: 0.5s;
   &:hover{
-      color:$black
+      color:$dark
   }
 }
 
 .scroll-nav__link {
-  color: $black;
+  //color: $dark;
   text-decoration: none;
   //display: block;
   //margin: 0 auto;
   //padding-left: 42px;
 }
 
-//end of tableofcontents. 20230423
+scroll-nav__sub-link {
+  //color: $dark;  
+}
+
+//end of tableofcontents. 20241010
 
 .post__nav__card {
   background-blend-mode: multiply;
