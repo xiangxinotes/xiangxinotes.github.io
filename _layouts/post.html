@@ -5,7 +5,9 @@ layout: default
 <div class="container">
   <div class="post-title-box">
     <div class="row">
-      <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
+      <div class="col col-10 col-11 push-t-1 col-m-12 push-m-0">
+      <!-- before adding a toc: <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0"> -->
+      <!-- remove push-2 above, since after removing, it looks better -->
         <span class="post__date">
           <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
         </span>
@@ -41,10 +43,10 @@ layout: default
   <!-- remove post image above, because no need to show it. -->
  </div>
 
-  <div class="container">
+  <div class="container container--has-sidebar">
   <div class="row">
     <!-- begin sidebar -->
-    <div class="sidebar">
+    <div class="sidebar col col-8 col-t-10 col-m-12">
       <div class="sidebar__inner">
         <header class="sidebar__header">
           <h2 class="sidebar__heading">文章目录</h2>

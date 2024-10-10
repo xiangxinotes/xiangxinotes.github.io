@@ -78,8 +78,9 @@
 }
 
 .post {
-  margin: 0 auto 5em;
+  //margin: 0 auto 5em; 
   //change it to 0 auto 5em; from 80px auto;
+  //delete 10/10/2024.
 
   &.post-no-image {
     margin: 0 auto 80px;
@@ -298,10 +299,28 @@
 
 // Add post tableofcontents. 20241010
 
+.container--has-sidebar {
+  margin: 0 auto 5em;
+}
+
+.sidebar {
+  margin-bottom: 1.25em;
+  @media screen and (min-width: 768px) {
+    width: 240px;
+  }
+  @media screen and (min-width: 1000px) {
+    width: 300px;
+  }
+}
+/*
+*/
+
 .sidebar__inner {
-    position: sticky;
     top: 50px;
-    margin-bottom: 80px;
+    @media screen and (min-width: 768px) {
+      position: sticky;
+      margin-bottom: 80px;
+    }
 }
 
 .sidebar__header {
@@ -309,7 +328,7 @@
     border: 1px solid #e8eaf3;
 }
 
-.sidebar__header, .toc {
+.sidebar__header {
     padding: 10px 20px;
 }
 
@@ -324,17 +343,17 @@
   border: 1px solid #a2a9b1;
   padding: 15px 10px;
   top: 10px;
+  width: 100%;
   
   @media screen and (min-width: 700px) {
-    float: left;
-    padding: 15px 10px;
-    width: 200px;
+    // float: left;
+    // width: 200px;
     
-    top: 60px;
+    // top: 60px;
   }
   
   @media screen and (min-width: 1000px) {
-    width: 300px;
+    //width: 300px;
   }
 }
 
