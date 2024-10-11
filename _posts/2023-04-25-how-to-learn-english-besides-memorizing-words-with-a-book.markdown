@@ -4,7 +4,7 @@ title: 学英语只会背单词？还有别的方法！
 date: 2023-04-25 19:47:35 +0800
 description: 四六级考了好几次都没过？考前只会拿个单词书，每天abandon、abundant的背？就算如此，书还是只翻了前几页，后面没看过？想知道还能怎么学英语？向西来帮你！
 image: 2023-04-25.jpg
-tags: english
+tags: english languages
 ---
 
 四六级考了好几次还没过？考前只会拿个单词书，每天abandon、abundant的背？就算如此，书还是只翻了前几页，后面还很新？想知道还能怎么学英语？

@@ -4,7 +4,7 @@ title: 哇哦！提高行动力竟如此简单？！还能学英语哦～
 date: 2023-04-21 09:14:35 +0800
 description: 经常失去斗志？不知道如何提高行动力，或者保持行动力？Momentum 这款浏览器插件，一定能够帮到你！支持 Chrome, Firefox and Safari 三大浏览器。中国大陆的 Chrome 使用者也能放心使用哦！
 image: 2023-04-21.jpg
-tags: tools
+tags: tools english languages
 ---
 
 Momentum，中文动能、动量的意思。Momentum是一款浏览器插件，会在你打开新的标签时，把一幅好看的画展示在你眼前。还有天气、时间、一句包含**鼓励**的Mantra和一句Quote。
