@@ -7,6 +7,9 @@ image: duolingo-plus-notion.png
 tags: tools french languages
 ---
 
+如果你更喜欢看视频，请直接看下面这个视频：
+ <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1Fa26YTE7K&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
+
 我用多邻国学法语到今天已经645天了。在这一年多的时间里，我的学习方法也经过了多次迭代，这篇文章就来分享一下，如何用多邻国+Notion，学会任何你想学的语言？
 
 ## 学语言的心态

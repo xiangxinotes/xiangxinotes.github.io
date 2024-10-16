@@ -7,6 +7,9 @@ image: nine-english-tools.png
 tags: tools english languages
 ---
 
+如果你更喜欢看视频，请直接看下面这个视频：
+<iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1FB2HYnExV&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 从大学的时候不敢说、听不懂到现在在外企工作，我仔细的思考并回忆了这10年间，我究竟做对了些什么。这篇文章就把那些我用过的，**推荐**的所有工具分享给你。一共9个，全部免费！请看到最后，告诉我你的看法。
 
 ## 1. Momentum
