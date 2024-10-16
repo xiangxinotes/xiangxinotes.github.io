@@ -2,7 +2,7 @@
 layout: post
 title: 一个普通话母语者，是如何成功从零开始，学会粤语的？
 date: 2024-10-15 22:31:25 +0800
-description: 你想学粤语吗？你是普通话母语者吗？你是从零开始学的吗？如果是，那一定要看这篇成功者分享的经验。
+description: 你想学粤语吗？你是普通话母语者吗？你是从零开始学的吗？如果是，那一定要看这篇博文。作者分享了一个不会方言的人是怎么学会粤语的。
 image: learn-cantonese.png
 tags: tools cantonese languages
 ---
