@@ -63,17 +63,21 @@ to-do
 
 #### 晚安粤语
 
-我最喜欢的粤语电台就是：[晚安粤语](https://podcasts.apple.com/us/podcast/%E6%99%9A%E5%AE%89%E7%B2%A4%E8%AF%AD-%E7%96%AF%E7%B2%A4%E6%98%9F%E7%A9%BA-%E5%A5%BD%E4%BA%BA%E5%A5%BD%E6%A2%A6/id1440696937)。
+我最喜欢的粤语电台就是：晚安粤语。
 
-网易云链接: [晚安粤语](https://music.163.com/#/djradio?id=334397063)
+- 播客节目入口: [晚安粤语](https://podcasts.apple.com/us/podcast/%E6%99%9A%E5%AE%89%E7%B2%A4%E8%AF%AD-%E7%96%AF%E7%B2%A4%E6%98%9F%E7%A9%BA-%E5%A5%BD%E4%BA%BA%E5%A5%BD%E6%A2%A6/id1440696937)。
+- 网易云节目入口: [晚安粤语](https://music.163.com/#/djradio?id=334397063)
+- 喜马拉雅节目入口: [晚安粤语](https://www.ximalaya.com/album/12958195)
 
 村长的声音很好听，大家分享的故事也很有趣。听故事入眠是独属于故事分享者、村长和我的浪漫。
 
 #### 晚安電台丨粵語丨暴走的陳老C丨廣東話
 
-最近查到的粤语电台：[晚安電台丨粵語丨暴走的陳老C丨廣東話](https://podcasts.apple.com/us/podcast/%E6%99%9A%E5%AE%89%E9%9B%BB%E5%8F%B0%E4%B8%A8%E7%B2%B5%E8%AA%9E%E4%B8%A8%E6%9A%B4%E8%B5%B0%E7%9A%84%E9%99%B3%E8%80%81c%E4%B8%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1/id1604327026)。
+最近查到的粤语电台：晚安電台丨粵語丨暴走的陳老C丨廣東話
 
-喜马拉雅链接: [晚安電台丨粵語丨暴走的陳老C丨廣東話](https://www.ximalaya.com/album/53594669)
+- 播客节目入口: [晚安電台丨粵語丨暴走的陳老C丨廣東話](https://podcasts.apple.com/us/podcast/%E6%99%9A%E5%AE%89%E9%9B%BB%E5%8F%B0%E4%B8%A8%E7%B2%B5%E8%AA%9E%E4%B8%A8%E6%9A%B4%E8%B5%B0%E7%9A%84%E9%99%B3%E8%80%81c%E4%B8%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1/id1604327026)。
+- 喜马拉雅节目入口: [晚安電台丨粵語丨暴走的陳老C丨廣東話](https://www.ximalaya.com/album/53594669)
+
 
 我老实说：我没听过几集。但因为是晚安电台，我觉得不会很吵，以后准备听听，因为村长的节目都听完了。
 
