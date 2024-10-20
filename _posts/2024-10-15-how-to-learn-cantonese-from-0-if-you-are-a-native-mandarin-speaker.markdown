@@ -8,8 +8,7 @@ tags: tools cantonese languages
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：
-to-do
- <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
+ <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1ENyeYCEQU&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
 
 你想学粤语吗？你是普通话母语者吗？你是从零开始学的吗？如果是，那这篇文章你一定要看。可以点击文章目录快速跳转到感兴趣的部分，也可以按顺序依次阅读～
 
