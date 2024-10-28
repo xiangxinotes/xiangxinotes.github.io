@@ -8,7 +8,7 @@ tags: tools english languages
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：
- <!-- <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=[to-do: BVid]&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  -->
+ <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1Fv1VY4E8m&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
 
 本文作者（我）已通读[全国大学英语四、六级考试大纲](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf)！
 
@@ -74,7 +74,7 @@ tags: tools english languages
 
 阅读题不可避免地包含大量单词。所以，你至少要知道这些词的意思，或者可以根据上下文推测出它的意思来。
 
-背单词不可避免，如果你没时间每天背一点儿了，那就用泛背的方法快速的背单词吧！可以在B站上搜具体的方法。我看过一个相关视频：[【学英语】北大学姐的高效背单词法！不看亏大了！1小时竟能背100多个？](https://www.bilibili.com/video/BV1g7411T7Py/?spm_id_from=333.337.search-card.all.click)（我没试过，但你可以试一下）。
+背单词不可避免，如果你没时间每天背一点儿了，那就用泛背的方法快速的背单词吧！可以在B站上搜具体的方法。我看过一个相关视频：[【学英语】北大学姐的高效背单词法！不看亏大了！1小时竟能背100多个？](https://www.bilibili.com/video/BV1g7411T7Py)（我没试过，但你可以试一下）。
 
 👇下面介绍的是针对不同题型的解题思路：
 
@@ -122,9 +122,9 @@ H) overstated |
 1. 分析句子类型：
 	* 对于包含**关键词**的句子，使用**查读**策略，快速找到包含这个关键词的段落，
 	* 对于一般性的句子，使用**略读**策略，快速浏览段落，得知段落主要内容即可。
-2. 哪一个段落和句子信息点一致就选上。
+1. 哪一个段落和句子信息点一致就选上。
 
-段落匹配题篇幅较大，我就不整个复制过来了。如果想要看到更直观的解释，请直接看[视频解说]()吧。
+段落匹配题篇幅较大，我就不整个复制过来了。如果想要看到更直观的解释，请直接看[视频解说](https://www.bilibili.com/video/BV1Fv1VY4E8m?t=515.5)吧。
 
 下面我用文字简单地讲一下：
 
@@ -187,7 +187,7 @@ H) overstated |
 
 最后祝你：过了四级过六级，一切顺利，学有所成！
 
-声明：本文并**未**接受 China Daily 任何形式的赞助。
+声明：本文并**未**接受 可可英语和China Daily 任何形式的赞助。
 
 ---
 
