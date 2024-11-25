@@ -8,7 +8,7 @@ tags: thanksgiving
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：
- <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=[todo]&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
+ <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1thzAYoEGd&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
 
 11月28号就是感恩节了。我想要借这个机会，感恩一下在2024这一年里，给我提供了欢笑、陪伴、帮助的人和事。
 
