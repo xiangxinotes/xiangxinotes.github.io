@@ -43,6 +43,9 @@ instagram-profile:  # Add instagram username
 # Google Analytics
 google-analytics: G-XKTXS5QCR2 # Add your identifier. For example UA-99631805-1.
 
+#-------------------------------
+# Google Search Console
+google-site-verification: wmLF-J7xkXz3CNC-3pVWU0CcD3YCSclogsQJrgfqNQ
 
 #-------------------------------
 # Google adsense
