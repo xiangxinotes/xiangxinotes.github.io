@@ -133,5 +133,5 @@ ${github-account-name}.github.io 是 名为 ${github-account-name} 的 Github �
 ## 使用场景
 
 - [MDN 在 Github 托管演示案例用到的 json 文件](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/JSON#%E5%BC%80%E5%A7%8B%E5%90%A7)
-- 我在本地直接访问托管在 Github 上的 json文件，绕过了本地访问文件跨域的报错
+- 我创建了[一个 SQL 语句复习网站 SQL Wizland](/sql-wizland)，需要在本地直接访问托管在 Github 上的 json文件，绕过了本地访问文件跨域的报错
 
