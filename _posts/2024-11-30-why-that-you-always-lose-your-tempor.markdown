@@ -1,15 +1,14 @@
 ---
 layout: post
-title: 总是控制不住情绪，发火、生气？你应该了解你为什么易怒，从而做好情绪管理！
+title: 频繁情绪失控易怒？探究根源才能做好情绪管理！
 date: 2024-11-30 21:13:29 +0800
-description: 总是发脾气、很暴躁，像个爆竹一碰就燃，伤害了亲近的人，总是很后悔？不敢跟别人发火，只能自己生闷气？不管你是怎样处理你的愤怒的，你都应该看这篇文章。这篇文章带你深入你易怒的原因和易怒的不良后果。
+description: 总是发脾气、很暴躁，像个爆竹一碰就燃，伤害了亲近的人，总是很后悔？不敢跟别人发火，只能自己生闷气？不管你以前是怎样处理愤怒的，你都应该看这篇文章。本文深入剖析易怒原因与不良后果，助你理解并应对情绪困扰，值得一读。
 image: harm-of-anger-is-mutual.jpg
 tags: anger-control emotional-intelligence
 ---
 
-<!-- 如果你更喜欢看视频，请直接看下面这个视频：
- <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=[todo]&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
- -->
+如果你更喜欢看视频，请直接看下面这个视频：
+ <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1vVzZYoEE8&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 你经常发火，脾气火爆，一点就着吗？还是你不敢跟别人发火，只能自己生闷气？不管你以前是怎么处理你的愤怒的，你都应该看完这篇文章。本文将用8分钟带你深入你易怒的原因和易怒的不良后果。
 
