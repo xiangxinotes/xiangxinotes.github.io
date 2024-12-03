@@ -1,0 +1,171 @@
+[
+  
+    {
+      "title"    : "【详细教程】怎么解决 javascript 访问本地文件时的浏览器跨域报错，实现本地预览？A step to step guide!",
+      "category" : "",
+      "tags"     : "javascript, js, json, local-file, cross-origin, and local-preview",
+      "url"      : "/2024/12/02/how-to-deal-with-javascript-error-when-it-logged-as-access-to-fetch-a-local-file-from-origin-null-has-been-blocked-by-CORS-policy-cross-origin-requests-are-only-supported-for-protocol-schemes/",
+      "date"     : "2 Dec, 2024"
+    } ,
+  
+    {
+      "title"    : "频繁情绪失控易怒？探究根源才能做好情绪管理！",
+      "category" : "",
+      "tags"     : "anger-control and emotional-intelligence",
+      "url"      : "/2024/11/30/why-that-you-always-lose-your-tempor/",
+      "date"     : "30 Nov, 2024"
+    } ,
+  
+    {
+      "title"    : "【详细教程】怎么直接访问并使用托管在 Github 上的 json 文件？A step to step guide!",
+      "category" : "",
+      "tags"     : "github and json",
+      "url"      : "/2024/11/28/how-to-access-or-use-json-files-that-hosted-on-github/",
+      "date"     : "28 Nov, 2024"
+    } ,
+  
+    {
+      "title"    : "「感恩节特辑」让我感恩的人和物 | 2024感恩记",
+      "category" : "",
+      "tags"     : "thanksgiving",
+      "url"      : "/2024/11/18/happy-thanksgiving-and-thanks-for-all-givings/",
+      "date"     : "18 Nov, 2024"
+    } ,
+  
+    {
+      "title"    : "在淘宝买拼图🧩的经验分享（附店铺）",
+      "category" : "",
+      "tags"     : "product",
+      "url"      : "/2024/11/10/jigsaw-puzzles-i-bought/",
+      "date"     : "10 Nov, 2024"
+    } ,
+  
+    {
+      "title"    : "学英语的底层逻辑",
+      "category" : "",
+      "tags"     : "english and languages",
+      "url"      : "/2024/11/06/the-underlying-logic-of-learning-any-language/",
+      "date"     : "6 Nov, 2024"
+    } ,
+  
+    {
+      "title"    : "单词背了就忘，总是记不住？9个方法分享给你！",
+      "category" : "",
+      "tags"     : "tools, english, and languages",
+      "url"      : "/2024/10/30/how-to-remember-a-english-word-effectively/",
+      "date"     : "30 Oct, 2024"
+    } ,
+  
+    {
+      "title"    : "我花了2小时翻遍全国大学英语四、六级考试大纲，只为帮你过四六级！",
+      "category" : "",
+      "tags"     : "tools, english, and languages",
+      "url"      : "/2024/10/24/how-to-pass-cet-4-and-cet-6-effectively/",
+      "date"     : "24 Oct, 2024"
+    } ,
+  
+    {
+      "title"    : "一个普通话母语者，是如何成功从零开始，学会粤语的？",
+      "category" : "",
+      "tags"     : "tools, cantonese, and languages",
+      "url"      : "/2024/10/15/how-to-learn-cantonese-from-0-if-you-are-a-native-mandarin-speaker/",
+      "date"     : "15 Oct, 2024"
+    } ,
+  
+    {
+      "title"    : "如何用多邻国+Notion，学会任何你想学的语言？",
+      "category" : "",
+      "tags"     : "tools, french, and languages",
+      "url"      : "/2024/10/11/how-to-learn-any-language-you-want-using-duolingo-and-notion/",
+      "date"     : "11 Oct, 2024"
+    } ,
+  
+    {
+      "title"    : "想去外企上班？想从不敢说、听不懂变成英语大牛？这9个免费工具用起来！",
+      "category" : "",
+      "tags"     : "tools, english, and languages",
+      "url"      : "/2024/10/08/nine-tools-to-learn-english-with-more-fun/",
+      "date"     : "8 Oct, 2024"
+    } ,
+  
+    {
+      "title"    : "珠海旅居发现",
+      "category" : "",
+      "tags"     : "sojourn",
+      "url"      : "/2023/05/19/sojourn-at-zhuhai/",
+      "date"     : "19 May, 2023"
+    } ,
+  
+    {
+      "title"    : "Mr. Money Mustache 总结",
+      "category" : "",
+      "tags"     : "early-retirement",
+      "url"      : "/2023/05/03/read-mr-money-mustache-with-xiangxi/",
+      "date"     : "3 May, 2023"
+    } ,
+  
+    {
+      "title"    : "本地 Jekyll 构建一切顺利，GitHub Pages 却部署失败？这问题好解决！",
+      "category" : "",
+      "tags"     : "github-pages and jekyll",
+      "url"      : "/2023/05/01/jekyll-local-site-works-but-after-pushing-to-github-it-didnt-workout-how-to-deal-with-it/",
+      "date"     : "1 May, 2023"
+    } ,
+  
+    {
+      "title"    : "震惊！解决 GitHub Pages 使用 Jekyll 主题时 tag 目录出现的 404 NOT FOUND 问题竟然如此简单！",
+      "category" : "",
+      "tags"     : "github-pages and jekyll",
+      "url"      : "/2023/04/28/how-to-solve-404-not-found-error-when-using-jekyll-themes-from-internet-at-github-pages/",
+      "date"     : "28 Apr, 2023"
+    } ,
+  
+    {
+      "title"    : "旅居如何兼顾工作、游玩、学习？",
+      "category" : "",
+      "tags"     : "sojourn",
+      "url"      : "/2023/04/26/how-do-you-balance-work-play-and-study-when-you-live-abroad/",
+      "date"     : "26 Apr, 2023"
+    } ,
+  
+    {
+      "title"    : "学英语只会背单词？还有别的方法！",
+      "category" : "",
+      "tags"     : "english and languages",
+      "url"      : "/2023/04/25/how-to-learn-english-besides-memorizing-words-with-a-book/",
+      "date"     : "25 Apr, 2023"
+    } ,
+  
+    {
+      "title"    : "让生活更美好的电子产品大推荐",
+      "category" : "",
+      "tags"     : "product",
+      "url"      : "/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/",
+      "date"     : "22 Apr, 2023"
+    } ,
+  
+    {
+      "title"    : "哇哦！提高行动力竟如此简单？！还能学英语哦～",
+      "category" : "",
+      "tags"     : "tools, english, and languages",
+      "url"      : "/2023/04/21/a-tool-that-i-should-use-to-keep-motivate-and-learn-english-everyday/",
+      "date"     : "21 Apr, 2023"
+    } ,
+  
+    {
+      "title"    : "面试被问 “你有什么要问我的吗？” 不知怎么回答？来看看最佳做法！",
+      "category" : "",
+      "tags"     : "interview",
+      "url"      : "/2023/04/20/what-questions-should-i-ask-at-the-end-of-an-interview/",
+      "date"     : "20 Apr, 2023"
+    } ,
+  
+    {
+      "title"    : "看美剧学英语有用吗？",
+      "category" : "",
+      "tags"     : "english and languages",
+      "url"      : "/2023/04/18/can-i-learn-english-by-watching-american-series/",
+      "date"     : "18 Apr, 2023"
+    } 
+  
+]
