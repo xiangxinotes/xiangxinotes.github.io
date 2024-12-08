@@ -7,7 +7,7 @@
       <header class="header">
 
         <div class="logo">
-          <a class="logo__link" href="{{site.baseurl}}/">
+          <a class="logo__link" href="{{site.baseurl}}/?utm_source=blog&utm_medium=logo">
           {%if site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
@@ -27,19 +27,19 @@
 
             <ul class="nav__list list-reset">
               <li class="nav__item">
-                <a href="{{site.baseurl}}/" class="nav__link">主页</a>
+                <a href="{{site.baseurl}}/?utm_source=blog&utm_medium=nav" class="nav__link">主页</a>
               </li>
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/product" class="nav__link">商品推荐</a>
+                <a href="{{site.baseurl}}/tag/product?utm_source=blog&utm_medium=nav" class="nav__link">商品推荐</a>
               </li>
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/early-retirement" class="nav__link">提早退休</a>
+                <a href="{{site.baseurl}}/tag/early-retirement?utm_source=blog&utm_medium=nav" class="nav__link">提早退休</a>
               </li>
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
               {% if page.title %}
               <li class="nav__item">
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                <a href="{{ page.url | prepend: site.baseurl }}?utm_source=blog&utm_medium=nav" class="nav__link">{{ page.title }}</a>
               </li>
               {% endif %}
                 {% endunless %}

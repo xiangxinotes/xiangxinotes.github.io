@@ -12,7 +12,7 @@ tags: complaint-free emotional-intelligence
 
 在日常生活里，有没有亲戚朋友向你抱怨工作压力大但薪资微薄，办公室里人际关系复杂难处，生活琐事的种种不如意？
 
-抱怨似乎无孔不入，无论是工作压力、人际关系困扰，还是生活琐事，都成了人们抱怨的 “重灾区”。但是，持续的抱怨不仅无法真正解决问题，还可能给我们的生活带来诸多负面影响。本文将从[人为什么抱怨]({{ page.url }}?utm_source=blog&utm_medium=upper_description/#人为什么会抱怨)、[抱怨的不良后果]({{ page.url }}?utm_source=blog&utm_medium=upper_description/#抱怨有哪些不良后果)、[为什么要不抱怨]({{ page.url }}?utm_source=blog&utm_medium=upper_description/#为什么要不抱怨)、[能否做到不抱怨]({{ page.url }}?utm_source=blog&utm_medium=upper_description/#我能做到不抱怨吗)、[怎么做可以不抱怨]({{ page.url }}?utm_source=blog&utm_medium=upper_description/#怎样做到不抱怨)这5个方面展开探讨，希望能帮你更好地理解并践行**不抱怨**的生活方式，在2025年成为不抱怨的人！
+抱怨似乎无孔不入，无论是工作压力、人际关系困扰，还是生活琐事，都成了人们抱怨的 “重灾区”。但是，持续的抱怨不仅无法真正解决问题，还可能给我们的生活带来诸多负面影响。本文将从[人为什么抱怨]({{ page.url }}?utm_source=blog&utm_medium=post&utm_campaign=description/#人为什么会抱怨)、[抱怨的不良后果]({{ page.url }}?utm_source=blog&utm_medium=post&utm_campaign=description/#抱怨有哪些不良后果)、[为什么要不抱怨]({{ page.url }}?utm_source=blog&utm_medium=post&utm_campaign=description/#为什么要不抱怨)、[能否做到不抱怨]({{ page.url }}?utm_source=blog&utm_medium=post&utm_campaign=description/#我能做到不抱怨吗)、[怎么做可以不抱怨]({{ page.url }}?utm_source=blog&utm_medium=post&utm_campaign=description/#怎样做到不抱怨)这5个方面展开探讨，希望能帮你更好地理解并践行**不抱怨**的生活方式，在2025年成为不抱怨的人！
 
 ## 人为什么会“抱怨”？
 
@@ -44,7 +44,7 @@ tags: complaint-free emotional-intelligence
 
 ## 为什么要“不抱怨”？
 
-抱怨有这么多[不良后果]({{ page.url }}?utm_source=blog&utm_medium=content/#抱怨有哪些不良后果)，那“不抱怨”可不就能让我们获得好处吗？
+抱怨有这么多[不良后果]({{ page.url }}?utm_source=blog&utm_medium=post&utm_campaign=content/#抱怨有哪些不良后果)，那“不抱怨”可不就能让我们获得好处吗？
 
 ### 1. 在人际关系方面，改善人际网络。
 
@@ -112,4 +112,4 @@ tags: complaint-free emotional-intelligence
 
 直到我们下次见面，健健康康，开开心心哦！❤️ 
 
-如果你想要查看更多情商内容，请点击[链接](/tag/emotional-intelligence?utm_source=blog&utm_medium=read_more)。
+如果你想要查看更多情商内容，请点击[链接](/tag/emotional-intelligence?utm_source=blog&utm_medium=post&utm_campaign=read_more)。

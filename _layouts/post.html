@@ -17,13 +17,13 @@ layout: default
         <div class="post__info">
           <div class="post__author">
             <span>By</span>
-            <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
+            <a href="{{ site.baseurl }}/about/?utm_source=blog&utm_medium=post&utm_campaign=author_name" class="author-name">{{site.data.settings.author.name}}</a>
           </div>
 
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag | upcase | replace: "-", " " }}</a>
+              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}?utm_source=blog&utm_medium=post&utm_campaign=tags" class="post__tags-tag">{{ tag | upcase | replace: "-", " " }}</a>
             {% endfor %}
           </div>
           {% endif %}
@@ -100,7 +100,7 @@ layout: default
     {% if page.previous.url %}
     <div class="prev">
       <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a> -->
-      <a  href="{{ site.baseurl }}{{page.previous.url}}">
+      <a href="{{ site.baseurl }}{{page.previous.url}}?utm_source=blog&utm_medium=post&utm_campaign=post_nav_prev_card">
         <div class="post__nav__image" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></div>
         <h2 class="post__nav__title">
           <i class="ion ion-md-arrow-back"></i>
@@ -117,7 +117,7 @@ layout: default
     </div>
       {% else %}
       {% include card.html %}
-      <a href="/">
+      <a href="/?utm_source=blog&utm_medium=post&utm_campaign=post_nav_card">
       <i class="ion ion-md-arrow-back"></i>
       查看所有文章
       </a>
@@ -129,7 +129,7 @@ layout: default
     <div class="next">
       <!-- <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
       </a> -->
-      <a  href="{{ site.baseurl }}{{page.next.url}}">
+      <a href="{{ site.baseurl }}{{page.next.url}}?utm_source=blog&utm_medium=post&utm_campaign=post_nav_next_card">
         <div class="post__nav__image" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
         </div>
         <h2 class="post__nav__title">
@@ -148,7 +148,7 @@ layout: default
     </div>
       {% else %}
       {% include card.html %}
-      <a class="link__to__home" href="/">
+      <a class="link__to__home" href="/?utm_source=blog&utm_medium=post&utm_campaign=post_nav_card">
       查看所有文章
       <i class="ion ion-md-arrow-forward"></i>
       </a>
