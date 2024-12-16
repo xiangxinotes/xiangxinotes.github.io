@@ -4,7 +4,7 @@ title: 「感恩节特辑」让我感恩的人和物 | 2024感恩记
 date: 2024-11-18 23:07:59 +0800
 description: 再有两天就是感恩节了。我想要借这个机会感恩在这一年里，给我提供了欢笑、陪伴、帮助的人和东西。请不要吝啬，和我分享你的感恩内容吧。
 image: 2024-11-26.png
-tags: thanksgiving
+tags: thanksgiving emotional-intelligence
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：
