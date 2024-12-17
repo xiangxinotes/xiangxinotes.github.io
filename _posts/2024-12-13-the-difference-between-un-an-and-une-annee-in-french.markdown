@@ -3,6 +3,7 @@ layout: post
 title: un an 和 une année 的区别
 date: 2024-12-13 12:03:09 +0800
 description: 深入剖析法语中 un an 与 une année 的差异，精准解读二者在时间表达侧重点、使用语境及内涵呈现上的不同，助力法语学习者清晰辨别并准确运用相关词汇，提升语言表达的精准度与丰富性。
+image: volodymyr-hryshchenko-6YtOaq-PyHY-unsplash.jpg
 tags: french languages words-difference
 ---
 
