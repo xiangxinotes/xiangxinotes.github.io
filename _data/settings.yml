@@ -11,7 +11,7 @@ author:
   name: 向西
   image: me.jpg
   say-hello: 你好，我是<a href="/about?utm_source=blog&utm_medium=hero_content"><strong>向西</strong></a>
-  bio: 向西结合自身经历经验，为你提供<a href="/tag/product?utm_source=blog&utm_medium=hero_content"><strong>商品推荐</strong></a>、<a href="/tag/sojourn?utm_source=blog&utm_medium=hero_content"><strong>旅居建议</strong></a>和<strong>工作建议</strong>，分享<a href="/tag/interview?utm_source=blog&utm_medium=hero_content"><strong>面试技巧</strong></a>、<a href="/tag/languages?utm_source=blog&utm_medium=hero_content"><strong>语言学习技巧和工具</strong></a>、<strong>旅游经验</strong>、<strong>书单</strong>和让你变幸福的<a href="/tag/tools?utm_source=blog&utm_medium=hero_content"><strong>小工具</strong></a>。
+  bio: 向西结合自身经历经验，为你提供<a href="/tag/product?utm_source=blog&utm_medium=hero_content"><strong>商品推荐</strong></a>、<a href="/tag/sojourn?utm_source=blog&utm_medium=hero_content"><strong>旅居建议</strong></a>和<strong>工作建议</strong>，分享<a href="/tag/interview?utm_source=blog&utm_medium=hero_content">面试技巧</a>、<a href="/tag/languages?utm_source=blog&utm_medium=hero_content"><strong>语言学习技巧和工具</strong></a>、<a href="/tag/travel?utm_source=blog&utm_medium=hero_content"><strong>旅游经验</strong></a>、书单和让你变幸福的<a href="/tag/tools?utm_source=blog&utm_medium=hero_content">小工具</a>。
 
 
 #-------------------------------
