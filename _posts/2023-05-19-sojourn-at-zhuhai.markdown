@@ -4,7 +4,7 @@ title: 珠海旅居发现
 date: 2023-05-19 21:09:35 +0800
 description: 从2023年3月18到5月19，两个月的时间，我对珠海有了哪些了解？想去珠海旅游、旅居？来看看！包括游玩、出行、植物、生活总结和新发现。
 image: zhuhai-riyuebei.png
-tags: sojourn
+tags: sojourn zhuhai travel
 ---
 
 不知不觉，来珠海已经2个月了，马上就要走啦，总结下最近的一些旅居小片段。
