@@ -1,6 +1,9 @@
+@use "../0-settings/variables";
+@use "sass:math";
+
 $columns: 12;
 $container-base-width: 1200px;
-$container-offset: $base-spacing-unit;
+$container-offset: variables.$base-spacing-unit;
 
 $desktop: 992px;
 $tablet:  768px;
@@ -30,13 +33,13 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   justify-content: center;
   //add 1line above to center components. 20230427
   box-sizing: border-box;
-  margin-left: ($base-spacing-unit * -1);
-  margin-right: ($base-spacing-unit * -1);
+  margin-left: (variables.$base-spacing-unit * -1);
+  margin-right: (variables.$base-spacing-unit * -1);
 }
 
 .col {
-  padding-left: $base-spacing-unit;
-  padding-right: $base-spacing-unit;
+  padding-left: variables.$base-spacing-unit;
+  padding-right: variables.$base-spacing-unit;
 }
 
 [class^="col-"] {

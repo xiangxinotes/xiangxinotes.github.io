@@ -1,6 +1,9 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 .post-title-box {
   padding: 80px 0;
-  border-top: 1px solid $light-gray;
+  border-top: 1px solid variables.$light-gray;
 
   .post-title {
     margin-bottom: 10px;
@@ -15,7 +18,7 @@
     font-weight: 700;
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     padding: 40px 0;
 
     .post-title {
@@ -35,10 +38,10 @@
     font-weight: 700;
 
     .author-name {
-      color: $gray;
+      color: variables.$gray;
       border-bottom: 1px solid transparent;
       &:hover {
-        border-bottom: 1px solid $gray;
+        border-bottom: 1px solid variables.$gray;
       }
     }
   }
@@ -57,7 +60,7 @@
        width: 5px;
        height: 5px;
        border-radius: 50%;
-       background: $dark;
+       background: variables.$dark;
      }
    }
   }
@@ -67,7 +70,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $light-gray;
+    background-color: variables.$light-gray;
   &:after {
     content: "";
     display: table;
@@ -86,7 +89,7 @@
     margin: 0 auto 80px;
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 40px auto;
 
     &.post-no-image {
@@ -120,9 +123,9 @@
 
       a {
         font-size: 18px;
-        color: $gray;
+        color: variables.$gray;
         &:hover {
-          color: $dark;
+          color: variables.$dark;
         }
       }
     }
@@ -135,7 +138,7 @@
   // remove 1 line above to use the highest height for all navigation
   margin-bottom: 80px;
   padding-bottom: 80px;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 1px solid variables.$light-gray;
   justify-content: center;
   //add 1 line above to center the navigation. 20230425
   gap: 1em;
@@ -165,9 +168,9 @@
       // text-overflow: ellipsis;
       text-align: center;
       //add 1 line above to center the words of the whole block. 20230426
-      color: $dark;
+      color: variables.$dark;
       &:hover {
-        color: $black;
+        color: variables.$black;
       }
       // padding: 0 1em;
       //remove 1em padding for a; since 1 include the whole block now. 20230426
@@ -185,7 +188,7 @@
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
-      background-color: $light-gray;
+      background-color: variables.$light-gray;
       transition: .35s ease-in-out;
       &:hover {
         opacity: 0.9;
@@ -256,7 +259,7 @@
     //add 1 line above, to make the excerpt left. 20230426
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     flex-wrap: wrap;
 
     .prev,
@@ -270,7 +273,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 40px;
     padding-bottom: 40px;
     .prev,
@@ -291,7 +294,7 @@
     margin: 1.5em auto;
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 40px;
   }
 }
@@ -378,7 +381,7 @@
   text-decoration: none;
   //transition: 0.5s;
   &:hover{
-      color:$dark
+      color:variables.$dark
   }
 }
 

@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 .arhive-head {
   // padding: 80px 0;
   //remove 1 line above to not add spacing. 20230427
@@ -16,7 +18,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-bottom: 40px;
   }
 }

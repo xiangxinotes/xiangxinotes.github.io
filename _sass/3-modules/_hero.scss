@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 .hero {
   padding: 80px 0;
   // change back to 80px 0; 20230427
@@ -44,7 +46,7 @@
     }
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     .hero__content {
       padding: 0;
 
@@ -55,7 +57,7 @@
     }
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     margin-bottom: 40px;
 
     .last-item {
@@ -78,7 +80,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     padding: 40px 0;
   }
 }

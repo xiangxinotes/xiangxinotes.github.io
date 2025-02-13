@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 .header {
   position: relative;
   height: 100px;
@@ -15,7 +18,7 @@
     visibility: hidden;
     transition: all 0.5s ease;
 
-    @media only screen and (max-width: $desktop) {
+    @media only screen and (max-width: grid.$desktop) {
       &.is-visible {
         opacity: 1;
         visibility: visible;
@@ -34,10 +37,10 @@
     font-size: 30px;
     font-weight: 700;
     letter-spacing: 0.5px;
-    color: $dark;
+    color: variables.$dark;
     text-decoration: none;
     &:hover {
-      color: $black;
+      color: variables.$black;
     }
   }
 
@@ -58,7 +61,7 @@
     text-align: right;
     cursor: pointer;
     &:hover {
-      color: $black;
+      color: variables.$black;
     }
   }
 
@@ -79,15 +82,15 @@
         font-weight: 700;
         letter-spacing: 0.5px;
         text-transform: uppercase;
-        color: $dark;
+        color: variables.$dark;
         &:hover {
-          color: $black;
+          color: variables.$black;
         }
       }
     }
   }
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     position: fixed;
     top: 0;
     left: inherit;
@@ -99,7 +102,7 @@
     height: 100vh;
     padding: 40px 30px 30px;
     transition: right 0.5s cubic-bezier(0.7, 0.4, 0, 1);
-    background: $white;
+    background: variables.$white;
     &.is-open {
       right: 0;
     }
@@ -113,8 +116,8 @@
       padding-left: 30px;
       padding-bottom: 7px;
       margin-bottom: 10px;
-      color: $gray;
-      border-bottom: 1px solid $light-gray;
+      color: variables.$gray;
+      border-bottom: 1px solid variables.$light-gray;
     }
 
     .nav__list {
@@ -133,10 +136,10 @@
   font-size: 21px;
 
   .nav__icon {
-    color: $dark;
+    color: variables.$dark;
     cursor: pointer;
     &:hover {
-      color: $black;
+      color: variables.$black;
     }
   }
 
@@ -144,10 +147,10 @@
     display: none;
     margin-right: 10px;
     &:hover {
-      color: $black;
+      color: variables.$black;
     }
 
-    @media only screen and (max-width: $desktop) {
+    @media only screen and (max-width: grid.$desktop) {
       display: inline-block;
     }
   }

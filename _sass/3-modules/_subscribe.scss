@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 .subscribe {
   width: 430px;
   max-width: 100%;
@@ -29,11 +32,11 @@
       text-align: center;
       outline: none;
       border: none;
-      border-bottom: 3px solid $light-gray;
+      border-bottom: 3px solid variables.$light-gray;
 
       &::placeholder {
         font-size: 18px;
-        color: $light-gray;
+        color: variables.$light-gray;
       }
     }
 
@@ -45,18 +48,18 @@
       letter-spacing: 0.5px;
       border-radius: 30px;
       border: none;
-      background: $light-gray;
+      background: variables.$light-gray;
       cursor: pointer;
       transition: all .35s;
 
       &:hover {
-        color: $white;
-        background: $dark;
+        color: variables.$white;
+        background: variables.$dark;
       }
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 0 auto 40px;
 
     .subscribe__subtitle {

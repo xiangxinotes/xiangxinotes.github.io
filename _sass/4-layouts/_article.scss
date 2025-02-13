@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 .article {
   margin-bottom: 40px;
 
@@ -12,7 +15,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: $light-gray;
+    background-color: variables.$light-gray;
     &:hover {
       opacity: 0.9;
     }
@@ -46,9 +49,9 @@
       font-size: 30px;
 
       a {
-        color: $dark;
+        color: variables.$dark;
         &:hover {
-          color: $black;
+          color: variables.$black;
         }
       }
     }
@@ -63,7 +66,7 @@
       font-size: 0.8em;
       line-height: 18px;
       text-transform: uppercase;
-      color: $gray;
+      color: variables.$gray;
     }
 
     .article__footer {
@@ -78,10 +81,10 @@
         letter-spacing: 1px;
         text-transform: uppercase;
         border-bottom: 1px solid transparent;
-        color: $gray;
+        color: variables.$gray;
         &:hover {
-          color: $dark;
-          border-color: $brand-color;
+          color: variables.$dark;
+          border-color: variables.$brand-color;
         }
       }
     }
@@ -92,7 +95,7 @@
     margin-left: auto;
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     .article__wrapper {
       flex-direction: column;
     }
@@ -113,7 +116,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     .article__content {
 
       .article__title {

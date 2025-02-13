@@ -1,9 +1,12 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 .pagination {
   margin: 20px 0 40px;
   padding: 40px 0;
   text-align: center;
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 0 0 20px;
   }
 }
@@ -25,20 +28,20 @@
     text-transform: uppercase;
     transition: all .35s;
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .15);
-    background: $white;
+    background: variables.$white;
   }
 
   .next-link,
   .previous-link {
-    color: $dark;
+    color: variables.$dark;
 
     &:hover {
-      color: $black;
+      color: variables.$black;
     }
   }
 
   .disabled {
-    color: $gray;
+    color: variables.$gray;
     cursor: not-allowed;
   }
 
@@ -47,7 +50,7 @@
     a, span {
       padding: 0 5px;
       font-size: 15px;
-      color: $dark;
+      color: variables.$dark;
     }
 
     .active-link {
@@ -55,7 +58,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     flex-direction: column;
 
     .next-link,

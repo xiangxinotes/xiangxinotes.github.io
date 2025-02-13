@@ -1,6 +1,9 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 .page-title-box {
   padding: 80px 0;
-  border-top: 1px solid $light-gray;
+  border-top: 1px solid variables.$light-gray;
   text-align: center;
 
   .page-title {
@@ -9,7 +12,7 @@
     margin: 0;
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     padding: 40px 0;
 
     .page-title {
@@ -25,7 +28,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $light-gray;
+    background-color: variables.$light-gray;
     &:after {
       content: "";
       display: table;
@@ -43,7 +46,7 @@
     margin: 30px 0;
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     margin: 40px auto;
   }
 }
@@ -55,10 +58,10 @@
     a {
       display: inline-block;
       margin-left: 10px;
-      color: $dark;
+      color: variables.$dark;
       font-weight: 700;
       &:hover {
-        color: $black;
+        color: variables.$black;
       }
     }
   }
