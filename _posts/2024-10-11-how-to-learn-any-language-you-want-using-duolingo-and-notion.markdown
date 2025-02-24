@@ -2,9 +2,9 @@
 layout: post
 title: 如何用多邻国+Notion，学会任何你想学的语言？
 date: 2024-10-11 15:38:35 +0800
-description: 我用多邻国学法语到今天已经645天了。在这一年多的时间里，我的学习方法也经过了多次迭代，这篇文章就来分享一下，如何用多邻国+Notion，学会任何你想学的语言？
+description: 想学会任何一门心仪的语言吗？本文将为你揭晓多邻国与 Notion 强强联合的学习秘籍。剖析多邻国丰富的课程资源和 Notion 强大的笔记整理功能，教你如何巧妙搭配使用，制定专属学习计划，从基础词汇积累到复杂语法掌握，全方位助力语言学习，开启高效学习之旅。
 image: duolingo-plus-notion.png
-tags: tools french languages
+tags: tools french languages duolingo notion
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：

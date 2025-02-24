@@ -2,9 +2,9 @@
 layout: post
 title: 想去外企上班？想从不敢说、听不懂变成英语大牛？这9个免费工具用起来！
 date: 2024-10-08 21:13:35 +0800
-description: 从不敢说、听不懂到在外企工作，这10年我做对了什么？这篇文章告诉你，我用过的，而且推荐的所有工具，一共9个，全部免费！
+description: 从不敢说、听不懂到轻松无碍的在外企工作，这10年里我用了什么工具？这篇文章分享了我用过的，而且推荐的所有工具，从谷歌浏览器插件到网站到应用程序，一共9个，全部免费，抓紧收藏使用，掌握进入外企的先机！如果你也想来外企上班，免费工具用起来！
 image: nine-english-tools.png
-tags: tools english languages
+tags: tools english languages multinational-corporation
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：

@@ -2,7 +2,7 @@
 layout: post
 title: le match 与 la course 的区别
 date: 2024-12-17 09:52:02 +0800
-description: 深入剖析法语中 le match 与 la course 的差异，精准解读二者在侧重点、使用语境及内涵呈现上的不同，助力法语学习者清晰辨别并准确运用相关词汇，提升语言表达的精准度与丰富性。
+description: 深入剖析法语中 le match 与 la course 的差异。看完这篇文章你将会知道“足球比赛”、“网球比赛”、“短跑”、“长跑”用法语怎么说。实实在在地掌握 le match 和 la course 的用法。在各项体育竞赛中正确使用词汇，掌握法语单词的准确意思！
 image: quino-al-0Qv6PeKQcuA-unsplash.jpg
 tags: french languages words-difference
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 「2025最新」谷歌 Chrome 浏览器扩展程序（插件）下载方法
+title: 「2025最新」国内谷歌 Chrome 浏览器用户请收藏，扩展程序下载安装方法和5个插件下载网站
 date: 2025-01-13 16:21:00 +0800
-description: 这篇文章提供了 Chrome 浏览器的官方下载地址，提供了更改默认搜索引擎的方法，还解决了大陆地区没办法从 Chrome 应用商店下载扩展程序的难题。
+description: 还在为国内谷歌 Chrome 浏览器扩展程序的下载安装发愁？2025 最新攻略来袭，一文带你掌握详细安装方法，更有 5 个优质插件下载网站推荐，满足你的多样需求，赶紧收藏！
 image: how-to-download-and-install-chrome-extension-using-normal-network-in-china.png
 tags: tools chrome extension tech
 ---

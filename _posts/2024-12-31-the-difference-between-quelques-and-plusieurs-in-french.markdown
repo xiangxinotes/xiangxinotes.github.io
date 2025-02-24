@@ -2,7 +2,7 @@
 layout: post
 title: quelques 与 plusieurs 的区别
 date: 2024-12-31 10:55:02 +0800
-description: 深入剖析法语中 quelques 与 plusieurs 的差异，精准解读二者在数量指代上的细微差异，通过丰富的解释和例子助力法语学习者清晰辨别并准确运用相关词汇，提升语言表达的精准度与丰富性。
+description: 学法语时，是不是常被 quelques 和 plusieurs 弄晕？别担心！这篇文章详细剖析了二者在语义、使用语境和数量指代上的微妙差别。通过 8 个词汇例子和句子实例，让你清晰理解它们在不同场景下的运用。无论是日常对话、写作，还是应对考试，都能助你告别用词困惑，精准掌握并运用这两个词汇，赶紧阅读解锁法语用词的精准表达吧！
 image: graphe-tween-nxtU8nDqv-c-unsplash.jpg
 tags: french languages words-difference
 ---

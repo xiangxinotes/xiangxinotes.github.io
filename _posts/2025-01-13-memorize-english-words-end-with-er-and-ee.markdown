@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 高效记单词之 -er 和 -ee
+title: 90% 的人都不知道！掌握 -er 和 -ee 后缀，单词背诵快准狠，英语水平飞跃
 date: 2025-01-13 20:33:38 +0800
-description: 名词后缀 -er 和 -ee 在构建英语名词体系中扮演着非常重要的角色，想要高效记单词就一定要对它们有所了解，本文将会介绍 -er 后缀和 -ee 后缀，助你精准记忆。
+description: 还在为记单词发愁？本文聚焦于 -er 和 -ee 这2个在构建英语名词体系中扮演着非常重要的常见词缀，深入剖析它们在单词构成中的规律与含义。通过丰富的单词实例，展示如何借助这两个词缀快速理解、记忆大量单词，让你告别死记硬背，开启高效记单词的新旅程，轻松提升词汇量。
 image: windows-kRWY72TKB0Y-unsplash.jpg
 tags: english languages suffix noun
 ---

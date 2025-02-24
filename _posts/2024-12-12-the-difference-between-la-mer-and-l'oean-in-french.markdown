@@ -2,7 +2,7 @@
 layout: post
 title: la mer 和 l'océan 的区别
 date: 2024-12-12 21:22:59 +0800
-description: la mer 和 l'océan 的区别有哪些？la mer 和 l'océan 都与广袤无垠的水域相关，但它们之间却存在着诸多细微却又十分关键的区别，本文将从范围大小、深度广度及用法习惯上分析两者的不同。
+description: la mer 和 l'océan 的区别有哪些？la mer 和 l'océan 都与广袤无垠的水域相关，但它们之间却存在着诸多细微却又十分关键的区别，本文将从范围大小、深度广度及用法习惯上分析两者的不同。读完这篇文章，你将学会如何用法语表达“海”，如何用法语表达“洋”，并因此学会“地中海”、“北海”和“太平洋”、“大西洋”、“印度洋”、“北冰洋”四大洋的说法。
 image: matt-hardy-6ArTTluciuA-unsplash.jpg
 tags: french languages words-difference
 ---

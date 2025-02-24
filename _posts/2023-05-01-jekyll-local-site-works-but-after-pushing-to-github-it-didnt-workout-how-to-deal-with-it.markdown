@@ -2,9 +2,9 @@
 layout: post
 title: 本地 Jekyll 构建一切顺利，GitHub Pages 却部署失败？这问题好解决！
 date: 2023-05-01 19:38:35 +0800
-description: GitHub Pages 个人网站搭建完成，本地构建一切顺利，但 push 到 GitHub 后，GitHub Pages 没更新？头发都要挠没了也没解决？别担心，向西帮你解决！
+description: GitHub Pages 个人网站搭建完成，本地 Jekyll 构建一切顺利，但 push 到 GitHub 后，却收到了 pages build and deployment workflow run failed 邮件，GitHub Pages 也没更新？只花7分钟，本文就能助你解决难题！本文包含报错的根本原因和4个解决问题的方案及步骤。
 image: jekyll-version-workflow-failed.png
-tags: github-pages jekyll
+tags: github-pages jekyll tech
 ---
 
 GitHub Pages 个人网站搭建完成，本地 Jekyll 构建一切顺利，但 push 到 GitHub 后，却收到了 pages build and deployment workflow run **failed** 邮件，GitHub Pages 也没更新？向西花了两天时间解决，而你只要花7分钟！
