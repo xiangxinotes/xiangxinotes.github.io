@@ -5,9 +5,9 @@
   <meta name="msvalidate.01" content="CBE7024D4F36343DFD759752635E0A9C" />
   <meta name="google-site-verification" content="{{ site.data.settings.google-site-verification }}">
 
-  <title>{% if page.titleabout %}{{ page.titleabout }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
+  <title>{% if page.titleabout %}{{ page.titleabout }}{% elsif page.title %}{{ page.title }}{% elsif page.tag %}{{ page.tag | capitalize | replace: "-", " "}} of 向西笔记 - 向西 ｜内容创作者、Up主、外企人、旅居专家和法语新手{% else %}{{ site.data.settings.title }}{% endif %}</title>
   <!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title> -->
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
+  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.tag %}对{{ page.tag | capitalize | replace: "-", " "}}感兴趣？快来看看这些和{{ page.tag | capitalize | replace: "-", " "}}有关的文章吧。向西结合自身经历经验，为你提供最新、最全、最优质的内容，向西笔记还包括更多主题：英语和法语的学习经验、旅游攻略、旅居行动指南、不同城市的旅居体验和让你随时开启旅居生活的商品，让你少走弯路，选择最适合你的商品。！{% else %}{{ site.data.settings.description }}{% endif %}'>
   <meta name="google-adsense-account" content="{{ site.data.settings.google-adsense }}">
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
