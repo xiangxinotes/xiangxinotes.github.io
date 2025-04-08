@@ -127,6 +127,8 @@ tags: sojourn hainan danzhou haihua-island travel living guide
 
 ### 联华超市
 
+**2025年4月8日更新：2025年3月31日已闭店**
+
 在叶波沃尔玛超市旁，近入岛桥。暂未消费过，无话语权。
 
 ## 公交
