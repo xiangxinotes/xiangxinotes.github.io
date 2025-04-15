@@ -49,6 +49,7 @@ tags: sojourn guide
 - 鞋子🥿 * 1
 - 整套换洗衣物👔（夏日 * 3，冬日 * 2）
 - 小枕头 * 1
+- 床单 * 1
 - 护腰腰带（天冷不放，夏天放）
 - [电脑充电器🔌]({{site.url}}/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#dell%E6%88%B4%E5%B0%94%E7%94%B5%E8%84%91%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8) * 1
 - 雨伞🌂（夏天不放，冬天放）
