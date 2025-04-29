@@ -135,7 +135,7 @@ tags: sojourn hainan danzhou haihua-island travel renting guide
 		- 小桌子 * 1
 		- 椅子 * 2
 
-如果你已经住在2号岛上了，那么请查看我的[2号岛生活指南]({{site.url}}/2025/03/18/the-living-guide-of-danzhou-haihua-island-second-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，包括买菜做饭、取快递、吃早餐和公交信息！
+如果你已经住在2号岛上了，那么请查看我的[2号岛生活指南]({{site.url}}/2025/04/27/the-living-guide-of-danzhou-haihua-island-second-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，包括买菜做饭、取快递、吃早餐和公交信息！
 
 如果你想从今天开始躺平之旅，不妨看看这份[躺平旅居清单]({{site.url}}/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)。
 
