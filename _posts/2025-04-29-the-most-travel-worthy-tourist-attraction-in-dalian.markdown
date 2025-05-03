@@ -2,7 +2,7 @@
 layout: post
 title: 大连旅游攻略，哪些景点值得去？一篇文章讲清楚！
 date: 2025-04-29 20:23:00 +0800
-description: 
+description: 想去大连旅游？作为旺季在大连旅游过3个月的过来人，请你一定要先看这篇旅游攻略！文章涉及独一无二的个人体验分享，除了星海广场这样的热门景点，还有七贤岭这样的小众景区，共14个景点，帮你在有限的时间里获得最丰富的旅游体验！
 image: pexels-285175079-17557990.jpg
 tags: dalian travel guide tourist-attraction 
 ---
