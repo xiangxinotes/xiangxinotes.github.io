@@ -28,7 +28,7 @@ tags: product life necessity sojourn
 
 如果你住的是某些提供床上用品的民宿，或者实在没时间等快递邮寄的被子上门必须去楼下先买了应急，那么你可以买被套，隔绝劣质被子给你带来的刺挠(持续不舒适感)。
 
-最近我住在[海花岛上的某家民宿]({{site.url}}/2025/04/07/the-most-practical-guide-to-rent-a-house-in-danzhou-haihua-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more#我的租房情况)，这里就提供床上用品，其实皮肤接触感挺舒服的，但是被套是纯白色的，一不小心就脏了，所以我就买了被套。
+最近我住在[海花岛上的某家民宿]({{site.url}}/2025/04/27/the-most-practical-guide-to-rent-a-house-in-danzhou-haihua-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more#我的租房情况)，这里就提供床上用品，其实皮肤接触感挺舒服的，但是被套是纯白色的，一不小心就脏了，所以我就买了被套。
 
 我推荐的这款被套质量并不是很好，用了2个月了，现在拉链处就有一些毛毛翻出来，之后表层也可能会起毛，但胜在便宜（¥15），而且和肌肤的接触比较舒适，也不会让我过敏。所以只用3个月的话，我还是很推荐的！
 
