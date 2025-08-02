@@ -1,0 +1,125 @@
+---
+layout: post
+title: 自媒体时代，我为什么还要费力搭建自己的网站？
+date: 2025-07-31 15:51:00 +0800
+description: 2025年已经不是自媒体创业的风口期了，还有必要搭建自己的网站吗？《人人都在晒，凭什么你出彩？》这本书会告诉你：绝对有必要，而且你应该尽快这样做！本文将会从 show your work 作者的角度出发，结合向西的个人经验，与你分享为什么要搭建个人网站以及个人网站中放些什么这两方面的内容。
+image: pexels-dee-doo-91072-6486987.jpg
+tags: personal-growth book career
+keywords:
+  - 个人网站
+  - show your work
+  - austin kleon
+  - 人人都在晒，凭什么你出彩
+  - 自媒体
+  - 向西笔记
+---
+
+2017～2022年，是我个人认为的自媒体风口期。在这段时间坚持更新的人，应该就是现在最有名的那批内容创作者。比如：papi酱、宝剑嫂等人。
+
+我也在知乎写过回答、在B站发过视频、在百家号写过文章、在公众号分享过经验，但是都没有坚持下来。
+
+刚好今天看了一本书：[《人人都在晒，凭什么你出彩？》](https://uland.taobao.com/coupon/edetail?e=i%2F0dB6gBo4SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLt03G4jjYvhWhPhjrvGVLRKQ%2FUQ7fBfHZflsYA%2Fn7j3%2BSAl9qjy0ECltEa6dv%2BoRG564JWWOnA%2BX0TcIixZTmmAcY88rbnPan2cFY6qAkBQtBJFJ%2BvjUN8kbkoWVTd89L09kyVBONlz9KKniH926Q4mJvZgxtZHaOFFyjKC%2BxNFAzEIuLDQ%2BGwKMv8%2BwfZVLLEfsZj9cTBeEu9ajSuJue1p2dyVerlwyytVzROoGFHV6olqjHiinluvg0HR1oDsO2yUxONJCwrimaQVLI4g1bXkwNBUbTsArs&traceId=212cbaa417539485030818190ebd24&union_lens=lensId%3APUB%401753948453%4021050aa5_0df9_1985f797a45_4342%40021rPnFb9ocuirIDzxE1imj7%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_7_17539484535211433500159%3Bscm%3A1007.30148.329090.pub_search-item_eca4c579-a063-4c84-b857-7e4aa452406e_)（英文原版 [*Show your work*](https://s.click.taobao.com/t?e=m%3D2%26s%3DAl%2FgBEaSlFtw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3DTgGzAjFGV%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bajmggu3I8urASSEP%2F0L1hJowe6%2FtGg2%2FRjN4f8DSxNxtgO6aJD8daRXhrLypWtLE3v5pMlOegsR86Ih2%2BzubPwZg0Pw9D8YUHgV1%2Fwt1S%2BudxeGcBHd9Qt0%2FuprW1TdmBLeMqtJBmsqAJjx%2FTCQUR0NQXZt3JWdM5cSpj5qSCmbA%3D&union_lens=lensId%3APUB%401753948391%4021077a33_1c75_1985f7887d4_56fa%40032Hal9lCBEFAOhmViujHFQV%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_25_17539483914621433500159%3Bscm%3A1007.30148.329090.pub_search-item_03a499d3-65fa-41f6-a229-e57b5aa67750_)），就想借这本书来谈谈我们应该如何**利用自媒体时代**，**为自己谋福利**。
+
+![图片中心是一本黄色的书，标题为 Show Your Work]({{ site.baseurl }}/images/pexels-dee-doo-91072-6486987.jpg)
+*《人人都在晒，凭什么你出彩？》<a href="https://www.pexels.com/photo/a-yellow-book-with-show-your-work-title-6486987/">Photo</a> by Dee Doo*
+
+相信读完本文，你一定就知道自媒体时代，我为什么还要费力搭建自己的网站了。而且你会迫不及待地也创建一个个人网站作为你的秀场。
+
+你的个人站创建好了可以在评论区分享，我和本文的读者们都会去光临。如果觉得创建个人站太难，需要帮助，也可以给我评论让我知道，我可以再写一篇文章，分享一些方法。
+
+## 为什么要晒
+
+[《人人都在晒，凭什么你出彩？》](https://uland.taobao.com/coupon/edetail?e=i%2F0dB6gBo4SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLt03G4jjYvhWhPhjrvGVLRKQ%2FUQ7fBfHZflsYA%2Fn7j3%2BSAl9qjy0ECltEa6dv%2BoRG564JWWOnA%2BX0TcIixZTmmAcY88rbnPan2cFY6qAkBQtBJFJ%2BvjUN8kbkoWVTd89L09kyVBONlz9KKniH926Q4mJvZgxtZHaOFFyjKC%2BxNFAzEIuLDQ%2BGwKMv8%2BwfZVLLEfsZj9cTBeEu9ajSuJue1p2dyVerlwyytVzROoGFHV6olqjHiinluvg0HR1oDsO2yUxONJCwrimaQVLI4g1bXkwNBUbTsArs&traceId=212cbaa417539485030818190ebd24&union_lens=lensId%3APUB%401753948453%4021050aa5_0df9_1985f797a45_4342%40021rPnFb9ocuirIDzxE1imj7%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_7_17539484535211433500159%3Bscm%3A1007.30148.329090.pub_search-item_eca4c579-a063-4c84-b857-7e4aa452406e_)（英文原版 [*Show your work*](https://s.click.taobao.com/t?e=m%3D2%26s%3DAl%2FgBEaSlFtw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3DTgGzAjFGV%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bajmggu3I8urASSEP%2F0L1hJowe6%2FtGg2%2FRjN4f8DSxNxtgO6aJD8daRXhrLypWtLE3v5pMlOegsR86Ih2%2BzubPwZg0Pw9D8YUHgV1%2Fwt1S%2BudxeGcBHd9Qt0%2FuprW1TdmBLeMqtJBmsqAJjx%2FTCQUR0NQXZt3JWdM5cSpj5qSCmbA%3D&union_lens=lensId%3APUB%401753948391%4021077a33_1c75_1985f7887d4_56fa%40032Hal9lCBEFAOhmViujHFQV%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_25_17539483914621433500159%3Bscm%3A1007.30148.329090.pub_search-item_03a499d3-65fa-41f6-a229-e57b5aa67750_)）的作者奥斯丁·克莱恩在第一章就提到了“自我推销”，也就是把自己卖出去。“我怎样才能受到注目？我怎样找到我的受众？” 被看见，所以可以被卖出去。
+
+我们都知道一句话：“酒香不怕巷子深”。然而有两种情况会导致酒卖不出去：
+1. 巷子太深。（即使酒再香客户也闻不到）
+2. 酒不够香。（你以为它香罢了）
+
+现在来说回“自我推销”，喜剧演员史蒂夫·马丁说“如果你专注于让自己变得更好，那别人就无法对你视而不见，他们会来找你。” 作者和我都很认同这句话。但这句话只能应对“酒不够香”这个问题。
+
+想要让别人对你无法视而不见，那你也得在一个可以被别人“视”到的地方才行，只有这样才能解决“巷子太深”这个问题。
+
+所以为了避免“巷子太深”导致酒香传不到受众鼻子里，你就必须要晒，晒出你自己。
+
+## 晒什么
+
+作者建议：不要晒你吃什么午餐、喝什么拿铁，晒你的工作！
+
+我对这句话有一些补充，如果你很苗条，你的工作是帮人减肥，那晒你的午餐没毛病，你更应该晒出你的每顿饭。如果你是咖啡师，那么晒拿铁也没毛病，当然最好能晒出做的过程。
+
+**你的工作是什么，你就晒出什么。**如果不知道晒什么，参考别人的网站是个好方法。比如[《人人都在晒，凭什么你出彩？》](https://uland.taobao.com/coupon/edetail?e=i%2F0dB6gBo4SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLt03G4jjYvhWhPhjrvGVLRKQ%2FUQ7fBfHZflsYA%2Fn7j3%2BSAl9qjy0ECltEa6dv%2BoRG564JWWOnA%2BX0TcIixZTmmAcY88rbnPan2cFY6qAkBQtBJFJ%2BvjUN8kbkoWVTd89L09kyVBONlz9KKniH926Q4mJvZgxtZHaOFFyjKC%2BxNFAzEIuLDQ%2BGwKMv8%2BwfZVLLEfsZj9cTBeEu9ajSuJue1p2dyVerlwyytVzROoGFHV6olqjHiinluvg0HR1oDsO2yUxONJCwrimaQVLI4g1bXkwNBUbTsArs&traceId=212cbaa417539485030818190ebd24&union_lens=lensId%3APUB%401753948453%4021050aa5_0df9_1985f797a45_4342%40021rPnFb9ocuirIDzxE1imj7%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_7_17539484535211433500159%3Bscm%3A1007.30148.329090.pub_search-item_eca4c579-a063-4c84-b857-7e4aa452406e_)（英文原版 [*Show your work*](https://s.click.taobao.com/t?e=m%3D2%26s%3DAl%2FgBEaSlFtw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3DTgGzAjFGV%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bajmggu3I8urASSEP%2F0L1hJowe6%2FtGg2%2FRjN4f8DSxNxtgO6aJD8daRXhrLypWtLE3v5pMlOegsR86Ih2%2BzubPwZg0Pw9D8YUHgV1%2Fwt1S%2BudxeGcBHd9Qt0%2FuprW1TdmBLeMqtJBmsqAJjx%2FTCQUR0NQXZt3JWdM5cSpj5qSCmbA%3D&union_lens=lensId%3APUB%401753948391%4021077a33_1c75_1985f7887d4_56fa%40032Hal9lCBEFAOhmViujHFQV%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_25_17539483914621433500159%3Bscm%3A1007.30148.329090.pub_search-item_03a499d3-65fa-41f6-a229-e57b5aa67750_)）作者奥斯丁·克莱恩的个人网站：https://austinkleon.com/
+
+比如我，我曾在百家号发文，主要分享考研单词的记忆方法。每天发5个单词，每个单词的分享包括四部分：
+- 1张我的随手画
+- 单词结构拆解
+- 英文释义
+- 扩展阅读
+
+如果你很好奇，可以看一篇我以前写的文章：[contrast是什么意思？](https://baijiahao.baidu.com/s?id=1702365290127260612){:target="_blank"}
+
+我分享这些内容的原因就是我每天都在学和记考研单词。可以说那时候我的工作就是背单词，我只是顺便晒出了我的工作。
+
+很幸运的是，我真的帮到了一些人，每次在评论区看到他们的回复，我都超开心。
+
+## 在哪晒
+
+从无人问津的大鱼号到日活1.2亿的小红书，自媒体平台没有一千个，也有一百个，我们精力有限，应该怎么选呢？
+
+一般来说，原则是看自己的内容和哪个平台的调性更匹配，就在哪个平台晒。比如小红书侧重视觉化、知乎侧重深度问答。但大概率我们无法判断，那么最好的办法就是在各种平台都试一试，让数据说话。
+
+如果某个平台数据不好或者质量不佳，那放弃它，尝试一个新平台没任何问题。几乎每天都有新的平台出现，也有旧的平台消亡，多尝试不是坏事。
+
+但是有一点，作者和我都想要强调的是：**无论如何，都要拥有一个个人网站。**
+
+你的个人网站完全由你自己掌控，你想发什么就发什么。个人站就像是你的私人画廊，你可以自由选择展示的作品，而不用被别人选择。
+
+比如我，我做过微信公众号、百家号、知乎号、头条号、B站账号、微博账号，如果你想去翻翻我晒了些什么，我的账号名是和我一起背考研单词。这些平台中，我付出了最多时间的就是百家号[**和我一起背考研单词**](https://author.baidu.com/home?app_id=1675279306711579){:target="_blank"}。
+
+从2020年9月8日开始，我每天都会发布5篇文章。在我的不断努力下，终于开始获得平台提供的收益。然而好景不长，在2021年5月25日时，不知道出于什么考虑，百家号平台将我的每一篇文章都认定为低质文章，不予推荐。从那时起，我的文章几乎没有人看。
+
+那是我第一次在经营自媒体的路上体会到了“受制于人”。只要哪一天平台的规则改变了，那你就很难继续发展下去。这也是让我坚定地创建个人网站的一个契机。
+
+于是，在整理后我重新出发，利用 Github Pages 和 Jekyll 模版，搭建了我的个人站：**向西笔记**[https://xiangxinotes.github.io/]({{ site.baseurl }})。
+
+怎么样？摩拳擦掌，准备创建个人站了吗？如果你有自己的网站，或者准备创建，可以把网站分享给我，我一定会去光临～
+
+## 怎么晒
+
+晒工作也是有技巧的。除了每天晒一点，不要晒出保密内容，还有什么要注意的吗？
+
+### 讲故事
+
+[《人人都在晒，凭什么你出彩？》](https://uland.taobao.com/coupon/edetail?e=i%2F0dB6gBo4SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLt03G4jjYvhWhPhjrvGVLRKQ%2FUQ7fBfHZflsYA%2Fn7j3%2BSAl9qjy0ECltEa6dv%2BoRG564JWWOnA%2BX0TcIixZTmmAcY88rbnPan2cFY6qAkBQtBJFJ%2BvjUN8kbkoWVTd89L09kyVBONlz9KKniH926Q4mJvZgxtZHaOFFyjKC%2BxNFAzEIuLDQ%2BGwKMv8%2BwfZVLLEfsZj9cTBeEu9ajSuJue1p2dyVerlwyytVzROoGFHV6olqjHiinluvg0HR1oDsO2yUxONJCwrimaQVLI4g1bXkwNBUbTsArs&traceId=212cbaa417539485030818190ebd24&union_lens=lensId%3APUB%401753948453%4021050aa5_0df9_1985f797a45_4342%40021rPnFb9ocuirIDzxE1imj7%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_7_17539484535211433500159%3Bscm%3A1007.30148.329090.pub_search-item_eca4c579-a063-4c84-b857-7e4aa452406e_)（英文原版 [*Show your work*](https://s.click.taobao.com/t?e=m%3D2%26s%3DAl%2FgBEaSlFtw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3DTgGzAjFGV%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bajmggu3I8urASSEP%2F0L1hJowe6%2FtGg2%2FRjN4f8DSxNxtgO6aJD8daRXhrLypWtLE3v5pMlOegsR86Ih2%2BzubPwZg0Pw9D8YUHgV1%2Fwt1S%2BudxeGcBHd9Qt0%2FuprW1TdmBLeMqtJBmsqAJjx%2FTCQUR0NQXZt3JWdM5cSpj5qSCmbA%3D&union_lens=lensId%3APUB%401753948391%4021077a33_1c75_1985f7887d4_56fa%40032Hal9lCBEFAOhmViujHFQV%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_25_17539483914621433500159%3Bscm%3A1007.30148.329090.pub_search-item_03a499d3-65fa-41f6-a229-e57b5aa67750_)）的作者奥斯丁·克莱恩提到：“我们的作品并不会自⼰说话。⼈类都想知道事物是从哪⾥来的，是怎么做出来的，谁做的。你为作品说的故事能够影响⼈们的感受及对作品的理解，⽽他们的感受和理解会影响对作品价值的判断。”
+
+所以讲故事很重要。“个⼈故事可以让复杂的东西更具体，点亮所有联结，让观众能深入了解作品；如果少了故事，观众可能毫⽆感觉。”
+
+“故事中最重要的部分就是结构。⼀个好的故事结构要有条理、要严谨、符合逻辑；不幸的是，⼤多数⼈的⽣活都是⼀团糟、充满不确定性，也没有逻辑。”
+
+但好消息是我们可以不断练习，边讲边进步。
+
+### 边讲边进步
+
+我对书中的一句话，印象深刻：“
+科幻⼩说作家西奥多•斯特⾦（Theodore Sturgeon）曾经说，万物有九成皆垃圾。我们的作品也是如此，问题是我们不⼀定知道什么好、什么不好。正因为如此，把作品放在众⼈⾯前、观察他们的反应就变得很重要。”
+
+我曾和朋友说过类似的话，我说：“其实网上发的那些视频，很多都是垃圾。既然都是垃圾，那我也可以扔一些垃圾进去，没什么不好意思的。”
+
+我当然很希望我的作品不是垃圾。但是不是垃圾需要受众的反馈，我无法自行判断，而为了获得反馈，我就必须要不停地把自己推出去，接受评论，不论是嘉奖还是批评，都坦然接受。
+
+而且即使现在我的作品是垃圾，未来也不一定仍旧是垃圾。我也可以在讲故事的过程中不断进步，产出更多有价值的作品。
+
+即使我发文时间不长，但我已经从文章发布的过程中学到了很多。也因此整理了一部分混乱的脑袋。
+
+## 购书链接
+
+[《人人都在晒，凭什么你出彩？》](https://uland.taobao.com/coupon/edetail?e=i%2F0dB6gBo4SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLt03G4jjYvhWhPhjrvGVLRKQ%2FUQ7fBfHZflsYA%2Fn7j3%2BSAl9qjy0ECltEa6dv%2BoRG564JWWOnA%2BX0TcIixZTmmAcY88rbnPan2cFY6qAkBQtBJFJ%2BvjUN8kbkoWVTd89L09kyVBONlz9KKniH926Q4mJvZgxtZHaOFFyjKC%2BxNFAzEIuLDQ%2BGwKMv8%2BwfZVLLEfsZj9cTBeEu9ajSuJue1p2dyVerlwyytVzROoGFHV6olqjHiinluvg0HR1oDsO2yUxONJCwrimaQVLI4g1bXkwNBUbTsArs&traceId=212cbaa417539485030818190ebd24&union_lens=lensId%3APUB%401753948453%4021050aa5_0df9_1985f797a45_4342%40021rPnFb9ocuirIDzxE1imj7%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_7_17539484535211433500159%3Bscm%3A1007.30148.329090.pub_search-item_eca4c579-a063-4c84-b857-7e4aa452406e_)（英文原版 [*Show your work*](https://s.click.taobao.com/t?e=m%3D2%26s%3DAl%2FgBEaSlFtw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3DTgGzAjFGV%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bajmggu3I8urASSEP%2F0L1hJowe6%2FtGg2%2FRjN4f8DSxNxtgO6aJD8daRXhrLypWtLE3v5pMlOegsR86Ih2%2BzubPwZg0Pw9D8YUHgV1%2Fwt1S%2BudxeGcBHd9Qt0%2FuprW1TdmBLeMqtJBmsqAJjx%2FTCQUR0NQXZt3JWdM5cSpj5qSCmbA%3D&union_lens=lensId%3APUB%401753948391%4021077a33_1c75_1985f7887d4_56fa%40032Hal9lCBEFAOhmViujHFQV%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_25_17539483914621433500159%3Bscm%3A1007.30148.329090.pub_search-item_03a499d3-65fa-41f6-a229-e57b5aa67750_)）这本书是一本很小、很薄的书，所以读起来也很快。如果想要学习在自媒体平台上发文的技巧，那你就找错书了。这不是一本分享技巧的书，如它的英文名所写，整本书强调的是**秀出你的工作**这个动作。
+
+如果你害怕**秀出你的工作**，这本书还分享了一些应对的思维方式，可以买来看看。
+
+购买链接如下：
+- 中文版 [《人人都在晒，凭什么你出彩？》](https://uland.taobao.com/coupon/edetail?e=i%2F0dB6gBo4SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLt03G4jjYvhWhPhjrvGVLRKQ%2FUQ7fBfHZflsYA%2Fn7j3%2BSAl9qjy0ECltEa6dv%2BoRG564JWWOnA%2BX0TcIixZTmmAcY88rbnPan2cFY6qAkBQtBJFJ%2BvjUN8kbkoWVTd89L09kyVBONlz9KKniH926Q4mJvZgxtZHaOFFyjKC%2BxNFAzEIuLDQ%2BGwKMv8%2BwfZVLLEfsZj9cTBeEu9ajSuJue1p2dyVerlwyytVzROoGFHV6olqjHiinluvg0HR1oDsO2yUxONJCwrimaQVLI4g1bXkwNBUbTsArs&traceId=212cbaa417539485030818190ebd24&union_lens=lensId%3APUB%401753948453%4021050aa5_0df9_1985f797a45_4342%40021rPnFb9ocuirIDzxE1imj7%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_7_17539484535211433500159%3Bscm%3A1007.30148.329090.pub_search-item_eca4c579-a063-4c84-b857-7e4aa452406e_)
+- 英文原版 [*Show your work*](https://s.click.taobao.com/t?e=m%3D2%26s%3DAl%2FgBEaSlFtw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3DTgGzAjFGV%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bajmggu3I8urASSEP%2F0L1hJowe6%2FtGg2%2FRjN4f8DSxNxtgO6aJD8daRXhrLypWtLE3v5pMlOegsR86Ih2%2BzubPwZg0Pw9D8YUHgV1%2Fwt1S%2BudxeGcBHd9Qt0%2FuprW1TdmBLeMqtJBmsqAJjx%2FTCQUR0NQXZt3JWdM5cSpj5qSCmbA%3D&union_lens=lensId%3APUB%401753948391%4021077a33_1c75_1985f7887d4_56fa%40032Hal9lCBEFAOhmViujHFQV%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3Asearch_fuzzy_selectionPlaza_site_4358_0_0_0_25_17539483914621433500159%3Bscm%3A1007.30148.329090.pub_search-item_03a499d3-65fa-41f6-a229-e57b5aa67750_)
+
+---
+
+想看书，不知道看什么？可以查看<a href="/tag/book?utm_source=blog&utm_medium=post&utm_campaign=read_more">**书单**</a>话题下的其他文章～ 
