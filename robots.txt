@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiangxinotes.github.io/sitemap.xml
