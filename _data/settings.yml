@@ -21,7 +21,15 @@ author:
 # dribbble: https://dribbble.com/ # Add your Dribbble handle
 # instagram: https://instagram.com/ # Add your Instagram handle
 # pinterest: https://pinterest.com/ # Add your Pinterest handle
+# pinterest: https://linkedin.com/ # Add your LinkedIn handle
+weibo: https://m.weibo.cn/u/2689245344
+bilibili: https://space.bilibili.com/329955183
 
+
+#-------------------------------
+# My Work Section
+work: 
+  sql-wizland: /sql-wizland
 
 #-------------------------------
 # Comment Section (Disqus)

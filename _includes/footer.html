@@ -10,9 +10,14 @@
     {% include instagram.html %}
     {% else %} {% endif %}
 
-    {% include contact-link.html %}
+    {% if site.data.settings.work %}
+    {% include my-work.html %}
+    {% else %} {% endif %}
 
-    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/?utm_source=blog&utm_medium=footer">{{ site.data.settings.title }}</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
+    <!-- {% include contact-link.html %} -->
+
+    <!-- <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/?utm_source=blog&utm_medium=footer">{{ site.data.settings.title }}</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div> -->
+    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/?utm_source=blog&utm_medium=footer">向西笔记</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
 </div>
 </footer>
 <!-- end footer -->
