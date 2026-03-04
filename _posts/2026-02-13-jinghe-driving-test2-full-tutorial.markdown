@@ -425,7 +425,11 @@ keywords:
 - 直角转弯回起点时，为了安全，一定要注意临近线路的车辆情况
 - 科目二考试第一把和第二把的线路不一定相同。也就是说假设考试第一把跑 3 号线没有过，第二把可能是 3 条线路中的任何一条，这是考官决定的，请按考官指示行事。
 
-接下来还有 2 篇文章，包括科目三细节怎么避坑、科目四如何预约，记得持续关注，一起顺利拿本～
+接下来还有 2 篇十分详尽的文章等你查看：
+- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目四超简单介绍](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+
+更有一篇信息周全的[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
 
 ---
 

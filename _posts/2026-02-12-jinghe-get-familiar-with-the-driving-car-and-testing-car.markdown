@@ -210,7 +210,6 @@ keywords:
 
 与此类似，车辆向右转时，你的手顺时针移动，你的左手自然而然的向上走，顺着这个方向把灯打上即可。我把这个方法叫做**顺势而为**，不用思考，让手自然而然的动就好。
 
-
-对教练车和考试车有了充分了解后，我们就可以正式开启科目二、科目三探险大怪之路啦，记得持续关注，一起顺利拿本～我们下篇文章见！
+对教练车和考试车有了充分了解后，我们就可以正式开启[科目二](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)、[科目三](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)探险大怪之路啦，记得持续关注，一起顺利拿本～我们下篇文章见！
 
 --- 

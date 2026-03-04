@@ -64,7 +64,13 @@ keywords:
 
 所以，我建议你提前准备好，确保当天开心顺利的拿证！～
 
-到这里，科目一到科目四的完整流程就全部讲完啦！如果你还想快速了解每个科目的考试时间、费用、预约间隔等，我已经把所有科目整理成了一篇《总览汇总文章》，信息一目了然，方便你提前规划整个驾考节奏，少走弯路。
+到这里，科目一到科目四的完整流程就全部讲完啦！如果你想要回顾其他科目的内容，下面是快速跳转链接：
+- [科目一怎么快速刷题](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目二点位怎么记](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+
+
+每个科目都有自己的专属文章固然好，有时我们也需要快速查看所有科目的考试时间、费用等信息，所以我把这些信息整理成了一篇[《总览汇总文章》](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，所有信息一目了然，方便你提前规划整个驾考节奏，少走弯路。
 
 ---
 
