@@ -541,8 +541,9 @@ keywords:
 
 ## 建议
 
-我来分享我用过了，觉得很有用的方法：
+我来分享我用过了，觉得很有用的方法和一些建议：
 
+- 不要花钱买教练车的评判模式（我在[《我的 47 天驾考全记录》](https://xiangxinotes.github.io/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E6%95%99%E7%BB%83%E8%BD%A6%E7%9A%84%E8%AF%84%E5%88%A4%E6%A8%A1%E5%BC%8F)里也说过，不建议买哈）
 - 在没有熟练掌握 3 条线路前，每天把每条线路默写一遍。我通常是把对应的操作也默写出来，这样对应的操作我也很清楚了。
 - 用脚走一走或者骑电动车走一走每条线路，看看有没有什么可以帮助你确认操作时机的东西。
 - 开车直行时，眼睛直视远方，确保自己在当前车道的 1/3 处，此时车在车道中心。
