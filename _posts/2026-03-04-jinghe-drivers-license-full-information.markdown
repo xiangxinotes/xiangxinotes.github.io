@@ -160,6 +160,7 @@ keywords:
 - [科目一怎么快速刷题](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [科目二点位怎么记](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [《科目四速通》](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [我的驾考全记录](https://xiangxinotes.github.io/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [教练车/考试车介绍](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [全流程总汇总（本文）](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
