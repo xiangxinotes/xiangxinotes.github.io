@@ -48,7 +48,7 @@ keywords:
 
 我最近分析了，主要还是“畏难”情绪作怪。我总觉得又要翻笔记，又要找视频记录，每个科目的内容还特别多，内容大纲也没有，写起来肯定要特别久，我就不想写。因为我又是得过且过，贪图享乐的人，所以[驾考系列文章](https://xiangxinotes.github.io/tag/driver's-license/?utm_source=blog&utm_medium=post)就一拖再拖。
 
-最近碰巧看了 Ali Abdaal 的视频：[有目标没行动？“梦想家”们都在犯的3种错误](https://www.bilibili.com/video/BV1sfcEzUE4q/){:target="_blank"}。看了之后，我参照视频做了个梦想家行动指南，对自己写的时间表、计划进行了总结，分出了确定的时间段给自己，让自己写博文，这才把[科目三](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)、[科目四](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)的文章都写出来。甚至，我还加了一篇[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)。
+最近碰巧看了 Ali Abdaal 的视频：[有目标没行动？“梦想家”们都在犯的3种错误](https://www.bilibili.com/video/BV1sfcEzUE4q/){:target="_blank"}。看了之后，我参照视频做了个[梦想家行动指南](https://xiangxinotes.github.io/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post)，对自己写的时间表、计划进行了总结，分出了确定的时间段给自己，让自己写博文，这才把[科目三](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post)、[科目四](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post)的文章都写出来。甚至，我还加了一篇[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post)。
 
 **这 3 篇一共只花了我 2 天时间！**而我找的借口让我休息了**两个半月**，这期间我一个字也没写。这太可怕了，也让我陷入了深深的反思。我真的以各种各样的理由让自己过了十分放纵的日子啊。
 
@@ -194,7 +194,7 @@ keywords:
 
 ## 未来安排
 
-接下来，我会督促自己保持行动，用一年的时间，允许自己做真正想做的事，绝对不再浪费时间了。当然，我也会把我的梦想家行动指南分享出来，欢迎查看，和我一起行动！
+接下来，我会督促自己保持行动，用一年的时间，借助我的[梦想家行动指南](https://xiangxinotes.github.io/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让自己做真正想做的事，绝对不再浪费时间了。
 
 ---
 
