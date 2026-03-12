@@ -12,10 +12,10 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 5
+paginate: 7
 paginate_path: "/page/:num"
 
-words_per_minute: 200 # the number of words per minute. 20230429
+words_per_minute: 450 # the number of words per minute. 20260312
 
 # Pages Path
 defaults:
