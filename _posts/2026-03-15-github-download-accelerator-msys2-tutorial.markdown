@@ -60,3 +60,10 @@ tags: tools resources github
 以后再遇到GitHub下载慢、下载失败的问题，不用再折腾，直接用这两个工具，复制链接、点几下就能极速下载。
 
 亲测解决msys2安装包下载难题～
+
+如果可以，请允许我帮你解决其他 Github 的问题：
+- [GitHub Pages 使用 Jekyll 主题 tag 目录出现 404 NOT FOUND 如何解决？](/2023/04/28/how-to-solve-404-not-found-error-when-using-jekyll-themes-from-internet-at-github-pages?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [如何直接访问并使用托管在 Github 上的 json 文件？](/2024/11/28/how-to-access-or-use-json-files-that-hosted-on-github?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [本地 Jekyll 构建一切顺利，GitHub Pages 却部署失败如何解决？](/2023/05/01/jekyll-local-site-works-but-after-pushing-to-github-it-didnt-workout-how-to-deal-with-it?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+
+---
