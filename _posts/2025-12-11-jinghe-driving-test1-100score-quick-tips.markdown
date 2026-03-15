@@ -179,11 +179,11 @@ so，是时候摆脱侥幸心理，好好刷题啦～
 所以，如果你想冲击满分，试试收藏吧，有奇效哦！
 
 接下来还有 3 篇十分详尽的文章等你查看：
-- [科目二点位怎么记](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目四超简单介绍](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目二点位怎么记](/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目三全攻略](/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目四超简单介绍](/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
-更有针对性的[车辆使用指南](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你减轻对车辆的陌生感，一篇[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
+更有针对性的[车辆使用指南](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你减轻对车辆的陌生感，一篇[汇总文](/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
 
 ---
 

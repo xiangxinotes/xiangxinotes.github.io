@@ -270,12 +270,12 @@ keywords:
 所以这种恐惧没有任何正面的作用。用自信应对考试应该是最佳的应对心态了。就算考不过，也不要给自己太大压力。当然了，说起来容易，做起来难。但我们还是可以努力去做的，加油！
 
 好啦，这篇先导文就先帮大家理清驾考整体流程。接下来我会分 4 篇文章详细地讲一讲每个科目的备考技巧：
-- [科目一怎么快速刷题](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目二点位怎么记](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目四超简单介绍](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目一怎么快速刷题](/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目二点位怎么记](/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目三全攻略](/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目四超简单介绍](/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
-更有针对性的[车辆使用指南](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你减轻对车辆的陌生感，一篇[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
+更有针对性的[车辆使用指南](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你减轻对车辆的陌生感，一篇[汇总文](/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
 
 ---
 

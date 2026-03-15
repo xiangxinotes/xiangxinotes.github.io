@@ -157,15 +157,15 @@ keywords:
 ## 驾考系列文章链接
 
 为了方便你快速查看驾考系列所有的文章，我把所有的文章链接都汇总到下方了：
-- [科目一怎么快速刷题](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目二点位怎么记](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [《科目四速通》](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [我的驾考全记录](https://xiangxinotes.github.io/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [教练车/考试车介绍](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [全流程总汇总（本文）](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目一怎么快速刷题](/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目二点位怎么记](/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目三全攻略](/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [《科目四速通》](/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [我的驾考全记录](/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [教练车/考试车介绍](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [全流程总汇总（本文）](/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
-[驾考系列](https://xiangxinotes.github.io/tag/driver's-license/?utm_source=blog&utm_medium=post&utm_campaign=read_more
+[驾考系列](/tag/driver's-license/?utm_source=blog&utm_medium=post&utm_campaign=read_more
 )的最后一篇文章到这里就结束了，感谢你看到这里。如果顺利拿本了，记得来和我说一声啊，让我也开心开心，哈哈～
 
 ---

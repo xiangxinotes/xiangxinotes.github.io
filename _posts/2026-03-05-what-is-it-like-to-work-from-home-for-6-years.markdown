@@ -42,13 +42,13 @@ keywords:
 
 从居家办公开始，我制定了无数次计划，写了无数张时间表，要求自己每天抽时间做自媒体、运动、学化妆、学法语、看书等。计划做的很开心，但完成的没几个。在我的 2022 年计划本上写着的目标，现在仍是我的目标。🤣
 
-所以我总觉得自己浪费了这些得来不易的时间，近期这种感悟尤其深。2026 年 2 月 5 号这天我发了[一条微博](https://m.weibo.cn/detail/5263074769509552)，说要在农历新年前把[驾考经验](https://xiangxinotes.github.io/tag/driver's-license/?utm_source=blog&utm_medium=post)整理出来发掉，但我没做到。
+所以我总觉得自己浪费了这些得来不易的时间，近期这种感悟尤其深。2026 年 2 月 5 号这天我发了[一条微博](https://m.weibo.cn/detail/5263074769509552)，说要在农历新年前把[驾考经验](/tag/driver's-license/?utm_source=blog&utm_medium=post)整理出来发掉，但我没做到。
 
 你要说我太忙了，也并没有，没有忙到那种程度。甚至过年期间特别无聊，根本没事干。我看完了 3 本书，也没有想着要提笔写经验分享。而我之前觉得很急切是因为我发现那些以为会永远记得的知识已经快要忘光了，如果再不写就写不出来了。
 
-我最近分析了，主要还是“畏难”情绪作怪。我总觉得又要翻笔记，又要找视频记录，每个科目的内容还特别多，内容大纲也没有，写起来肯定要特别久，我就不想写。因为我又是得过且过，贪图享乐的人，所以[驾考系列文章](https://xiangxinotes.github.io/tag/driver's-license/?utm_source=blog&utm_medium=post)就一拖再拖。
+我最近分析了，主要还是“畏难”情绪作怪。我总觉得又要翻笔记，又要找视频记录，每个科目的内容还特别多，内容大纲也没有，写起来肯定要特别久，我就不想写。因为我又是得过且过，贪图享乐的人，所以[驾考系列文章](/tag/driver's-license/?utm_source=blog&utm_medium=post)就一拖再拖。
 
-最近碰巧看了 Ali Abdaal 的视频：[有目标没行动？“梦想家”们都在犯的3种错误](https://www.bilibili.com/video/BV1sfcEzUE4q/){:target="_blank"}。看了之后，我参照视频做了个[梦想家行动指南](https://xiangxinotes.github.io/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post)，对自己写的时间表、计划进行了总结，分出了确定的时间段给自己，让自己写博文，这才把[科目三](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post)、[科目四](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post)的文章都写出来。甚至，我还加了一篇[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post)。
+最近碰巧看了 Ali Abdaal 的视频：[有目标没行动？“梦想家”们都在犯的3种错误](https://www.bilibili.com/video/BV1sfcEzUE4q/){:target="_blank"}。看了之后，我参照视频做了个[梦想家行动指南](/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post)，对自己写的时间表、计划进行了总结，分出了确定的时间段给自己，让自己写博文，这才把[科目三](/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post)、[科目四](/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post)的文章都写出来。甚至，我还加了一篇[汇总文](/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post)。
 
 **这 3 篇一共只花了我 2 天时间！**而我找的借口让我休息了**两个半月**，这期间我一个字也没写。这太可怕了，也让我陷入了深深的反思。我真的以各种各样的理由让自己过了十分放纵的日子啊。
 
@@ -66,13 +66,13 @@ keywords:
 
 加上工作的内容变得越来越丰富，也就把精力都投入到主业上了，过上了更简单平静的生活。除了学习、看书，也没什么好讲的。
 
-然后到了 2022 年 8 月，这个时间我租的房子也到期了。加上公司确定在家办工是长期政策，于是决定开启旅居生活，到各地去看看。把行李收拾好，拉着行李箱就这么出发了。如果你想知道我的行李箱里都装了什么，请查看我的[旅居清单](https://xiangxinotes.github.io/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post)。
+然后到了 2022 年 8 月，这个时间我租的房子也到期了。加上公司确定在家办工是长期政策，于是决定开启旅居生活，到各地去看看。把行李收拾好，拉着行李箱就这么出发了。如果你想知道我的行李箱里都装了什么，请查看我的[旅居清单](/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post)。
 
 ### 2022 年 8 月 ～ 2025 年 5 月
 
-这段期间，我拉着行李箱，背着背包开启了[旅居](https://xiangxinotes.github.io/tag/sojourn/?utm_source=blog&utm_medium=post)。
+这段期间，我拉着行李箱，背着背包开启了[旅居](/tag/sojourn/?utm_source=blog&utm_medium=post)。
 
-我在每个城市基本就待 3 个月，租 3 个月的短租房。想知道短租 3 个月需要买哪些日用品吗？请查看我的[必需品清单](https://xiangxinotes.github.io/2025/04/15/nine-necessities-i-would-certainly-buy-if-i-was-in-my-sojourn/?utm_source=blog&utm_medium=post)
+我在每个城市基本就待 3 个月，租 3 个月的短租房。想知道短租 3 个月需要买哪些日用品吗？请查看我的[必需品清单](/2025/04/15/nine-necessities-i-would-certainly-buy-if-i-was-in-my-sojourn/?utm_source=blog&utm_medium=post)。
 
 我挑选城市的原则基本上是：这个时间哪个城市气候最好我就去哪。冷了就去南方，热了就去北方。周中老实上班，周末就出门到处乱逛。
 
@@ -194,7 +194,7 @@ keywords:
 
 ## 未来安排
 
-接下来，我会督促自己保持行动，用一年的时间，借助我的[梦想家行动指南](https://xiangxinotes.github.io/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让自己做真正想做的事，绝对不再浪费时间了。
+接下来，我会督促自己保持行动，用一年的时间，借助我的[梦想家行动指南](/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让自己做真正想做的事，绝对不再浪费时间了。
 
 ---
 

@@ -104,7 +104,7 @@ GitHub 切换到 Settings 标签，左侧面板选择 Pages。右侧 Build and d
 
 此网站 hosted on [GitHub](https://www.github.com), powered by [Jekyll](https://github.com/jekyll/jekyll) and based on [Zolan theme](http://jekyllthemes.org/themes/zolan/).
 
-从[我的网站](https://xiangxinotes.github.io/)问世后，我一直致力于更新她，让她从主题状态变成我更中意的状态、让她展现更多功能、让她更有帮助。
+从[我的网站]({{ site.url }})问世后，我一直致力于更新她，让她从主题状态变成我更中意的状态、让她展现更多功能、让她更有帮助。
 
 最近添加的功能是：
 - 在文章概览区域显示阅读时长

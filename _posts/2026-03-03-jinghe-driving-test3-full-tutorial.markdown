@@ -28,7 +28,7 @@ keywords:
 
 ## 科目三操作
 
-因为很多操作细节在[《认识你的自动挡教练车和考试车》](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}里已经讲过，本文仅强调那些针对科目三的特殊操作。所以如果你没看过这篇文章，一定要看了之后再看本文。
+因为很多操作细节在[《认识你的自动挡教练车和考试车》](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}里已经讲过，本文仅强调那些针对科目三的特殊操作。所以如果你没看过这篇文章，一定要看了之后再看本文。
 
 ### 刹车油门怎么踩
 
@@ -60,7 +60,7 @@ keywords:
 
 ### 要用哪些挡位
 
-我们知道教练车和考试车[一共有5挡](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post#%E6%8C%A1%E4%BD%8D%E6%9C%89%E5%93%AA%E4%BA%9B){:target="_blank"}，但在科目三，我们只会用到 P（停车挡）和 D（前进挡）两个挡位，记牢即可。
+我们知道教练车和考试车[一共有5挡](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post#%E6%8C%A1%E4%BD%8D%E6%9C%89%E5%93%AA%E4%BA%9B){:target="_blank"}，但在科目三，我们只会用到 P（停车挡）和 D（前进挡）两个挡位，记牢即可。
 
 ### 座椅调节
 
@@ -88,7 +88,7 @@ keywords:
 
 ### 左右转向灯怎么打
 
-在科目三中，左右转向灯都会用到。向下是左转向灯，向上是右转向灯。如果你不知道怎么打，或者发现自己总也记不住左下右上，请看[《认识你的自动挡教练车和考试车》](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E5%B7%A6%E5%8F%B3%E8%BD%AC%E5%90%91%E7%81%AF%E6%80%8E%E4%B9%88%E6%89%93)这篇文章，这里有记忆的好方法。
+在科目三中，左右转向灯都会用到。向下是左转向灯，向上是右转向灯。如果你不知道怎么打，或者发现自己总也记不住左下右上，请看[《认识你的自动挡教练车和考试车》](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E5%B7%A6%E5%8F%B3%E8%BD%AC%E5%90%91%E7%81%AF%E6%80%8E%E4%B9%88%E6%89%93)这篇文章，这里有记忆的好方法。
 
 对于所有需要开转向灯的项目，用力向上/下掰，听到“咔哒”一声，确保转向灯是常亮状态即可。
 
@@ -543,19 +543,19 @@ keywords:
 
 我来分享我用过了，觉得很有用的方法和一些建议：
 
-- 不要花钱买教练车的评判模式（我在[《我的 47 天驾考全记录》](https://xiangxinotes.github.io/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E6%95%99%E7%BB%83%E8%BD%A6%E7%9A%84%E8%AF%84%E5%88%A4%E6%A8%A1%E5%BC%8F)里也说过，不建议买哈）
+- 不要花钱买教练车的评判模式（我在[《我的 47 天驾考全记录》](/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E6%95%99%E7%BB%83%E8%BD%A6%E7%9A%84%E8%AF%84%E5%88%A4%E6%A8%A1%E5%BC%8F)里也说过，不建议买哈）
 - 在没有熟练掌握 3 条线路前，每天把每条线路默写一遍。我通常是把对应的操作也默写出来，这样对应的操作我也很清楚了。
 - 用脚走一走或者骑电动车走一走每条线路，看看有没有什么可以帮助你确认操作时机的东西。
 - 开车直行时，眼睛直视远方，确保自己在当前车道的 1/3 处，此时车在车道中心。
 - 会车时，如果地上的油漆点看不到，眼睛直视远方，确保自己在当前车道的 1/2 处也可以，当然最好还是看右后视镜。
-- 控制变量（我在[《我的 47 天驾考全记录》](https://xiangxinotes.github.io/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E8%80%83%E8%AF%95%E6%97%B6%E6%8E%A7%E5%88%B6%E5%8F%98%E9%87%8F)这篇文章中说过控制变量的重要性，再强调一下）
+- 控制变量（我在[《我的 47 天驾考全记录》](/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E8%80%83%E8%AF%95%E6%97%B6%E6%8E%A7%E5%88%B6%E5%8F%98%E9%87%8F)这篇文章中说过控制变量的重要性，再强调一下）
 - 1 号线经过园区门口的时候，最好鸣一下喇叭，避免和从园区冲出来的汽车发生碰撞
 - 2 号线经过工地门口的时候，注意观察有没有大型车辆开出来，确保安全
 - 3 号线第一个路口左转处，肩膀和左边3根电线杆齐平时左转（因为此处的斑马线发生过变化，所以考试打的点和我们看到的点不太一样。如果以后考试的点更新了就可以忽略这个建议了）
 - 3 号线第二个路口右转处，车头过斑马线 2 秒后再右转（因为此处的斑马线发生过变化，所以考试打的点和我们看到的点不太一样。如果以后考试的点更新了就可以忽略这个建议了）
 - 3 号线超车前的那个路口过了之后立刻就是超车项目，如果你过了减速带才加速，可能导致超车时速度不到 30 km/h，建议在路口中心就开始加速。
 
-还剩最后 1 篇文章[《科目四的三阶段》](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)所有科目的介绍就完成了，记得关注，一起顺利拿本～
+还剩最后 1 篇文章[《科目四的三阶段》](/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)所有科目的介绍就完成了，记得关注，一起顺利拿本～
 
 ---
 

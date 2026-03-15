@@ -29,7 +29,7 @@ keywords:
 
 ## 刷题阶段
 
-此阶段要做的事和科目一刷题阶段除了题库选科四以外，都一模一样，所以我就不重述了。请参考我的[《科目一刷题指南》](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more#刷题阶段)。
+此阶段要做的事和科目一刷题阶段除了题库选科四以外，都一模一样，所以我就不重述了。请参考我的[《科目一刷题指南》](/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more#刷题阶段)。
 
 ## 预约阶段
 
@@ -50,7 +50,7 @@ keywords:
 
 如果是第一次考科目四，在和驾校办公室确认好日期后，在考试当天去车管所参加考试即可。如果不是第一次考科目四，在预约通过后，按照日期在考试当天去车管所参加考试即可。
 
-其他流程你肯定不陌生了，和科目一一模一样，连机房都还是那个机房，所以我不赘述了。具体内容请参考[《科目一考试阶段》](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more#考试阶段)中的内容。
+其他流程你肯定不陌生了，和科目一一模一样，连机房都还是那个机房，所以我不赘述了。具体内容请参考[《科目一考试阶段》](/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more#考试阶段)中的内容。
 
 ### 注意事项
 
@@ -65,12 +65,12 @@ keywords:
 所以，我建议你提前准备好，确保当天开心顺利的拿证！～
 
 到这里，科目一到科目四的完整流程就全部讲完啦！如果你想要回顾其他科目的内容，下面是快速跳转链接：
-- [科目一怎么快速刷题](https://xiangxinotes.github.io/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目二点位怎么记](https://xiangxinotes.github.io/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目一怎么快速刷题](/2025/12/11/jinghe-driving-test1-100score-quick-tips/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目二点位怎么记](/2026/02/12/jinghe-driving-test2-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目三全攻略](/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
 
-每个科目都有自己的专属文章固然好，有时我们也需要快速查看所有科目的考试时间、费用等信息，所以我把这些信息整理成了一篇[《总览汇总文章》](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，所有信息一目了然，方便你提前规划整个驾考节奏，少走弯路。
+每个科目都有自己的专属文章固然好，有时我们也需要快速查看所有科目的考试时间、费用等信息，所以我把这些信息整理成了一篇[《总览汇总文章》](/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，所有信息一目了然，方便你提前规划整个驾考节奏，少走弯路。
 
 ---
 

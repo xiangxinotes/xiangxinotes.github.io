@@ -17,12 +17,12 @@ keywords:
   - 驾考宝典
 ---
 
-在[《认识你的自动挡教练车和考试车》](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}这篇文章中，我们已经对教练车和考试车有了一定了解了，接下来我们一起看看，自动挡科目二需要学哪些内容，考试流程又是怎样的～
+在[《认识你的自动挡教练车和考试车》](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}这篇文章中，我们已经对教练车和考试车有了一定了解了，接下来我们一起看看，自动挡科目二需要学哪些内容，考试流程又是怎样的～
 
 ![一辆白车停在停车位上]({{ site.baseurl }}/images/pexels-introspectivedsgn-12746322.jpg)
 *汽车停在停车位上 <a href="https://www.pexels.com/photo/white-car-in-the-parking-lot-12746322/">Photo</a> by Erik Mclean*
 
-因为一些操作细节在[《认识你的自动挡教练车和考试车》](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}里已经讲过，本文仅强调那些针对科目二的特殊操作。所以如果你没看过这篇文章，一定要看了之后再看本文。
+因为一些操作细节在[《认识你的自动挡教练车和考试车》](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}里已经讲过，本文仅强调那些针对科目二的特殊操作。所以如果你没看过这篇文章，一定要看了之后再看本文。
 
 在讲科目二的项目内容之前，我们先来一起看看那些科目二的特殊操作。
 
@@ -38,7 +38,7 @@ keywords:
 
 你只需要记住一句话：**无论是前进还是倒退，车辆要往哪个方向去，方向盘就朝哪个方向打。**
 
-至于方向盘要打多少圈，也就是说方向盘的角度，在[《认识你的自动挡教练车和考试车》](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}这篇文章中，我们说过：把初始状态记为0度，半圈是180度，一圈是360度，打死是1圈半，即540度。
+至于方向盘要打多少圈，也就是说方向盘的角度，在[《认识你的自动挡教练车和考试车》](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post){:target="_blank"}这篇文章中，我们说过：把初始状态记为0度，半圈是180度，一圈是360度，打死是1圈半，即540度。
 
 在科目二，不需要记其他的圈数，记住0、180、360、540度即可。对这些圈数/角度熟悉会大大提升你的学习速度。
 
@@ -47,7 +47,7 @@ keywords:
 
 ### 要用哪些挡位
 
-我们知道教练车和考试车[一共有5挡](https://xiangxinotes.github.io/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post#%E6%8C%A1%E4%BD%8D%E6%9C%89%E5%93%AA%E4%BA%9B){:target="_blank"}，但在科目二，我们其实只会用到 P（停车挡）, R（倒车挡）, D（前进挡）三个挡位，记牢即可。
+我们知道教练车和考试车[一共有5挡](/2026/02/12/jinghe-get-familiar-with-the-driving-car-and-testing-car/?utm_source=blog&utm_medium=post#%E6%8C%A1%E4%BD%8D%E6%9C%89%E5%93%AA%E4%BA%9B){:target="_blank"}，但在科目二，我们其实只会用到 P（停车挡）, R（倒车挡）, D（前进挡）三个挡位，记牢即可。
 
 ### 座椅调节标准
 
@@ -383,7 +383,7 @@ keywords:
 
 #### 当天控制变量
 
-我在[《我的 47 天驾考全记录》](https://xiangxinotes.github.io/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E8%80%83%E8%AF%95%E6%97%B6%E6%8E%A7%E5%88%B6%E5%8F%98%E9%87%8F)这篇文章中说过控制变量的重要性，我再强调一下：
+我在[《我的 47 天驾考全记录》](/2025/11/03/how-to-acquire-drivers-license-in-jinghe-bortala-xinjiang/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title#%E8%80%83%E8%AF%95%E6%97%B6%E6%8E%A7%E5%88%B6%E5%8F%98%E9%87%8F)这篇文章中说过控制变量的重要性，我再强调一下：
 
 平时穿多厚、穿什么鞋练车，考试的时候就怎么穿，因为点位会受这些变化影响！如果只是因为穿了新鞋、头发扎得高了点就挂了，不是很亏嘛？！
 
@@ -426,10 +426,10 @@ keywords:
 - 科目二考试第一把和第二把的线路不一定相同。也就是说假设考试第一把跑 3 号线没有过，第二把可能是 3 条线路中的任何一条，这是考官决定的，请按考官指示行事。
 
 接下来还有 2 篇十分详尽的文章等你查看：
-- [科目三全攻略](https://xiangxinotes.github.io/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [科目四超简单介绍](https://xiangxinotes.github.io/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目三全攻略](/2026/03/03/jinghe-driving-test3-full-tutorial/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [科目四超简单介绍](/2026/03/04/jinghe-driving-test4/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
-更有一篇信息周全的[汇总文](https://xiangxinotes.github.io/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
+更有一篇信息周全的[汇总文](/2026/03/04/jinghe-drivers-license-full-information/?utm_source=blog&utm_medium=post&utm_campaign=read_more)帮你快速查找各科目信息，感兴趣的话可以持续关注，一起顺利拿本～
 
 ---
 
