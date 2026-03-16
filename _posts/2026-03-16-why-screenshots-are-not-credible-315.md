@@ -4,7 +4,7 @@ title: 315 打假：为什么截图不可信？不用 PS，10 秒轻松造假
 date: 2026-03-16 12:46:35 +0800
 description: 315打假提醒：截图根本不能当证据！不用PS，不用其他软件，浏览器F12修改网页文字，10秒就能造出假截图。教你识别骗局，保持理性，不轻信任何截图证据。
 image: pexels-gustavo-fring-5934213.jpg
-tags: tools resources github
+tags: tools personal-growth
 keywords: "截图不可信,315打假,截图造假,网页改文字,防骗科普,网络安全,浏览器F12,Inspect修改网页,截图证据"
 ---
 
