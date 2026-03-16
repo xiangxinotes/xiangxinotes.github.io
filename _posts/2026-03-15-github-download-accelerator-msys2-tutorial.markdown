@@ -5,6 +5,17 @@ date: 2026-03-15 21:40:35 +0800
 description: 日常开发中经常要从GitHub下载文件，但总是下载超时甚至直接下载失败，让人生气。尤其是像msys2-x86_64-20251213.exe这类安装包，失败次数更多。本文分享2个免费、无需注册、新手友好的GitHub资源加速网站，一步一步教你操作，轻松搞定下载难题，亲测有效。
 image: github-download-accelerator-msys2-tutorial_gh-proxy_screenshot.png
 tags: tools resources github
+keywords:
+  - GitHub下载
+  - GitHub下载失败
+  - GitHub下载慢
+  - GitHub文件下载慢
+  - GitHub文件下载失败
+  - msys2安装包下载
+  - msys2-x86_64-20251213.exe
+  - GitHub资源加速网站
+  - GitHub加速站
+  - GitHub加速
 ---
 
 日常开发中从GitHub下载文件，尤其是像`msys2-x86_64-20251213.exe`这类安装包，经常遇到速度卡顿、超时甚至直接下载失败的问题。
