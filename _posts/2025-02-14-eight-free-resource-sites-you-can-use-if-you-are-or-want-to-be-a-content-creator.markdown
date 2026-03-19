@@ -133,6 +133,6 @@ iMovie 的官方帮助中心：https://support.apple.com/zh-cn/imovie
 声明：本文并未接受 谷歌字体、阿里巴巴字体、思源黑体、Pexels、Unsplash、Bensound、Free Stock Music、Purple Planet Music、iMovie、剪映专业版 任何形式的赞助。但是，如果这些公司看到了，可以考虑给我打钱，哈哈。
 
 🌟 推荐你可能感兴趣的其他文章：
-- [🎨 分享8个免费配色网站](/2026/03/16/8-best-color-palette-websites-for-developers/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [🎨 分享9个免费配色网站](/2026/03/16/8-best-color-palette-websites-for-developers/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [🎮 分享2个经典红白机游戏网站](/2025/07/19/tow-free-websites-to-play-nintendo-entertainment-system-games-with-no-registration-and-can-play-with-controllers/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 - [🎮 分享5个免费在线游戏网站](/2026/03/17/five-free-online-game-websites-with-no-registration/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
