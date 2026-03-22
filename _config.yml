@@ -11,6 +11,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-seo-tag
 
 paginate: 7
 paginate_path: "/page/:num"
@@ -38,3 +39,10 @@ tag_permalink_style: pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+title: 向西笔记 - 向西 ｜内容创作者、Up主、外企人、旅居专家和法语新手
+description: 向西是一名B站Up主、博客主，外企工作8年，在7个城市旅居，向西笔记包含英语和法语的学习经验，包括单词的不同之处分析和学习工具，助你高效而又精准地使用单词；向西笔记还提供旅游攻略、旅居行动指南、不同城市的旅居体验和让你随时开启旅居生活的商品，让你少走弯路，选择最适合你的商品。
+author:
+  name: 向西
+social:
+  github: xiangxinotes
