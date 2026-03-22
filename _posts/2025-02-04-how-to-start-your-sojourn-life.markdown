@@ -33,7 +33,7 @@ tags: sojourn guide
 - 护腰腰带（天冷放，夏天不放）
 - 耳机🎧
 - 电脑💻
-- 可以上民航客机的[充电宝、充电线]({{site.url}}/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#%E7%BB%BF%E8%81%94%E5%85%85%E7%94%B5%E5%AE%9D)
+- 可以上民航客机的[充电宝、充电线](/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#%E7%BB%BF%E8%81%94%E5%85%85%E7%94%B5%E5%AE%9D)
 - 雨伞🌂（夏天放，冬天不放）
 
 ## 二、行李箱
@@ -51,7 +51,7 @@ tags: sojourn guide
 - 小枕头 * 1
 - 床单 * 1
 - 护腰腰带（天冷不放，夏天放）
-- [电脑充电器🔌]({{site.url}}/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#dell%E6%88%B4%E5%B0%94%E7%94%B5%E8%84%91%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8) * 1
+- [电脑充电器🔌](/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#dell%E6%88%B4%E5%B0%94%E7%94%B5%E8%84%91%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8) * 1
 - 雨伞🌂（夏天不放，冬天放）
 - 吹风机
 - 其他

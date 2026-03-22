@@ -133,7 +133,7 @@ keywords:
 
 而且正如 Youtuber Moneyxyz（现名：一口新饭）所说，我们可以找到自己的不公平优势，用自己的石头碰别人的鸡蛋。
 
-想找到自己的不公平优势？可以参考这篇文章：[创业者如何找到自己的不公平优势？增加创业成功率]({{site.url}}/2025/02/01/2025/07/24/how-to-find-your-unfair-advantage-as-an-entrepreneur/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+想找到自己的不公平优势？可以参考这篇文章：[创业者如何找到自己的不公平优势？增加创业成功率](/2025/02/01/2025/07/24/how-to-find-your-unfair-advantage-as-an-entrepreneur/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
 
 ## 购书链接

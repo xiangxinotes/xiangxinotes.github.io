@@ -100,11 +100,11 @@ tags: sojourn dalian travel guide renting lease
 
 大连是一个对租客非常友好的城市！如果你考虑去大连旅居，建议你至少**待3个月**，因为好找房子。而且，直接**找中介**就行！租客无需支付中介费。如果你要租房，**国房乐家**这个公寓我还是很推荐的，也可以去**安鑫地产**这个中介问问看。
 
-如果你是第一次旅居，请查看这份[完整的旅居清单]({{site.url}}/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)快速开启旅居生活新篇章。
+如果你是第一次旅居，请查看这份[完整的旅居清单](/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)快速开启旅居生活新篇章。
 
 如果你想看看旅居其他城市的情况，那么可以查看<a href="/tag/sojourn?utm_source=blog&utm_medium=post&utm_campaign=read_more">旅居话题</a>下的其他文章。
 
-如果你想要去三亚过年，那么请参考：[【2025】最全、最有用的三亚过年租房指南，看这一篇就够！]({{site.url}}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让你找房无忧。
+如果你想要去三亚过年，那么请参考：[【2025】最全、最有用的三亚过年租房指南，看这一篇就够！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让你找房无忧。
 
 ---
 

@@ -161,7 +161,7 @@ tags: dalian travel guide tourist-attraction
 拍照很好看，有个小口有个台阶，可以下去摸摸海～
 
 
-如果你想在大连开启旅居生活，请查看这份[大连旅居租房指南]({{site.url}}/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)～
+如果你想在大连开启旅居生活，请查看这份[大连旅居租房指南](/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)～
 
 ---
 

@@ -196,9 +196,9 @@ tags: sanya travel guide tourist-attraction
 好嘞，三亚景区游玩经验帖就写到这里了，如果我有什么遗漏的地方，欢迎留言询问！
 
 猜你想看：
-- [最全、最有用的三亚过年租房指南，看这一篇就够！]({{site.url}}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [在三亚过年，住在自建房里是一种怎样的体验？]({{site.url}}/2025/02/08/what's-it-like-to-live-in-a-self-built-house-in-sanya/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [想来三亚旅居过年？先回答这3个问题！]({{site.url}}/2025/02/01/the-three-things-you-should-consider-before-going-to-sanya/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [最全、最有用的三亚过年租房指南，看这一篇就够！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [在三亚过年，住在自建房里是一种怎样的体验？](/2025/02/08/what's-it-like-to-live-in-a-self-built-house-in-sanya/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [想来三亚旅居过年？先回答这3个问题！](/2025/02/01/the-three-things-you-should-consider-before-going-to-sanya/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
 
 ---
 

@@ -40,7 +40,7 @@ tags: sanya renting lease
 
 当然了，我在这里分享的趋势只是一般趋势，也有一些房东按照3倍收租甚至有其他标准的，所以可以问一问，租1个月的房租和租3个月、半年的价格的区别。
 
-如果你能否接受这样的房租趋势，并且准备租房，那么可以查看这篇文章：[【2025】最全、最有用的三亚过年租房指南，看这一篇就够！]({{site.url}}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，助你找房一臂之力～
+如果你能否接受这样的房租趋势，并且准备租房，那么可以查看这篇文章：[【2025】最全、最有用的三亚过年租房指南，看这一篇就够！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，助你找房一臂之力～
 
 ---
 

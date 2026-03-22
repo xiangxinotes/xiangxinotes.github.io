@@ -160,11 +160,11 @@ tags: sojourn hainan danzhou haihua-island travel living guide
 - 这里聚集了全国各地的人，人员相对复杂，所以经常会有吵架和矛盾发生。（这是我旅居看到发生矛盾最多的城市）
 - 建议买东西的时候自己多注意，价格自己看一遍，不管是秤还是结帐系统，都最好是自己盯着。
 
-如果你想开启躺平之旅，不如看看这份[躺平旅居清单]({{site.url}}/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)快速开启旅居躺平之旅。
+如果你想开启躺平之旅，不如看看这份[躺平旅居清单](/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)快速开启旅居躺平之旅。
 
 如果考虑其他城市，也可以查看<a href="/tag/sojourn?utm_source=blog&utm_medium=post&utm_campaign=read_more">旅居话题</a>下的其他文章。
 
-如果你想要去三亚过年，那么一定要看：[2025最全、最有用的三亚过年租房指南！]({{site.url}}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让你找房无忧。
+如果你想要去三亚过年，那么一定要看：[2025最全、最有用的三亚过年租房指南！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让你找房无忧。
 
 ---
 

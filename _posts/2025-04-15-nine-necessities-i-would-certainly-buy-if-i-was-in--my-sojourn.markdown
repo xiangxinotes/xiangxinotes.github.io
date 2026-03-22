@@ -11,7 +11,7 @@ tags: product life necessity sojourn
 
 买一款舒适的被子真的能拯救失眠，带来非常强烈的舒适感。虽然只准备在这个城市待3个月，但你每天都要睡觉的，给自己买个提升幸福感的被子吧，别凑活。
 
-我买的这款被子，触感特别的舒服，虽然是50块的价格，但比楼下超市里75块钱的好太多了，厚实又不扎手。所以我在[大连]({{site.url}}/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)第一次买过之后，在[昆明旅居]({{site.url}}/2025/03/14/the-most-practical-guide-to-sojourn-in-kunming/?utm_source=blog&utm_medium=post&utm_campaign=read_more)期间又买了2套。
+我买的这款被子，触感特别的舒服，虽然是50块的价格，但比楼下超市里75块钱的好太多了，厚实又不扎手。所以我在[大连](/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)第一次买过之后，在[昆明旅居](/2025/03/14/the-most-practical-guide-to-sojourn-in-kunming/?utm_source=blog&utm_medium=post&utm_campaign=read_more)期间又买了2套。
 
 我买的是：
 - 150X200春秋被【约3斤 室温11-25摄氏度】婴儿级触感；草绿【母婴裸睡级】
@@ -28,7 +28,7 @@ tags: product life necessity sojourn
 
 如果你住的是某些提供床上用品的民宿，或者实在没时间等快递邮寄的被子上门必须去楼下先买了应急，那么你可以买被套，隔绝劣质被子给你带来的刺挠(持续不舒适感)。
 
-最近我住在[海花岛上的某家民宿]({{site.url}}/2025/04/27/the-most-practical-guide-to-rent-a-house-in-danzhou-haihua-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more#我的租房情况)，这里就提供床上用品，其实皮肤接触感挺舒服的，但是被套是纯白色的，一不小心就脏了，所以我就买了被套。
+最近我住在[海花岛上的某家民宿](/2025/04/27/the-most-practical-guide-to-rent-a-house-in-danzhou-haihua-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more#我的租房情况)，这里就提供床上用品，其实皮肤接触感挺舒服的，但是被套是纯白色的，一不小心就脏了，所以我就买了被套。
 
 我推荐的这款被套质量并不是很好，用了2个月了，现在拉链处就有一些毛毛翻出来，之后表层也可能会起毛，但胜在便宜（¥15），而且和肌肤的接触比较舒适，也不会让我过敏。所以只用3个月的话，我还是很推荐的！
 
@@ -38,17 +38,17 @@ tags: product life necessity sojourn
 商品链接：[被套单件150x200学生宿舍单人被罩200x230cm双人被单仿棉四季通用](
 https://s.click.taobao.com/t?e=m%3D2%26s%3DgXqJU%2FMwsCBw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo%2BpH%2BKVf1VvfkvCfUgJSO4b0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bayn6RMvqNrR94RuV8%2B5WFTIwe6%2FtGg2%2FRDSMWxuxDspaP06GuRvfYDVwVKr5izxh9U80derrFTRAfit%2BPNiLb%2B6LO6iKhAJKkSa2NN09MvJAKCVovMXOfApGZ9wPRcXV%2BBfuqljaE3xpNzuMLUNyvdF14Sq3ASXTMqFDYvQthr0oDEntBuOucLaJn5AyUbPoV&union_lens=lensId%3AOPT%401744696757%400b514fbb_194a_1963807cc3f_a634%4001%40eyJmbG9vcklkIjoxMDYxODN9)
 
-事实上，我快递到手之后才发现，我之前在[大连]({{site.url}}/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)的时候买的床单也是一模一样的图案。看来我真的喜欢这款的图案啊，哈哈哈。😂
+事实上，我快递到手之后才发现，我之前在[大连](/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)的时候买的床单也是一模一样的图案。看来我真的喜欢这款的图案啊，哈哈哈。😂
 
 ## 床单
 
-如果你看过我的[旅居清单]({{site.url}}/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more#%E4%BA%8C%E8%A1%8C%E6%9D%8E%E7%AE%B1)，你会发现即使我1包1箱走天下，我还是自带了床单。主要的原因是：床单薄，不占什么空间，但是在你刚到一个地方的时候又特别有用。
+如果你看过我的[旅居清单](/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more#%E4%BA%8C%E8%A1%8C%E6%9D%8E%E7%AE%B1)，你会发现即使我1包1箱走天下，我还是自带了床单。主要的原因是：床单薄，不占什么空间，但是在你刚到一个地方的时候又特别有用。
 
 我自己只带1个床单，租好房子之后，我就会再买一个床单，和我带的床单相互替换，所以也不用买很贵的，差不多即可。
 
 不过我现在想法有些变了：如果你所在的地方在你带的这一段时间内很潮湿的话（比如在回南天或雨季去广州），那么我建议你再买一个床单，否则就不用买了。因为床单摊开来晾晒后其实很快就干了，一般来说，白天洗晒晚上就能铺着睡觉了。
 
-我在[大连]({{site.url}}/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)旅居的时候买了1个床单，但每天都是大晴天，其实没什么机会用到这个床单。至于在[昆明旅居]({{site.url}}/2025/03/14/the-most-practical-guide-to-sojourn-in-kunming/?utm_source=blog&utm_medium=post&utm_campaign=read_more)期间，更是好天气不断，所以我压根都没买床单。我建议你根据你自己的情况来决定买不买床单！
+我在[大连](/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)旅居的时候买了1个床单，但每天都是大晴天，其实没什么机会用到这个床单。至于在[昆明旅居](/2025/03/14/the-most-practical-guide-to-sojourn-in-kunming/?utm_source=blog&utm_medium=post&utm_campaign=read_more)期间，更是好天气不断，所以我压根都没买床单。我建议你根据你自己的情况来决定买不买床单！
 
 如果你需要床单，可以参考我之前买过的床单：
 - 小雏菊；【单床单】1.8x2.3m【推荐1.35米/1.5米床用】

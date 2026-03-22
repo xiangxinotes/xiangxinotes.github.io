@@ -56,7 +56,7 @@ tags: sojourn hainan danzhou haihua-island travel renting guide
 
 如果你已经在网上预订了酒店，那一定要注意了：**先打电话联系**，不要按照地址直接找过去。因为这些海花岛民宿（宾馆、酒店）的主人拥有的房源都分散在各个楼栋，写在网上的只是前台的位置。这些民宿主人基本都不在前台，电话联系后直接按照给的房屋地址找过去，省得你大包小包的到处跑。
 
-如果你想要在小红书上把自己的房子租出去，请参考这份[房东招租指南]({{site.url}}/2025/02/11/how-to-publish-a-post-to-rent-your-house/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，速速把房租出去～
+如果你想要在小红书上把自己的房子租出去，请参考这份[房东招租指南](/2025/02/11/how-to-publish-a-post-to-rent-your-house/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，速速把房租出去～
 
 ### 租期
 
@@ -135,13 +135,13 @@ tags: sojourn hainan danzhou haihua-island travel renting guide
 		- 小桌子 * 1
 		- 椅子 * 2
 
-如果你已经住在2号岛上了，那么请查看我的[2号岛生活指南]({{site.url}}/2025/04/27/the-living-guide-of-danzhou-haihua-island-second-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，包括买菜做饭、取快递、吃早餐和公交信息！
+如果你已经住在2号岛上了，那么请查看我的[2号岛生活指南](/2025/04/27/the-living-guide-of-danzhou-haihua-island-second-island/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，包括买菜做饭、取快递、吃早餐和公交信息！
 
-如果你想从今天开始躺平之旅，不妨看看这份[躺平旅居清单]({{site.url}}/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)。
+如果你想从今天开始躺平之旅，不妨看看这份[躺平旅居清单](/2025/02/04/how-to-start-your-sojourn-life/?utm_source=blog&utm_medium=post&utm_campaign=read_more)。
 
 如果考虑其他城市，也可以查看<a href="/tag/sojourn?utm_source=blog&utm_medium=post&utm_campaign=read_more">旅居话题</a>下的其他文章。
 
-如果你想要去三亚过年，那么一定要看：[2025最全、最有用的三亚过年租房指南！]({{site.url}}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让你找房无忧。
+如果你想要去三亚过年，那么一定要看：[2025最全、最有用的三亚过年租房指南！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，让你找房无忧。
 
 ---
 
