@@ -28,8 +28,11 @@ bilibili: https://space.bilibili.com/329955183
 
 #-------------------------------
 # My Work Section
-work: 
-  sql-wizland: /sql-wizland
+works: 
+  - name: SQL Wizland
+    url: /sql-wizland
+  - name: Smile Finder
+    url: /smile-finder
 
 #-------------------------------
 # Comment Section (Disqus)

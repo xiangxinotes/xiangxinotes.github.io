@@ -1,7 +1,8 @@
 <div class="work">
-  <ul class="work__list list-reset">
-    {% if site.data.settings.work.sql-wizland %}
-      <li><a href="https://xiangxinotes.github.io{{ site.data.settings.work.sql-wizland }}" target="_blank">SQL Wizland</a></li>
-    {% else %} {% endif %}
-  </ul>
-</div> 
+  <p class="work__footer">
+    {% for item in site.data.settings.works %}
+      <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+      {% unless forloop.last %}<span> · </span>{% endunless %}
+    {% endfor %}
+  </p>
+</div>
