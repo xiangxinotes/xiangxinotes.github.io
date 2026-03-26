@@ -1,7 +1,7 @@
 <div class="work">
   <p class="work__footer">
     {% for item in site.data.settings.works %}
-      <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+      <a href="{{ item.url }}/?utm_source=hp&utm_medium=works" target="_blank">{{ item.name }}</a>
       {% unless forloop.last %}<span> · </span>{% endunless %}
     {% endfor %}
   </p>
