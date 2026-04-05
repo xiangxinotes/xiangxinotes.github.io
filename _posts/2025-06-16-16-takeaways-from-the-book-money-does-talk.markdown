@@ -12,7 +12,7 @@ tags: personal-growth product book money early-retirement
 ## 个人成长 part
 
 ![一名女子在海面对着太阳和大海张开双臂，有风吹起她的裙子，带来动感]({{ site.baseurl }}/images/pexels-jill-wellington-1638660-40192.jpg)
-* 个人成长 <a href="https://www.pexels.com/photo/lady-in-beach-silhouette-during-daytime-photography-40192/">Photo</a> by Jill Wellington*
+*个人成长 <a href="https://www.pexels.com/photo/lady-in-beach-silhouette-during-daytime-photography-40192/">Photo</a> by Jill Wellington*
 
 ### 你为什么一遇到困难就放弃？
 

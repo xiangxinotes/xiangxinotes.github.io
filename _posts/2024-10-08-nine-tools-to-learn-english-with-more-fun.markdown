@@ -12,7 +12,7 @@ tags: tools english languages multinational-corporation
 
 从大学的时候不敢说、听不懂到现在在外企工作，我仔细的思考并回忆了这10年间，我究竟做对了些什么。这篇文章就把那些我用过的，**推荐**的所有工具分享给你。一共9个，全部免费！请看到最后，告诉我你的看法。
 
-## 1. Momentum
+## Momentum
 
 - 推荐指数：**5**/5 
 - 学习指数：**2**/5
@@ -22,7 +22,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：只靠它提升词汇量，要等到猴年马月了。
 - 使用方法：每天打开浏览器的时候看一句名言，吸收消化内容。遇到不会的词，去查。
 
-## 2. Bilibili
+## Bilibili
 
 - 推荐指数：**4**/5 
 - 学习指数：**2**/5
@@ -33,7 +33,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：绘本类语速过慢。
 - 使用方法：用关键词去搜，每天睡前后台播放，听故事。
 
-## 3. 百词斩
+## 百词斩
 
 - 推荐指数：**2**/5 
 - 学习指数：**5**/5
@@ -43,7 +43,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：配合其他工具一起使用比较高效，不然可能只记住了图片。
 - 使用方法：背单词时用，记句子。
 
-## 4. 玩转英语单词
+## 玩转英语单词
 
 - 推荐指数：**5**/5 
 - 学习指数：**4**/5
@@ -53,7 +53,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：单词还是太少了。
 - 使用方法：专项练习，结合读音和图片记单词。
 
-## 5. Fruits & Vegetables HD
+## Fruits & Vegetables HD
 
 - 推荐指数：**5**/5 
 - 学习指数：**4**/5
@@ -63,7 +63,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：界面简陋，缺少单词读音。
 - 使用方法：专项练习，通过图片记单词。
 
-## 6. 豆包
+## 豆包
 
 - 推荐指数：**3**/5 
 - 学习指数：**3**/5
@@ -73,7 +73,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：需要查找试用智能体，或自己打造一个智能体。
 - 使用方法：专项练习，练语法、练口语、让纠错。
 
-## 7. 剑桥辞典
+## 剑桥辞典
 
 - 推荐指数：**5**/5 
 - 学习指数：**5**/5
@@ -83,7 +83,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：几乎没有。
 - 使用方法：查某个单词的发音、意思和使用方法。
 
-## 8. DeepL
+## DeepL
 
 - 推荐指数：**5**/5 
 - 学习指数：**4**/5
@@ -93,7 +93,7 @@ tags: tools english languages multinational-corporation
 - 工具缺点：发音太快。
 - 使用方法：翻译句子、文章。
 
-## 9. 英语流利说
+## 英语流利说
 
 - 推荐指数：**5**/5 
 - 学习指数：**5**/5
