@@ -127,7 +127,7 @@ tags: sanya travel guide tourist-attraction
 
 ## 南山大小洞天旅游区
 
-![小洞天背后题字：洞天福地的照片]({{ site.baseurl }}/images/sanya-xiaodongtian.jpg)
+![小洞天背后题字：洞天福地的照片]({{ site.baseurl }}/images/sanya-xiaodongtian.webp)
 *小洞天背后题字*
 
 南山大小洞天旅游区，分为大洞天、小洞天两个洞天，这个景区是道教、龙、福寿文化为主体的景区。
@@ -168,7 +168,7 @@ tags: sanya travel guide tourist-attraction
 三亚又名鹿城，背后是一个黎族爱情传说。为了纪念这段美丽的传说，三亚在山顶上建立了“鹿回头” 公园，并竖立了一座巨大的雕像。这座雕塑成为了三亚的城雕，三亚市也因此得名 “鹿城”。看到这里的国内朋友，是不是觉得这套路有点熟悉😂，哈哈，其实我也觉得这套实在见的多了，没有新意。
 
 
-![鹿回头石雕：一女子与鹿的照片]({{ site.baseurl }}/images/sanya-luhuitou.jpg)
+![鹿回头石雕：一女子与鹿的照片]({{ site.baseurl }}/images/sanya-luhuitou.webp)
 *鹿回头石雕*
 
 ### ✨购票攻略

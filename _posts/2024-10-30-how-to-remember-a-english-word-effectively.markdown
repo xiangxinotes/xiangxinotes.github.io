@@ -3,7 +3,7 @@ layout: post
 title: 单词背了就忘，总是记不住？9个方法分享给你！
 date: 2024-10-30 15:56:38 +0800
 description: 单词总是背了就忘，学习效率低？别着急！本文为你精心整理 9 个超实用的单词记忆方法，从词根词缀记忆法、联想记忆法到转换角色记忆法等，全面覆盖9种方法，助你告别遗忘烦恼，快速提升单词量，轻松攻克英语学习难关，快来解锁高效背单词的秘密吧！
-image: remember-english-words-effectively.png
+image: remember-english-words-effectively.webp
 tags: tools english languages
 ---
 

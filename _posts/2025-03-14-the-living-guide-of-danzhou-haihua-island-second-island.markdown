@@ -3,13 +3,13 @@ layout: post
 title: 【2025最新】海南儋州海花岛2号岛生活指南，包括买菜、快递、早餐店和公交信息
 date: 2025-04-27 13:20:00 +0800
 description: 消费降级？裸辞？躺平？想了很久不知道怎么选择？如果你想来海南儋州海花岛躺平，那么不妨先看看2号岛生活是否方便。本文有5大方面与你分享，包括买菜、快递、早餐店、公交和个人体验。要在海花岛待 2 个月的我，知无不言哦，快来看看吧！
-image: map-of-haihua-island.png
+image: map-of-haihua-island.webp
 tags: sojourn hainan danzhou haihua-island travel living guide
 ---
 
 在无数视频里看到过躺平胜地——恒大海花岛？但也看到了很多传闻？年轻人少，商店少？2025年3月15日正在海花岛2号岛居住的我来分享经验啦！
 
-![海花岛地图]({{ site.baseurl }}/images/map-of-haihua-island.png)
+![海花岛地图]({{ site.baseurl }}/images/map-of-haihua-island.webp)
 *海花岛地图*
 
 本文包括 5 个方面：

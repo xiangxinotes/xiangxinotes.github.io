@@ -3,7 +3,7 @@ layout: post
 title: 「2025最新」Mac 电脑录屏的时候，怎样才能只录制电脑发出的声音呢？（详细教程）
 date: 2025-03-13 20:15:35 +0800
 description: Mac 录屏麦克风选“无”录不到任何声音，选“内置麦克风”又把电脑发出的声音和环境音都录制进去了。用“截屏” App 和 QuickTime Player 都不能只录制电脑发出（扬声器）的声音，Soundflower 停止开发，而且苹果在 macOS Catalina（10.15）之后也不再支持。那怎么只录制扬声器的声音，而不录到环境音呢？本文包含一步一步的行动指南，助你成功录屏。
-image: set-up-multi-output-device-to-record-just-the-speaker.png
+image: set-up-multi-output-device-to-record-just-the-speaker.webp
 tags: mac backhole guide tech soundflower
 ---
 
@@ -36,7 +36,7 @@ BlackHole 安装包的下载链接：[https://existential.audio/blackhole](https
 
 如果你十分感激作者，可以点击 "Donate $10" 按钮支持作者，当然你也可以点击 "I can't afford to donate" 按钮。
 
-![下载链接中包含2个按钮："Donate $10" 和 "I can't afford to donate"]({{ site.baseurl }}/images/retrive-blackhole-download-link.png)
+![下载链接中包含2个按钮："Donate $10" 和 "I can't afford to donate"]({{ site.baseurl }}/images/retrive-blackhole-download-link.webp)
 *打开下载链接后会出现2个按钮："Donate $10" 和 "I can't afford to donate"*
 
 点击 "I can't afford to donate" 按钮后，将会需要你填写你的邮箱及姓名。信息填写完毕，你将会收到一封邮件：**BlackHole Download**（如果收件箱里没看到，可以查看垃圾箱）。
@@ -46,7 +46,7 @@ BlackHole 安装包的下载链接：[https://existential.audio/blackhole](https
 
 点击邮件中的链接，注意链接有效期为 24 小时。有 3 个下载器供选择，如果不知道下载哪一个，就下载 **BlackHole 2ch**
 
-![页面中有 3 个下载器供选择：BlackHole 2ch, BlackHole 16ch, BlackHole 64ch]({{ site.baseurl }}/images/three-backhole-installers-to-choose-from.png)
+![页面中有 3 个下载器供选择：BlackHole 2ch, BlackHole 16ch, BlackHole 64ch]({{ site.baseurl }}/images/three-backhole-installers-to-choose-from.webp)
 *有 3 个下载器供选择：BlackHole 2ch, BlackHole 16ch, BlackHole 64ch*
 
 ### 2. 安装 BlackHole
@@ -62,7 +62,7 @@ BlackHole 安装包的下载链接：[https://existential.audio/blackhole](https
 - 一个是🔉扬声器，
 - 另一个是你安装的 BlackHole（比如我的就是 BlackHole 2ch）。
 
-![“音频 MIDI 设置” App 界面左侧有 3 个声音设备：麦克风、扬声器、BlackHole]({{ site.baseurl }}/images/sceenshot-of-audio-midi-setup.png)
+![“音频 MIDI 设置” App 界面左侧有 3 个声音设备：麦克风、扬声器、BlackHole]({{ site.baseurl }}/images/sceenshot-of-audio-midi-setup.webp)
 *“音频 MIDI 设置” App 界面左侧有 3 个声音设备：麦克风、扬声器、BlackHole*
 
 ### 4. 设置音频设备
@@ -71,7 +71,7 @@ BlackHole 安装包的下载链接：[https://existential.audio/blackhole](https
 
 点击 “音频 MIDI 设置” App 界面左侧下方的加号+，在弹出的菜单里选择 “**多输出设备**” ，并完成下图配置：
 
-![“多输出设备”的页面设置：主要设备选择扬声器；扬声器和 Blackhole 都要勾选 Use；音频设备的顺序为扬声器第一，Blackhole 第二；扬声器不必勾选 Drift Correction，但 Blackhole 请勾选上 Drift Correction。]({{ site.baseurl }}/images/set-up-multi-output-device-to-record-just-the-speaker.png)
+![“多输出设备”的页面设置：主要设备选择扬声器；扬声器和 Blackhole 都要勾选 Use；音频设备的顺序为扬声器第一，Blackhole 第二；扬声器不必勾选 Drift Correction，但 Blackhole 请勾选上 Drift Correction。]({{ site.baseurl }}/images/set-up-multi-output-device-to-record-just-the-speaker.webp)
 *此“多输出设备”的页面设置*
 
 ⚠️ 注意：

@@ -3,7 +3,7 @@ layout: post
 title: 一个普通话母语者，是如何成功从零开始，学会粤语的？
 date: 2024-10-15 22:31:25 +0800
 description: 身为普通话母语者，想学粤语，却对粤语望而却步？本文分享我，一位普通的普通话母语者是如何从零开始成功掌握粤语。从巧用粤语播客电台、影视剧资源，到使用各种应用程序，为你展示一套完整的学习路径，助力你轻松学会粤语，畅行粤语地区。包含2个粤语播客电台分享，4个应用程序和1个网站，助你学习畅通无阻。
-image: learn-cantonese.png
+image: learn-cantonese.webp
 tags: tools cantonese languages
 ---
 

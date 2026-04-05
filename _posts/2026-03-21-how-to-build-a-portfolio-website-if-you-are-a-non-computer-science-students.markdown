@@ -97,12 +97,12 @@ https://www.notion.so/marketplace
 
 把你的作品替换进去，改好了之后点击右上角的**共享**按钮，在打开的框中切换到**发布**页，然后点击**发布**按钮即可。
 
-![Notion发布到网络的方法截图，右上角有个共享按钮，点击发布按钮即可]({{ site.baseurl }}/images/how-to-build-a-portfolio-website-if-you-are-a-non-computer-science-students-notion-publish-to-web.png)
+![Notion发布到网络的方法截图，右上角有个共享按钮，点击发布按钮即可]({{ site.baseurl }}/images/how-to-build-a-portfolio-website-if-you-are-a-non-computer-science-students-notion-publish-to-web.webp)
 *Notion发布到网络的方法*
 
 就这样，你得到了一个可以**放在简历里**的个人作品集网址。
 
-![Notion发布到网络后的链接展示截图，菜单栏下一行显示网页链接]({{ site.baseurl }}/images/how-to-build-a-portfolio-website-if-you-are-a-non-computer-science-students-notion-website-url.png)
+![Notion发布到网络后的链接展示截图，菜单栏下一行显示网页链接]({{ site.baseurl }}/images/how-to-build-a-portfolio-website-if-you-are-a-non-computer-science-students-notion-website-url.webp)
 *Notion发布到网络后的链接*
 
 怎么样，是不是不需要技术、不需要设计基础、也不需要花钱，就能轻松搭建个人作品集网站？

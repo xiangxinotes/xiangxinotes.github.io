@@ -22,7 +22,7 @@ tags: product puzzle entertainment leisure gift
 我接下来讲讲原因。我在某家店买了2次，其实第二次我没想买，完全是因为太便宜了才买的（只要¥4.7😂）
 
 第一次买了：
-![梵高的《罗纳河上的星夜》拼图]({{ site.baseurl }}/images/starry-night.jpeg)
+![梵高的《罗纳河上的星夜》拼图]({{ site.baseurl }}/images/starry-night.webp)
 *梵高的《罗纳河上的星夜》拼图实物图*
 
 这幅《罗纳河上的星夜》，我是¥18.5买到手的。一开箱我就被硬实的外包装吸引了，很好看。但是拼的时候非常失望：
@@ -32,7 +32,7 @@ tags: product puzzle entertainment leisure gift
 我的感觉就是，这20块花得非常不值。我的建议是：除非这个拼图便宜到5块钱以下了，否则别碰。
 
 第二次买了：
-![梵高的《星空》拼图]({{ site.baseurl }}/images/xingkong.jpeg)
+![梵高的《星空》拼图]({{ site.baseurl }}/images/xingkong.webp)
 *梵高的《星空》拼图实物图*
 
 这幅《星空》，我是叠加券和淘金币抵扣，最终4.7到手的。到货时外壳已经塌了（正常，我在新疆收到的基本都这样）。拼的时候发现：
@@ -63,12 +63,12 @@ tags: product puzzle entertainment leisure gift
 
 我推荐的店铺是：智趣积木玩具。我在这家店买了4幅拼图，一幅《蜡笔小新》，一幅《猫和老鼠》，一幅《黑悟空》，一幅《慵懒猫》。
 
-![我买的《蜡笔小新》拼图，白色背景上分5个小区块，每个区块的内容都有小新]({{ site.baseurl }}/images/shinchan.jpeg)
+![我买的《蜡笔小新》拼图，白色背景上分5个小区块，每个区块的内容都有小新]({{ site.baseurl }}/images/shinchan.webp)
 *我买的《蜡笔小新》拼图实物图*
 
 [《蜡笔小新》拼图的链接🔗](https://uland.taobao.com/coupon/edetail?e=Zg003v0LwAOlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLqafLQOEZunuHS8K2TLhODpvu%2F1YdV%2F0P62ub0uBkskTaAJ2HcjxYwWSLuThnD724AEaMBxNvOF64bVlo0QJT9KkZQi7JkfSgQ9QCyZlHKF%2BOOiX2Bc1NdbgRFUleBhNM0WFdIlL9wIIgy9egSgwfxAFWAKWvjHgz6liPt9wV88jHnvWCmjakY5cQKByiZ36ftxl6Um37OPIZp502cUisgUDlyRa2iPT%2Fy2iVYckkvpoxhMeuD5iN%2B1D9ZzTfOOXe%2Bm9PGdJ%2FlaVikJ4DkGM%2Fp6J7%2BkHL3AEW&traceId=21057adf17318562997453793e39c6&union_lens=lensId%3APUB%401731825284%40213e4437_0e17_19338d4b5cc_b6f2%40026oUIuPPUH9kEPTopUWlxFh%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_1_17318252845781433500159)
 
-![我买的《猫和老鼠》拼图，白色背景上分7个小区块，每个区块的内容不同]({{ site.baseurl }}/images/tomandjerry.jpeg)
+![我买的《猫和老鼠》拼图，白色背景上分7个小区块，每个区块的内容不同]({{ site.baseurl }}/images/tomandjerry.webp)
 *我买的《猫和老鼠》拼图实物图*
 
 [《猫和老鼠》拼图的链接🔗](https://uland.taobao.com/coupon/edetail?e=MU7XFnz9yWKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLFRWNWYybd0Ph8GOcoityvT%2B7nU8%2BZDO7nZHvtAg2yA4fpeH5tAut32yx%2F93ypuQESdM4ILWqQV24bVlo0QJT9KkZQi7JkfSgQ9QCyZlHKF%2BOOiX2Bc1NdWTO2vzvRd%2F49EWua2hWDRAgy9egSgwfxAFWAKWvjHgz6liPt9wV88jHnvWCmjakY5cQKByiZ36ftxl6Um37OPL6k66xfNCAduifTnjWqTwiy2iVYckkvppti0WwvIxaQcO5bPUSvgDk%2Bm9PGdJ%2FlaVikJ4DkGM%2Fp6J7%2BkHL3AEW&traceId=2133739417318569656057255e93a9&union_lens=lensId%3AOPT%401731856965%40213e71ef_0eac_1933ab82156_6da9%4001%40eyJmbG9vcklkIjo5MjQ2NX0ie)
@@ -99,7 +99,7 @@ tags: product puzzle entertainment leisure gift
 
 我买了绿色拼工厂的拼图送朋友，当时买的是300片的：
 
-![我买的《懒散的猫001》拼图，4只小猫觊觎水箱中的热带鱼]({{ site.baseurl }}/images/cats.jpeg)
+![我买的《懒散的猫001》拼图，4只小猫觊觎水箱中的热带鱼]({{ site.baseurl }}/images/cats.webp)
 *我买的《懒散的猫001》拼图实物图*
 
 到手的感觉：
@@ -143,7 +143,7 @@ https://s.click.taobao.com/t?e=m%3D2%26s%3DzFnv5yP5ArZw4vFB6t2Z2ueEDrYVVa64Pe16V
 
 分享个近期想买的拼图：
 
-![《长城1号》拼图，气势磅礴的长城画作]({{ site.baseurl }}/images/thegreatwall.jpeg)
+![《长城1号》拼图，气势磅礴的长城画作]({{ site.baseurl }}/images/thegreatwall.webp)
 *《长城1号》拼图实物图*
 
 ### 购买链接

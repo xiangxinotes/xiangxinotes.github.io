@@ -3,7 +3,7 @@ layout: post
 title: 本地 Jekyll 构建一切顺利，GitHub Pages 却部署失败？这问题好解决！
 date: 2023-05-01 19:38:35 +0800
 description: GitHub Pages 个人网站搭建完成，本地 Jekyll 构建一切顺利，但 push 到 GitHub 后，却收到了 pages build and deployment workflow run failed 邮件，GitHub Pages 也没更新？只花7分钟，本文就能助你解决难题！本文包含报错的根本原因和4个解决问题的方案及步骤。
-image: jekyll-version-workflow-failed.png
+image: jekyll-version-workflow-failed.webp
 tags: github-pages jekyll tech
 ---
 
@@ -56,15 +56,15 @@ jekyll -s
 ### 三、创建 GitHub Actions Workflow
 
 1. GitHub 切换到 Actions 标签，左侧面板，点击 New workflow，在 Choose a workflow 页面选择 set up a workflow yourself. 会自动创建 .github/workflows/main.yml 文件。
-![点击 New workflow 创建一个 GitHub workflow]({{ site.baseurl }}/images/jekyll-version-new-workflow.png)
+![点击 New workflow 创建一个 GitHub workflow]({{ site.baseurl }}/images/jekyll-version-new-workflow.webp)
 *GitHub 切换到 Actions 标签，左侧面板，点击 New workflow*
 1. 按照 [Deploy Jekyll Site](https://github.com/marketplace/actions/deploy-jekyll-site#example-usage) 里的说明操作。2023年5月的你需要做两件事：
   - 在 `_config.yml` 中加一行：`destination: ./build`
   - 把说明提供的内容粘贴到你的 .github/workflows/main.yml 中。（注意把 branches 数组里的 branch name 改成你使用的分支名。
-  ![我的 .github/workflows/main.yml 文件内容截图]({{ site.baseurl }}/images/jekyll-version-main-yml.png)
+  ![我的 .github/workflows/main.yml 文件内容截图]({{ site.baseurl }}/images/jekyll-version-main-yml.webp)
   *.github/workflows/main.yml 内容*
 1. 右侧点击 Commit changes... 按钮。填写 Commit message，点击 Commit changes。
-![填写 Commit message，点击 Commit changes]({{ site.baseurl }}/images/jekyll-version-commit-changes.png)
+![填写 Commit message，点击 Commit changes]({{ site.baseurl }}/images/jekyll-version-commit-changes.webp)
 *提交更改*
 
 这里创建的 workflow 会在 `main` branch 发生 `push` 时自动将静态网站文件 `push` 到 `gh-pages` branch 上。
@@ -82,7 +82,7 @@ remote: Permission to (...) denied to github-actions[bot].
 ### 四、GitHub Pages 选择 build from gh-pages branch.
 
 GitHub 切换到 Settings 标签，左侧面板选择 Pages。右侧 Build and deployment，Source 选择 Deploy from a branch，Branch 选择 gh-pages, /(root)。稍等1～2分钟，点击 Visite site 来打开它。
-![GitHub Pages 设置 build from gh-pages branch]({{ site.baseurl }}/images/jekyll-version-build-from-gh-pages.png)
+![GitHub Pages 设置 build from gh-pages branch]({{ site.baseurl }}/images/jekyll-version-build-from-gh-pages.webp)
 
 这里是为了让 GitHub Pages 用我们的静态网站文件来构建网页。
 
@@ -110,12 +110,12 @@ GitHub 切换到 Settings 标签，左侧面板选择 Pages。右侧 Build and d
 - 在文章概览区域显示阅读时长
 - 添加中国大陆地区也可使用的评论区
 
-![在文章概览区域显示阅读时长]({{ site.baseurl }}/images/jekyll-version-minutes-read.png)
+![在文章概览区域显示阅读时长]({{ site.baseurl }}/images/jekyll-version-minutes-read.webp)
 *在文章概览区域显示阅读时长*
 
 本地构建成功后，我就把这期间的 commit `push` 到 GitHub 中，结果出现了构建失败的邮件。
 
-![GitHub workflow run failed email with a 'View workflow run' 按钮]({{ site.baseurl }}/images/jekyll-version-workflow-failed.png)
+![GitHub workflow run failed email with a 'View workflow run' 按钮]({{ site.baseurl }}/images/jekyll-version-workflow-failed.webp)
 *GitHub 构建失败的邮件内容*
 
 我遇到的问题是：

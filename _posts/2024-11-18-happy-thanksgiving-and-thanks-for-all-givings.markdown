@@ -18,7 +18,7 @@ tags: thanksgiving emotional-intelligence
 
 《恋爱兄妹》是韩国的一档恋综，播放时间是今年的3月1号到6月14号。
 
-![]({{ site.baseurl }}/images/my-sibling's-romance.png)
+![]({{ site.baseurl }}/images/my-sibling's-romance.jpg)
 *《恋爱兄妹》海报*
 
 我很感恩的是，这三个月的时间里，这个节目陪伴我度过了很多时间，让我能够有机会和出演者共享情绪、快乐和感动。
@@ -27,7 +27,7 @@ tags: thanksgiving emotional-intelligence
 
 姜饼资是一位youtuber，自从用了[姜饼资的生活日誌模板](https://invited-spectacles-147.notion.site/3375474df89d4f72b10b4aadcb64d24a)，我会在每天早上写出3件让我感恩的事。
 
-![]({{ site.baseurl }}/images/gingerbread-template-of-thanksgiving.png)
+![]({{ site.baseurl }}/images/gingerbread-template-of-thanksgiving.webp)
 *姜饼资的生活日誌模板 之 3件让我感恩的事*
 
 其实一开始我都找不出什么让我感恩的事，但慢慢地有很多可以感恩的事情出现了，我渐渐地更能发现别人对我的帮助了，也更少生气了。我非常感谢姜饼资的这个模板，让我在**愤怒管理**这件事上取得了出乎预料的进步。
@@ -36,7 +36,7 @@ tags: thanksgiving emotional-intelligence
 
 Ali Abdaal是一位youtuber，分享很多的效率工具和计划技巧。
 
-![]({{ site.baseurl }}/images/ali-abdaal-year-at-a-glance.png)
+![]({{ site.baseurl }}/images/ali-abdaal-year-at-a-glance.webp)
 *Ali Abdaal 的Year at a Glance模板*
 
 我一直都有一个困扰，总是不知道“时间都去哪了？” 直到今年7月20号左右，我看了Ali Abdaal的视频，接触到了Year at a Glance模板，总算让我对“时间都去哪了？”有了答案，我一直用到现在。
@@ -62,7 +62,7 @@ Ali Abdaal是一位youtuber，分享很多的效率工具和计划技巧。
 
 让我获得了勇气的这部电影是米克・杰克逊执导，克莱尔・丹妮丝主演的**《自闭历程》**。
 
-![]({{ site.baseurl }}/images/temple-grandin-poster.jpeg)
+![]({{ site.baseurl }}/images/temple-grandin-poster.webp)
 *Temple Grandin《自闭历程》的海报*
 
 我记住了一句话：“这是一扇门，我要做的就是下定决心穿过它，所有的门都通向新世界。” 当我很害怕做某个事的时候，我就告诉自己这件事就是一扇门，我要穿过去。
@@ -84,7 +84,7 @@ Ali Abdaal是一位youtuber，分享很多的效率工具和计划技巧。
 ## 拼图🧩
 
 如果你看过我的[拼图购物经验分享]({{ page.previous.url }})，那你一定知道我特别喜欢拼图，今年也买了4幅拼图玩。比如下面这幅：
-![我买的《蜡笔小新》拼图，白色背景上分5个小区块，每个区块的内容都有小新]({{ site.baseurl }}/images/shinchan.jpeg)
+![我买的《蜡笔小新》拼图，白色背景上分5个小区块，每个区块的内容都有小新]({{ site.baseurl }}/images/shinchan.webp)
 *我买的[《蜡笔小新》](https://uland.taobao.com/coupon/edetail?e=Zg003v0LwAOlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLqafLQOEZunuHS8K2TLhODpvu%2F1YdV%2F0P62ub0uBkskTaAJ2HcjxYwWSLuThnD724AEaMBxNvOF64bVlo0QJT9KkZQi7JkfSgQ9QCyZlHKF%2BOOiX2Bc1NdbgRFUleBhNM0WFdIlL9wIIgy9egSgwfxAFWAKWvjHgz6liPt9wV88jHnvWCmjakY5cQKByiZ36ftxl6Um37OPIZp502cUisgUDlyRa2iPT%2Fy2iVYckkvpoxhMeuD5iN%2B1D9ZzTfOOXe%2Bm9PGdJ%2FlaVikJ4DkGM%2Fp6J7%2BkHL3AEW&traceId=21057adf17318562997453793e39c6&union_lens=lensId%3APUB%401731825284%40213e4437_0e17_19338d4b5cc_b6f2%40026oUIuPPUH9kEPTopUWlxFh%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_1_17318252845781433500159)拼图实物图*
 
 我想感恩这四幅拼图，陪我度过了很多闲暇时光，拼拼图的时候很开心。
@@ -93,7 +93,7 @@ Ali Abdaal是一位youtuber，分享很多的效率工具和计划技巧。
 
 从今年的10月8号起，我做到了对自己的要求，也就是每周二上传一个视频。
 
-![]({{ site.baseurl }}/images/bili-homepage-2024-11-24.png)
+![]({{ site.baseurl }}/images/bili-homepage-2024-11-24.webp)
 *我的B站个人页*
 
 我想要感谢的是：

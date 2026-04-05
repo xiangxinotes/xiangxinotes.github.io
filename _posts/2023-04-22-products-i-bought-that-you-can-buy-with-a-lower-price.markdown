@@ -3,7 +3,7 @@ layout: post
 title: 苹果电脑兼容最好、可以带上飞机的充电宝和充电线，附购买链接！
 date: 2023-04-22 17:10:35 +0800
 description: 还在为苹果手机寻找合适的充电宝和充电线？本文为你精心挑选了完美兼容苹果手机、可带上飞机的优质充电宝和充电线。20000 毫安时的移动电源，能为苹果手机及其他设备高效充电，还通过航空安全认证。充电线耐用又便携。文中还附上购买链接，助你轻松入手，让你的苹果手机随时保持电量充足，出行无忧。Dell电脑电源适配器，有品体脂秤也有！这些都是我买过、觉得性价比高的商品。如果有你要买的商品，请放心下手！
-image: 2023-04-22.jpg
+image: 2023-04-22.webp
 tags: product
 ---
 
@@ -30,7 +30,7 @@ tags: product
 - ✅ 信得过的品牌（绿联，有名
 - ✅ 可以带上飞机（74Wh, 20000mAh 3.7V）
 
-![绿联和苹果同厂ATL电芯]({{ site.baseurl }}/images/ugreen-chip.jpeg)
+![绿联和苹果同厂ATL电芯]({{ site.baseurl }}/images/ugreen-chip.webp)
 *同厂电芯，应该不会对手机电池造成太大损伤*
 
 因为不带线的话，其他牌子的手机也可以用，所以我就接受了。
@@ -53,14 +53,14 @@ tags: product
 之后在家附近的小店买了条不知名的数据线，反而支撑得比较久。旅居之后觉得干脆网上看看得了。挑了挑，最后还是买了绿联的。（因为充电宝用着还算顺手，就不想浪费时间再跳来跳去了。
 
 选了iPhone 7可以用的这款。当然iPhone14什么的也都可用。
-![绿联数据线的产品图]({{ site.baseurl }}/images/ugreen-cable-product.jpeg)
+![绿联数据线的产品图]({{ site.baseurl }}/images/ugreen-cable-product.webp)
 *绿联数据线实物图*
 
 据我观察，这款数据线最贵时¥34，最便宜时¥29.9，不算便宜不算贵。我2022年11月份买的，白色1m，那时候¥34，因为急着用就直接买了，现在正常使用中。
 
 和其他的非原装线一样，偶尔也会出现“解锁iPhone以使用配件”的提示，解锁就行。有其他识别问题还可以拔出来，换个正反再插进去。（不过话说我原装充电线偶尔也会提示，可能是太脏了🤨
 
-![绿联数据线苹果原装芯片]({{ site.baseurl }}/images/ugreen-cable-chip.jpeg)
+![绿联数据线苹果原装芯片]({{ site.baseurl }}/images/ugreen-cable-chip.webp)
 *Dell/绿联数据线内置苹果原装芯片*
 
 如果你懒得比较，可以：
@@ -75,7 +75,7 @@ tags: product
 
 于是，在淘宝找到了Dell戴尔官方旗舰店，稍微浏览了一下，看了看，就找到了这款电源适配器。
 
-![Dell/戴尔笔记本原装电源适配器的产品图]({{ site.baseurl }}/images/dell-power.png)
+![Dell/戴尔笔记本原装电源适配器的产品图]({{ site.baseurl }}/images/dell-power.webp)
 *Dell/戴尔笔记本原装电源适配器实物图*
 
 找到了还不够，选项好多啊，要确定以下信息：
@@ -87,7 +87,7 @@ tags: product
 - 90W
 - 7.4mm
 
-![Dell/戴尔笔记本90W 7.4mm原装电脑适配器的产品图]({{ site.baseurl }}/images/dell-90w-power-product.jpeg)
+![Dell/戴尔笔记本90W 7.4mm原装电脑适配器的产品图]({{ site.baseurl }}/images/dell-90w-power-product.webp)
 *Dell/戴尔笔记本90W 7.4mm电源适配器实物图*
 
 如果你也有需要，买之前记得一定要仔细核实以下这些信息哦！
@@ -109,19 +109,19 @@ tags: product
 
 用下来觉得还行。薄薄的一个，不用的时候塞到床头柜下面。
 
-![一个薄薄的有品电子秤]({{ site.baseurl }}/images/picooc-img.jpeg)
+![一个薄薄的有品电子秤]({{ site.baseurl }}/images/picooc-img.webp)
 *有品电子秤实物图*
 
 想要测体脂的话，要下载APP连接蓝牙，在APP上点一下“上秤”才行，比较麻烦，没用过其他电子秤，不知道是不是都这么麻烦。好在我测体脂的时候不多，更多的是当普通秤用。
 
 APP会记录下每次的体重，显示趋势图，有时候也会扎你的心❤️‍🩹，说你重了，告诉你要运动啦。(和测体脂一样的流程，所以我老嫌麻烦。
 
-  ![有品电子秤的APP]({{ site.baseurl }}/images/picooc-app.jpeg)
+  ![有品电子秤的APP]({{ site.baseurl }}/images/picooc-app.webp)
   *有品电子秤APP图*
 
 这款秤有电池款和充电款。我买了充电款，因为感觉更环保，更省钱。买回来之后只充了2次电。这主要是因为我用秤的频率很低，最多一月一次。另外，我2022年8月开始就各处旅居中，秤扔在家里没带。
 
-![有品电子秤防侧翻、隐藏显示、可以抱婴儿给她称重、180天续航]({{ site.baseurl }}/images/picooc.jpeg)
+![有品电子秤防侧翻、隐藏显示、可以抱婴儿给她称重、180天续航]({{ site.baseurl }}/images/picooc.webp)
 *有品电子秤防侧翻、隐藏显示、可以抱婴儿给她称重、180天续航*
 
 如果你看上了这款电子秤，可以：

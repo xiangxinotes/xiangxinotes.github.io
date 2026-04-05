@@ -3,13 +3,13 @@ layout: post
 title: 【详细教程】怎么解决 javascript 访问本地文件时的浏览器跨域报错，实现本地预览？A step to step guide!
 date: 2024-12-02 12:14:13 +0800
 description: 在 js 中访问本地文件（可以是任何文件，但通常是 json 或 js 文件），浏览器却提示：Access to fetch at 'file:///.../xx.json' from origin 'null' has been blocked by CORS policy. Cross origin requests are only supported for protocol schemes. chrome, chrome-extension, chrome-untrusted, data, http, https, isolated-app. GET file:///../xx.json net::ERR_FAILED. Uncaught (in promise) TypeError. Failed to fetch. 本文分享2个方法助你轻松解决报错，实现本地预览！
-image: access-to-fetch-at-file-from-origin-null-has-been-blocked-by-CORS-policy.png
+image: access-to-fetch-at-file-from-origin-null-has-been-blocked-by-CORS-policy.webp
 tags: javascript js json local-file cross-origin local-preview
 ---
 
 在前端开发的过程中，我们时常会遇到需要在 javascript 中直接访问本地 json 文件、js 文件（当然也可以是其他文件）的情况，我们写好了脚本，但双击 html 后却常常会从浏览器的控制台中看到这样的报错提示：
 
-![Chrome浏览器 blocked by CORS policy, net::ERR_FAILED, Failed to fetch 报错截图]({{ site.baseurl }}/images/uncaught-in-promise-typerror-failed-to-fetch.png)
+![Chrome浏览器 blocked by CORS policy, net::ERR_FAILED, Failed to fetch 报错截图]({{ site.baseurl }}/images/uncaught-in-promise-typerror-failed-to-fetch.webp)
 *Chrome浏览器 blocked by CORS policy, net::ERR_FAILED, Failed to fetch 报错截图*
 
 ```javascript
@@ -62,13 +62,13 @@ GET 文件:///.../xx.json net::ERR_FAILED。
 3. 重启 VS Code
 4. 点击 VS Code 右下角的 Go Live 实现本地预览（参考下方截图3）
 
-![VS Code 界面截图1: 点击主界面左下角的设置按钮、选择 Extensions]({{ site.baseurl }}/images/click-settings-button-then-choose-extensions-to-install-live-server-in-vs-code.png)
+![VS Code 界面截图1: 点击主界面左下角的设置按钮、选择 Extensions]({{ site.baseurl }}/images/click-settings-button-then-choose-extensions-to-install-live-server-in-vs-code.webp)
 *VS Code 界面截图1：点击主界面左下角的设置按钮、选择 Extensions*
 
-![VS Code 界面截图2: 在左上角输入并搜索 “Live Server”、选择 Ritwick Dey 的这一个 “Live Server”、在右边点击 install]({{ site.baseurl }}/images/input-select-and-install-the-extension-live-server.png)
+![VS Code 界面截图2: 在左上角输入并搜索 “Live Server”、选择 Ritwick Dey 的这一个 “Live Server”、在右边点击 install]({{ site.baseurl }}/images/input-select-and-install-the-extension-live-server.webp)
 *VS Code 界面截图2：在左上角输入并搜索 “Live Server”、选择 Ritwick Dey 的这一个 “Live Server”、在右边点击 install*
 
-![VS Code 界面截图3: 重启后点击 VS Code 右下角的 Go Live 实现本地预览]({{ site.baseurl }}/images/click-go-live-to-build-a-local-server.png)
+![VS Code 界面截图3: 重启后点击 VS Code 右下角的 Go Live 实现本地预览]({{ site.baseurl }}/images/click-go-live-to-build-a-local-server.webp)
 *VS Code 界面截图3：重启后点击 VS Code 右下角的 Go Live 实现本地预览*
 
 ### 方案二：访问托管平台中的文件来实现本地预览

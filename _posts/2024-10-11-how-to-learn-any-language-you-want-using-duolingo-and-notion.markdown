@@ -3,7 +3,7 @@ layout: post
 title: 如何用多邻国+Notion，学会任何你想学的语言？
 date: 2024-10-11 15:38:35 +0800
 description: 想学会任何一门心仪的语言吗？本文将为你揭晓多邻国与 Notion 强强联合的学习秘籍。剖析多邻国丰富的课程资源和 Notion 强大的笔记整理功能，教你如何巧妙搭配使用，制定专属学习计划，从基础词汇积累到复杂语法掌握，全方位助力语言学习，开启高效学习之旅。
-image: duolingo-plus-notion.png
+image: duolingo-plus-notion.webp
 tags: tools french languages duolingo notion
 ---
 
@@ -65,7 +65,7 @@ Duolingo的使用比较简单，所以在这里只介绍Notion。
 ### Notion Database
 
 用来存放我学的法语单词和句子（下文简称**条目**）。这个Database很简单，共4列。
-![用来存放单词和句子的Notion Database]({{ site.baseurl }}/images/notion-database.png)
+![用来存放单词和句子的Notion Database]({{ site.baseurl }}/images/notion-database.webp)
 
 * 第1列：**掌握程度**。是我对当前条目掌握程度的评估，分为3种程度：To-do, In progress, 和Complete. 每个程度下面还有子状态。
 	* **To-do**。表示当前条目正等我去复习的状态。包含一个子状态：
@@ -89,13 +89,13 @@ Duolingo的使用比较简单，所以在这里只介绍Notion。
 这个页面分为上下两个区块。
 
 每个区块都由一个标题和一个tableview（视图）组成。这个tableview关联的就是上面介绍的Notion Database.
-![分为两个区块的Notion Page]({{ site.baseurl }}/images/notion-page.png)
+![分为两个区块的Notion Page]({{ site.baseurl }}/images/notion-page.webp)
 
 上半部分，是我每天学习和复习的主要战地，这里的tableview会自动帮我过滤出需要复习的词。
-![Notion Page的上半部]({{ site.baseurl }}/images/notion-page-upper-section.png)
+![Notion Page的上半部]({{ site.baseurl }}/images/notion-page-upper-section.webp)
 
 下半部分，是我已经完成复习，并且认定为短期内无需复习的句子或词汇。我会隔一个月左右来复习掌握程度为**需多次复习**的条目。
-![Notion Page的下半部]({{ site.baseurl }}/images/notion-page-bottom-section.png)
+![Notion Page的下半部]({{ site.baseurl }}/images/notion-page-bottom-section.webp)
 
 声明：本文并**未**接受 Duolingo, Notion 任何形式的赞助。
 

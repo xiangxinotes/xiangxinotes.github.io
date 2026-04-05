@@ -66,7 +66,7 @@ keywords:
 
 对自动挡汽车来说，一般有5挡：P, R, N, D, S. 我们的教练车和考试车也一样，细节如图：
 
-![捷达va3自动挡挡位细节的图片，共有5挡：P, R, N, D, S]({{ site.baseurl }}/images/gear-jetta-av3.png)
+![捷达va3自动挡挡位细节的图片，共有5挡：P, R, N, D, S]({{ site.baseurl }}/images/gear-jetta-av3.webp)
 *捷达va3自动挡挡位细节*
 
 可以看出，5个挡位从上到下依次是：
@@ -82,7 +82,7 @@ keywords:
 
 座椅调节是一切的开始，只有座椅调节合适，练车、考试才会顺利。接下来，我们一起看看教练车、考试车驾驶位的座椅长啥样：
 
-![捷达va3自动挡驾驶位座椅侧视图，可以清晰的看到前后、上下、角度调节按钮]({{ site.baseurl }}/images/drivers-car-seat-jetta-av3.png)
+![捷达va3自动挡驾驶位座椅侧视图，可以清晰的看到前后、上下、角度调节按钮]({{ site.baseurl }}/images/drivers-car-seat-jetta-av3.webp)
 *捷达va3自动挡驾驶位座椅侧视图*
 
 下面我们来讲讲具体怎么调节。
@@ -99,7 +99,7 @@ keywords:
 
 如果觉得文字描述太过抽象，看看下面这张图：
 
-![捷达va3自动挡驾驶位座椅前后调节杆所在位置，在座椅正下方有一个横向拉杆]({{ site.baseurl }}/images/drivers-car-seat-distance-adjustment-lever-jetta-av3.png)
+![捷达va3自动挡驾驶位座椅前后调节杆所在位置，在座椅正下方有一个横向拉杆]({{ site.baseurl }}/images/drivers-car-seat-distance-adjustment-lever-jetta-av3.webp)
 *捷达va3自动挡驾驶位座椅前后调节杆所在位置*
 
 图中颜色最深的就是座椅正下方的横向拉杆。座椅下方有滑轨，座椅就是在滑轨的范围内前后移动的。刚开始找不到感觉很正常，多练习多感受即可，不要压力太大。
@@ -114,7 +114,7 @@ keywords:
 
 觉得抽象？看看这张图：
 
-![在捷达va3自动挡驾驶位座椅椅垫左侧有一个调节器]({{ site.baseurl }}/images/drivers-car-seat-height-adjustment-lever-jetta-av3.png)
+![在捷达va3自动挡驾驶位座椅椅垫左侧有一个调节器]({{ site.baseurl }}/images/drivers-car-seat-height-adjustment-lever-jetta-av3.webp)
 *捷达va3自动挡驾驶位座椅高度调节器所在位置*
 
 图中颜色最深的就是座椅左侧的高度调节器。
@@ -133,7 +133,7 @@ keywords:
 
 还是不知道调节器在哪？看看这张图：
 
-![在捷达va3自动挡驾驶位座椅靠背左侧有一个调节器]({{ site.baseurl }}/images/drivers-car-seat-angle-adjuster-jetta-av3.png)
+![在捷达va3自动挡驾驶位座椅靠背左侧有一个调节器]({{ site.baseurl }}/images/drivers-car-seat-angle-adjuster-jetta-av3.webp)
 *捷达va3自动挡驾驶位座椅靠背角度调节器所在位置*
 
 图中颜色最深的就是靠背角度调节器所在区域，突出的像口哨形状的就是靠背角度调节器，按住它向后掰即可进行调整。
@@ -193,7 +193,7 @@ keywords:
 
 捷达va3转向灯控制杆的细节图如下：
 
-![捷达va3转向灯控制杆的细节图]({{ site.baseurl }}/images/turn-signal-lever-detail-jetta-av3.png)
+![捷达va3转向灯控制杆的细节图]({{ site.baseurl }}/images/turn-signal-lever-detail-jetta-av3.webp)
 *捷达va3转向灯控制杆的细节*
 
 图片上一左一右两个箭头符号（⇦⇨）的意思就是左右转向灯。符号左边的则是远近光灯的意思，科目二可以忽略。

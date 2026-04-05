@@ -41,7 +41,7 @@ keywords:
 
 精河县的科目一考试题被完美的包含在了这款 APP 中，截至目前，科一共2095道题目，题库完全免费，所以没有额外花销。
 
-![科一选项卡]({{ site.baseurl }}/images/kemuyi_card.png)
+![科一选项卡]({{ site.baseurl }}/images/kemuyi_card.jpg)
 *科一模块*
 
 如果是看不懂汉文的少数民族考生，很遗憾，这款 APP 不支持其他文字，你只能去驾校办公室用驾校的电脑刷题了。
@@ -54,7 +54,7 @@ keywords:
 
 打开**驾考宝典** APP，里面有个 **“错题·收藏”** 按钮。
 
-![错题·收藏按钮]({{ site.baseurl }}/images/kemuyi_ctsc.png)
+![错题·收藏按钮]({{ site.baseurl }}/images/kemuyi_ctsc.jpg)
 *错题·收藏按钮*
 
 这里的内容分为错题和收藏两部分：
@@ -63,12 +63,12 @@ keywords:
 
 #### 错题
 
-![错题]({{ site.baseurl }}/images/kemuyi_ct.png)
+![错题]({{ site.baseurl }}/images/kemuyi_ct.jpg)
 *错题*
 
 错题本最有价值的地方就是错题分布部分了。这里会把你的错题按考点分组，然后按照你错得最多的到错得最少的来排序。错得最多的最不擅长，建议花更多时间去细细了解一下，加深印象。
 
-![错题分布]({{ site.baseurl }}/images/kemuyi_ctfb.png)
+![错题分布]({{ site.baseurl }}/images/kemuyi_ctfb.jpg)
 *错题分布*
 
 #### 收藏
@@ -83,7 +83,7 @@ ok，所以为什么要收藏这种题？
 
 so，是时候摆脱侥幸心理，好好刷题啦～
 
-![收藏]({{ site.baseurl }}/images/kemuyi_sc.png)
+![收藏]({{ site.baseurl }}/images/kemuyi_sc.jpg)
 *收藏*
 
 ### 模拟题
@@ -92,7 +92,7 @@ so，是时候摆脱侥幸心理，好好刷题啦～
 
 打开驾考宝典 APP，里面有个 **“模拟考试”**按钮。每一次考试都是一次真实考试的模拟，其中包含100道题，全都是你在刷题阶段刷过的题。
 
-![模拟考试按钮]({{ site.baseurl }}/images/kemuyi_mnks.png)
+![模拟考试按钮]({{ site.baseurl }}/images/kemuyi_mnks.jpg)
 *模拟考试按钮*
 
 每套模拟题做完以后，把新的错题也再刷一遍，可以帮助我们不在同一个地方栽跟头。
@@ -129,7 +129,7 @@ so，是时候摆脱侥幸心理，好好刷题啦～
 3. 坐在椅子上，把鞋套穿上
 3. 等待并按序进入机房参加考试
 
-![机房照片]({{ site.baseurl }}/images/jifang.png)
+![机房照片]({{ site.baseurl }}/images/jifang.webp)
 *机房（豆包AI生成）*
 
 ### 进考试机房的要求

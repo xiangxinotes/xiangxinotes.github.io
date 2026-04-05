@@ -3,7 +3,7 @@ layout: post
 title: 【2026最新】GitHub下载慢/失败？2个免费加速网站一键解决！附msys2安装包极速下载教程
 date: 2026-03-15 21:40:35 +0800
 description: 日常开发中经常要从GitHub下载文件，但总是下载超时甚至直接下载失败，让人生气。尤其是像msys2-x86_64-20251213.exe这类安装包，失败次数更多。本文分享2个免费、无需注册、新手友好的GitHub资源加速网站，一步一步教你操作，轻松搞定下载难题，亲测有效。
-image: github-download-accelerator-msys2-tutorial_gh-proxy_screenshot.png
+image: github-download-accelerator-msys2-tutorial_gh-proxy_screenshot.webp
 tags: tools resources github
 keywords:
   - GitHub下载
@@ -44,7 +44,7 @@ keywords:
 
 
 截图供参考：
-![gh-proxy.com网站操作的截图，用箭头和方框圈出了1～3步对应的位置]({{ site.baseurl }}/images/github-download-accelerator-msys2-tutorial_gh-proxy_screenshot.png)
+![gh-proxy.com网站操作的截图，用箭头和方框圈出了1～3步对应的位置]({{ site.baseurl }}/images/github-download-accelerator-msys2-tutorial_gh-proxy_screenshot.webp)
 *gh-proxy.com使用截图参考*
 
 
@@ -60,7 +60,7 @@ keywords:
 1. 打开一个新标签页，粘贴加速链接并回车，浏览器会自动开始下载文件
 
 截图供参考：
-![gitwarp.com网站操作的截图，用箭头和方框圈出了1～3步对应的位置]({{ site.baseurl }}/images/github-download-accelerator-msys2-tutorial_gitwrap_screenshot.png)
+![gitwarp.com网站操作的截图，用箭头和方框圈出了1～3步对应的位置]({{ site.baseurl }}/images/github-download-accelerator-msys2-tutorial_gitwrap_screenshot.webp)
 *gitwarp.com使用截图参考*
 
 ## 小总结

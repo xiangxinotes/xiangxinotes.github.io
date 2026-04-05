@@ -3,7 +3,7 @@ layout: post
 title: 【详细教程】怎么直接访问并使用托管在 Github 上的 json 文件？A step to step guide!
 date: 2024-11-28 14:56:35 +0800
 description: 想要把 Github 当做自己的 json 库，减轻自己服务器的压力？想要通过 http 请求获取 Github 中 json 文件的内容？本文提供详细的分步指南，包括精准定位文件存放位置以及对其进行有效加工的方法，附实际演示案例，助你轻松上手。
-image: categories-json-in-sql-wizland-hosted-on-github.png
+image: categories-json-in-sql-wizland-hosted-on-github.webp
 tags: github json
 ---
 
@@ -31,7 +31,7 @@ tags: github json
 3. 点击这个 json 文件的名字打开它，[浏览器显示的网址](https://github.com/xiangxinotes/sql-wizland/blob/main/json/categories.json)结尾是.json
 4. 复制上一步的网站：[https://github.com/xiangxinotes/sql-wizland/blob/main/json/categories.json](https://github.com/xiangxinotes/sql-wizland/blob/main/json/categories.json)
 
-![categories.json 文件在名为 xiangxinotes 的 Github 用户的名为 sql-wizland 的 Github 仓库中的截图展示]({{ site.baseurl }}/images/categories-json-in-sql-wizland-hosted-on-github.png)
+![categories.json 文件在名为 xiangxinotes 的 Github 用户的名为 sql-wizland 的 Github 仓库中的截图展示]({{ site.baseurl }}/images/categories-json-in-sql-wizland-hosted-on-github.webp)
 
 ### 2. 关键步骤：对 json 文件在 Github 中的存放位置进行加工
 

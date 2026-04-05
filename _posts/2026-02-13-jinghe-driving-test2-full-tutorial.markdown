@@ -42,7 +42,7 @@ keywords:
 
 在科目二，不需要记其他的圈数，记住0、180、360、540度即可。对这些圈数/角度熟悉会大大提升你的学习速度。
 
-![捷达va3自动挡方向盘不同圈数的图片]({{ site.baseurl }}/images/wheels-jetta-av3.png)
+![捷达va3自动挡方向盘不同圈数的图片]({{ site.baseurl }}/images/wheels-jetta-av3.webp)
 *捷达va3自动挡方向盘不同圈数时的状态*
 
 ### 要用哪些挡位

@@ -3,7 +3,7 @@ layout: post
 title: 必看！学英语总是没效果？深度剖析学英语的底层逻辑
 date: 2024-11-06 21:22:59 +0800
 description: 还在为英语学习停滞不前而烦恼？本文深度剖析学英语的底层逻辑，涵盖学英语的心态、方法、正反馈、着手点等方面，教你如何巧妙利用这些逻辑，实现高效学习，从根本上解决学英语时词汇记不住、语法难理解、表达不流畅等问题，助力你轻松提升英语水平，开启英语学习新征程。
-image: underlying-logic-of-learning-any-language.png
+image: underlying-logic-of-learning-any-language.webp
 tags: english languages
 ---
 

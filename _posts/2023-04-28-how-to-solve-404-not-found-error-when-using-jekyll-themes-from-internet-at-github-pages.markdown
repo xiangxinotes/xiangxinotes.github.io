@@ -3,7 +3,7 @@ layout: post
 title: 震惊！解决 GitHub Pages 使用 Jekyll 主题时 tag 目录出现的 404 NOT FOUND 问题竟然如此简单！
 date: 2023-04-28 17:27:35 +0800
 description: 用 GitHub Pages 搭建个人网站，Jekyll theme 都选好了，但在自己的 GitHub Pages 出现了 tag 目录404？别担心，向西来帮你！
-image: xiangxi-forked-zolan-tag-404-not-found.png
+image: xiangxi-forked-zolan-tag-404-not-found.webp
 tags: github-pages jekyll
 ---
 
@@ -15,10 +15,10 @@ tags: github-pages jekyll
 
 不知道你用的主题用了那些插件？步骤如下：
 1. 最外层目录下，打开 **`_config.yml`**
-![向西的 GitHub 代码仓库 Zolan 最外层目录]({{ site.baseurl }}/images/xiangxi-forked-zolan-working-directory.png)
+![向西的 GitHub 代码仓库 Zolan 最外层目录]({{ site.baseurl }}/images/xiangxi-forked-zolan-working-directory.webp)
 *最外层目录下有一个 _config.yml*
 2. 搜索 **`plugins:`** 其下就是该主题所用插件。
-![Zolan 主题所用的插件截图]({{ site.baseurl }}/images/xiangxi-forked-zolan-config-yml.png)
+![Zolan 主题所用的插件截图]({{ site.baseurl }}/images/xiangxi-forked-zolan-config-yml.webp)
 *Zolan 主题所用的插件*
 
 由上可知，Zolan 主题使用插件如下：
@@ -48,10 +48,10 @@ Server running... press ctrl-c to stop.
 
 ### 本地工作目录下多了一个 _site/ 的文件夹，执行以下操作：
 1. 复制 _site/ 文件夹内的 tag/ 文件夹
-![向西笔记本地目录 _site/ 文件夹详情]({{ site.baseurl }}/images/xiangxinotes-github-io-site-folder-under-working-directory.png)
+![向西笔记本地目录 _site/ 文件夹详情]({{ site.baseurl }}/images/xiangxinotes-github-io-site-folder-under-working-directory.webp)
 *_site/ 文件夹内的 tag/ 文件夹*
 1. 粘贴到最外层目录下。
-![向西笔记本地工作目录全貌]({{ site.baseurl }}/images/xiangxinotes-github-io-tag-folder-under-working-directory.png)
+![向西笔记本地工作目录全貌]({{ site.baseurl }}/images/xiangxinotes-github-io-tag-folder-under-working-directory.webp)
 *最外层目录下的 tag/ 文件夹*
 
 ### 回到 Terminal ，输入以下指令：
@@ -87,14 +87,14 @@ Server running... press ctrl-c to stop.
 
 我遇到的 404 Page Not Found 问题：
 1. 在 GitHub 上 fork [Zolan 主题](http://jekyllthemes.org/themes/zolan/)，打开 GitHub pages 设置。
-![向西 fork 的 Zolan 主题截图]({{ site.baseurl }}/images/xiangxi-forked-zolan.png)
+![向西 fork 的 Zolan 主题截图]({{ site.baseurl }}/images/xiangxi-forked-zolan.webp)
 *在 GitHub 上 fork Zolan 主题*
 2. 切换至 Settings 标签，左侧面板选择 Pages。右侧 Build and deployment，Source 选择 Deploy from a branch，Branch 选择 master, /(root)。稍等1～2分钟，GitHub Pages 下出现 site link，点击 Visite site 来打开它
-![GitHub Pages 设置截图]({{ site.baseurl }}/images/xiangxi-forked-zolan-github-pages.png)
+![GitHub Pages 设置截图]({{ site.baseurl }}/images/xiangxi-forked-zolan-github-pages.webp)
 *GitHub Pages 设置*
 3. 在 LATEST POSTS 中随便点击一个 post 的 tag。
-![点击 tag 为 resources 的标签]({{ site.baseurl }}/images/xiangxi-forked-zolan-resources-tag-under-latest-posts.png)
+![点击 tag 为 resources 的标签]({{ site.baseurl }}/images/xiangxi-forked-zolan-resources-tag-under-latest-posts.webp)
 *随便点击一个 post 的 tag，比如 resources*
 4. tag 页面显示 404 Page not found
-![显示404 Page not found的tag 页面]({{ site.baseurl }}/images/xiangxi-forked-zolan-tag-404-not-found.png)
+![显示404 Page not found的tag 页面]({{ site.baseurl }}/images/xiangxi-forked-zolan-tag-404-not-found.webp)
 *tag 页面显示 404 Page not found*

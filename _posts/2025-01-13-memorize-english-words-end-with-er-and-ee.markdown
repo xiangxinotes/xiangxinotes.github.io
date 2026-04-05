@@ -3,7 +3,7 @@ layout: post
 title: 90% 的人都不知道！掌握 -er 和 -ee 后缀，单词背诵快准狠，英语水平飞跃
 date: 2025-01-13 20:33:38 +0800
 description: 还在为记单词发愁？本文聚焦于 -er 和 -ee 这2个在构建英语名词体系中扮演着非常重要的常见词缀，深入剖析它们在单词构成中的规律与含义。通过丰富的单词实例，展示如何借助这两个词缀快速理解、记忆大量单词，让你告别死记硬背，开启高效记单词的新旅程，轻松提升词汇量。
-image: windows-kRWY72TKB0Y-unsplash.jpg
+image: windows-kRWY72TKB0Y-unsplash.webp
 tags: english languages suffix noun
 ---
 
@@ -52,7 +52,7 @@ tags: english languages suffix noun
 - payee （收款人：被 pay 的对象）
 - grantee （受让人：被 grant 的对象）
 
-![6名雇员围坐在电脑旁的照片]({{ site.baseurl }}/images/windows-kRWY72TKB0Y-unsplash.jpg)
+![6名雇员围坐在电脑旁的照片]({{ site.baseurl }}/images/windows-kRWY72TKB0Y-unsplash.webp)
 *一群雇员 6 employees Photo by <a href="https://unsplash.com/@windows?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Windows</a> on <a href="https://unsplash.com/photos/woman-in-maroon-sweater-using-laptop-kRWY72TKB0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
 
 ## 总结
