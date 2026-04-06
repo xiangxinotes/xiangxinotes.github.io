@@ -5,6 +5,7 @@ date: 2025-02-14 21:56:00 +0800
 description: 做自媒体，素材缺乏让你头疼？找图片，商用的贵，免费的差；配音乐，怕侵权；用字体，担心吃官司。难道只能被素材“拿捏”？别慌！今天分享8个免费商用素材网站，字体、图片、音乐全都有，一键解决难题！
 image: pexels-valentinantonucci-1275393.jpg
 tags: tools resources content-creator influencer tech fonts music pictures
+keywords: "谷歌字体,阿里巴巴字体,思源黑体,Pexels,Unsplash,Bensound,Free Stock Music,Purple Planet Music,iMovie,剪映,自媒体,免费素材,免费商用,高质量"
 ---
 
 做自媒体的这一路，你是不是也被**素材**折磨得焦头烂额？找图片，商用的贵，免费的差；配音乐，怕侵权；用字体，担心吃官司。难道我们这些努力做自媒体的人，就只能被素材“拿捏”吗？别慌！今天就分享8个宝藏素材网站给你，全都**免费商用**，字体、图片、音乐全都有，还有实用剪辑工具，一键解决你的素材难题，让你的创作之路畅通无阻！ 
