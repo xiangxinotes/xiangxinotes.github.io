@@ -24,6 +24,15 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+  - scope:
+      path: "sitemap.xml"
+    values:
+      layout: null
+      sitemap: false
+
+webrick:
+  headers:
+    "Content-Type": "application/xml; charset=utf-8"
 
 include:
   - _pages
