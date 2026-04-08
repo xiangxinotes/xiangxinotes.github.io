@@ -5,13 +5,13 @@
       {% if paginator.previous_page %}
       
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_prev_button">Prev Posts</a>
+        <a class="previous-link" href="{{ site.baseurl }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_prev_button">较新文章</a>
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_prev_button">Prev Posts</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_prev_button">较新文章</a>
       {% endif %}
       
       {% else %}
-        <span class="disabled">Prev Posts</span>
+        <span class="disabled">较新文章</span>
       {% endif %}
 
       <div class="counter-box">
@@ -33,9 +33,9 @@
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_next_button">Next Posts</a>
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_next_button">较早文章</a>
       {% else %}
-        <span class="disabled">Next Posts</span>
+        <span class="disabled">较早文章</span>
       {% endif %}
 
 
