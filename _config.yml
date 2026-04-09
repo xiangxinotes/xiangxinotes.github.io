@@ -13,7 +13,7 @@ plugins:
   - jekyll/tagging
   - jekyll-seo-tag
 
-paginate: 10
+paginate: 7
 paginate_path: "/page/:num"
 
 words_per_minute: 450 # the number of words per minute. 20260312
