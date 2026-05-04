@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 【2025最新】旅居清单｜1个背包 + 1个行李箱，我是如何在7个城市旅居的？
+title: 【2026最新】旅居清单｜1个背包 + 1个行李箱，我是如何在7个城市旅居的？
 date: 2025-02-04 09:59:35 +0800
+last_modified_at: 2026-05-04 19:26:30 +0800
 description: 《中国旅居市场需求调查报告》称：越来越多年轻群体体验旅居出行，以数字游民为主体的一二线城市“新青年”主导旅居的新风向。作为一名旅居7城的经验者，今天就用一份清单，助你开启属于你的自由生活。
 image: pexels-vlada-karpovich-7368277.jpg
 tags: sojourn guide
@@ -9,7 +10,9 @@ tags: sojourn guide
 
 《中国旅居市场需求调查报告》称：越来越多年轻群体体验旅居出行，以数字游民为主体的一二线城市“新青年”主导旅居的新风向。
 
-作为一个背着1个书包、拖着1个行李箱，在7个城市旅居过的过来人，想来分享一份拿上就走的物品清单，助你开启旅居生活！
+作为一个背着1个书包、拖着1个[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)，在7个城市旅居过的过来人，想来分享一份拿上就走的物品清单，助你开启旅居生活！
+
+本文提到的所有产品，**本人均买过**，觉得质量不错的才分享链接。如有需要，请直接购买。
 
 ![一个女生看世界地图，旁边放着两个打开的行李箱]({{ site.baseurl }}/images/pexels-vlada-karpovich-7368277.jpg)
 *如何开启旅居生活 <a href="https://www.pexels.com/photo/person-opening-a-map-on-the-floor-7368277/">Photo</a> by Vlada Karpovich*
@@ -20,7 +23,7 @@ tags: sojourn guide
 - 我腰不好，所以不喜欢携带特别多和特别重的东西；
 - 我喜欢极简的生活方式，喜欢开发一件物品的多种用途。
 
-接下来，我就来分享一下，我的书包和行李箱里都有些什么。
+接下来，我就来分享一下，我的书包和[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)里都有些什么。
 
 ## 一、背包
 
@@ -28,32 +31,33 @@ tags: sojourn guide
 - 身份证、护照等证件🪪
 - 笔🖊️和本子📒
 - 手帕纸🧻
-- 牙刷🪥、小牙膏
+- 牙刷🪥、[小牙膏](https://s.click.taobao.com/t?e=m%3D2%26s%3D%2Bc%2B%2BaOBt5AJw4vFB6t2Z2ueEDrYVVa64Pe16VhVMM%2FEyWKG4T5PQo1906SyIHsHUDuXz9JuiEHb0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7r5whl48H5hvPyYvweEncR1WsfiSzhDKJjjPiuNkMZUwCd4kZAQiB5PaGsjrE39xF7W8nl1vhYGL1cDYwe4wnpwAtLAp5msls%2BwJe0jblghT%2FYqkaMCkXkJZ6X%2F9F8Dm5R4RUP5ij2CfVweiXfaVH60dSopZirJ9MMOlD3aCAZKQxZ%2B26bOfv37MYOae24fhW0&union_lens=lensId%3AOPT%401777894378%402105276a_0d48_19df2c34cd2_c877%4001%40eyJmbG9vcklkIjoxMDYxODN9)
 - 旅行装护肤品🧴
 - 护腰腰带（天冷放，夏天不放）
 - 耳机🎧
 - 电脑💻
-- 可以上民航客机的[充电宝、充电线](/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#%E7%BB%BF%E8%81%94%E5%85%85%E7%94%B5%E5%AE%9D)
+- 可以上民航客机的充电宝、[充电线](https://item.taobao.com/item.htm?spm=tbpc.boughtlist.suborder_itemtitle.1.55ad2e8dPCwYrL&id=859976100872&mi_id=0000IshQtvoKi10N8SEn5YqNxbbeqU_aMuTO8bbDPdP6UBU)
 - [雨伞🌂](https://s.click.taobao.com/t?e=m%3D2%26s%3Dpf0jfetVBTlw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU29Lkq8VCEe30JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bat1ZsDLGq90F2lhyNr0ZIH7JJseZIjvA615%2F%2BuhipGV0u3b12Mr9jXhpNlAuji1kXUtS7bxRmjMvMWo1ffjhpJa%2BdnOMBFXLkyI1AaDX%2B4DCH64fousJDU4%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEMJC1uSP7ePHwZzMu0hFvVsYOae24fhW0&union_lens=lensId%3AOPT%401777888405%4021043cc8_0d55_19df2682835_66a4%4001%40eyJmbG9vcklkIjoxMDYxODN9)（夏天放，冬天不放）
 
 ## 二、行李箱
 
-行李箱里应该装些什么？行李箱是你到一个地方开始生活时必须的一些小物件，虽然小但也多，我建议尽量精简，控制在20kg内，因为这是坐飞机时行李的限额。再者，东西带太多，自己拖着也累。另外，行李箱最好买可以上民航客机的尺寸，免得支付额外费用以及造成其他麻烦。
+[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)里应该装些什么？[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)是你到一个地方开始生活时必须的一些小物件，虽然小但也多，我建议尽量精简，控制在20kg内，因为这是坐飞机时行李的限额。再者，东西带太多，自己拖着也累。另外，行李箱最好买可以上民航客机的尺寸，免得支付额外费用以及造成其他麻烦。
 
-我的行李箱里通常有这些东西：
-- 护肤品包（包括基础护肤品🧴、牙膏、针线🧵、指甲钳、头绳等物） * 1
+我的[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)里通常有这些东西：
+- 护肤品包（包括基础护肤品🧴、[冷酸灵牙膏](https://s.click.taobao.com/t?e=m%3D2%26s%3D%2Bc%2B%2BaOBt5AJw4vFB6t2Z2ueEDrYVVa64Pe16VhVMM%2FEyWKG4T5PQo1906SyIHsHUDuXz9JuiEHb0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7r5whl48H5hvPyYvweEncR1WsfiSzhDKJjjPiuNkMZUwCd4kZAQiB5PaGsjrE39xF7W8nl1vhYGL1cDYwe4wnpwAtLAp5msls%2BwJe0jblghT%2FYqkaMCkXkJZ6X%2F9F8Dm5R4RUP5ij2CfVweiXfaVH60dSopZirJ9MMOlD3aCAZKQxZ%2B26bOfv37MYOae24fhW0&union_lens=lensId%3AOPT%401777894378%402105276a_0d48_19df2c34cd2_c877%4001%40eyJmbG9vcklkIjoxMDYxODN9)或[好来牙膏](https://s.click.taobao.com/t?e=m%3D2%26s%3DTj5fEKlSvYhw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU2sEHmjouT2r0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7r5whl48H5hvPyYvweEncR1WsfiSzhDKJjjPiuNkMZUwABLsPG19%2Ba2fyvw9wWBwsfowTauQSxznsbB%2B4Kg6V6bV3kyTnqV4Z8J8n%2FLz4b2dVmAQ5880h5XFc0kes8k%2BVpjCYtYGASbzRUrFwjXfRKMROfYmExpA21hYuFeSgaZjLzlnuzoosKD2aGfepOlw2Exg5p7bh%2BFbQ%3D&union_lens=lensId%3AOPT%401777894466%402166d73c_0d1e_19df2c4a3b1_7bca%4001%40eyJmbG9vcklkIjoxMDYxODN9)、针线🧵、指甲钳、头绳等物） * 1
 - 笔🖊️和本子📒 * 3
 - 没那么重要的其他证件🪪及文件 * 若干
 - [内衣等贴身衣裤👙](https://s.click.taobao.com/t?e=m%3D2%26s%3DLesngAcr3CJw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU%2BbLXVqFQ3rb0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaUODKEOASdcc67BoKqFuO1v1SarTXhIOTUdDn0Cj7EhNGMlSgbRy%2F4wS8LGIw0ibzZ5xKR1mPQUXqACA%2BYjzV3wXRwq8uVxdbLKy%2FeoZ%2FeUdko%2BfO4sLutY%2BDKwFLEd9Q5dUsQ8NYvbgVcZ2y9sl6GRGv0FlTHug0xg5p7bh%2BFbQ%3D&union_lens=lensId%3AOPT%401777888598%402146a265_0d17_19df26b18bd_35ce%4001%40eyJmbG9vcklkIjoxMDYxODN9) * 若干
 - 袜子🧦 * 若干
 - 鞋子🥿 * 1
 - 整套换洗衣物👔（夏日 * 3，冬日 * 2）
-- 小枕头 + [枕套](https://s.click.taobao.com/t?e=m%3D2%26s%3DkxLIeDmTj3Vw4vFB6t2Z2ueEDrYVVa64Pe16VhVMM%2FEyWKG4T5PQo1906SyIHsHUhnbSr0Z%2BjKP0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaeLKcHDwSmt7fvxRBQACX34we6%2FtGg2%2FRjN4f8DSxNxsdNLd4b9Ho8dTchzQgVZSk6lL2B6fXaL6N%2BY6I483UkePxliSpApcdVQbdzCk2GYFOCfaj6jLtjk%2FuprW1TdmBLeMqtJBmsqAWs3OLDevcL2JVxA%2FhHFzUcSpj5qSCmbA%3D&union_lens=lensId%3AOPT%401777888898%400bb74a21_0e17_19df26fada9_96e7%4001%40eyJmbG9vcklkIjoxMDYxODN9) * 1
+- 小枕头 + [枕芯内胆](https://s.click.taobao.com/t?e=m%3D2%26s%3DPAVUPeKGceJw4vFB6t2Z2ueEDrYVVa64Pe16VhVMM%2FEyWKG4T5PQo1906SyIHsHUrOpUmJ4%2Fs9P0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaE45CV4ODBLE3sq0ylYHhg4we6%2FtGg2%2FR0g4t7YZScZYrcaRkM8Lj7GWSes0Hsvzu1y1KSLWjO8zkqUQMI9YuV%2BliXAeZwDQVo55P0hmThw4ZQTgj4Pt1ctw4VFuMX%2FNJj4MrAUsR31Dl1SxDw1i9uP7nyHmkoZi7k%2FQPJRsxlSYtLE8aWNQfNcYMXU3NNCg%2F&union_lens=lensId%3AOPT%401777894837%4021043968_0f37_19df2ca4d2b_b2e0%4001%40eyJmbG9vcklkIjoxMDYxODN9) + [枕套](https://s.click.taobao.com/t?e=m%3D2%26s%3DkxLIeDmTj3Vw4vFB6t2Z2ueEDrYVVa64Pe16VhVMM%2FEyWKG4T5PQo1906SyIHsHUhnbSr0Z%2BjKP0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaeLKcHDwSmt7fvxRBQACX34we6%2FtGg2%2FRjN4f8DSxNxsdNLd4b9Ho8dTchzQgVZSk6lL2B6fXaL6N%2BY6I483UkePxliSpApcdVQbdzCk2GYFOCfaj6jLtjk%2FuprW1TdmBLeMqtJBmsqAWs3OLDevcL2JVxA%2FhHFzUcSpj5qSCmbA%3D&union_lens=lensId%3AOPT%401777888898%400bb74a21_0e17_19df26fada9_96e7%4001%40eyJmbG9vcklkIjoxMDYxODN9) * 1
 - [床单](https://s.click.taobao.com/t?e=m%3D2%26s%3DQ%2FWRvN9iOp9w4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHUfFnGodye1En0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7r5whl48H5hvPyYvweEncR1WsfiSzhDKJjjPiuNkMZUwDnnqQMMTb%2F0znpmhTObRx2MWco0HG1Q4XnrKGKd0ehGDSkrgUTpivLuAdSWiah1Zt%2FZqkhzTD9FWB%2BVlyotQeJoMPIzH2q3oLEkBY4PMzdLLTO8hVXH49zb%2FnUHMQd61%2FGCUoWt8%2BaTOCTnndEcWujYkaCgWULlUmDf%2F%2FChBqI%2FsYMXU3NNCg%2F&union_lens=lensId%3AOPT%401777888838%400b0b7e23_0d6d_19df26ec33f_244d%4001%40eyJmbG9vcklkIjoxMDYxODN9
 ) * 1
 - 护腰腰带（天冷不放，夏天放）
 - [电脑充电器🔌](/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#dell%E6%88%B4%E5%B0%94%E7%94%B5%E8%84%91%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8) * 1
 - [雨伞🌂](https://s.click.taobao.com/t?e=m%3D2%26s%3Dpf0jfetVBTlw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU29Lkq8VCEe30JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bat1ZsDLGq90F2lhyNr0ZIH7JJseZIjvA615%2F%2BuhipGV0u3b12Mr9jXhpNlAuji1kXUtS7bxRmjMvMWo1ffjhpJa%2BdnOMBFXLkyI1AaDX%2B4DCH64fousJDU4%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEMJC1uSP7ePHwZzMu0hFvVsYOae24fhW0&union_lens=lensId%3AOPT%401777888405%4021043cc8_0d55_19df2682835_66a4%4001%40eyJmbG9vcklkIjoxMDYxODN9)（夏天不放，冬天放）
+- [干发帽](https://s.click.taobao.com/t?e=m%3D2%26s%3DLLLGJzukN4xw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHUx%2BLYIha2alH0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaA0D%2BK7mtnCpnpmQbcnd9nv1SarTXhIOT%2FcbizUjsed%2BicyVuQlu%2Fxl8UY31SMVXthL4hDWHUgrTDpLNkOmgABdqRr%2BnEOvQZUj46DB0F56CMJi1gYBJvNFSsXCNd9EoxE59iYTGkDbXThu38KHQcJu14IAhxanpxeikmEiFKP4%2B36itb%2Bgbtjg%3D%3D&union_lens=lensId%3AOPT%401777893796%4021085b2f_0d1c_19df2ba6a4e_7b96%4001%40eyJmbG9vcklkIjoxMDYxODN9)
 - 吹风机
 - 其他
 
@@ -65,16 +69,16 @@ tags: sojourn guide
 
 我只带2双鞋，1双夏天穿的薄款，1双冬天可以穿的厚款。在家里时，基本穿拖鞋，出门2双鞋换着穿，即使周中洗了，周末也能完全干透，非常能够满足我的需求。
 
-我在行李箱里携带行李的原则是：
+我在[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)里携带行李的原则是：
 - 护肤品这类分量大、要一直用的就直接带上。
 - 衣服类准备2～3套，找房期间可以换洗就行。
 - 如果还有空间，可以带一些其他想带的东西。
 
 ## 总结
 
-背包是你随身携带的东西，所以把那些经常取用的东西放在这里最合适，不然你总要打开行李箱找东西。最重要的东西也应该放到背包里，这样即使经常托运的行李丢了，也对你造成不了太大的伤害！
+背包是你随身携带的东西，所以把那些经常取用的东西放在这里最合适，不然你总要打开[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)找东西。最重要的东西也应该放到背包里，这样即使经常托运的行李丢了，也对你造成不了太大的伤害！
 
-行李箱是会经常被托运的行李，所以最好选择可以上民航客机的尺寸，控制克重在20公斤内。这里装的东西你可以带一些你觉得生活必须要有的东西，比如说我会经常睡不好，所以我带上了自己的小枕头协助睡眠。
+[行李箱](https://uland.taobao.com/coupon/edetail?e=meh4IDYTLoilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJqgWXOpmrOuHExfHpvRfxBrdbM0o%2Br%2BYUXOXt1UP03D8WebhS%2FyOwGZ3GrAYZbRIt446tKcL2teJ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSiKxAC3AgxMWZIQ8a6telCnoLBuz8%2BhLK6xwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79HhVIC7Xk%2BOVvBW6hBQLEQ5FMdTsYfvqqDaOB%2FuYmB73%2F3CBClU6uf2SPsM2CWJNcOW4BgFGCWxt&traceId=213e089e17778941471187288e149f&union_lens=lensId%3AOPT%401777894147%402104a311_0e1c_19df2bfc579_8cbd%4001%40eyJmbG9vcklkIjoxMDYxODN9)是会经常被托运的行李，所以最好选择可以上民航客机的尺寸，控制克重在20公斤内。这里装的东西你可以带一些你觉得生活必须要有的东西，比如说我会经常睡不好，所以我带上了自己的小枕头协助睡眠。
 
 总而言之，参考我上方提供的物品列表会帮你节省很多的时间。不要害怕遗漏东西，因为这是难免的，到时候可以买的直接买就好，不能买的请家人朋友帮帮忙也都可以克服。先开启旅居生活然后慢慢调整吧！
 
