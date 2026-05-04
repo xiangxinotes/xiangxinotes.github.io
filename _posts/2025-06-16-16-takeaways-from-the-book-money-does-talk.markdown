@@ -7,7 +7,9 @@ image: pexels-jill-wellington-1638660-40192.jpg
 tags: personal-growth book money early-retirement
 ---
 
-写给未来时不时来翻看本文的自己看的～～ **零废话总结**我可以从[《小狗钱钱》](https://uland.taobao.com/coupon/edetail?e=C%2B3iHwGy2qWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJq7YUKk7lHXe6QxfDNo2koeL7E5mctl3V6SbuNU3cVor9sVXGJBsX77A0j00LesTsJFETz6Hck7ByBOK%2B8KjzSuzY3MUSAX0G1TP3uC6T%2BzqvaZXveMf8wmIkMxXz7X6SkguNypObdEoaFXulWIIcTLAhIJ3HU1OH%2BgSuV3%2BTAbItSviRLVlau%2B5yo9RMQRTar53ydWAsIgB5Wnr1RU5wI6%2FAxvUD1Z9RfeSBK3KXa08IPvWu4nMSnYL3h47oqMq62oYsLHTsIOwCGruttYDvNg%3D%3D&traceId=212ceaad17500757768965657e2dd4&union_lens=lensId%3APUB%401750075745%402103f3ef_1d7d_19778a4a41a_a662%40026mYNtFXzxuequgrNoSZVyN%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_3_17500757453841433500159%3Bscm%3A1007.30148.329090.pub_search-item_80e55dae-6e8c-41e5-ba17-fd954c0612be_)中终生受益的启示！大部分都是原文摘抄，少部分自我加工。
+写给未来时不时来翻看本文的自己看的～～ 
+
+**零废话总结**：我可以从[《小狗钱钱》](https://uland.taobao.com/coupon/edetail?e=C%2B3iHwGy2qWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJq7YUKk7lHXe6QxfDNo2koeL7E5mctl3V6SbuNU3cVor9sVXGJBsX77A0j00LesTsJFETz6Hck7ByBOK%2B8KjzSuzY3MUSAX0G1TP3uC6T%2BzqvaZXveMf8wmIkMxXz7X6SkguNypObdEoaFXulWIIcTLAhIJ3HU1OH%2BgSuV3%2BTAbItSviRLVlau%2B5yo9RMQRTar53ydWAsIgB5Wnr1RU5wI6%2FAxvUD1Z9RfeSBK3KXa08IPvWu4nMSnYL3h47oqMq62oYsLHTsIOwCGruttYDvNg%3D%3D&traceId=212ceaad17500757768965657e2dd4&union_lens=lensId%3APUB%401750075745%402103f3ef_1d7d_19778a4a41a_a662%40026mYNtFXzxuequgrNoSZVyN%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_3_17500757453841433500159%3Bscm%3A1007.30148.329090.pub_search-item_80e55dae-6e8c-41e5-ba17-fd954c0612be_)中终生受益的启示！大部分都是原文摘抄，少部分自我加工。
 
 ## 个人成长 part
 
@@ -66,7 +68,7 @@ tags: personal-growth book money early-retirement
 
 很多人觉得自己银行卡里只有几百块，不算什么财，所以没必要理财。但书中说了，你的每一笔收入都应该进行分配。所以如果你想要变有钱，你应该立刻从床上爬起来，把银行卡里的这几百块钱给分配了。
 
-### 决定一件东西价值多少的唯一因素？
+### 决定一件东西价值多少的唯一因素
 
 你愿意为它支付多少钱。
 
