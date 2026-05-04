@@ -29,12 +29,12 @@ tags: sojourn guide
 - 笔🖊️和本子📒
 - 手帕纸🧻
 - 牙刷🪥、小牙膏
-- 旅行者护肤品🧴
+- 旅行装护肤品🧴
 - 护腰腰带（天冷放，夏天不放）
 - 耳机🎧
 - 电脑💻
 - 可以上民航客机的[充电宝、充电线](/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#%E7%BB%BF%E8%81%94%E5%85%85%E7%94%B5%E5%AE%9D)
-- 雨伞🌂（夏天放，冬天不放）
+- [雨伞🌂](https://s.click.taobao.com/t?e=m%3D2%26s%3Dpf0jfetVBTlw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU29Lkq8VCEe30JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bat1ZsDLGq90F2lhyNr0ZIH7JJseZIjvA615%2F%2BuhipGV0u3b12Mr9jXhpNlAuji1kXUtS7bxRmjMvMWo1ffjhpJa%2BdnOMBFXLkyI1AaDX%2B4DCH64fousJDU4%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEMJC1uSP7ePHwZzMu0hFvVsYOae24fhW0&union_lens=lensId%3AOPT%401777888405%4021043cc8_0d55_19df2682835_66a4%4001%40eyJmbG9vcklkIjoxMDYxODN9)（夏天放，冬天不放）
 
 ## 二、行李箱
 
@@ -44,15 +44,16 @@ tags: sojourn guide
 - 护肤品包（包括基础护肤品🧴、牙膏、针线🧵、指甲钳、头绳等物） * 1
 - 笔🖊️和本子📒 * 3
 - 没那么重要的其他证件🪪及文件 * 若干
-- 内衣等贴身衣裤👙 * 若干
+- [内衣等贴身衣裤👙](https://s.click.taobao.com/t?e=m%3D2%26s%3DLesngAcr3CJw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU%2BbLXVqFQ3rb0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaUODKEOASdcc67BoKqFuO1v1SarTXhIOTUdDn0Cj7EhNGMlSgbRy%2F4wS8LGIw0ibzZ5xKR1mPQUXqACA%2BYjzV3wXRwq8uVxdbLKy%2FeoZ%2FeUdko%2BfO4sLutY%2BDKwFLEd9Q5dUsQ8NYvbgVcZ2y9sl6GRGv0FlTHug0xg5p7bh%2BFbQ%3D&union_lens=lensId%3AOPT%401777888598%402146a265_0d17_19df26b18bd_35ce%4001%40eyJmbG9vcklkIjoxMDYxODN9) * 若干
 - 袜子🧦 * 若干
 - 鞋子🥿 * 1
 - 整套换洗衣物👔（夏日 * 3，冬日 * 2）
-- 小枕头 * 1
-- 床单 * 1
+- 小枕头 + [枕套](https://s.click.taobao.com/t?e=m%3D2%26s%3DkxLIeDmTj3Vw4vFB6t2Z2ueEDrYVVa64Pe16VhVMM%2FEyWKG4T5PQo1906SyIHsHUhnbSr0Z%2BjKP0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaeLKcHDwSmt7fvxRBQACX34we6%2FtGg2%2FRjN4f8DSxNxsdNLd4b9Ho8dTchzQgVZSk6lL2B6fXaL6N%2BY6I483UkePxliSpApcdVQbdzCk2GYFOCfaj6jLtjk%2FuprW1TdmBLeMqtJBmsqAWs3OLDevcL2JVxA%2FhHFzUcSpj5qSCmbA%3D&union_lens=lensId%3AOPT%401777888898%400bb74a21_0e17_19df26fada9_96e7%4001%40eyJmbG9vcklkIjoxMDYxODN9) * 1
+- [床单](https://s.click.taobao.com/t?e=m%3D2%26s%3DQ%2FWRvN9iOp9w4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHUfFnGodye1En0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7r5whl48H5hvPyYvweEncR1WsfiSzhDKJjjPiuNkMZUwDnnqQMMTb%2F0znpmhTObRx2MWco0HG1Q4XnrKGKd0ehGDSkrgUTpivLuAdSWiah1Zt%2FZqkhzTD9FWB%2BVlyotQeJoMPIzH2q3oLEkBY4PMzdLLTO8hVXH49zb%2FnUHMQd61%2FGCUoWt8%2BaTOCTnndEcWujYkaCgWULlUmDf%2F%2FChBqI%2FsYMXU3NNCg%2F&union_lens=lensId%3AOPT%401777888838%400b0b7e23_0d6d_19df26ec33f_244d%4001%40eyJmbG9vcklkIjoxMDYxODN9
+) * 1
 - 护腰腰带（天冷不放，夏天放）
 - [电脑充电器🔌](/2023/04/22/products-i-bought-that-you-can-buy-with-a-lower-price/?utm_source=blog&utm_medium=post&utm_campaign=read_more#dell%E6%88%B4%E5%B0%94%E7%94%B5%E8%84%91%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8) * 1
-- 雨伞🌂（夏天不放，冬天放）
+- [雨伞🌂](https://s.click.taobao.com/t?e=m%3D2%26s%3Dpf0jfetVBTlw4vFB6t2Z2ueEDrYVVa64%2BJVSEcSZnCAyWKG4T5PQo1906SyIHsHU29Lkq8VCEe30JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Bat1ZsDLGq90F2lhyNr0ZIH7JJseZIjvA615%2F%2BuhipGV0u3b12Mr9jXhpNlAuji1kXUtS7bxRmjMvMWo1ffjhpJa%2BdnOMBFXLkyI1AaDX%2B4DCH64fousJDU4%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEMJC1uSP7ePHwZzMu0hFvVsYOae24fhW0&union_lens=lensId%3AOPT%401777888405%4021043cc8_0d55_19df2682835_66a4%4001%40eyJmbG9vcklkIjoxMDYxODN9)（夏天不放，冬天放）
 - 吹风机
 - 其他
 
