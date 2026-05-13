@@ -33,6 +33,8 @@ works:
     url: /sql-wizland
   - name: Smile Finder
     url: /smile-finder
+  - name: Smile Lab
+    url: https://smile-lab-pro.netlify.app/
 
 #-------------------------------
 # Comment Section (Disqus)
