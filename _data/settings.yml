@@ -30,11 +30,11 @@ bilibili: https://space.bilibili.com/329955183
 # My Work Section
 works: 
   - name: SQL Wizland
-    url: /sql-wizland
+    url: https://sqlwizland.xiangxi.work
   - name: Smile Finder
-    url: /smile-finder
+    url: https://smilefinder.xiangxi.work
   - name: Smile Lab
-    url: https://smile-lab-pro.netlify.app/
+    url: https://smilelab.xiangxi.work
 
 #-------------------------------
 # Comment Section (Disqus)

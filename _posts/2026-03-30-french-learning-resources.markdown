@@ -84,7 +84,7 @@ keywords: "自学法语,法语入门,B站法语,法语听力,法语跟读,法语
 
 我有多喜欢 Lingolia 的习题呢？
 
-我太欣赏 Lingolia 习题的设计方式了，所以我做的 SQL 语句复习网站 [SQL Wizland](https://xiangxinotes.github.io/sql-wizland/) 就参考了这种设计。
+我太欣赏 Lingolia 习题的设计方式了，所以我做的 SQL 语句复习网站 [SQL Wizland](https://sqlwizland.xiangxi.work/) 就参考了这种设计。
 
 ## Lingoclub 水平自测
 

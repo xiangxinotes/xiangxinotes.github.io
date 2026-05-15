@@ -81,9 +81,9 @@ keywords:
 
 拿我自己举例，因为工作的原因，我总是经常要用到SQL，但我经常搞混其中的关键字。虽然不是什么大的问题，但是反反复复的去记也很浪费时间。所以去年我建了一个小网站来帮自己记忆这些关键字。
 
-这个网站叫 SQL Wizland: [https://xiangxinotes.github.io/sql-wizland/](https://xiangxinotes.github.io/sql-wizland/?utm_source=blog&utm_medium=post){:target="_blank"}，已经在今年5月底上线全部内容了。感兴趣的话可以去看看。 
+这个网站叫 SQL Wizland: [https://sqlwizland.xiangxi.work](https://sqlwizland.xiangxi.work/?utm_source=blog&utm_medium=post){:target="_blank"}，已经在今年5月底上线全部内容了。感兴趣的话可以去看看。 
 
-虽然我创建 [SQL Wizland](https://xiangxinotes.github.io/sql-wizland/?utm_source=blog&utm_medium=post){:target="_blank"} 的目的只是想让自己复习的时候有个地方可去。但是我发现自己在不知不觉间学到了很多以前不知道的知识。比如说索引、各种主流数据库之间的区别等。
+虽然我创建 [SQL Wizland](https://sqlwizland.xiangxi.work/?utm_source=blog&utm_medium=post){:target="_blank"} 的目的只是想让自己复习的时候有个地方可去。但是我发现自己在不知不觉间学到了很多以前不知道的知识。比如说索引、各种主流数据库之间的区别等。
 
 我只是想要记住关键字而已，却学到了新的知识，掌握了新的技能。
 
