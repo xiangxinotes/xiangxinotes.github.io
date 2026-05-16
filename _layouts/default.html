@@ -17,7 +17,7 @@
   
   <!-- begin content -->
   <main class="content" aria-label="Content">
-    {{ content }}
+    {{ content | replace: '<img ', '<img loading="lazy" ' }}
   </main>
   <!-- end content -->
 
