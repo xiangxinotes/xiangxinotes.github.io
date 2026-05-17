@@ -101,6 +101,8 @@ tags: tools resources personal-growth emotional-intelligence
 
 网站后端开发、数据库、服务器、域名等开支都决定了 [Smile Lab](https://smilelab.xiangxi.work/?utm_source=blog&utm_medium=post) 无法成为一个仅为爱发电的项目。
 
+而加入广告，又过于打扰用户。因此，为了保证 [Smile Lab](https://smilelab.xiangxi.work/?utm_source=blog&utm_medium=post) 的生存，推出了工能更丰富的 Pro 版。
+
 如果你对上面提到的 Smile Lab Pro 功能感兴趣，愿意协助 [Smile Lab](https://smilelab.xiangxi.work/?utm_source=blog&utm_medium=post) 帮助更多人，我想邀请你加入 Smile Lab Pro 的众筹。
 
 ### 赞助方式
