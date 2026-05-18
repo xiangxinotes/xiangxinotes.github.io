@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 「2025最新」国内谷歌 Chrome 浏览器用户请收藏，扩展程序下载安装方法和5个插件下载网站
+title: 「2026最新」国内谷歌 Chrome 浏览器扩展程序下载安装方法和5个插件下载网站，请收藏
 date: 2025-01-13 16:21:00 +0800
-description: 还在为国内谷歌 Chrome 浏览器扩展程序的下载安装发愁？2025 最新攻略来袭，一文带你掌握详细安装方法，更有 5 个优质插件下载网站推荐，满足你的多样需求，赶紧收藏！
+last_modified_at: 2026-05-18 9:19:30 +0800
+description: 还在为国内谷歌 Chrome 浏览器扩展程序的下载安装发愁？2026 最新攻略来袭，一文带你掌握详细安装方法，更有 5 个优质插件下载网站推荐，满足你的多样需求，赶紧收藏！
 image: how-to-download-and-install-chrome-extension-using-normal-network-in-china.webp
 tags: tools resources chrome extension tech
 ---
@@ -55,7 +56,7 @@ Chrome 应用商店的官方链接如下：
 
 市面上有很多网站都可以让你下载 Chrome 扩展程序（插件），下载下来的插件后缀名为**crx**。
 
-以下是5个网站我推荐的网站：
+以下是5个我推荐的网站：
 - [插件迷](https://www.chajianmi.com/)
 - [Crx搜搜](https://www.crxsoso.com/)（版本更新快）
 - [极简插件](https://chrome.zzzmh.cn/search)
