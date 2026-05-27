@@ -12,7 +12,7 @@ keywords: "非计算机专业作品集,Notion个人网站,零代码作品集,大
 
 计算机专业同学，请使用**更专业的平台和工具**搭建你的作品集。比如：**WordPress, Github Pages** 等。
 
-如果想要快速搭建个人作品集，请参考这篇文章[《3个免费工具，快速搭建你的作品集》](/2026/03/19/useful-websites-that-helps-you-build-your-portfolios/?utm_source=blog&utm_medium=post)。
+如果想要快速搭建个人作品集，请参考这篇文章[《3个免费工具，快速搭建你的作品集》](/2026/03/19/useful-websites-that-helps-you-build-your-portfolios/)。
 
 --- 
 

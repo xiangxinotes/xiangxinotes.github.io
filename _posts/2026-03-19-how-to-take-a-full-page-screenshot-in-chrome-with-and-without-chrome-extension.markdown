@@ -39,7 +39,7 @@ keywords: "Chrome 全页截图,Chrome 整页截图,Chrome 整 页 截图,Chrome 
 
 超级无脑，小白一秒上手。
 
-因为国内访问不了 Chrome web store 想放弃？大可不必，有解决方案，请查看这篇[《国内谷歌 Chrome 浏览器扩展程序下载安装指南》](/2025/01/13/how-to-download-and-install-chrome-extension-using-normal-network-in-china/?utm_source=blog&utm_medium=post)，里面有详细的下载和安装教程，让你以后再也不必妥协放弃。
+因为国内访问不了 Chrome web store 想放弃？大可不必，有解决方案，请查看这篇[《国内谷歌 Chrome 浏览器扩展程序下载安装指南》](/2025/01/13/how-to-download-and-install-chrome-extension-using-normal-network-in-china/)，里面有详细的下载和安装教程，让你以后再也不必妥协放弃。
 
 
 ---
@@ -79,7 +79,7 @@ keywords: "Chrome 全页截图,Chrome 整页截图,Chrome 整 页 截图,Chrome 
 这两种方法都超级稳，你更喜欢哪种方法呢？
 
 🌟 推荐阅读：
-- [国内谷歌 Chrome 浏览器扩展程序下载安装指南](/2025/01/13/how-to-download-and-install-chrome-extension-using-normal-network-in-china/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [给外企新人的 9 条职场沟通建议](/2025/01/07/nine-english-related-suggestions-for-new-hire-who-work-in-a-multinational-corporation/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [如何回答面试题 “你有什么要问我的吗？”](/2023/04/20/what-questions-should-i-ask-at-the-end-of-an-interview/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [国内谷歌 Chrome 浏览器扩展程序下载安装指南](/2025/01/13/how-to-download-and-install-chrome-extension-using-normal-network-in-china/)
+- [给外企新人的 9 条职场沟通建议](/2025/01/07/nine-english-related-suggestions-for-new-hire-who-work-in-a-multinational-corporation/)
+- [如何回答面试题 “你有什么要问我的吗？”](/2023/04/20/what-questions-should-i-ask-at-the-end-of-an-interview/)
 

@@ -173,4 +173,4 @@ keywords:
 
 ---
 
-想看书，不知道看什么？可以查看<a href="/tag/book?utm_source=blog&utm_medium=post&utm_campaign=read_more">**书单**</a>话题下的其他文章～
+想看书，不知道看什么？可以查看<a href="/tag/book">**书单**</a>话题下的其他文章～

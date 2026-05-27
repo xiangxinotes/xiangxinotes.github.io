@@ -116,6 +116,6 @@ https://www.lingoclub.com/zh/didier-delf-dalf-sample-papers
 ---
 
 你也是多邻国使用者？建议阅读这篇文章：
-- [《如何用多邻国+Notion，学会任何你想学的语言？》](/2024/10/11/how-to-learn-any-language-you-want-using-duolingo-and-notion/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [《如何用多邻国+Notion，学会任何你想学的语言？》](/2024/10/11/how-to-learn-any-language-you-want-using-duolingo-and-notion/)
 
-或者查看[法语](/tag/french/?utm_source=blog&utm_medium=post&utm_campaign=read_more)话题下的其他文章～
+或者查看[法语](/tag/french/)话题下的其他文章～

@@ -8,7 +8,7 @@ tags: college-student personal-growth github-pages
 keywords: "计算机专业建议,GitHub使用,GitHub Pages,作品集搭建,计算机学生求职,程序员面试,计算机专业工作,个人作品集,大学生求职,应届生求职,应届生实习,计算机求职,计算机实习,搭建作品集,如何成为程序员,成绩差的应届生"
 ---
 
-在之前的文章[《给计算机专业学生的5条建议》](/2026/03/20/advices-for-computer-science-students/?utm_source=blog&utm_medium=post)中，我们聊到了一个观点：**在求职市场上，一份个人作品集比枯燥的成绩单更有说服力。**
+在之前的文章[《给计算机专业学生的5条建议》](/2026/03/20/advices-for-computer-science-students/)中，我们聊到了一个观点：**在求职市场上，一份个人作品集比枯燥的成绩单更有说服力。**
 
 如果你认同这个观点，但是觉得搭建个人作品集太难、要花太长时间了，你的感觉是有道理的，但事情也可以很简单。
 

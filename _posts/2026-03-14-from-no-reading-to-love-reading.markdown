@@ -99,7 +99,7 @@ keywords:
 
 ---
 
-如果你想要开始看书，但不知道看什么？可以看看<a href="/tag/book?utm_source=blog&utm_medium=post&utm_campaign=read_more">**我的书单**</a>～
+如果你想要开始看书，但不知道看什么？可以看看<a href="/tag/book">**我的书单**</a>～
 
 如果都不喜欢，就去图书馆逛逛，进去随便翻一翻，想看什么就看什么。
 

@@ -111,4 +111,4 @@ tags: personal-growth book money early-retirement
 
 ---
 
-想实现财务自由、提早退休？可以查看<a href="/tag/early-retirement?utm_source=blog&utm_medium=post&utm_campaign=read_more">**提早退休**话题下的其他文章</a>～ 
+想实现财务自由、提早退休？可以查看<a href="/tag/early-retirement">**提早退休**话题下的其他文章</a>～ 

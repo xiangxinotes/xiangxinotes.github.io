@@ -50,7 +50,7 @@ la pièce 可以指代**各种各样**功能、类型各异的空间，所以 la
 
 和 2 个 pièces 的例句：
 - Dans cette maison, il y a trois chambres, c'est-à-dire trois pièces pour dormir.（在这所房子里，有三间卧室，也就是三个睡觉的房间）
-- Dans ce bâtiment, il y a [plusieurs]({{ site.baseurl }}/2024/12/31/the-difference-between-quelques-and-plusieurs-in-french/?utm_source=blog&utm_medium=post&utm_campaign=read_more) pièces inutilisées.（这栋建筑里有好几个闲置的房间）
+- Dans ce bâtiment, il y a [plusieurs]({{ site.baseurl }}/2024/12/31/the-difference-between-quelques-and-plusieurs-in-french/) pièces inutilisées.（这栋建筑里有好几个闲置的房间）
 
 ## la salle
 
@@ -73,4 +73,4 @@ la salle 是**人们汇聚一处**，进行社交、工作、学习、锻炼等*
 
 ---
 
-如果你希望了解其他词汇之间的区别，那么请查看<a href="/tag/words-difference?utm_source=blog&utm_medium=post&utm_campaign=read_more">词汇区别话题下的其他文章</a>～
+如果你希望了解其他词汇之间的区别，那么请查看<a href="/tag/words-difference">词汇区别话题下的其他文章</a>～

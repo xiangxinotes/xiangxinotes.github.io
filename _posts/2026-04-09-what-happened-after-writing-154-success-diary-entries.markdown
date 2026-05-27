@@ -8,7 +8,7 @@ tags: personal-growth experience
 keywords: "写成功日记有用吗,成功日记有什么用,成功日记,小狗钱钱,个人成长,坚持,行动力,自信,自我提升,成功"
 ---
 
-2025年6月14日，我在[《小狗钱钱》读者行动指南](/2025/06/14/after-read-the-book-money-does-talk-do-these-6-steps-immediately/?utm_source=blog&utm_medium=post)里提到有6件事可以开始做起来了，其中一项就是写**成功日记**。
+2025年6月14日，我在[《小狗钱钱》读者行动指南](/2025/06/14/after-read-the-book-money-does-talk-do-these-6-steps-immediately/)里提到有6件事可以开始做起来了，其中一项就是写**成功日记**。
 
 写成功日记之前，我也很好奇：
 
@@ -35,7 +35,7 @@ keywords: "写成功日记有用吗,成功日记有什么用,成功日记,小狗
 
 但在写成功日记的这段时间里，我一点点积攒了勇气。
 
-最终在2025年8月28日，走进驾校报了名。并且在2025年10月14日，顺利拿到了驾照。我还把驾考相关的内容，总结成了 7 篇文章，可戳[驾照系列文](/tag/driver's-license/?utm_source=blog&utm_medium=post)查看更多详情。
+最终在2025年8月28日，走进驾校报了名。并且在2025年10月14日，顺利拿到了驾照。我还把驾考相关的内容，总结成了 7 篇文章，可戳[驾照系列文](/tag/driver's-license/)查看更多详情。
 
 整个过程平稳、顺利，完全没有出现我担心的鲁莽与失控。
 
@@ -75,7 +75,7 @@ keywords: "写成功日记有用吗,成功日记有什么用,成功日记,小狗
 
 尤其2025年4月还经历必应**不收录**的打击，让我更加怀疑。
 
-但在用[《梦想家行动指南》](/2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post)梳理了我的目标后，我清楚了自己为什么要做这件事。
+但在用[《梦想家行动指南》](/2026/03/06/dreamers-action-guide/)梳理了我的目标后，我清楚了自己为什么要做这件事。
 
 想清楚后，我一直都在行动。
 
@@ -104,8 +104,8 @@ keywords: "写成功日记有用吗,成功日记有什么用,成功日记,小狗
 即使一个访客也没有，我也知道这些有价值的项目存在于世，最后总会发挥作用的。
 
 说到这里，我简单介绍一下目前已落地的项目：
-- [**Smile Finder**](/smile-finder/?utm_source=blog&utm_medium=post) - 以游戏的形式训练积极注意偏向
-- [**SQL Wizland**](/sql-wizland/?utm_source=blog&utm_medium=post) - 面试前快速复习 SQL，加入我在苹果面试时的真题
+- [**Smile Finder**](/smile-finder/) - 以游戏的形式训练积极注意偏向
+- [**SQL Wizland**](/sql-wizland/) - 面试前快速复习 SQL，加入我在苹果面试时的真题
 
 ![化茧成蝶]({{ site.baseurl }}/images/pexels-sonel-32543829.jpg)
 *化茧成蝶 <a href="https://www.pexels.com/photo/painted-lady-butterfly-emerging-from-chrysalis-32543829/">Photo</a> by Sophia Nel*
@@ -144,7 +144,7 @@ keywords: "写成功日记有用吗,成功日记有什么用,成功日记,小狗
 
 人家爱迪生，失败了大约1600次才找到了合适的灯丝呢。
 
-**在成功前，无论如何失败，都要继续做，才是成功的真理。** 这也是[《有钱人和你想的不一样》里提到的信念](/2026/03/09/whats-the-difference-between-rich-people-and-me/?utm_source=blog&utm_medium=post#%E4%BF%A1%E5%BF%B5%E5%B0%9D%E8%AF%95%E5%88%B0%E6%88%90%E5%8A%9F%E4%B8%BA%E6%AD%A2)。
+**在成功前，无论如何失败，都要继续做，才是成功的真理。** 这也是[《有钱人和你想的不一样》里提到的信念](/2026/03/09/whats-the-difference-between-rich-people-and-me/#%E4%BF%A1%E5%BF%B5%E5%B0%9D%E8%AF%95%E5%88%B0%E6%88%90%E5%8A%9F%E4%B8%BA%E6%AD%A2)。
 
 ### 带来的改变
 

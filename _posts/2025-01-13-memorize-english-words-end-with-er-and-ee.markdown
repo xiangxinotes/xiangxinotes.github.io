@@ -61,7 +61,7 @@ tags: english languages suffix noun
 
 一般来说，-ee 都对应着一个 -er（比如 employee 对应着 employer）；但 -er 并不一定对应着一个 -ee（比如 kicker 不对应 kickee，因为 kickee 不是个词）。当然凡事都有例外，你只需要记住这个一般规则即可，遇到特殊情况再去记即可。
 
-如果你想要知道更多记单词的技巧，推荐阅读[单词背了就忘，总是记不住？9个方法分享给你！]({{ site.baseurl }}/2024/10/30/how-to-remember-a-english-word-effectively/)。如果你还希望了解更多和**英语**有关的内容，别忘了查看<a href="/tag/english?utm_source=blog&utm_medium=post&utm_content=read_more">英语</a>主题下的其他文章～
+如果你想要知道更多记单词的技巧，推荐阅读[单词背了就忘，总是记不住？9个方法分享给你！]({{ site.baseurl }}/2024/10/30/how-to-remember-a-english-word-effectively/)。如果你还希望了解更多和**英语**有关的内容，别忘了查看<a href="/tag/english">英语</a>主题下的其他文章～
 
 ---
 

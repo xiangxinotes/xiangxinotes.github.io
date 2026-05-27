@@ -61,7 +61,7 @@ keywords:
    解读只能展示“结论”，却很难传递“为什么”。
 
 就像我之前读[《有钱人和你想的不一样》](https://uland.taobao.com/coupon/edetail?e=TKF6zhbrn7qlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJDjqhbZzVJhnVoSQwiRLcpKu0i6%2FrQnKqOS8hktRyx7tl47DPHAydPObxnnkKncMdGX4a6qx9qDZ2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSi8NxqGqMdPTbDsa2jVOvOtD88UKDqHe8PxwaKI4cq%2BpyDF4Bnv%2BLtdMsj6ssg7xu3231sEd7UTxVZBCGArXl79EjnlN48tVgJItRpjGtRXWLxQhUgHt4YlFLAzE%2FKw%2FK%2F3uQkPXQ8OXKSPsM2CWJNcOW4BgFGCWxt&traceId=215044e217733259110694439e0aee&union_lens=lensId%3APUB%401773325853%40212b61b3_1d48_19ce275226d_631f%40023DrHx9kX5rUPXPfr1q4KFD%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_3_17733258533671433500159%3Bscm%3A1007.30148.329090.pub_search-item_f4b4dbca-071f-4d04-9ee9-64ad03fd450c_)。
-我自己写[读后感]({{ site.baseurl }}/2026/03/09/whats-the-difference-between-rich-people-and-me/?utm_source=blog&utm_medium=post)时，也只挑选了**对我影响最大的3个点**。
+我自己写[读后感]({{ site.baseurl }}/2026/03/09/whats-the-difference-between-rich-people-and-me/)时，也只挑选了**对我影响最大的3个点**。
 不是书里只有这3点，而是：
 - 其他内容对我没那么触动
 - 一篇文章也不可能把整本书搬过来
@@ -81,4 +81,4 @@ keywords:
 
 ---
 
-想看书，不知道看什么？可以查看<a href="/tag/book?utm_source=blog&utm_medium=post&utm_campaign=read_more">**书单**</a>话题下的其他文章～ 以此为引，获得独属于你的感悟。
+想看书，不知道看什么？可以查看<a href="/tag/book">**书单**</a>话题下的其他文章～ 以此为引，获得独属于你的感悟。

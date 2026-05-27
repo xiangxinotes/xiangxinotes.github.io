@@ -15,7 +15,7 @@ tags: sojourn sanya renting self-built-house
 
 三亚是一座自建房特别多的城市。在三亚过年，别墅、小区房太贵，一大家子花销大，那自建房是完全可以考虑的。当然单身独居年轻女性我不是特别特别推荐，最好是住小区房，更有保障。
 
-如果你想知道怎么在三亚租过年的房子，可以看这篇[【2025最新】最全、最有用的三亚过年租房指南！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)，里面一定有你想要的答案。
+如果你想知道怎么在三亚租过年的房子，可以看这篇[【2025最新】最全、最有用的三亚过年租房指南！](/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/)，里面一定有你想要的答案。
 
 ![小区房、自建房、海鲜加工店等的照片]({{ site.baseurl }}/images/alexander-bennington-poGsPJB0vx4-unsplash.jpg)
 *三亚城市建筑 Photo by <a href="https://unsplash.com/@aleksbenes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexander Bennington</a> on <a href="https://unsplash.com/photos/people-walking-on-street-during-daytime-poGsPJB0vx4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
@@ -141,7 +141,7 @@ tags: sojourn sanya renting self-built-house
 回家的路上经过其他饭店，无人问津，不禁好奇，到底是何魔力，生意如此兴隆。回家后大众点评才知，原来上过纪录片《来宵夜吧》第10集，且为烤鸡总店，一番故事读下来也颇为有趣。遂于第二日花108元排队15分钟买到，带回家品尝，也算没白来一趟。
 
 生活体验到此结束。想了解更多关于三亚的内容，不要客气，
-<a href="/tag/sanya?utm_source=blog&utm_medium=post&utm_campaign=read_more">三亚话题下的其他文章</a>任你挑选～ 
+<a href="/tag/sanya">三亚话题下的其他文章</a>任你挑选～ 
 
 ---
 

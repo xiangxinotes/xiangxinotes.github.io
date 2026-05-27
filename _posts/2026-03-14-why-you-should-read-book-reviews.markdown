@@ -16,7 +16,7 @@ keywords:
   - 读书技巧
 ---
 
-在之前的文章[《知识快餐时代，为什么你依然应该坚持自己读书？》](/2026/03/13/is-it-neccessary-to-read-all-by-yourself-in-this-era/?utm_source=blog&utm_medium=post)里，我表达过一个很明确的观点：**无论如何，一定要自己去读书。**
+在之前的文章[《知识快餐时代，为什么你依然应该坚持自己读书？》](/2026/03/13/is-it-neccessary-to-read-all-by-yourself-in-this-era/)里，我表达过一个很明确的观点：**无论如何，一定要自己去读书。**
 我也打过一个很直白的比方：只看别人的知识解读，就像吃别人咀嚼过的馍，没味道，也没营养。
 
 但今天我想把这个话题说完整：
@@ -52,8 +52,8 @@ keywords:
 - [《异类》](https://s.click.taobao.com/t?e=m%3D2%26s%3DS%2FCJEZL9MUpw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFr5lmuKnqC%2F3pX2e%2FE36c4n0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaQRleD%2Bv65FwaCnxXTgGq3rJJseZIjvA6Z3UdAorGSIUBUq84E21a%2BoJQ%2B9Y9XiK83R%2B6%2F6CEMhiMobZK71ZRHVnmoSxpriUvZV8boLSxuF1q%2FlLiD3%2Fr%2FLTO8hVXH49zb%2FnUHMQd619rG73fV26d9DO%2BDsTPtDcjz2TFFEd9SqY%3D&union_lens=lensId%3APUB%401753859766%400b520b4b_0de0_1985a30372b_35d8%400224aMlA1muJf1Bt2YajnAcj%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_2_17538597661401433500159%3Bscm%3A1007.30148.329090.pub_search-item_4daf39e4-d9ab-4fdf-91da-aa99d1ce7a89_)
 
 这两本后来我都认真读完，也专门写了读后感：
-- [《创业者如何找到自己的不公平优势？增加创业成功率》](/2025/07/24/how-to-find-your-unfair-advantage-as-an-entrepreneur/?utm_source=blog&utm_medium=post)
-- [《告别焦虑！那些成功的人真的是靠自己的努力成功的吗？》](/2025/07/28/are-those-outliers-succeed-because-they-made-great-efforts/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title)
+- [《创业者如何找到自己的不公平优势？增加创业成功率》](/2025/07/24/how-to-find-your-unfair-advantage-as-an-entrepreneur/)
+- [《告别焦虑！那些成功的人真的是靠自己的努力成功的吗？》](/2025/07/28/are-those-outliers-succeed-because-they-made-great-efforts/)
 
 如果没有那些书评和解析做“引子”，我很可能会错过它们，也不会获得独属于自己的感悟。
 
@@ -96,4 +96,4 @@ keywords:
 
 欢迎在评论区推荐给我，让知识流动起来～
 
-也可以查看<a href="/tag/book?utm_source=blog&utm_medium=post&utm_campaign=read_more">**书单**</a>话题下的其他文章，让知识从你这里流动出去～
+也可以查看<a href="/tag/book">**书单**</a>话题下的其他文章，让知识从你这里流动出去～

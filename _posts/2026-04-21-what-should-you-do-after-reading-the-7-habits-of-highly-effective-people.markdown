@@ -147,7 +147,7 @@ successful or achieving the results that you want
 方向不对，流程越完美、执行越快，错得越远。
 先靠右脑定方向，再用左脑优化方法，管理才有意义。
 
-在写[《梦想家行动指南》](2026/03/06/dreamers-action-guide/?utm_source=blog&utm_medium=post)之前，我看过无数时间管理书，却始终推进不动真正重要的事。
+在写[《梦想家行动指南》](2026/03/06/dreamers-action-guide/)之前，我看过无数时间管理书，却始终推进不动真正重要的事。
 现在我终于明白：
 **我一直在管理自己，却从未领导自己。**
 
@@ -196,4 +196,4 @@ successful or achieving the results that you want
 
 --- 
 
-想看书，不知道看什么？可以查看<a href="/tag/book?utm_source=blog&utm_medium=post&utm_campaign=read_more">**书单**</a>话题下的其他文章～
+想看书，不知道看什么？可以查看<a href="/tag/book">**书单**</a>话题下的其他文章～

@@ -66,7 +66,7 @@ GitHub 更是你未来的**线上简历**。
 
 毕竟没有社会经验的学生，如果没有作品集，真的都没什么记忆点。
 
-我之前整理过可以帮助搭建作品集的免费工具，感兴趣的话请戳 👉 [3个免费工具，快速搭建作品集](/2026/03/19/useful-websites-that-helps-you-build-your-portfolios/?utm_source=blog&utm_medium=post)。
+我之前整理过可以帮助搭建作品集的免费工具，感兴趣的话请戳 👉 [3个免费工具，快速搭建作品集](/2026/03/19/useful-websites-that-helps-you-build-your-portfolios/)。
 
 ---
 

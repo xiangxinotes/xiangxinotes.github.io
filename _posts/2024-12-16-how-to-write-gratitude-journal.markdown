@@ -12,7 +12,7 @@ tags: gratitude-journal thanksgiving emotional-intelligence
 
 ## 我为什么要写感恩日记？
 
-我是一个感恩日记的强烈推崇者，我在[「怎样在2025年成为一个不抱怨的人，怎样不抱怨？」](/2024/12/07/how-to-start-not-complaining/?utm_source=blog&utm_medium=post&utm_campaign=read_more)这篇文章中也提到过感恩的力量，这都是因为我在2024年真切的感受到了感恩给我带来的影响。
+我是一个感恩日记的强烈推崇者，我在[「怎样在2025年成为一个不抱怨的人，怎样不抱怨？」](/2024/12/07/how-to-start-not-complaining/)这篇文章中也提到过感恩的力量，这都是因为我在2024年真切的感受到了感恩给我带来的影响。
 
 在看过《被讨厌的勇气》[到手价29.8元，点击购买](https://s.click.taobao.com/t?e=m%3D2%26s%3DffwGGSFfvS1w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFvlTgPx7ZkQ%2Fv4E4pmzfEs%2F0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37BaEYgFAI%2BYV4mpasR2r0VZZv1SarTXhIOTUdDn0Cj7EhMmJSet9ftAw2bR4U4C%2FoGhHuwlPBRIcKA0Q3uvPBtl%2BKrzfya8L3HoiROFu3wifRvKtshe5Q0lIXB6Jd9pUfrR1KilmKsn0wzY0ayP9yzrut9CV6Zl7fHzxg5p7bh%2BFbQ%3D&union_lens=lensId%3APUB%401734338139%40213cfd1d_0e06_193ce9bd583_3bd6%40025vWzSx7GvkyQZ8XYM1vFTA%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_5_17343381396051433500159%3Bscm%3A1007.30148.329090.pub_search-item_b97524f2-2cec-4191-85ad-a39966a0a90f_)之后，我才深深地意识到：世界其实就是这个世界，是我对事情、人物的解读让我感觉不快乐、不幸福的。我接着意识到了原来我可以改变我的生活，只要我转变想法就好了。
 
@@ -70,9 +70,9 @@ tags: gratitude-journal thanksgiving emotional-intelligence
 - 感谢今天是个大晴天，因为这样，我工作的时候往外眺望可以看到远山，带来好心情。
 - 感谢我的朋友，因为我被事情困扰一直睡不着，是她和我聊天，帮助我，让我得以安心睡觉。
 
-如果想要查看更多的例子，欢迎查看我在感恩节发布的[「感恩节特辑」](/2024/11/18/happy-thanksgiving-and-thanks-for-all-givings/?utm_source=blog&utm_medium=post&utm_campaign=read_more)获得更多灵感～
+如果想要查看更多的例子，欢迎查看我在感恩节发布的[「感恩节特辑」](/2024/11/18/happy-thanksgiving-and-thanks-for-all-givings/)获得更多灵感～
 
-博客中还有其他和[**情商**有关的文章](/tag/emotional-intelligence?utm_source=blog&utm_medium=post&utm_campaign=read_more)，可以点击链接查看哦。
+博客中还有其他和[**情商**有关的文章](/tag/emotional-intelligence)，可以点击链接查看哦。
 
 ---
 

@@ -7,7 +7,7 @@ image: pexels-285175079-17557990.jpg
 tags: dalian travel guide tourist-attraction 
 ---
 
-大连的旅游旺季是7、8两月。我曾于2023年6月底至9月底在大连旅居过3个月，我住在沙河口区的国房公寓。（如果想知道大连旅居怎么租房，可以查看[大连旅居怎么租房？](http://127.0.0.1:4000/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post_list&utm_campaign=post_title)这篇博文）
+大连的旅游旺季是7、8两月。我曾于2023年6月底至9月底在大连旅居过3个月，我住在沙河口区的国房公寓。（如果想知道大连旅居怎么租房，可以查看[大连旅居怎么租房？](http://127.0.0.1:4000/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/)这篇博文）
 
 我可以负责任地说：大连夏天**不热**雨少，台风刮不到，非常舒爽；就景点来说，基本都是免费的。所以我个人认为大连是一个对游客很友好的城市，适合旅游和旅居。
 
@@ -161,7 +161,7 @@ tags: dalian travel guide tourist-attraction
 拍照很好看，有个小口有个台阶，可以下去摸摸海～
 
 
-如果你想在大连开启旅居生活，请查看这份[大连旅居租房指南](/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/?utm_source=blog&utm_medium=post&utm_campaign=read_more)～
+如果你想在大连开启旅居生活，请查看这份[大连旅居租房指南](/2025/03/03/the-most-practical-guide-to-sojourn-in-dalian/)～
 
 ---
 

@@ -83,7 +83,7 @@ https://loremipsum.io/generator/
 ---
 
 既然你已经在做个人作品集，或者准备做个人作品集，那么你可能会用到下面的资源网站：
-- [🎵 8个免费商用素材网站分享，字体、音乐、图片全都有](/2025/02/14/eight-free-resource-sites-you-can-use-if-you-are-or-want-to-be-a-content-creator/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
-- [🎨 9个免费配色网站分享](/2026/03/16/8-best-color-palette-websites-for-developers/?utm_source=blog&utm_medium=post&utm_campaign=read_more)
+- [🎵 8个免费商用素材网站分享，字体、音乐、图片全都有](/2025/02/14/eight-free-resource-sites-you-can-use-if-you-are-or-want-to-be-a-content-creator/)
+- [🎨 9个免费配色网站分享](/2026/03/16/8-best-color-palette-websites-for-developers/)
 
 有帮助的话，记得收藏本文，避免迷路～

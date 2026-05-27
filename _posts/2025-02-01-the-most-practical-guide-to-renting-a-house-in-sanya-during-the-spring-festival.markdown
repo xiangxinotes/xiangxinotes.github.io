@@ -14,7 +14,7 @@ tags: sojourn sanya renting
 
 在开始正文前，我想请你先思考一下：你是想在**三亚过年**？还是想在**海南过冬**？
 
-如果你对三亚并不了解，只是人云亦云，那么请先看这篇文章：[《想来三亚旅居过年？先回答这3个问题！》]({{ site.baseurl }}/2025/02/01/the-three-things-you-should-consider-before-going-to-sanya/?utm_source=blog&utm_medium=post&utm_campaign=read_more)做一个综合的考量吧～
+如果你对三亚并不了解，只是人云亦云，那么请先看这篇文章：[《想来三亚旅居过年？先回答这3个问题！》]({{ site.baseurl }}/2025/02/01/the-three-things-you-should-consider-before-going-to-sanya/)做一个综合的考量吧～
 
 如果看完了你还是想在三亚过年，欢迎你再来查看这份租房指南！
 
@@ -190,7 +190,7 @@ tags: sojourn sanya renting
 
 接下来，就坐等符合条件的房东来了，到时候再细细看、细细挑啦。
 
-我建议最好**不要直接落地三亚**，最好先在网上了解一下大致的行情，发帖说一下自己的需求，看看你的需求是否与预算匹配。如果你的预算低于市场价，无法找到合适的房子，那么就可以思考一下要不要提高预算。如果不准备提高预算，那就换个地方旅游过年吧，可以查看我问的[海南岛其他城市的租房价格](/2025/02/01/the-three-things-you-should-consider-before-going-to-sanya?utm_source=blog&utm_medium=post&utm_campaign=read_more/#总结)。
+我建议最好**不要直接落地三亚**，最好先在网上了解一下大致的行情，发帖说一下自己的需求，看看你的需求是否与预算匹配。如果你的预算低于市场价，无法找到合适的房子，那么就可以思考一下要不要提高预算。如果不准备提高预算，那就换个地方旅游过年吧，可以查看我问的[海南岛其他城市的租房价格](/2025/02/01/the-three-things-you-should-consider-before-going-to-sanya/#总结)。
 
 网上和房东或中介聊时，记得确认所有需要支付的费用和收费标准，多对比。我建议：线下看房后再做决定。
 
@@ -211,4 +211,4 @@ tags: sojourn sanya renting
 
 ---
 
-还是对三亚念念不忘？查看<a href="/tag/sanya?utm_source=blog&utm_medium=post&utm_campaign=read_more">三亚话题下的其他文章</a>～ 如果有未包含的话题，也请随时在下方留言，我一定知无不言、言无不尽！ ❤️ 
+还是对三亚念念不忘？查看<a href="/tag/sanya">三亚话题下的其他文章</a>～ 如果有未包含的话题，也请随时在下方留言，我一定知无不言、言无不尽！ ❤️ 

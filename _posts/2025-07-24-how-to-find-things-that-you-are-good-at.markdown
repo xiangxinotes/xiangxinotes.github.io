@@ -56,4 +56,4 @@ keywords:
 
 ---
 
-我是向西，如果你想看更多相似内容，可以查看<a href="/tag/personal-growth?utm_source=blog&utm_medium=post&utm_campaign=read_more">**个人成长**</a>话题下的其他文章，和我一起进步～ 
+我是向西，如果你想看更多相似内容，可以查看<a href="/tag/personal-growth">**个人成长**</a>话题下的其他文章，和我一起进步～ 

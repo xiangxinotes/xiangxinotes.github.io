@@ -44,7 +44,7 @@ tags: sojourn sanya
 
 ## 总结
 
-如果你对这三个问题的回答都是YES，那么欢迎来三亚过年，可以开始查看我的[租房指南]({{ site.baseurl }}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/?utm_source=blog&utm_medium=post&utm_campaign=read_more)喽。
+如果你对这三个问题的回答都是YES，那么欢迎来三亚过年，可以开始查看我的[租房指南]({{ site.baseurl }}/2025/02/01/the-most-practical-guide-to-renting-a-house-in-sanya-during-the-spring-festival/)喽。
 
 如果你对来三亚有了犹豫，提供一些海南其他城市包含过年一周两室的租房价格做参考：
 - 儋州（1600/月，3个月起租，那大）
@@ -55,4 +55,4 @@ tags: sojourn sanya
 
 ---
 
-你对三亚的什么最感兴趣？查看<a href="/tag/sanya?utm_source=blog&utm_medium=post&utm_campaign=read_more">三亚话题下的其他文章</a>～ 如果有未包含的话题，也请随时在下方留言，我一定知无不言、言无不尽！ ❤️ 
+你对三亚的什么最感兴趣？查看<a href="/tag/sanya">三亚话题下的其他文章</a>～ 如果有未包含的话题，也请随时在下方留言，我一定知无不言、言无不尽！ ❤️ 
