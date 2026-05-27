@@ -5,9 +5,9 @@
       {% if paginator.previous_page %}
       
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_prev_button">较新文章</a>
+        <a class="previous-link" href="{{ site.baseurl }}/">较新文章</a>
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_prev_button">较新文章</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">较新文章</a>
       {% endif %}
       
       {% else %}
@@ -18,7 +18,7 @@
         {% if paginator.page == 1 %}
           <span class="active-link">1</span>
         {% else %}
-          <a href="{{ site.baseurl }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_count_button">1</a>
+          <a href="{{ site.baseurl }}/">1</a>
         {% endif %}
 
 
@@ -27,13 +27,13 @@
         {% if count == paginator.page %}
           <span class="active-link">{{ count }}</span>
         {% else %}
-          <a class="count-number" href="{{ site.baseurl }}/page/{{ count }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_count_button">{{ count }}</a>
+          <a class="count-number" href="{{ site.baseurl }}/page/{{ count }}/">{{ count }}</a>
         {% endif %}
         {% endfor %}
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/?utm_source=blog&utm_medium=post_list&utm_campaign=list_nav_next_button">较早文章</a>
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">较早文章</a>
       {% else %}
         <span class="disabled">较早文章</span>
       {% endif %}
