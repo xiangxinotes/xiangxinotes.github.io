@@ -74,7 +74,7 @@ tags: tools resources personal-growth emotional-intelligence
 
 我看了很多心理类的书，尝试了各种自我开导的方法，却始终走不出那个消极的怪圈。
 
-![向西在逛公园的照片]({{ site.baseurl }}/images/me.jpg)
+![向西在逛公园的照片]({{ site.baseurl }}/images/me.webp)
 *我*
 
 直到后来，我在书里看到一句话：大脑会一直遵循固定的思考链路，你习惯了看到负面，就会被负面裹挟；**想要改变，就要主动改写这条链路。**
