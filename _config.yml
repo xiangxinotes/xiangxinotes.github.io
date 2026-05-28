@@ -34,7 +34,12 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
 
-
+donation:
+  enable: true
+  afdian: https://ifdian.net/order/create?user_id=a89f0a944e0f11f1848152540025c377
+  paypal: https://paypal.me/xiangxismile/
+  text_zh: "如果我的想法对你有所启发，欢迎请我喝杯咖啡。☕️"
+  text_en: "If you found my thoughts helpful, consider buying me a coffee. ☕️"
 
 sass:
   sass_dir: _sass

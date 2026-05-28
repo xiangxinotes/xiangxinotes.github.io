@@ -1,0 +1,18 @@
+{% if site.donation.enable %}
+<div class="blog-donation">
+  <p class="donation-text">
+    {{ site.donation.text_zh }} <br>
+    <span>{{ site.donation.text_en }}</span>
+  </p>
+
+  <div class="donation-buttons">
+    {% if site.donation.afdian %}
+    <a href="{{ site.donation.afdian }}" target="_blank" rel="noopener" class="btn-afdian btn-donation">⚡️ 爱发电 (CNY)</a>
+    {% endif %}
+
+    {% if site.donation.paypal %}
+    <a href="{{ site.donation.paypal }}" target="_blank" rel="noopener" class="btn-paypal btn-donation">🌍 PayPal (USD/Global)</a>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
