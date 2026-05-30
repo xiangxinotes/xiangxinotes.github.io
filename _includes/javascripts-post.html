@@ -1,0 +1,13 @@
+<script src="{{ site.baseurl }}/js/vendors/scrollnav.min.umd.js"></script>
+<script>
+  // const content = document.querySelector('.post__content');
+  const content = document.querySelector('.post');
+  const sidebar = document.querySelector('.toc');
+  scrollnav.init(content, {
+    debug: false,
+    insertTarget: sidebar,
+    easingStyle: 'linear',
+    subSections: 'h3',
+  });
+</script>
+<script async src="{{ site.baseurl }}/js/vendors/zoom.min.js"></script>
