@@ -18,10 +18,8 @@
   {% if page.keywords %}
   <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
   {% endif %}
-  <meta name="google-adsense-account" content="{{ site.data.settings.google-adsense }}">
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | remove: '?' | remove: '&' | absolute_url }}"> -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Google Fonts -->
@@ -32,6 +30,10 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
 
   {% include google-adsense.html %}
+  
+  {% if site.data.settings.google-analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
 
   <style>
   {% capture include_to_scssify %}
