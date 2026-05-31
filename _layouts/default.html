@@ -24,6 +24,9 @@
   {% include footer.html %}
 
   {% include javascripts.html %}
+  {% if page.id %}
+    {% include javascripts-post.html %}
+  {% endif %}
 </body>
 
 </html>
