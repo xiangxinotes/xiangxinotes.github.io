@@ -10,6 +10,16 @@
 <script src="{{ site.baseurl }}/js/vendors/jquery-3.3.1.min.js"></script>
 <script src="{{ site.baseurl }}/js/vendors/simple-jekyll-search.min.js"></script>
 <script>
+  const searchInput = document.getElementById("js-search-input");
+  if (searchInput){
+    searchInput.addEventListener('compositionend', function(){
+      const event = new Event('input', {
+        bubbles: true,
+        cancelable: true,
+      });
+      searchInput.dispatchEvent(event);
+    });
+  }
   SimpleJekyllSearch({
     searchInput: document.getElementById("js-search-input"),
     resultsContainer: document.getElementById("js-results-container"),
