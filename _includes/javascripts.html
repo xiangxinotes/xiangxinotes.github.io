@@ -10,23 +10,27 @@
 <script src="{{ site.baseurl }}/js/vendors/jquery-3.3.1.min.js"></script>
 <script src="{{ site.baseurl }}/js/vendors/simple-jekyll-search.min.js"></script>
 <script>
-  const searchInput = document.getElementById("js-search-input");
-  if (searchInput){
-    searchInput.addEventListener('compositionend', function(){
-      const event = new Event('input', {
-        bubbles: true,
-        cancelable: true,
-      });
-      searchInput.dispatchEvent(event);
-    });
-  }
-  SimpleJekyllSearch({
+  window.mySearch = SimpleJekyllSearch({
     searchInput: document.getElementById("js-search-input"),
     resultsContainer: document.getElementById("js-results-container"),
     json: "{{site.baseurl}}/search.json",
     searchResultTemplate: '<li class="search-results__item"><a class="search-results__link" href="{url}">{title}</a><br> <span class="search-results__date">{date}</span></li>',
     noResultsText: '<li class="no-results">什么也没找到，换个关键词吧！</li>'
   });
+  const mobileInput = document.getElementById("js-search-input");
+  let searchTimer = null;
+  if (mobileInput) {
+    mobileInput.addEventListener('compositionend', function(e){
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        const keyword = e.target.value;
+        if (window.mySearch && typeof window.mySearch.search === 'function'){
+          // console.log('放黜', keyword);
+          window.mySearch.search(keyword);
+        }
+      }, 150);
+    });
+  }
 </script>
 <script src="{{ site.baseurl }}/js/vendors/transition.js"></script>
 <!-- <script src="{{ site.baseurl }}/js/vendors/instafeed.min.js"></script> -->
