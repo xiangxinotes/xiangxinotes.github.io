@@ -1,3 +1,12 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function(){
+    const firstImg = document.querySelector('.hero__image img');
+    if (firstImg){
+      firstImg.removeAttribute('loading');
+      firstImg.setAttribute('fetchpriority', 'high');
+    }
+  });
+</script>
 <script src="{{ site.baseurl }}/js/vendors/jquery-3.3.1.min.js"></script>
 <script src="{{ site.baseurl }}/js/vendors/simple-jekyll-search.min.js"></script>
 <script>
