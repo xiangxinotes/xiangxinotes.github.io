@@ -72,7 +72,7 @@ tags: complaint-free emotional-intelligence
 
 所以我相信，如果我持续努力，我一定可以做到不抱怨。
 
-美国作家威尔・鲍温（Will Bowen）写了一本书《不抱怨的世界》[（点击跳转淘宝，5元到手）](https://s.click.taobao.com/t?e=m%3D2%26s%3DSIZHdYO19wJw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFvlTgPx7ZkQ%2FQ3qFS0Q876v0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba5zfKdbF9iC%2FoktNoCB3ZiP1SarTXhIOTsgIpc1WFZiJNubylQlnZt5BLTrY2VbPzzcQ3wp9BZmrR3XDlom%2F0Lusu1Ra8Z5HzUb%2Bherk4Nka8fDyMkLGqqgnfFijk9SFScHol32lR%2BtHUqKWYqyfTDM7AMx9cWAx%2BNiQZDBZ4dibQwmZPa6BsenEqY%2Bakgpmw&union_lens=lensId%3APUB%401733646358%402135f404_0e28_193a5601625_6ee4%40026hMDyXUSjapcAxKCaEOgxA%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_2_17336463581391433500159%3Bscm%3A1007.30148.329090.pub_search-item_67d57ad9-f5fa-4f56-96ae-372323f07a7a_)，他发起了一个 “不抱怨运动”。他倡导人们通过佩戴紫手环来提醒自己停止抱怨。如果参与者抱怨了，就要把手环从一只手换到另一只手上，目标是连续 21 天不抱怨，从而养成不抱怨的习惯。
+美国作家威尔・鲍温（Will Bowen）写了一本书《不抱怨的世界》[（点击跳转淘宝，5元到手）](https://s.click.taobao.com/t?e=m%3D2%26s%3DSIZHdYO19wJw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFvlTgPx7ZkQ%2FQ3qFS0Q876v0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba5zfKdbF9iC%2FoktNoCB3ZiP1SarTXhIOTsgIpc1WFZiJNubylQlnZt5BLTrY2VbPzzcQ3wp9BZmrR3XDlom%2F0Lusu1Ra8Z5HzUb%2Bherk4Nka8fDyMkLGqqgnfFijk9SFScHol32lR%2BtHUqKWYqyfTDM7AMx9cWAx%2BNiQZDBZ4dibQwmZPa6BsenEqY%2Bakgpmw&union_lens=lensId%3APUB%401733646358%402135f404_0e28_193a5601625_6ee4%40026hMDyXUSjapcAxKCaEOgxA%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_2_17336463581391433500159%3Bscm%3A1007.30148.329090.pub_search-item_67d57ad9-f5fa-4f56-96ae-372323f07a7a_){:rel="sponsored nofollow" target="_blank"}，他发起了一个 “不抱怨运动”。他倡导人们通过佩戴紫手环来提醒自己停止抱怨。如果参与者抱怨了，就要把手环从一只手换到另一只手上，目标是连续 21 天不抱怨，从而养成不抱怨的习惯。
 
 据统计，全球有超过 600 万人参与了这项运动，其中许多人成功地改变了自己抱怨的习惯，过上了更加积极乐观的生活。这表明，只要我们有决心，并且采用有效的方法，不抱怨是完全可以实现的。
 
@@ -111,5 +111,7 @@ tags: complaint-free emotional-intelligence
 ---
 
 直到我们下次见面，健健康康，开开心心哦！❤️ 
+
+本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。
 
 如果你想要查看更多情商内容，请点击[链接](/tag/emotional-intelligence)。

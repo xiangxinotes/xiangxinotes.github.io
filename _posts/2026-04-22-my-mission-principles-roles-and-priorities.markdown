@@ -9,7 +9,7 @@ tags: personal-growth book
 
 写给未来翻看本文的自己看的～～ 
 
-**零废话总结**：看了[《高效能人士的7个习惯》](https://s.click.taobao.com/t?e=m%3D2%26s%3DNF9G0eJFs69w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFl906SyIHsHUrjZVHKdyIYX0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba%2B2iXRyQIS%2B%2FCuhG0r9LexIwe6%2FtGg2%2FR0g4t7YZScZYrcaRkM8Lj7CthZhzQFCbR65FsXsfgAeDjv0YOjNz2Orpd92Rk%2BCS5K33ocpKuwsr70TkTQQDQyKABSGtnFZZ6cHol32lR%2BtHUqKWYqyfTDM7AMx9cWAx%2BrKR9olCevaOKIJB4op5mnXEqY%2Bakgpmw&union_lens=lensId%3APUB%401776781172%4021310242_0cde_19db0691ee6_515c%4002h1Ot0AV92WR44EKWiaLI6%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_17767811725351433500159%3Bscm%3A1007.30148.329090.pub_search-item_bfcdd254-4d22-4d07-a409-7c2af990c516_)后，我写下的使命宣言、原则和要事。这篇文章就是我的灯塔。
+**零废话总结**：看了[《高效能人士的7个习惯》](https://s.click.taobao.com/t?e=m%3D2%26s%3DNF9G0eJFs69w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFl906SyIHsHUrjZVHKdyIYX0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba%2B2iXRyQIS%2B%2FCuhG0r9LexIwe6%2FtGg2%2FR0g4t7YZScZYrcaRkM8Lj7CthZhzQFCbR65FsXsfgAeDjv0YOjNz2Orpd92Rk%2BCS5K33ocpKuwsr70TkTQQDQyKABSGtnFZZ6cHol32lR%2BtHUqKWYqyfTDM7AMx9cWAx%2BrKR9olCevaOKIJB4op5mnXEqY%2Bakgpmw&union_lens=lensId%3APUB%401776781172%4021310242_0cde_19db0691ee6_515c%4002h1Ot0AV92WR44EKWiaLI6%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_17767811725351433500159%3Bscm%3A1007.30148.329090.pub_search-item_bfcdd254-4d22-4d07-a409-7c2af990c516_){:rel="sponsored nofollow" target="_blank"}后，我写下的使命宣言、原则和要事。这篇文章就是我的灯塔。
 
 如果你不是我，那希望这篇文章可以给你一个例子，从而帮你确定你的使命宣言、原则和要事。
 
@@ -96,3 +96,5 @@ tags: personal-growth book
 - 给自己花钱，买必需品，买好东西，滋养自己
 - 开发右脑、训练右脑
 - 学习理财（从经济学概念开始，金钱的运动规律）
+
+本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。

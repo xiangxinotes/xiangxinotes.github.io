@@ -9,7 +9,7 @@ tags: personal-growth book
 
 写给未来翻看本文的自己看的～～ 
 
-**零废话总结**：我从[《人性的弱点》](https://s.click.taobao.com/t?e=m%3D2%26s%3D50wwvj33V1lw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFl906SyIHsHUEOdmkuupB2r0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba%2B2iXRyQIS%2B%2FCuhG0r9LexIwe6%2FtGg2%2FR0g4t7YZScZYrcaRkM8Lj7FNQwNjLDgFkSUNk1DyVPzTKASGOhb7qHfHh0AYqror893x0QyZ1OsX35v5Obn9jvkBAhW0XgTPYj4MrAUsR31Dl1SxDw1i9uP7nyHmkoZi7XypWabiJa9UdtrLYqvj5NMYMXU3NNCg%2F&union_lens=lensId%3APUB%401777728140%40212ab4cc_0ed2_19de8dab603_a158%40037gmk3nQ8BBKUGsrfeACmr1%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3AselectionPlaza_site_4358_0_0_0_2_17777281408791433500159%3Bscm%3A1007.30148.329090.pub_search-item_4aea4fd6-d232-41de-87ad-b7454309717a_)中摘抄的，希望自己应用的方式方法。大部分都是原文摘抄，少部分自我加工。
+**零废话总结**：我从[《人性的弱点》](https://s.click.taobao.com/t?e=m%3D2%26s%3D50wwvj33V1lw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFl906SyIHsHUEOdmkuupB2r0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba%2B2iXRyQIS%2B%2FCuhG0r9LexIwe6%2FtGg2%2FR0g4t7YZScZYrcaRkM8Lj7FNQwNjLDgFkSUNk1DyVPzTKASGOhb7qHfHh0AYqror893x0QyZ1OsX35v5Obn9jvkBAhW0XgTPYj4MrAUsR31Dl1SxDw1i9uP7nyHmkoZi7XypWabiJa9UdtrLYqvj5NMYMXU3NNCg%2F&union_lens=lensId%3APUB%401777728140%40212ab4cc_0ed2_19de8dab603_a158%40037gmk3nQ8BBKUGsrfeACmr1%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3AselectionPlaza_site_4358_0_0_0_2_17777281408791433500159%3Bscm%3A1007.30148.329090.pub_search-item_4aea4fd6-d232-41de-87ad-b7454309717a_){:rel="sponsored nofollow" target="_blank"}中摘抄的，希望自己应用的方式方法。大部分都是原文摘抄，少部分自我加工。
 
 这本书我读得第三遍了，终于在AI的帮助下，读懂了（自以为的）。摘抄与君共勉！
 
@@ -410,3 +410,5 @@ B：与己有关的情况
 
 - [我的使命宣言、原则和要事](/2026/04/22/my-mission-principles-roles-and-priorities/)
 - [《小狗钱钱》启示](/2025/06/16/16-takeaways-from-the-book-money-does-talk/)
+
+本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。
