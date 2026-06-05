@@ -17,6 +17,9 @@ paginate_path: "/page/:num"
 
 words_per_minute: 450 # the number of words per minute. 20260312
 
+minima:
+  date_format: "%Y年%-m月%-d日"
+
 # Pages Path
 defaults:
   - scope:
@@ -26,7 +29,6 @@ defaults:
 
 include:
   - _pages
-
 
 # Tags
 tag_page_layout: tag_page

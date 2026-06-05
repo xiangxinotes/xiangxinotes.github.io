@@ -1,0 +1,18 @@
+{% assign without-image = nil %}
+{% assign words_per_minute = site.words_per_minute | default: 200 %}
+
+<article class="article-card">
+  {% if post.image %}
+  <div class="card-image">
+    <img src="{{site.baseurl}}/images/{{post.image}}" alt="">
+  </div>
+  {% else %}
+    {% assign without-image = 'article-without-image' %}
+  {% endif %}
+  <div class="card-content {{ without-image }}">
+    <span class="card-date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+    <h2 class="card-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <p class="card-excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}</p>
+    <a href="{{post.url | prepend: site.baseurl}}" class="read-more">阅读全文 &rarr;</a>
+  </div>   
+</article>

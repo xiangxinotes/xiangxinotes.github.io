@@ -2,12 +2,24 @@
 layout: default
 ---
 
-<div class="arhive-head">
-  <div class="container">
-    <h1 class="archive-title">Tag: <span>{{ page.tag | capitalize | replace: "-", " " }}</span></h1>
-  </div>
-</div>
+{% assign tag_name = page.tag %}
+{% assign ft = site.data.featured_tags[tag_name] %}
 
-{% for post in page.posts %}
-  {% include article-content.html %}
-{% endfor %}
+<main>
+{% if ft %}
+  <section class="tag-hero">
+    <div class="hero-container">
+      <h1 class="tag-title">{{ ft.name }}合集</h1>
+      <p class="tag-description">{{ ft.desc }}</p>
+    </div>
+  </section>
+{% endif %}
+
+  <section class="articles-section">
+    <div class="articles-container">
+      {% for post in page.posts %}
+        {% include article-card.html %}
+      {% endfor %}
+    </div>
+  </section>
+</main>

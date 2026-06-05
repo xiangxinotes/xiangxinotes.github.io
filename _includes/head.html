@@ -7,11 +7,18 @@
   <meta name="google-site-verification" content="{{ site.data.settings.google-site-verification }}">
 
   {% if page.tag %}
-  <title>{{ page.tag | capitalize | replace: "-", " "}} | 向西笔记</title>
-  <meta name="description" content="对{{ page.tag | capitalize | replace: "-", " "}}感兴趣？快来看看这些和{{ page.tag | capitalize | replace: "-", " "}}有关的文章吧。向西结合自身经历经验，为你提供最新、最全、最优质的内容，向西笔记还包括更多主题：英语和法语的学习经验、旅游攻略、旅居行动指南、不同城市的旅居体验和让你随时开启旅居生活的商品，让你少走弯路，选择最适合你的商品。">
+    {% assign tag_slug = page.tag %}
+    {% assign ft = site.data.featured_tags[tag_slug] %}
+    {% if ft %}
+    <title>{{ ft.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ ft.desc }}">
+    {% else %}
+    <title>{{ page.tag | capitalize | replace: "-", " "}} | {{ site.title }}</title>
+    <meta name="description" content="{{ page.tag }}标签下的所有文章合集。">
+    {% endif %}
   {% elsif page.url == '/' %}
-  <title>向西笔记</title>
-  {% seo title=false %}
+    <title>{{ site.title }}</title>
+    {% seo title=false %}
   {% else %}
     {% seo %}
   {% endif %}
