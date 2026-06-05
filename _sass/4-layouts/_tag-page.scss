@@ -1,12 +1,6 @@
 @use "../0-settings/variables";
 @use "../1-tools/grid";
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-
 .header-container, .hero-container, .articles-container {
   width: 100%;
   max-width: 1200px;
@@ -139,7 +133,7 @@ img {
   flex-grow: 1;
 }
 
-.read-more {
+.article-card .read-more {
   font-size: 14px;
   font-weight: 600;
   color: variables.$link-color;

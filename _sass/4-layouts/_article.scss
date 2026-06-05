@@ -2,6 +2,7 @@
 @use "../1-tools/grid";
 
 .article {
+  position: relative;
   margin-bottom: 40px;
 
   .article__wrapper {
@@ -11,14 +12,6 @@
 
   .article__image {
     width: 50%;
-    display: block;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: variables.$light-gray;
-    &:hover {
-      opacity: 0.9;
-    }
 
     &:after {
       content: "";
@@ -50,9 +43,6 @@
 
       a {
         color: variables.$dark;
-        &:hover {
-          color: variables.$black;
-        }
       }
     }
 
@@ -82,10 +72,6 @@
         text-transform: uppercase;
         border-bottom: 1px solid transparent;
         color: variables.$gray;
-        &:hover {
-          color: variables.$dark;
-          border-color: variables.$brand-color;
-        }
       }
     }
   }
@@ -124,4 +110,27 @@
       }
     }
   }
+}
+
+.article__title a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.article:hover .article__image {
+  opacity: 0.9;
+}
+
+.article:hover .article__content .article__title a {
+  color: variables.$black;
+}
+
+.article:hover .article__content .read-more {
+  color: variables.$dark;
+  border-color: variables.$brand-color;
 }

@@ -8,8 +8,7 @@
     <div class="article__wrapper">
 
         {% if post.image %}
-          <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}/images/{{post.image}})">
-          </a>
+          <img src="{{site.baseurl}}/images/{{post.image}}" class="article__image" alt="{{ post.image_alt | default: '《' | append: post.title | append: '》的封面' | escape }}">
         {% else %}
           {% assign without-image = 'article-without-image' %}
         {% endif %}
@@ -49,7 +48,7 @@
             </div>
             <!-- add reading-time above to give a brief idea of how long it is. 20230429 -->
 
-            <a href="{{post.url | prepend: site.baseurl}}" class="read-more">继续阅读 <i class="ion ion-ios-arrow-forward"></i></a>
+            <a href="{{post.url | prepend: site.baseurl}}" class="read-more">阅读全文 →</a>
           </div>
 
         </div>
