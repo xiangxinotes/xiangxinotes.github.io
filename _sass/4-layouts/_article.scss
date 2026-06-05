@@ -12,6 +12,8 @@
 
   .article__image {
     width: 50%;
+    height: 400px;
+    object-fit: cover;
 
     &:after {
       content: "";
