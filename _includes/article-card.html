@@ -4,7 +4,7 @@
 <article class="article-card">
   {% if post.image %}
   <div class="card-image">
-    <img src="{{site.baseurl}}/images/{{post.image}}" alt="{{ post.image_alt | default: '《' | append: post.title | append: '》的封面' | escape }}">
+    <img src="{{site.baseurl}}/images/{{post.image}}" alt="{% if post.image_alt %}{{ post.image_alt | escape }}{% else %}《{{ post.title | escape }}》的封面{% endif %}">
   </div>
   {% else %}
     {% assign without-image = 'article-without-image' %}

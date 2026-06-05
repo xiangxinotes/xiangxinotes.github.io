@@ -8,7 +8,7 @@
     <div class="article__wrapper">
 
         {% if post.image %}
-          <img src="{{site.baseurl}}/images/{{post.image}}" class="article__image" alt="{{ post.image_alt | default: '《' | append: post.title | append: '》的封面' | escape }}">
+          <img src="{{site.baseurl}}/images/{{post.image}}" class="article__image" alt="{% if post.image_alt %}{{ post.image_alt | escape }}{% else %}《{{ post.title | escape }}》的封面{% endif %}">
         {% else %}
           {% assign without-image = 'article-without-image' %}
         {% endif %}
