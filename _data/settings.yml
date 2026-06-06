@@ -1,17 +1,11 @@
 #-------------------------------
-# General Site Settings
-title: 向西笔记 - 向西 ｜内容创作者、Up主、外企人、旅居专家和法语新手
-logo: logo.png # You can add own logo.
-description: 向西是一名B站Up主、博客主，外企工作8年，在7个城市旅居，向西笔记包含英语和法语的学习经验，包括单词的不同之处分析和学习工具，助你高效而又精准地使用单词；向西笔记还提供旅游攻略、旅居行动指南、不同城市的旅居体验和让你随时开启旅居生活的商品，让你少走弯路，选择最适合你的商品。
-
-
-#-------------------------------
 # Author Settings
 author:
   name: 向西
   image: me.webp
   say-hello: 你好，我是<a href="/about"><strong>向西</strong></a>
-  bio: 向西结合自身经历经验，为你提供<a href="/tag/product"><strong>好物推荐</strong></a>、<a href="/tag/sojourn"><strong>旅居建议</strong></a>和<a href="/tag/workplace"><strong>工作建议</strong></a>，分享<a href="/tag/interview">面试技巧</a>、<a href="/tag/languages"><strong>语言学习技巧和工具</strong></a>、<a href="/tag/travel"><strong>旅游经验</strong></a>、<a href="/tag/book">书单</a>和让你变幸福的<a href="/tag/tools">小工具</a>。
+  bio: 本站<strong>每周六</strong>更新一篇原创文章，所有内容均为亲身经历。<br/>我的使命：<strong>让你带着问题而来，带着解决方案离开。</strong><br/>从<a href="/tag/communication-skills">人际沟通</a>到<a href="/tag/workplace">职场成长</a>，帮你全方位实现<a href="/tag/personal-growth">自我提升</a>。
+  cta: 关注我
 
 
 #-------------------------------
