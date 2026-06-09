@@ -161,6 +161,6 @@ tags: personal-growth communication-skills end-conversations
 
 本文是[「结束对话」系列](/tag/end-conversations/)的第一篇。
 
-接下来我会更新第二篇：[**何时结束对话**](/2026/06/06/when-to-end-a-conversation)，帮你找准收尾时机，彻底告别犹豫和尴尬。
+接下来我会更新第二篇：[**聊天时自己说个不停？5个收尾信号提醒你踩刹车**](/2026/06/06/when-to-end-a-conversation)，帮你找准收尾时机，彻底告别犹豫和尴尬。
 
 后续还会推出细分专题，分享**职场同事**、**上门探望亲友**等专属场景的[沟通技巧](/tag/communication-skills)，欢迎持续关注。
