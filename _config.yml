@@ -12,9 +12,14 @@ plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-seo-tag
+  - jekyll-feed
 
 paginate: 7
 paginate_path: "/page/:num"
+
+feed:
+  posts_limit: 20   # 只输出最新20篇文章
+  excerpt_only: false # false=输出全文，true=只输出摘要
 
 words_per_minute: 450 # the number of words per minute. 20260312
 
