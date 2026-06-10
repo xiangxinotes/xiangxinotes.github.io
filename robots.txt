@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /page/
 Allow: /
 Sitemap: https://xiangxi.work/sitemap.xml
