@@ -10,7 +10,7 @@
     {% assign without-image = 'article-without-image' %}
   {% endif %}
   <div class="card-content {{ without-image }}">
-    <span class="card-date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+    <span class="card-date"><time datetime="{{ post.last_modified_at | default: post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.last_modified_at | default: post.date | date: date_format }}</time></span>
     <h2 class="card-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p class="card-excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}</p>
     <a href="{{post.url | prepend: site.baseurl}}" class="read-more">阅读全文 &rarr;</a>
