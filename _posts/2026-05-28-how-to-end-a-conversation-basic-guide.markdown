@@ -4,7 +4,7 @@ title: "不知道如何结束对话？先重建认知，再用通用话术收尾
 date: 2026-05-30 15:45:00 +0800
 description: "和朋友、熟人、陌生人对话不知道怎么收尾，为想要结束对话而愧疚？本文拆解社交心理误区，帮你重建认知。还有多场景通用收尾话术，线上线下都能用，帮你从容、礼貌地结束每一次交谈。"
 image: pexels-lucasleonelsuarez-36215565.jpg
-tags: personal-growth communication-skills end-conversations
+tags: end-conversations
 ---
 
 和人对话时，你是否常常陷入这样的困境？
@@ -163,4 +163,4 @@ tags: personal-growth communication-skills end-conversations
 
 接下来我会更新第二篇：[**聊天时自己说个不停？5个收尾信号提醒你踩刹车**](/2026/06/06/when-to-end-a-conversation)，帮你找准收尾时机，彻底告别犹豫和尴尬。
 
-后续还会推出细分专题，分享**职场同事**、**上门探望亲友**等专属场景的[沟通技巧](/tag/communication-skills)，欢迎持续关注。
+后续还会推出细分专题，分享**职场同事**、**上门探望亲友**等专属场景的[沟通技巧](/tag/communication-skills/)，欢迎持续关注。

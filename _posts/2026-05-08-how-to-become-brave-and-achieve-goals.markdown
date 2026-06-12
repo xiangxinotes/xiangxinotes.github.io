@@ -4,7 +4,7 @@ title: 如何变勇敢，成为理想中的自己？
 date: 2026-05-08 15:49:00 +0800
 description: 真正的勇敢不是等准备好了再行动，而是先直面害怕的事，在行动中长出底气。本文分享笔者亲身突破胆怯的经历，还有写成功日记的实用方法，帮你走出舒适区、慢慢变勇敢。
 image: pexels-timo-volz-837240-5443127.jpg
-tags: personal-growth experience
+tags: self-mastery
 keywords: "如何变勇敢,勇敢,做不敢做的事,变勇敢的方法,克服内心胆怯,突破舒适区,提升自我底气,成功日记怎么写"
 ---
 

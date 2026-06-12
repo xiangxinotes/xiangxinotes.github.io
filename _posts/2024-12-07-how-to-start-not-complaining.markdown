@@ -4,7 +4,7 @@ title: 怎样在2025年成为一个不抱怨的人，怎样不抱怨？
 date: 2024-12-07 13:09:13 +0800
 description: 抱怨似乎无孔不入，无论是工作压力、人际关系困扰，还是生活琐事，都成了人们抱怨的 “重灾区”。但是，持续的抱怨不仅无法真正解决问题，还可能给我们的生活带来诸多负面影响。本文将从人为什么抱怨、抱怨的不良后果、为什么要不抱怨、能否做到不抱怨、怎么做可以不抱怨这5个方面展开探讨，希望能帮你更好地理解并践行不抱怨的生活方式，在2025年成为不抱怨的人！
 image: greg-rosenke-bAVKRB5CkH0-unsplash.jpg
-tags: complaint-free emotional-intelligence
+tags: mindset-regulation
 ---
 
 如果你更喜欢看视频，请直接看下面这个视频：
@@ -114,4 +114,4 @@ tags: complaint-free emotional-intelligence
 
 本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。
 
-如果你想要查看更多情商内容，请点击[链接](/tag/emotional-intelligence)。
+博客中还有其他和[**心态管理**有关的文章](/tag/mindset-regulation/)，可以点击链接查看哦。

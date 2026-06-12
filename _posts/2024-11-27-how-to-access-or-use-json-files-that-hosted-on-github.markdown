@@ -4,7 +4,7 @@ title: 【详细教程】怎么直接访问并使用托管在 Github 上的 json
 date: 2024-11-28 14:56:35 +0800
 description: 想要把 Github 当做自己的 json 库，减轻自己服务器的压力？想要通过 http 请求获取 Github 中 json 文件的内容？本文提供详细的分步指南，包括精准定位文件存放位置以及对其进行有效加工的方法，附实际演示案例，助你轻松上手。
 image: categories-json-in-sql-wizland-hosted-on-github.webp
-tags: github json
+tags: digital-efficiency
 ---
 
 在开发过程中，时常会遇到需要直接访问并使用托管在 Github 上的 json 文件的情况，本文将为你提供一份详细的 step by step 指南，帮助你轻松搞定此事。

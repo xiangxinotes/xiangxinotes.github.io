@@ -6,7 +6,7 @@ last_modified_at: 2026-06-09 21:20:00 +0800
 description: "对话时自己说个不停，想停又怕冷场？本文整理了5个结束对话的客观信号，帮你判断何时该体面刹车。无需高情商话术，掌握这5个决策依据，轻松化解社交尴尬，告别单向输出。"
 image: pexels-chitokan-2087742.webp
 image_alt: 桌上放着一个复古计时器
-tags: personal-growth communication-skills end-conversations
+tags: end-conversations
 ---
 
 你有没有这种经历？

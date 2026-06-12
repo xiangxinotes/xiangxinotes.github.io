@@ -4,7 +4,7 @@ title: 《人性的弱点》督促我应用的人际交往方法
 date: 2026-04-25 22:05:00 +0800
 description: 写给未来时不时来翻看本文的自己～ 《人性的弱点》的核心价值是：少受伤、少吵架、少内耗。而不是：多朋友、多人脉、有人帮你。只教你「如何体面地保持距离、减少矛盾」。它是让普通相处更顺滑的「和平相处说明书」，不是「深度交友指南」。
 image: pexels-jill-wellington-1638660-40192.jpg
-tags: personal-growth book
+tags: communication-skills book
 ---
 
 写给未来翻看本文的自己看的～～ 

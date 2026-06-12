@@ -5,7 +5,7 @@ date: 2026-04-22 11:37:00 +0800
 last_modified_at: 2026-06-09 11:37:00 +0800
 description: 写给未来时不时来翻看本文的自己～如果你忘了你的使命宣言、原则、角色和目标、要事，请来查看这篇文章哦。这里有你给自己制定的方向。如果有什么要改、要删、要加的，请务必对本文进行更新。
 image: pexels-jill-wellington-1638660-40192.jpg
-tags: personal-growth book
+tags: book
 ---
 
 写给未来翻看本文的自己看的～～ 

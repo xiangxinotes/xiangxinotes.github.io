@@ -4,7 +4,7 @@ title: 给计算机专业学生的 5 条建议｜从学习到求职少走弯路
 date: 2026-03-20 17:48:00 +0800
 description: 分享给计算机专业学生的5条实用建议：熟练使用Git与GitHub、搭建个人作品集、熟悉Linux基础命令、重视面试刷题与概念、关注AI工具提升效率。用真实经历告诉你：成绩好不等于会面试，作品集比成绩单更有说服力。
 image: pexels-imperioame-4078342.jpg
-tags: college-student personal-growth github
+tags: college-student
 keywords: "计算机专业建议,GitHub使用,作品集搭建,计算机学生求职,Linux命令,程序员面试,AI工具学习,Git指令,计算机专业工作,个人作品集,大学生求职,应届生求职,应届生实习,计算机求职,计算机实习,搭建作品集,如何成为程序员,成绩差的应届生"
 ---
 

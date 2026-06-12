@@ -4,7 +4,7 @@ title: 自媒体时代，我为什么还要费力搭建自己的网站？
 date: 2025-07-31 15:51:00 +0800
 description: 2025年已经不是自媒体创业的风口期了，还有必要搭建自己的网站吗？《人人都在晒，凭什么你出彩？》这本书会告诉你：绝对有必要，而且你应该尽快这样做！本文将会从 show your work 作者的角度出发，结合向西的个人经验，与你分享为什么要搭建个人网站以及个人网站中放些什么这两方面的内容。
 image: pexels-dee-doo-91072-6486987.jpg
-tags: personal-growth product book career
+tags: product book career
 keywords:
   - 个人网站
   - show your work
@@ -122,6 +122,6 @@ keywords:
 
 ---
 
-想看书，不知道看什么？可以查看<a href="/tag/book">**书单**</a>话题下的其他文章～ 
+想看书，不知道看什么？可以查看<a href="/tag/book/">**书单**</a>话题下的其他文章～ 
 
 本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。

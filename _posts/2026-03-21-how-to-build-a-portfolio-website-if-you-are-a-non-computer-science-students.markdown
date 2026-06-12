@@ -4,7 +4,7 @@ title: 非计算机专业学生，如何低成本快速搭建个人作品集？
 date: 2026-03-20 17:48:00 +0800
 description: 非计算机专业学生，不会写代码，也能搭建个人作品集吗？答案是肯定的，而且你不用设计、不用花钱，用 Notion 模板就能一键生成个人网站。展示作业、报告、策划、文案、设计、笔记等内容，求职、升学、面试加分神器，5 分钟上手。
 image: how-to-build-a-portfolio-website-if-you-are-a-non-computer-science-students-notion-marketplace-portfolio.webp
-tags: tools resources college-student personal-growth
+tags: college-student
 keywords: "非计算机专业作品集,Notion个人网站,零代码作品集,大学生求职,大学生面试,大学生作品集,求职加分,个人展示页,个人作品集,如何搭建个人作品集,低成本个人作品集,如何制作个人作品集,计算机小白"
 ---
 

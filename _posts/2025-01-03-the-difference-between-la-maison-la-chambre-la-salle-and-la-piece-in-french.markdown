@@ -4,7 +4,7 @@ title: la maison、la chambre、la pièce 与 la salle 的区别
 date: 2025-01-03 09:07:02 +0800
 description: 深入剖析法语中 La maison、La chambre、La salle 与 La pièce 的差异，精准解读这四个词的差异，通过丰富的解释和例子助力法语学习者清晰辨别并准确运用相关词汇，提升语言表达的精准度与丰富性。
 image: quentin-touvard-VFjxs5yEB0w-unsplash.jpg
-tags: french languages words-difference
+tags: french
 ---
 
 在法语的空间与居住词汇领域中，la maison、la chambre、la salle 和 la pièce 都围绕着**居住环境**展开，然而它们各自有着清晰的界定与独特的用途，存在诸多差别。
@@ -73,4 +73,4 @@ la salle 是**人们汇聚一处**，进行社交、工作、学习、锻炼等*
 
 ---
 
-如果你希望了解其他词汇之间的区别，那么请查看<a href="/tag/words-difference">词汇区别话题下的其他文章</a>～
+如果你希望了解其他词汇之间的区别，那么请查看<a href="/tag/french/">法语话题下的其他文章</a>～

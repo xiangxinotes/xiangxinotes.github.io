@@ -4,7 +4,7 @@ title: 如何提高工作正确率？2个实用工具分享｜职场效率指南
 date: 2026-04-20 18:27:35 +0800
 description: "总因粗心导致工作正确率低？本文分享两个让作者本人工作正确率达到95%的方法：制作检查清单、能自动化的部分全部自动化，配合 Python、Google Apps Script 与表格函数，帮你大幅减少失误，提升工作质量。"
 image: pexels-thirdman-7180748.jpg
-tags: workplace personal-growth tools resources
+tags: workplace digital-efficiency
 keywords: "工作正确率,检查清单,自动化办公,Python 自动化,Google Apps Script,Excel 函数,职场效率,减少粗心错误"
 ---
 

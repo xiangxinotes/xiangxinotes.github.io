@@ -4,7 +4,7 @@ title: 【2025最新】三亚旅游攻略，西岛、南山文化旅游区、大
 date: 2025-02-10 12:58:35 +0800
 description: 本旅游攻略包括4个景区：西岛、南山文化旅游区（108米“南山海上观音”）、大小洞天、鹿回头的介绍，包括如何预约、如何购票（包括成人票、学生票和老人票）、费用多少以及如何前往四部分，提供四大景区一站式旅游攻略，来三亚千万别错过。
 image: pexels-huanying530-8138272.jpg
-tags: sanya travel guide tourist-attraction
+tags: sanya travel
 ---
 
 想知道三亚哪些景区好逛？想知道景区要不要预约？想知道要不要买票？想知道票价多少？想知道学生票多少钱？想知道老人票怎么买？想知道这些景区怎么去？看这篇旅游攻略就对喽。
@@ -202,4 +202,4 @@ tags: sanya travel guide tourist-attraction
 
 ---
 
-点击查看<a href="/tag/sanya">三亚话题下的其他文章</a>～ ❤️ 
+点击查看<a href="/tag/sanya/">三亚话题下的其他文章</a>～ ❤️ 

@@ -4,7 +4,7 @@ title: 工作要翻译电梯安全标识？直接用2026最新官方规范（附
 date: 2026-03-27 14:32:00 +0800
 description: 接到电梯安全标识英译任务？机翻尴尬、自译纠结，其实国家与地方有官方译写规范。本文直接给出2026最新权威文档链接、电梯专用译文位置，并教你三步在全国标准信息公共服务平台查询最新现行版本，从此做安全标识翻译规范又省心。
 image: official-translation-standards-for-safety-signs-photo-on-elevator-translation.webp
-tags: tools resources english languages
+tags: digital-efficiency
 keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电梯安全标识翻译,面向轿厢门进出注意轿厢位置 翻译,电梯轿厢内标志标识 英文,电梯安全标识英文翻译,电梯标志语大全中英,电梯警示标识英文,电梯安全标识英文
 电梯轿厢内标志标识,面向轿厢门进出注意轿厢位置 英语"
 ---

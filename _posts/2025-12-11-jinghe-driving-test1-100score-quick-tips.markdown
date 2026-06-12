@@ -4,7 +4,7 @@ title: 冲击100分，科目一怎么快速刷题｜新疆博州精河县
 date: 2025-12-11 12:11:00 +0800
 description: 专为新疆博尔塔拉精河县驾考人量身打造的科目一满分攻略，它来啦！本文将科目一拆解为刷题、预约、考试三个阶段，并为你分析每个阶段的重点任务，帮你高效刷题抓重点，避开陷阱，省时省力拿下科目一满分。
 image: pexels-dom-j-7304-45113.jpg
-tags: personal-growth driver's-license
+tags: driver's-license
 keywords:
   - 精河
   - 科目一

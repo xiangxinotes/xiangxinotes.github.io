@@ -4,7 +4,7 @@ title: 认识你的自动挡教练车和考试车｜新疆博州精河县
 date: 2026-02-12 20:02:00 +0800
 description: 恭喜你，通过了科目一，终于要开始摸车啦～科目二是一切有趣事情发生的开始。当然了，我也知道刚开始的时候这一切有多么吓人，了解教练车和考试车能够在一定程度上缓解你的紧张和焦虑。对车越了解，你就越不会被车吓到。与此对应的，你接受新知识的速度更快，也就更不会挨训。那就来认识你的自动挡教练车和考试车吧！
 image: pexels-gustavo-fring-6816982.jpg
-tags: personal-growth driver's-license
+tags: driver's-license
 keywords:
   - 精河
   - 科目二

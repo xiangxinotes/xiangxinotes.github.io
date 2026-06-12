@@ -4,7 +4,7 @@ title: 计算机学生如何做作品集？用 Jekyll 和 GitHub Pages 零成本
 date: 2026-03-31 22:43:00 +0800
 description: 在为昂贵的服务器费用发愁？作为计算机专业学生，利用 Jekyll 和 GitHub Pages 可以零成本搭建专业级作品集。本文精选 jekyllthemes.io 等主题网站，手把手教你如何将课程作业转化为求职利器。
 image: pexels-greta-hoffman-7859575.jpg
-tags: college-student personal-growth github-pages
+tags: college-student jekyll
 keywords: "计算机专业建议,GitHub使用,GitHub Pages,作品集搭建,计算机学生求职,程序员面试,计算机专业工作,个人作品集,大学生求职,应届生求职,应届生实习,计算机求职,计算机实习,搭建作品集,如何成为程序员,成绩差的应届生"
 ---
 

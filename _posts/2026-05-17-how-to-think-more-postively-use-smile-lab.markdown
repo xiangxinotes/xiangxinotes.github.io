@@ -4,7 +4,7 @@ title: "80秒重塑正向心态｜Smile Lab 帮你找回微笑，摆脱情绪内
 date: 2026-05-17 21:25:00 +0800
 description: "总是习惯性消极思考，不爱微笑，深陷情绪内耗还害怕社交吗？大脑的思维模式可以通过刻意训练重新编程！Smile Lab，一个碎片化趣味心态训练工具。协助你刻意练习重塑正向思维，轻松练就乐观心态，慢慢找回从容爱笑的自己。"
 image: how-to-think-more-postively-use-smile-lab.webp
-tags: tools resources personal-growth emotional-intelligence
+tags: mindset-regulation
 ---
 
 如果你正深陷内耗、浑身负能量，不敢社交、总盯着生活里的负面细节，甚至忘了怎么微笑；

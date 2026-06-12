@@ -4,7 +4,7 @@ title: 9个我旅居3个月一定会买的居家生活必需品
 date: 2025-04-15 11:55:35 +0800
 description: 在7个城市，每次旅居3个月的我，如果接下来要去其他地方旅居，我一定会买的9个居家生活必需品分享。包括：触感一级棒的被子、被套、床单等床上用品；洗衣液、洗发露、沐浴露、扫把簸箕等清洁套装；还有我买过2次的电煮锅、电热水壶等厨房用具。如果你也要在某个地方短住3个月，可以直接抄作业哦！
 image: pexels-pixabay-271624.jpg
-tags: product life necessity sojourn
+tags: product sojourn
 ---
 
 ## 被子
@@ -124,7 +124,7 @@ https://s.click.taobao.com/t?e=m%3D2%26s%3D5pRJjQfgb9Jw4vFB6t2Z2ueEDrYVVa64YUrQe
 
 ---
 
-对旅居的想法念念不忘？可以查看<a href="/tag/sojourn">**旅居**话题下的其他文章</a>～ 
+对旅居的想法念念不忘？可以查看<a href="/tag/sojourn/">**旅居**话题下的其他文章</a>～ 
 
 本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。
 

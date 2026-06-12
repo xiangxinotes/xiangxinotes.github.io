@@ -4,7 +4,7 @@ title: 创业者如何找到自己的不公平优势？增加创业成功率
 date: 2025-07-24 11:10:00 +0800
 description: 本文旨在为想要创业或犹豫要不要创业的人提供指引。本文分为三部分：为什么要找不公平优势，《不公平优势》中的 MILES 框架是什么，和常见的迷思澄清。强烈推荐未来的企业家自己也买这本书看看，其中提供了许多现实中的案例分析，本文无法一一提及。
 image: pexels-cottonbro-8431787.jpg
-tags: personal-growth product book career entrepreneur early-retirement
+tags: product book career early-retirement
 keywords: 
   - 不公平优势
   - 创业
@@ -166,6 +166,6 @@ MILES框架，指的是下面这5个方面：
 
 ---
 
-想实现财务自由、提早退休？可以查看<a href="/tag/early-retirement">**提早退休**</a>话题下的其他文章～ 
+想实现财务自由、提早退休？可以查看<a href="/tag/early-retirement/">**提早退休**</a>话题下的其他文章～ 
 
 本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。

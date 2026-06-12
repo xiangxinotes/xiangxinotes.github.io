@@ -4,7 +4,7 @@ title: 【2025最新】在三亚过年，住在自建房里是一种怎样的体
 date: 2025-02-08 13:06:35 +0800
 description: 去三亚过年的头等大事就是租房，在三亚有3种房屋类型可供选择：自建房、小区房、别墅，这篇文章将会分享作者本人2025年在三亚过年前住自建房的经历。
 image: alexander-bennington-poGsPJB0vx4-unsplash.jpg
-tags: sojourn sanya renting self-built-house
+tags: sojourn sanya renting
 ---
 
 如果你从未住过自建房，对自建房一点也不了解，但又因为三亚小区房太贵，不得不考虑自建房，那么这篇文章一定要耐心看完。
@@ -141,7 +141,7 @@ tags: sojourn sanya renting self-built-house
 回家的路上经过其他饭店，无人问津，不禁好奇，到底是何魔力，生意如此兴隆。回家后大众点评才知，原来上过纪录片《来宵夜吧》第10集，且为烤鸡总店，一番故事读下来也颇为有趣。遂于第二日花108元排队15分钟买到，带回家品尝，也算没白来一趟。
 
 生活体验到此结束。想了解更多关于三亚的内容，不要客气，
-<a href="/tag/sanya">三亚话题下的其他文章</a>任你挑选～ 
+<a href="/tag/sanya/">三亚话题下的其他文章</a>任你挑选～ 
 
 ---
 
