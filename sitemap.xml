@@ -33,7 +33,7 @@ layout: null
 </url>
 {%- endif -%}
 {%- else -%}
-{%- unless page.url contains 'page/' or page.url contains 'assets/' or page.url == '/404.html' or page.url == '/index.html' or page.url == '/' or page.url == '/sitemap.xml' or page.url contains '.json' -%}
+{%- unless page.url contains 'page/' or page.url contains 'assets/' or page.url == '/404.html' or page.url == '/index.html' or page.url == '/' or page.url == '/sitemap.xml' or page.url == '/feed.xml' or page.url contains '.json' -%}
 <url>
 	<loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
 	{% if page.last_modified_at -%}
