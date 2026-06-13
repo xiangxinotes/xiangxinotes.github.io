@@ -6,28 +6,31 @@
   <meta name="baidu-site-verification" content="codeva-QpaqYDG9db" />
   <meta name="google-site-verification" content="{{ site.data.settings.google-site-verification }}">
 
-  {% if page.tag %}
-    {% assign tag_slug = page.tag %}
-    {% assign ft = site.data.featured_tags[tag_slug] %}
-    {% if ft %}
-    <title>{{ ft.title }} | {{ site.title }}</title>
-    <meta name="description" content="{{ ft.desc }}">
-    {% else %}
-    <title>{{ page.tag | capitalize | replace: "-", " "}} | {{ site.title }}</title>
-    <meta name="description" content="{{ page.tag }}标签下的所有文章合集。">
-    {% endif %}
-  {% elsif page.url == '/' %}
-    <title>{{ site.title }}</title>
-    {% seo title=false %}
+{% if page.tag %}
+  {% assign tag_slug = page.tag %}
+  {% assign ft = site.data.featured_tags[tag_slug] %}
+  {% if ft %}
+  <title>{{ ft.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ ft.desc }}">
   {% else %}
-    {% seo %}
+  <title>{{ page.tag | capitalize | replace: "-", " "}} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.tag }}标签下的所有文章合集。">
   {% endif %}
-  {% if page.keywords %}
+{% elsif page.url == '/' %}
+  <title>{{ site.title }}</title>
+  {% seo title=false %}
+{% elsif paginator and paginator.page > 1 %}
+  <title>第{{ paginator.page }}页｜{{ site.title }}</title>
+  {% seo title=false %}
+{% else %}
+  {% seo %}
+{% endif %}
+{% if page.keywords %}
   <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
   {% endif %}
   {% if paginator and paginator.page > 1 %}
   <meta name="robots" content="noindex, follow">
-  {% endif %}
+{% endif %}
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
