@@ -5,10 +5,15 @@ layout: default
 {% assign tag_name = page.tag %}
 {% assign ft = site.data.featured_tags[tag_name] %}
 
-<main>
+<main class="tag-page-main">
 {% if ft %}
   <section class="tag-hero">
     <div class="hero-container">
+      <div class="tag-breadcrumb">
+        <a href="/">首页</a><span> / </span>
+        <!-- <a href="/">全部合集</a><span> / </span> -->
+        <span>{{ ft.name }}合集</span>
+      </div>
       <h1 class="tag-title">{{ ft.name }}合集</h1>
       <p class="tag-description">{{ ft.desc }}</p>
     </div>
