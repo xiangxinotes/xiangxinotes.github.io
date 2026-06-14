@@ -40,3 +40,25 @@
     }
   }
 }
+
+.page-meta-bar {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 40px auto;
+}
+
+.page-current-badge {
+  font-size: .8em;
+  letter-spacing: 1px;
+  color: variables.$brand-color;
+  border: 1px solid rgba(0,136,204,0.3);
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+.page-line {
+  flex-grow: 1;
+  height:1px;
+  background: variables.$light-gray;
+}

@@ -1,21 +1,16 @@
 <!-- begin footer -->
 <footer class="footer">
   <div class="container">
-
-    {% if site.data.settings.mailchimp %}
-    {% include subscribe.html %}
-    {% else %} {% endif %}
-
-    {% if site.data.settings.instagram %}
-    {% include instagram.html %}
-    {% else %} {% endif %}
-
-    {% if site.data.settings.works %}
-    {% include my-work.html %}
-    {% else %} {% endif %}
-
-    <!-- {% include contact-link.html %} -->
-
+{%- if site.data.settings.mailchimp %}
+{% include subscribe.html %}
+{%- endif %}
+{%- if site.data.settings.instagram %}
+{% include instagram.html %}
+{%- endif %}
+{%- if site.data.settings.projects %}
+{% include projects-footer.html %}
+{%- endif %}
+<!-- {% include contact-link.html %} -->
     <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.title }}</a> — All right Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
 </div>
 </footer>

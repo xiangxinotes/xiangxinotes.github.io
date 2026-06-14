@@ -1,14 +1,13 @@
-{% assign without-image = nil %}
-{% assign words_per_minute = site.words_per_minute | default: 200 %}
-
+{%- assign without-image = nil -%}
+{%- assign words_per_minute = site.words_per_minute | default: 200 -%}
 <article class="article-card">
-  {% if post.image %}
+  {%- if post.image %}
   <div class="card-image">
     <img src="{{site.baseurl}}/images/{{post.image}}" alt="{% if post.image_alt %}{{ post.image_alt | escape }}{% else %}《{{ post.title | escape }}》的封面{% endif %}">
   </div>
-  {% else %}
-    {% assign without-image = 'article-without-image' %}
-  {% endif %}
+  {%- else %}
+    {%- assign without-image = 'article-without-image' -%}
+  {%- endif %}
   <div class="card-content {{ without-image }}">
     <span class="card-date"><time datetime="{{ post.last_modified_at | default: post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.last_modified_at | default: post.date | date: date_format }}</time></span>
     <h2 class="card-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>

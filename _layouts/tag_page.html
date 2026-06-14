@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% assign tag_name = page.tag %}
-{% assign ft = site.data.featured_tags[tag_name] %}
+{%- assign tag_name = page.tag -%}
+{%- assign ft = site.data.featured_tags[tag_name] -%}
 
 <main class="tag-page-main">
-{% if ft %}
+{%- if ft %}
   <section class="tag-hero">
     <div class="hero-container">
       <div class="tag-breadcrumb">
@@ -18,13 +18,12 @@ layout: default
       <p class="tag-description">{{ ft.desc }}</p>
     </div>
   </section>
-{% endif %}
-
+{%- endif %}
   <section class="articles-section">
     <div class="articles-container">
-      {% for post in page.posts %}
+      {%- for post in page.posts %}
         {% include article-card.html %}
-      {% endfor %}
+      {%- endfor -%}
     </div>
   </section>
 </main>

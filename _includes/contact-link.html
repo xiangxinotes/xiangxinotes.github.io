@@ -1,31 +1,31 @@
 <div class="contact">
   <ul class="contact__list list-reset">
-    {% if site.data.settings.twitter %}
-      <li><a href="{{ site.data.settings.twitter }}" target="_blank"><i class="ion ion-logo-twitter"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.twitter %}
+    <li><a href="{{ site.data.settings.twitter }}" target="_blank"><ion-icon name="logo-twitter"></ion-icon></a></li>
+  {%- endif %}
 
-    {% if site.data.settings.facebook %}
-      <li><a href="{{ site.data.settings.facebook }}" target="_blank"><i class="ion ion-logo-facebook"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.facebook %}
+    <li><a href="{{ site.data.settings.facebook }}" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a></li>
+  {%- endif %}
   
-    {% if site.data.settings.dribbble %}
-      <li><a href="{{ site.data.settings.dribbble }}" target="_blank"><i class="ion ion-logo-dribbble"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.dribbble %}
+    <li><a href="{{ site.data.settings.dribbble }}" target="_blank"><ion-icon name="logo-dribbble"></ion-icon></a></li>
+  {%- endif %}
   
-    {% if site.data.settings.instagram %}
-      <li><a href="{{ site.data.settings.instagram }}" target="_blank"><i class="ion ion-logo-instagram"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.instagram %}
+    <li><a href="{{ site.data.settings.instagram }}" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a></li>
+  {%- endif %}
   
-    {% if site.data.settings.pinterest %}
-      <li><a href="{{ site.data.settings.pinterest }}" target="_blank"><i class="ion ion-logo-pinterest"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.pinterest %}
+    <li><a href="{{ site.data.settings.pinterest }}" target="_blank"><ion-icon name="logo-pinterest"></ion-icon></a></li>
+  {%- endif %}
   
-    {% if site.data.settings.weibo %}
-      <li><a href="{{ site.data.settings.weibo }}" target="_blank"><i class="fa-brands fa-weibo"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.weibo %}
+    <li><a href="{{ site.data.settings.weibo }}" target="_blank"><i class="fa-brands fa-weibo"></i></a></li>
+  {%- endif %}
   
-    {% if site.data.settings.bilibili %}
-      <li><a href="{{ site.data.settings.bilibili }}" target="_blank"><i class="fa-brands fa-bilibili"></i></a></li>
-    {% else %} {% endif %}
+  {%- if site.data.settings.bilibili %}
+    <li><a href="{{ site.data.settings.bilibili }}" target="_blank"><i class="fa-brands fa-bilibili"></i></a></li>
+  {%- endif %}
   </ul>
 </div> 

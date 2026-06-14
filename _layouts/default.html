@@ -1,32 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-
 {% include head.html %}
-
 <body>
   {% include microsoft-clarity.html %}
-  
   {% include header.html %}
-
   <!-- 网页内容区域创建一个div，用于给 Translate 自动加载使用，id 名称不可随意 -->
   <!-- <div id="google_translate_element"></div> -->
-  
   <!-- begin content -->
   <main class="content" aria-label="Content">
     {{ content | replace: '<img ', '<img loading="lazy" ' }}
   </main>
   <!-- end content -->
-
   <div class="top" title="Top"><ion-icon name="arrow-up"></ion-icon></div>
-
   {% include search.html %}
-
   {% include footer.html %}
-
   {% include javascripts.html %}
   {% if page.id %}
     {% include javascripts-post.html %}
   {% endif %}
 </body>
-
 </html>

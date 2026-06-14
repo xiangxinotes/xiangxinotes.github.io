@@ -5,7 +5,7 @@
       <div class="col col-6 col-t-12 last-item">
         <div class="hero__content">
           <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
-          <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
+          <p class="hero__subtitle">{% if page.url == '/' %}{{ site.data.settings.author.bio }}{% else %}{{ site.data.settings.author.bio-about }}{% endif %}</p>
           <div class="hero__social">
             <span class="hero__social-title">{{ site.data.settings.author.cta }} |</span>
             {% include contact-link.html %}
@@ -14,7 +14,7 @@
       </div>
       <div class="col col-6 col-t-12">
         <div class="hero__image">
-          <img width="900" height="600" src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="向西在北京某公园看景的照片">
+          <img width="900" height="600" src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="独立博客创作者向西冬季在北京旅居时的侧影照片">
         </div>
       </div>
     </div>

@@ -1,8 +1,0 @@
-<div class="work">
-  <p class="work__footer">
-    {% for item in site.data.settings.works %}
-      <a href="{{ item.url }}/?utm_source=xiangxi.work&utm_medium=referral&utm_content=work_intro" target="_blank">{{ item.name }}</a>
-      {% unless forloop.last %}<span> · </span>{% endunless %}
-    {% endfor %}
-  </p>
-</div>

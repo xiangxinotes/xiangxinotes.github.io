@@ -5,61 +5,51 @@
     <div class="col col-12">
       <!-- begin header -->
       <header class="header">
-
         <div class="logo">
           <a class="logo__link" href="{{site.baseurl}}/">
-          {%if site.logo %}
+          {%- if site.logo %}
             <img width="900" height="262" class="logo__image" src="{{ site.baseurl }}/images/{{ site.logo }}" alt="向西笔记 - 返回首页">
-          {% else %}
+          {%- else %}
             {{ site.title }}
-          {% endif %}
+          {%- endif %}
           </a>
         </div>
-
         <nav class="main-nav">
-
           <div class="main-nav__box">
             <div class="nav-icon__close">
-              <!-- <i class="ion ion-ios-close-circle-outline"></i> -->
               <ion-icon name="close-circle-outline"></ion-icon>
             </div>
-
             <div class="nav__title">菜单</div>
-
             <ul class="nav__list list-reset">
               <li class="nav__item">
-                <a href="{{site.baseurl}}/" class="nav__link">主页</a>
+                <a href="{{site.baseurl}}/" class="nav__link{% if page.url == '/' %} isactive{% endif %}">主页</a>
               </li>
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/product/" class="nav__link">好物推荐</a>
+                <a href="{{site.baseurl}}/tag/product/" class="nav__link{% if page.url == '/tag/product/' %} isactive{% endif %}">好物推荐</a>
               </li>
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/early-retirement/" class="nav__link">提早退休</a>
+                <a href="{{site.baseurl}}/tag/early-retirement/" class="nav__link{% if page.url == '/tag/early-retirement/' %} isactive{% endif %}">提早退休</a>
               </li>
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/sojourn/" class="nav__link">开启旅居</a>
+                <a href="{{site.baseurl}}/tag/sojourn/" class="nav__link{% if page.url == '/tag/sojourn/' %} isactive{% endif %}">开启旅居</a>
               </li>
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-              {% if page.title %}
+              {%- assign sorted_pages = site.pages | sort: "nav_order" %}
+              {%- for p in sorted_pages %}
+                {%- unless p.name == 'tags.html' or p.name == '404.html' %}
+              {%- if p.menu_nav == true %}
               <li class="nav__item">
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                <a href="{{ p.url | prepend: site.baseurl }}" class="nav__link{% if page.url contains p.url%} isactive{% endif %}">{{ p.title }}</a>
               </li>
-              {% endif %}
-                {% endunless %}
-              {% endfor %}
+              {%- endif %}
+                {%- endunless %}
+              {%- endfor %}
             </ul>
-
           </div>
         </nav>
-
         <div class="nav-buttons">
-          <!-- <i class="nav__icon nav__icon-menu ion ion-md-menu" aria-label="Menu Icon"></i>
-          <i class="nav__icon nav__icon-search ion ion-md-search" aria-label="Search Icon"></i> -->
           <ion-icon name="menu-sharp" class="nav__icon nav__icon-menu"></ion-icon>
           <ion-icon name="search-sharp" class="nav__icon nav__icon-search"></ion-icon>
         </div>
-
         <div class="header__overlay"></div>
       </header>
       <!-- end header -->

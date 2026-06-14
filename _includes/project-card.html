@@ -1,0 +1,17 @@
+{% assign without-image = nil %}
+{%- assign words_per_minute = site.words_per_minute | default: 200 -%}
+<div class="project-card">
+  {%- if item.image %}
+  <div class="card-image">
+    <img src="{{item.image}}" alt="{% if item.image_alt %}{{ item.image_alt | escape }}{% else %}《{{ item.title | escape }}》的封面{% endif %}">
+  </div>
+  {%- else %}
+    {%- assign without-image = 'project-without-image' -%}
+  {%- endif %}
+  <div class="card-content {{ without-image }}">
+    <span class="card-date"><time datetime="{{ item.last_modified_at | default: item.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ item.last_modified_at | default: item.date | date: date_format }}</time></span>
+    <h2 class="card-title"><a href="{{ item.url | prepend: site.baseurl | append: '/?utm_source=xiangxi.work&utm_medium=referral&utm_content=work_intro'}}">{{item.title}}</a></h2>
+    <p class="card-excerpt">{{ item.description }}</p>
+    <a class="read-more" href="{{ item.url | prepend: site.baseurl | append: '/?utm_source=xiangxi.work&utm_medium=referral&utm_content=work_intro'}}">访问项目 &rarr;</a>
+  </div>   
+</div>

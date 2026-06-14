@@ -5,53 +5,44 @@
   <meta name="msvalidate.01" content="CBE7024D4F36343DFD759752635E0A9C" />
   <meta name="baidu-site-verification" content="codeva-QpaqYDG9db" />
   <meta name="google-site-verification" content="{{ site.data.settings.google-site-verification }}">
-
-{% if page.tag %}
-  {% assign tag_slug = page.tag %}
-  {% assign ft = site.data.featured_tags[tag_slug] %}
-  {% if ft %}
+{%- if page.tag %}
+  {%- assign tag_slug = page.tag -%}
+  {%- assign ft = site.data.featured_tags[tag_slug] -%}
+  {%- if ft %}
   <title>{{ ft.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ ft.desc }}">
-  {% else %}
+  {%- else %}
   <title>{{ page.tag | capitalize | replace: "-", " "}} | {{ site.title }}</title>
   <meta name="description" content="{{ page.tag }}标签下的所有文章合集。">
-  {% endif %}
-{% elsif page.url == '/' %}
+  {%- endif -%}
+  {%- seo title=false,desc=false -%}
+{%- elsif page.url == '/' %}
   <title>{{ site.title }}</title>
-  {% seo title=false %}
-{% elsif paginator and paginator.page > 1 %}
+  {%- seo title=false -%}
+{%- elsif paginator and paginator.page > 1 %}
   <title>第{{ paginator.page }}页｜{{ site.title }}</title>
-  {% seo title=false %}
-{% else %}
-  {% seo %}
-{% endif %}
-{% if page.keywords %}
-  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
-  {% endif %}
-  {% if paginator and paginator.page > 1 %}
-  <meta name="robots" content="noindex, follow">
-{% endif %}
-
+  {%- seo title=false -%}
+{%- else %}
+  {%- seo -%}
+{%- endif %}
+{%- if page.keywords -%}<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">{%- endif %}
+{%- if paginator and paginator.page > 1 -%}<meta name="robots" content="noindex, follow">{%- endif %}
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <!-- Ionicons and Font Awesome-->
   <!-- <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script> -->
   <script type="module" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/8.0.13/ionicons/ionicons.esm.js"></script>
   <script src="https://kit.fontawesome.com/0198669bd2.js" defer crossorigin="anonymous"></script>
-
   {% include google-adsense.html %}
-  
   {% if site.data.settings.google-analytics %}
-  {% include google-analytics.html %}
-  {% endif %}
-
+  {%- include google-analytics.html %}
+  {%- endif %}
   <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
+  {%- capture include_to_scssify -%}
+    {%- include main.scss -%}
+  {%- endcapture -%}
   {{ include_to_scssify | scssify }}
   </style>
 </head>

@@ -5,6 +5,7 @@ author:
   image: me.webp
   say-hello: 你好，我是<a href="/about"><strong>向西</strong></a>
   bio: 本站<strong>每周六</strong>更新一篇原创文章，所有内容均为亲身经历。<br/>我的使命：<strong>让你带着问题而来，带着解决方案离开。</strong><br/>从<a href="/tag/communication-skills/">人际沟通</a>到<a href="/tag/workplace/">职场成长</a>，帮你全方位实现<a href="/tag/self-mastery/">自我管理</a>。
+  bio-about: 我目前在一家外企任职，有10年<a href="/tag/workplace/">工作经验</a>。<br/>好奇心旺盛，喜欢探索世界。曾在7个城市<a href="/tag/sojourn/">旅居</a>，平时喜欢<a href="/tag/book/">读书</a>、玩桌游、打羽毛球，致力于提升自己。<br/><strong>每周六</strong>会在本站更新一篇日常思考，解决一个问题。
   cta: 关注我
 
 
@@ -21,14 +22,29 @@ bilibili: https://space.bilibili.com/329955183
 
 
 #-------------------------------
-# My Work Section
-works: 
-  - name: SQL Wizland
-    url: https://sqlwizland.xiangxi.work
-  - name: Smile Finder
-    url: https://smilefinder.xiangxi.work
-  - name: Smile Lab
+# My Project Section
+projects:
+  - title: Smile Lab
+    description: 来体验 Smile Lab 吧，这是一个基于科学原理、专为情感神经可塑性而设计的空间。通过沉浸式的视觉练习，练习捕捉积极的信号以缓解焦虑，并重新训练大脑，从而获得幸福感。
     url: https://smilelab.xiangxi.work
+    date:
+    last_modified_at: Wed May 27 10:23:16 2026 +0800
+    image: https://smilelab.xiangxi.work/assets/favicon/favicon-96x96.png
+    image_alt: Smile Lab的logo，训练大脑的正向思维倾向
+  - title: Smile Finder
+    description: 以游戏化形式练习正向偏向训练，帮你在表情里找出笑脸，让思维正向这件事变得更简单。
+    url: https://smilefinder.xiangxi.work
+    date:
+    last_modified_at: Wed Apr 8 17:51:37 2026 +0800
+    image:
+    image_alt:
+  - title: SQL Wizland
+    description: 为了让自己复习 SQL 语法时能在场景里、实际业务中巩固，我创建了这个网站，里面包含2道苹果面试题哦。
+    url: https://sqlwizland.xiangxi.work
+    date:
+    last_modified_at: Sun Mar 8 13:25:14 2026 +0800
+    image: https://sqlwizland.xiangxi.work/images/apple-touch-icon.png
+    image_alt: SQL Wizland的logo，SQL语法复习网站
 
 #-------------------------------
 # Comment Section (Disqus)

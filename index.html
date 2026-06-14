@@ -1,25 +1,31 @@
 ---
 layout: default
 ---
-{% include hero.html %}
+{% if paginator and paginator.page < 2 %}
+{%- include hero.html -%}
+{% endif %}
 
 <div class="container">
 	<div class="row">
 		<div class="col col-12">
-			{% if site.posts.size > 0 %}
-				<h4 class="lates-title">最新文章</h4>
-			{% endif %}
+			{%- if paginator and paginator.page < 2 -%}
+			<h4 class="lates-title">最新文章</h4>
+			{%- else -%}
+			<div class="page-meta-bar">
+				<span class="page-current-badge">第{{ paginator.page }}页</span>
+				<div class="page-line"></div>
+			</div>
+			{%- endif -%}
 		</div>
 	</div>
 </div>
-
 <div class="container">
 	<div class="row">
-	{% if site.posts.size > 0 %}
-		{% for post in paginator.posts %}
-			{% include article-content.html %}
-		{% endfor %}
-	{% endif %}
+	{%- if site.posts.size > 0 -%}
+		{%- for post in paginator.posts -%}
+			{%- include article-content.html -%}
+		{%- endfor -%}
+	{%- endif -%}
 	</div>
 </div>
-{% include pagination.html %}
+{%- include pagination.html -%}
