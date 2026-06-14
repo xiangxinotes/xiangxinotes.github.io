@@ -1,0 +1,12 @@
+<div class="minimal-project-list">
+  {%- for item in site.data.settings.projects %}
+  <div class="project-row">
+    <div class="project-left">
+        <span class="project-name">{{item.title}}</span>
+        <span class="project-year"><time datetime="{{ item.last_modified_at | default: item.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ item.last_modified_at | default: item.date | date: date_format }}</time></span>
+        <span class="project-desc">{{ item.description }}</span>
+      </div>
+      <a href="{{ item.url | prepend: site.baseurl | append: '/?utm_source=xiangxi.work&utm_medium=referral&utm_content=work_intro'}}" class="read-more">访问 &rarr;</a>
+    </div>
+  {%- endfor %}
+</div>

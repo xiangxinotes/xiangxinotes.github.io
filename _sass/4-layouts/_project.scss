@@ -1,0 +1,39 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
+.minimal-project-list {
+  border-top: 1px solid #eee;
+  margin: 0 0 1.8em;
+}
+
+.project-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-bottom: 1px solid #f5f5f5;
+  align-items: baseline;
+}
+
+.project-left {
+  display: flex;
+  gap: 15px;
+  align-items: baseline;
+}
+
+.project-name {
+  font-size: 15px;
+  font-weight: 600;
+  color: #222;
+}
+
+.project-year {
+  font-size: 11px;
+  font-family: monospace;
+  color: #999;
+}
+
+.project-desc {
+  font-size: 14px;
+  color: #666;
+  margin-left: 20px;
+}

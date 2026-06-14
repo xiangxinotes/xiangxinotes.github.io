@@ -8,55 +8,66 @@ image: me.webp
 menu_nav: true
 ---
 
-你好，我是向西，**INFJ-A**，和所有I型人一样，最喜欢独处，尤其喜爱独处时的那份自在，关注内心世界的富有。
-因此花了很多时间做研究，研究各种各样的东西，主要是为了满足自己的好奇心、**探究世界**。
-曾因发现中国大部分景区文化都和佛教关系很大，就详细研究了敦煌壁画，因此喜欢上了敦煌艺术，目前是可以自在介绍本生故事、因缘故事的程度。
-外企工作9年，积累了很多经验和技巧，均分享在了[**职场成长合集**]({{ site.baseurl }}/tag/workplace/)中。
-喜欢探究外在世界，曾在7个城市**[旅居]({{ site.baseurl }}/tag/sojourn/)**，可以提供旅居建议。除了旅居建议还有[旅游经验]({{ site.baseurl }}/tag/travel/)分享，主要是**如何购票**以及有趣的**个人体验**。
-在家呆着的时候通常都在读书、看纪录片，近3年读过200+书，看过100+纪录片，因此有了分享**[书单]({{ site.baseurl }}/tag/book/)**的底气。
-网上购物通常用淘宝，会在这里分享**用着不错的[商品]({{ site.baseurl }}/tag/product/)**。
+我是向西，目前在一家外企任职，有10年<a href="/tag/workplace/">工作经验</a>。
+
+好奇心旺盛，喜欢探索世界。曾在7座城市<a href="/tag/sojourn/">旅居</a>，平时喜欢<a href="/tag/book/">读书</a>、玩桌游、打羽毛球。
+
+习惯定期复盘个人经历，致力于在反思中不断提升自己。以此为契机，**每周六**会在本站更新一篇日常思考，解决一个问题。
 
 ***
 
-#### 我的项目
-<small>Since 2024</small>
+## 我的独立项目
 
-##### SQL Wizland
+### 🧪 Smile Lab
 
-在日常工作中，如果遇到某一句 SQL 语法忘掉了，搜索一下就可解决。但这样的结果是，面试前，总要复习复习再复习。
+**项目链接：[Smile Lab](https://smilelab.xiangxi.work?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me){:target="_blank"}**
 
-为了让自己复习的时候，能够在场景里复习，在实际业务中复习，我创建了帮助自己复习 SQL 语法的网站：[SQL Wizland](/sql-wizland/?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me)。如果你也有同样的困扰，欢迎访问。里面包含2道苹果面试题哦。
+同样是以游戏的形式训练正向偏向。这个项目和[Smile Finder](https://smilefinder.xiangxi.work?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me){:target="_blank"}的区别是，这个项目用的是真人图片，所以训练效果指数增强。
 
-##### Smile Finder
+我在这个项目上付出了很多心血，也学到了很多。此项目正在[火热众筹中](/2026/05/17/how-to-think-more-postively-use-smile-lab/#赞助方式){:target="_blank"}。
 
-为了度过我那疼痛的20多岁，我一直在练习正向偏向训练（练习从一堆表情中找出笑脸）。2026年，我创建了自己的正向偏向训练网站，希望能以游戏的形式，让训练正向偏向这件事变得更简单。这个网站就是 [Smile Finder](/smile-finder/?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me)。
+### 😊 Smile Finder
+
+**项目链接：[Smile Finder](https://smilefinder.xiangxi.work?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me){:target="_blank"}**
+
+为了度过我那疼痛的20多岁，我一直在练习正向偏向训练（练习从一堆表情中找出笑脸）。2026年，我创建了自己的正向偏向训练网站，希望能以游戏的形式，让训练正向偏向这件事变得更简单。
+
+这个网站就是[Smile Finder](https://smilefinder.xiangxi.work?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me){:target="_blank"}。
 
 如果你觉得自己也需要思想更加正向，请随时光顾，手机电脑随时随地来一局！
 
-#### 对敦煌艺术的喜爱
-<small>Since 2021</small>
+### 📊 SQL Wizland
 
-2021年十一，在南京大报恩寺景区游览琉璃塔的时候，被自己对经变画的无知震惊到，决定摆脱**知识=0**的无知状态，因此踏上了研究佛教的不归路。电视节目、纪录片、书、网站，找了各种各样的资料，一遍一遍的阅读琢磨，终于成功达到了现在的高度。2023年早春在北京看展时，已经能自在的欣赏壁画、给朋友做向导解说了！
+**项目链接：[SQL Wizland](https://sqlwizland.xiangxi.work?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me){:target="_blank"}**
 
-如果你也对佛教或敦煌艺术感兴趣，但不知道如何入门，请参考我总结的[零基础佛教入门指南]({{ site.baseurl }}/2026/04/14/websites-that-helps-you-understand-buddhism/)，包括非常多的优质资源，让你分分钟从看不懂壁画到能够一眼辨别年代。
+在日常工作中，如果遇到某一句 SQL 语法忘掉了，搜索一下就可解决。但这样的结果是，面试前，总要复习复习再复习。
 
-#### 对购物的总结
-<small>Since 2022</small>
+为了让自己复习的时候，能够在场景里复习，在实际业务中复习，我创建了帮助自己复习 SQL 语法的网站：[SQL Wizland](https://sqlwizland.xiangxi.work?utm_source=xiangxi.work&utm_medium=referral&utm_content=about_me){:target="_blank"}。如果你也有同样的困扰，欢迎访问。里面包含2道苹果面试题哦。
 
-从前购物倒是经常购，总结就没怎么做了。但从2022年，我开始记录所有网购商品，因为我实在**讨厌**刷来刷去的**浪费时间**。记录的目的是：
+## 我的生活复盘
 
-- 好的商品之后直接买，省了看商品、检查、看评论等等花费的时间。
-- 不好的商品再也不买。如果在一家店持续买到不好的商品我就会把这家店拉入黑名单再也看，再不买了。
+### 网购好东西
 
-从这之后就发现网上购物变得很高效，很省心！
+我实在讨厌网购刷来刷去浪费时间，所以从2022年开始记录我网购过的所有商品。好的记录在案以后直接买，持续踩坑的店直接拉黑。
 
-如果你也想要省时、省事、不踩坑，按照我的[购物推荐]({{ site.baseurl }}/tag/product/)买即可。**本站推荐的所有商品我本人都买过，请放心购买。**
+现在我的购物变得极度高效、省心。所以把[我的购物推荐]({{ site.baseurl }}/tag/product/)总结在本站，想要省时、省事、不踩坑？直接买！（全部都是本人买过的商品，请放心购买）。
 
-#### 旅游和读书
-<small>Since 2011</small>
+### 旅居
 
-身体和灵魂总要有一个在路上？成年人当然**两个都要**！从上大学到工作，我抓住假期旅游，看不同城市风光，看自然。在学习和家则是看书、看电影、看纪录片，学习文化知识。现在更是在不同城市旅居，脱离游客视角细细领会各地生活中。最近喜欢的话：冒险可能会受伤，但单调是会死人的。
+身体和灵魂总要有一个在路上？成年人当然**两个都要**！
+
+借着在家办公的机会，从2022年起，我在7座从未去过的城市旅居，得以脱离游客视角细细领会各地生活。我相信：冒险可能会受伤，但单调是会死人的。
 
 如果你也想要旅居，可以参考我的[旅居系列文章]({{ site.baseurl }}/tag/sojourn/)，希望能给你带来灵感。
 
-如果你更新喜欢看书，可以读一读我的[阅读感悟]({{ site.baseurl }}/tag/book/)，希望能给你带来启发。
+### 读书
+
+想要提升自己，看书是无法避免的。我把读书看做和伟人对话的机会。从2011年本科毕业后，每年都读很多书。涉猎的话题也极为广泛。
+
+如果想要看看我从这些对话中学到了什么，请随时查看我的[阅读感悟]({{ site.baseurl }}/tag/book/)。
+
+### 热爱敦煌
+
+为了摆脱在佛教方面**知识=0**的无知状态，2021年起我踏上了研究佛教的不归路。我把自己一路走来用过的资源总结到了这篇[零基础佛教入门指南]({{ site.baseurl }}/2026/04/14/websites-that-helps-you-understand-buddhism/)里。
+
+如果你也想要从看不懂壁画到能够一眼辨别年代，欢迎加入研究队伍。
