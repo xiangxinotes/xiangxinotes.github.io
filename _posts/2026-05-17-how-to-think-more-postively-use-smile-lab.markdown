@@ -11,19 +11,19 @@ tags: mindset-regulation
 
 如果你试过看书、自我开导，却还是走不出消极的怪圈；
 
-那么我新上线的项目 **[Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text)**，或许能帮到你。
+那么我新上线的项目 [**Smile Lab**](https://smilelab.xiangxi.work/?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text){:target="_blank"}，或许能帮到你。
 
 它不是鸡汤，也不是复杂的心理课程，而是一个简单的小游戏。
 
 却藏着我**走出低谷、变得正向阳光**的全部秘密。
 
-两天前，[Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 正式上线。
+两天前，Smile Lab 正式上线。
 
 而今天，我想邀请你，**用80秒的练习，重塑你的心态**。
 
 ## Smile Lab 是什么？
 
-[Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 的核心是：**以游戏的形式，锻炼你的正向倾向。**
+Smile Lab 的核心是：**以游戏的形式，锻炼你的正向倾向。**
 
 每一局游戏只有80秒，你的任务就是在这80秒内，从一堆包含丰富表情的真人图片中，尽可能多地找出笑脸。
 
@@ -38,11 +38,11 @@ tags: mindset-regulation
 
 但实践后发现，真人脸图片的锻炼效果更顺手、更有用。
 
-真人脸图片能让我们更敏锐地捕捉到真实的善意与美好，这也是我打磨出 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 的原因。
+真人脸图片能让我们更敏锐地捕捉到真实的善意与美好，这也是我打磨出 Smile Lab 的原因。
 
 ## 两个版本，满足需求
 
-为了让更多人体验到正向训练的好处，同时保证产品的生存，[Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 设置了免费版和 Pro 版。
+为了让更多人体验到正向训练的好处，同时保证产品的生存，Smile Lab 设置了免费版和 Pro 版。
 
 ### 🆓 免费版（无门槛体验）
 
@@ -91,19 +91,19 @@ tags: mindset-regulation
 
 我终于能自然地微笑，甚至爆笑，慢慢活成了自己喜欢的、阳光正向的样子。
 
-我深知，有很多人和曾经的我一样，被困在消极情绪里，渴望改变却找不到方法。所以，我花时间打磨了 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text)。希望能把这个简单却有效的练习，分享给更多需要的人。让大家不用像曾经的我一样，独自摸索。
+我深知，有很多人和曾经的我一样，被困在消极情绪里，渴望改变却找不到方法。所以，我花时间打磨了 Smile Lab。希望能把这个简单却有效的练习，分享给更多需要的人。让大家不用像曾经的我一样，独自摸索。
 
 就像神经可塑性理论告诉我们的，**大脑的思维模式可以通过刻意训练重新编程。**
 
-[Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 做的，就是用最简单的游戏，帮你激活大脑的正向神经通路。慢慢走出消极，找回底气与笑容。
+Smile Lab 做的，就是用最简单的游戏，帮你激活大脑的正向神经通路。慢慢走出消极，找回底气与笑容。
 
 ## 你来决定 Smile Lab 的未来
 
-网站后端开发、数据库、服务器、域名等开支都决定了 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 无法成为一个仅为爱发电的项目。
+网站后端开发、数据库、服务器、域名等开支都决定了 Smile Lab 无法成为一个仅为爱发电的项目。
 
-而加入广告，又过于打扰用户。因此，为了保证 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 的生存，推出了工能更丰富的 Pro 版。
+而加入广告，又过于打扰用户。因此，为了保证 Smile Lab 的生存，推出了工能更丰富的 Pro 版。
 
-如果你对上面提到的 Smile Lab Pro 功能感兴趣，愿意协助 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 帮助更多人，我想邀请你加入 Smile Lab Pro 的众筹。
+如果你对上面提到的 Smile Lab Pro 功能感兴趣，愿意协助 Smile Lab 帮助更多人，我想邀请你加入 Smile Lab Pro 的众筹。
 
 ### 赞助方式
 
@@ -115,9 +115,9 @@ tags: mindset-regulation
 - [爱发电平台](https://ifdian.net/order/create?user_id=a89f0a944e0f11f1848152540025c377){:target="_blank"}
 - [Paypal平台](https://paypal.me/xiangxismile){:target="_blank"}
 
-如果你想要和 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 一起成长，帮助更多人，请加入众筹。
+如果你想要和 Smile Lab 一起成长，帮助更多人，请加入众筹。
 
-如果实在囊中羞涩，也请在社交媒体中多多宣传 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text)。为了答谢您的支持，我正在设计分享奖励。免费版每天2局后，大家将看到一个分享到社交媒体按钮，分享后，当天即可解锁无限局权限，想玩几局玩几局，敬请期待～
+如果实在囊中羞涩，也请在社交媒体中多多宣传 Smile Lab。为了答谢您的支持，我正在设计分享奖励。免费版每天2局后，大家将看到一个分享到社交媒体按钮，分享后，当天即可解锁无限局权限，想玩几局玩几局，敬请期待～
 
 ### 赞助权益说明
 
@@ -127,25 +127,25 @@ tags: mindset-regulation
 
 ### 赞助费用分配
 
-所有众筹得来的费用，都会用于日后网站的开发、优化和维护。比如版面调试、功能完善，以优化游戏体验，让 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 变得更好用、更流畅。
+所有众筹得来的费用，都会用于日后网站的开发、优化和维护。比如版面调试、功能完善，以优化游戏体验，让 Smile Lab 变得更好用、更流畅。
 
 我不敢保证这个项目能做到多完美，也不敢承诺它能立刻改变你。但我保证，我会拼尽全力，把它打磨好。
 
 ### 未来的两种可能
 
-众筹的结果，会决定 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 的未来：
+众筹的结果，会决定 Smile Lab 的未来：
 - 如果市场认可，大家愿意支持，那么 Pro 版会不日正式上线；
-- 如果市场不买账，那么 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 就会一直以现在 MVP 的形式存在。免费版依然开放，让有需要的人，依然能通过这个小游戏，获得一点点温暖与力量。
+- 如果市场不买账，那么 Smile Lab 就会一直以现在 MVP 的形式存在。免费版依然开放，让有需要的人，依然能通过这个小游戏，获得一点点温暖与力量。
 
 ## 对 Smile Lab 的反馈
 
-[Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text)，并不是一个多么华丽的项目。
+Smile Lab，并不是一个多么华丽的项目。
 
 我的初衷只是想打造一个简单、治愈、有用的小空间。让大家在80秒的小游戏里，专注美好，慢慢改写自己的思维链路，找回微笑的勇气与生活的底气。
 
-如果你对 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 的未来、玩法、功能有任何想法、建议，欢迎随时在评论区留言。
+如果你对 Smile Lab 的未来、玩法、功能有任何想法、建议，欢迎随时在评论区留言。
 
-愿每一个来到 [Smile Lab](https://smilelab.xiangxi.work//?utm_source=xiangxi.work&utm_medium=referral&utm_content=inline_text) 的人，都能在一次次寻找笑脸的练习中，走出消极，重拾阳光，找回微笑，活成自己喜欢的样子。
+愿每一个来到 Smile Lab 的人，都能在一次次寻找笑脸的练习中，走出消极，重拾阳光，找回微笑，活成自己喜欢的样子。
 
 --- 
 
