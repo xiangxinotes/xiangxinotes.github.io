@@ -1,0 +1,40 @@
+{%- assign sub_tag = include.sub_tag -%}
+{%- assign sub_data = include.sub_data -%}
+
+{%- comment -%} 
+  核心逻辑：获取该子合集标签下的所有文章，按日期倒序排列，取最新的一篇 
+{%- endcomment -%}
+{%- assign latest_post = site.tags[sub_tag] | sort: 'date' | last -%}
+
+{%- if latest_post %}
+  {%- comment -%} 
+    确定卡片展示信息：优先使用 parent_view 里的配置，如果没有配置，则回退到子合集原本的 name/desc 
+  {%- endcomment -%}
+  {%- assign card_name = sub_data.parent_view.name | default: sub_data.name -%}
+  {%- assign card_desc = sub_data.parent_view.desc | default: sub_data.desc -%}
+  {%- assign card_image = sub_data.parent_view.thumbnail | default: latest_post.image -%}
+  {%- assign card_image_alt = sub_data.parent_view.image_alt | default: latest_post.image_alt -%}
+
+  {%- assign without-image = nil -%}
+  
+  <article class="article-card sub-collection-card">
+    {%- if card_image %}
+    <div class="card-image">
+      <img src="{{ site.baseurl }}/images/{{ card_image }}" alt="{{ card_image_alt | escape }}">
+    </div>
+    {%- else %}
+      {%- assign without-image = 'article-without-image' -%}
+    {%- endif %}
+    <div class="card-content {{ without-image }}">
+      <span class="card-date"><time datetime="{{ latest_post.last_modified_at | default: latest_post.date | date_to_xmlschema }}">
+          {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
+          {{- latest_post.last_modified_at | default: latest_post.date | date: date_format -}}
+        </time></span>
+      <h2 class="card-title">
+        <a href="{{ site.baseurl }}/tag/{{ sub_tag }}/">【合集】{{ card_name }}</a>
+      </h2>
+      <p class="card-excerpt">{{ card_desc }}</p>
+      <a href="{{ site.baseurl }}/tag/{{ sub_tag }}/" class="read-more">查看合集 &rarr;</a>
+    </div>   
+  </article>
+{%- endif %}

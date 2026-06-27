@@ -139,6 +139,16 @@
   display: inline-block;
 }
 
+.article-card.sub-collection-card {
+  border: 2px solid #d4af37; /* 金色边框 */
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.2); /* 金色微光阴影 */
+  transition: transform 0.2s ease;
+}
+
+.article-card.sub-collection-card:hover {
+  transform: translateY(-3px);
+}
+
 @media (max-width: 600px) {
   .header-container {
     flex-direction: column;

@@ -11,7 +11,9 @@ layout: default
     <div class="hero-container">
       <div class="tag-breadcrumb">
         <a href="/">首页</a><span> / </span>
-        <!-- <a href="/">全部合集</a><span> / </span> -->
+        {%- if ft.parent_tag %}
+        {%- assign parent = site.data.featured_tags[ft.parent_tag] %}
+        <a href="/tag/{{ ft.parent_tag }}/">{{ parent.name }}合集</a><span> / </span>{%- endif %}
         <span>{{ ft.name }}合集</span>
       </div>
       <h1 class="tag-title">{{ ft.name }}合集</h1>
@@ -19,8 +21,16 @@ layout: default
     </div>
   </section>
 {%- endif %}
+
   <section class="articles-section">
     <div class="articles-container">
+      {%- for item in site.data.featured_tags %}
+        {%- if item[1].parent_tag == tag_name %}
+          {%- assign sub_tag = item[0] -%}
+          {%- assign sub_data = item[1] -%}
+          {% include collection-card.html sub_tag=sub_tag sub_data=sub_data %}
+        {%- endif %}
+      {%- endfor %}
       {%- for post in page.posts %}
         {% include article-card.html %}
       {%- endfor -%}
