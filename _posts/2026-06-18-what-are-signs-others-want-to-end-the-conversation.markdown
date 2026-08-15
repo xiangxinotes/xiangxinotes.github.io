@@ -3,7 +3,7 @@ layout: post
 title: "对方的哪些表现说明他想结束对话了？"
 date: 2026-06-20 15:12:00 +0800
 description: "聊天时总后知后觉，等到冷场才反应过来对方早就想收尾？本文整理一些线上线下常见的离场暗示，让你能够看懂信号，以后相处氛围更舒服。"
-image: pexels-budgeron-bach-6532612.webp
+image: /images/pexels-budgeron-bach-6532612.webp
 image_alt: 两个人面对面，其中一人低头看手机 - 结束对话的暗示
 tags: end-conversations
 ---
@@ -26,7 +26,7 @@ tags: end-conversations
 
 ## 线下专属暗示
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *看手机的频率变高 <a href="https://www.pexels.com/photo/latin-american-couple-at-table-with-textbooks-with-smartphones-6532612/">Photo</a> by Budgeron Bach*
 
 因为你和对方处于同一物理空间，所以离场暗示会先以**行动**形式出现。

@@ -3,7 +3,7 @@ layout: post
 title: 毕业后，北上广和回老家该怎么选？不必纠结对错，遵从内心就好
 date: 2026-03-13 19:35:00 +0800
 description: 纠结毕业后留北上广还是回家乡？不必被理智绑架，也无需焦虑迷茫。别被其他人逃离北上广而吓到，也别被人家的奋斗故事骗到。选择没有对错，无论是逐梦大城市，还是安身老家乡，只要对自己的决定不后悔，就是最好的选择。
-image: pexels-sebastian-411207.jpg
+image: /images/pexels-sebastian-411207.jpg
 tags: college-student
 keywords:
   - 大城市

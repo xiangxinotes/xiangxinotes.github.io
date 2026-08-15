@@ -3,7 +3,7 @@ layout: post
 title: 沟通问题不知道怎么解决？先列个清单
 date: 2026-08-15 16:00:00 +0800
 description: "沟通中反复在同一类场景吃亏，不知道怎么改？试着做一张沟通问题表：先写问题、再想解法、每天对照执行加复盘。3个月亲测有效。"
-image: pexels-shutter-speed-20279300.webp
+image: /images/pexels-shutter-speed-20279300.webp
 image_alt: "在蓝色背景下，一张卷起的纸上有勾选的清单。- 列清单解决沟通问题"
 tags: communication-skills self-mastery
 ---
@@ -24,7 +24,7 @@ tags: communication-skills self-mastery
 
 **列清单的目的，就是把模糊的不安变成具体的文字。** 问题被写下来之后，就不再是一团迷雾，而是一个个等待处理的项目。
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *列清单 <a href="https://www.pexels.com/photo/a-digital-3d-illustration-of-a-checklist-20279300/">Photo</a> by Bastian Riccardi*
 
 而且你会发现，即使问题表现的形式不同，其实解决方案是同一个。

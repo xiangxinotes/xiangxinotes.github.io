@@ -3,7 +3,7 @@ layout: post
 title: 工作10年得到的6个感悟｜职场成长避坑指南
 date: 2026-04-20 16:51:35 +0800
 description: 工作10年，从职场新人到从容应对挑战，总结6个真实职场感悟，没有空洞大道理，涵盖性格、心态、求职、成长，帮职场人少走弯路、收获力量。
-image: pexels-towfiqu-barbhuiya-3440682-13143737.jpg
+image: /images/pexels-towfiqu-barbhuiya-3440682-13143737.jpg
 tags: workplace
 ---
 

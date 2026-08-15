@@ -4,7 +4,7 @@ title: 工作出错怎么道歉？2种场景的高情商话术模板与实战案
 date: 2026-08-01 15:48:00 +0800
 last_modified_at: 2026-08-02 15:41:35 +0800
 description: "职场犯错后，道歉的话怎么说才能把影响降到最低？本文提供了2种常见场景下的高情商道歉公式，并附上可直接复制的话术模板。教你真诚担责、巧妙求助，轻松赢回信任。"
-image: pexels-centre-for-ageing-better-55954677-13804491.webp
+image: /images/pexels-centre-for-ageing-better-55954677-13804491.webp
 image_alt: "一名女性坐着，一名女性站着，严肃地盯着电脑 - 犯的错自己没办法处理，如何请求帮忙和道歉？"
 tags: workplace communication-skills
 ---
@@ -64,7 +64,7 @@ hi xx，早。
 
 比如说，其他团队的同事询问项目相关的设置，你发现因为自己设置有误导致已完结的项目必须重启，那么你就要请上司介入，商议相关后续。
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *职场犯错，如何寻求帮助和道歉 <a href="https://www.pexels.com/photo/two-women-looking-at-the-laptop-13804491/">Photo</a> by Centre for Ageing Better*
 
 针对这种情况，你可以使用下面的道歉公式同步消息。

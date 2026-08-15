@@ -4,7 +4,7 @@ title: 【2026最新】旅居清单｜1个背包 + 1个行李箱，我是如何�
 date: 2025-02-04 09:59:35 +0800
 last_modified_at: 2026-05-04 19:26:30 +0800
 description: 《中国旅居市场需求调查报告》称：越来越多年轻群体体验旅居出行，以数字游民为主体的一二线城市“新青年”主导旅居的新风向。作为一名旅居7城的经验者，今天就用一份清单，助你开启属于你的自由生活。
-image: pexels-vlada-karpovich-7368277.jpg
+image: /images/pexels-vlada-karpovich-7368277.jpg
 tags: sojourn
 ---
 

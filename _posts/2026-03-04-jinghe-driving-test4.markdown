@@ -3,7 +3,7 @@ layout: post
 title: 科目四一次过！从刷题到拿证，超简单流程全在这｜新疆博州精河县
 date: 2026-03-04 18:52:00 +0800
 description: 科目四别慌！超简单通关攻略来了：刷题方法、预约时间、考试流程，一篇讲清，新手也能轻松一次过、当天拿证。向西还分享了自己踩的坑，看补充章节提前避坑。
-image: pexels-dom-j-7304-45113.jpg
+image: /images/pexels-dom-j-7304-45113.jpg
 tags: driver's-license
 keywords:
   - 精河

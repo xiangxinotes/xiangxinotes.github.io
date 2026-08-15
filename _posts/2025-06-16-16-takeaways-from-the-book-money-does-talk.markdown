@@ -3,7 +3,7 @@ layout: post
 title: 《小狗钱钱》第一部给我带来了哪些可以受益终生的启示？
 date: 2025-06-16 20:53:00 +0800
 description: 写给未来时不时来翻看本文的自己～大部分都是原文摘抄，少部分自我加工。那些我经常问自己的问题，从《小狗钱钱》中找到了答案。本文分为两大部分：个人成长和理财，非本意的使得每部分8条，共16条。
-image: pexels-jill-wellington-1638660-40192.jpg
+image: /images/pexels-jill-wellington-1638660-40192.jpg
 tags: book early-retirement
 ---
 

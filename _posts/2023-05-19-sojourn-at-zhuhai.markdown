@@ -3,7 +3,7 @@ layout: post
 title: 旅居珠海，我找到了城市里藏着的这些令人心动的惊喜瞬间
 date: 2023-05-19 21:09:35 +0800
 description: 从2023年3月18日到2023年5月19日，我花了两个月的时间，在珠海旅居。考虑去珠海旅游、旅居？来看看这篇文章吧！摆脱千篇一律的旅行经验，这篇文章里包括珠海游玩、出行、植物、生活总结和一些新发现，带你领略这座城市不为人知的一面，开启与众不同的旅居新体验。
-image: zhuhai-riyuebei.webp
+image: /images/zhuhai-riyuebei.webp
 tags: sojourn
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 新疆包邮过年小零食合集｜待客解馋两不误，好吃又划算，附购买链接！
 date: 2026-05-04 23:50:35 +0800
 description: 4款新疆包邮宝藏小零食分享，包含邬辣妈豆卷、风干鸭脖、可康进口果冻、德芙巧克力，平价好吃不踩雷，日常解馋、过年招待客人都合适。推荐的都是我2026年春节买过的零食，请放心入手！
-image: pexels-magda-ehlers-pexels-4115070.jpg
+image: /images/pexels-magda-ehlers-pexels-4115070.jpg
 tags: product
 keywords: "新疆包邮零食,过年待客零食,解馋小零食,可康果冻,风干鸭脖,邬辣妈豆卷,德芙巧克力"
 ---

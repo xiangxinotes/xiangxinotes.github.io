@@ -3,7 +3,7 @@ layout: post
 title: "想要结束对话，但对方一直说个不停怎么办？"
 date: 2026-06-13 15:12:00 +0800
 description: "聊天想收尾，对方却滔滔不绝？本文分享高情商离场暗示与应对话术。让你从容打断、体面离场，从此告别被动尬聊。"
-image: pexels-matreding-11077638.webp
+image: /images/pexels-matreding-11077638.webp
 image_alt: 一个穿着棕色夹克的人转身离开
 tags: end-conversations
 ---
@@ -50,7 +50,7 @@ tags: end-conversations
 
 ⚠️ 切记**不要在对方讲话的中途插话**。
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *结束对话，转身离开 <a href="https://www.pexels.com/photo/back-view-of-a-person-in-a-brown-jacket-walking-11077638/">Photo</a> by Mathias Reding*
 
 ## 抛出离场暗示

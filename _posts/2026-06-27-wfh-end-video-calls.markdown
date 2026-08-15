@@ -3,7 +3,7 @@ layout: post
 title: "居家办公，如何体面结束“以工作为名”的线上会议？"
 date: 2026-06-27 16:14:00 +0800
 description: "居家办公遇到上司拖堂、同事拉伪公事会议？适度冷淡才是顶级素养。3种真实脱身方法帮你建立职场边界，体面结束“以工作为名”的线上会议。"
-image: pexels-cottonbro-6321231.webp
+image: /images/pexels-cottonbro-6321231.webp
 image_alt: "一人坐在电脑前，电脑上显示的是视频会议画面 - 在家办公体面结束线上会议的方法"
 tags: end-conversations workplace
 ---
@@ -35,7 +35,7 @@ tags: end-conversations workplace
 - 保持适度冷淡、建立边界，是对你自己精力的保护，也是对他人的尊重。
 - 当你敢于结束线上会议时，对方才会真正尊重你，尊重你的时间。
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *结束“以工作为名”的线上会议 <a href="https://www.pexels.com/photo/man-and-woman-video-call-on-laptop-6321231/">Photo</a> by cottonbro studio*
 
 建立了正确的职场认知后，我们来一起看看在家办公经常遇到的两种困局，以及可以怎样应对它们。

@@ -3,7 +3,7 @@ layout: post
 title: 90% 的人都不知道！掌握 -er 和 -ee 后缀，单词背诵快准狠，英语水平飞跃
 date: 2025-01-13 20:33:38 +0800
 description: 还在为记单词发愁？本文聚焦于 -er 和 -ee 这2个在构建英语名词体系中扮演着非常重要的常见词缀，深入剖析它们在单词构成中的规律与含义。通过丰富的单词实例，展示如何借助这两个词缀快速理解、记忆大量单词，让你告别死记硬背，开启高效记单词的新旅程，轻松提升词汇量。
-image: windows-kRWY72TKB0Y-unsplash.webp
+image: /images/windows-kRWY72TKB0Y-unsplash.webp
 tags: english
 ---
 

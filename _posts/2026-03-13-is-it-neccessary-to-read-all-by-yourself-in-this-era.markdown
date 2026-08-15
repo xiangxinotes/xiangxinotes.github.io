@@ -3,7 +3,7 @@ layout: post
 title: 知识快餐时代，为什么你依然应该坚持自己读书？
 date: 2026-03-13 22:11:00 +0800
 description: 在知识快餐、碎片化学习泛滥的时代，我们真的还需要花时间自己读书吗？别人的解读再精彩，也只是经过筛选的二手知识。只有亲自阅读原书，你才能获得真正属于自己的思考、感悟与成长。
-image: pexels-yogendras31-731510.jpg
+image: /images/pexels-yogendras31-731510.jpg
 tags: book
 keywords:
   - 知识快餐

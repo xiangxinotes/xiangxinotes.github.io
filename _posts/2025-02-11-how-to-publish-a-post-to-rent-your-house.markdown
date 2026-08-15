@@ -3,7 +3,7 @@ layout: post
 title: 「2025最新」房东怎么才能在小红书上把房子租出去？
 date: 2025-02-11 18:43:35 +0800
 description: 如果你拿“租房”这两个字去小红书上去搜，你会发现房屋出租的帖子成千上万，但有一些帖子却无人问津。如果你也是房东，这篇文章将会助你写出全网最好租房贴！
-image: pexels-ivan-samkov-8963081.jpg
+image: /images/pexels-ivan-samkov-8963081.jpg
 tags: renting
 ---
 

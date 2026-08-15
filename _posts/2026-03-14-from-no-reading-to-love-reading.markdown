@@ -3,7 +3,7 @@ layout: post
 title: 从“从不看书”到“无书不欢”：不爱看书的人，如何把阅读变成习惯？
 date: 2026-03-14 13:55:00 +0800
 description: 从不看书的人如何养成阅读习惯？本文以亲身经历分享，从讨厌读书到离不开书的完整转变过程，给不爱看书、想开始阅读却不知如何下手的人最简单、最容易坚持的阅读习惯养成方法。
-image: pexels-minan1398-694740.jpg
+image: /images/pexels-minan1398-694740.jpg
 tags: self-mastery
 keywords:
   - 从不看书

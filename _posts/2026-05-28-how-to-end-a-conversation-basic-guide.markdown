@@ -3,7 +3,7 @@ layout: post
 title: "不知道如何结束对话？先重建认知，再用通用话术收尾"
 date: 2026-05-30 15:45:00 +0800
 description: "和朋友、熟人、陌生人对话不知道怎么收尾，为想要结束对话而愧疚？本文拆解社交心理误区，帮你重建认知。还有多场景通用收尾话术，线上线下都能用，帮你从容、礼貌地结束每一次交谈。"
-image: pexels-lucasleonelsuarez-36215565.jpg
+image: /images/pexels-lucasleonelsuarez-36215565.jpg
 tags: end-conversations
 ---
 

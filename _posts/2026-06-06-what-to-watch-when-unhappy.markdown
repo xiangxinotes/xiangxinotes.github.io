@@ -3,7 +3,7 @@ layout: post
 title: 心情不好看什么？3部爆笑影视，瞬间驱散坏情绪
 date: 2026-07-18 15:09:00 +0800
 description: "不开心想看搞笑内容，但不知道看什么？本文分享3部爆笑影视，其中2部附可直接观看网址，看完爆笑解压，赶走低落心情。"
-image: pexels-olly-3907442.webp
+image: /images/pexels-olly-3907442.webp
 image_alt: 一位留着爆炸头发型的男子在蓝色背景前大笑
 ---
 

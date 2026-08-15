@@ -4,7 +4,7 @@ title: 人生本命内裤｜stwsotowell 莫代尔内裤真实穿着体验，附�
 date: 2026-05-05 15:55:35 +0800
 last_modified_at: 2026-06-14 22:35:00 +0800
 description: 本人长期买，长期穿的人生本命内裤：stwsotowell莫代尔棉内裤推荐。分享我的真实体验和内裤优缺点。新疆也包邮，放心入手。给自己买点好的吧，你真的值得！
-image: pexels-cristian-rojas-8783684.jpg
+image: /images/pexels-cristian-rojas-8783684.jpg
 tags: product
 keywords: "sotowell内裤,莫代尔内裤,舒适内裤推荐,防过敏贴身衣物,高弹透气内裤,sotowell,stw内裤,内裤推荐,人生内裤,不过敏内裤,过敏人士适合的内裤,内裤不干怎么办,新疆包邮内裤,莫代尔棉内裤,stwsotowell"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 记我那繁忙的6月
 date: 2025-06-29 19:44:00 +0800
 description: 
-image: pexels-jill-wellington-1638660-40192.jpg
+image: /images/pexels-jill-wellington-1638660-40192.jpg
 tags: life-record
 ---
 

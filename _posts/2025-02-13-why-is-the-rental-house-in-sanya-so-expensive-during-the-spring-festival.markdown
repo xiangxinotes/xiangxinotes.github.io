@@ -3,7 +3,7 @@ layout: post
 title: 三亚过年的时候租房为什么这么贵？
 date: 2025-02-13 15:40:00 +0800
 description: 如果你想要来三亚过年，但发现房租贵的离谱，别急着退缩，先看看这篇文章。我结合了自己做的功课和2025年找房经验总结了这篇文章，请和我一起开始探索之旅吧。 
-image: pexels-gh-c-265556413-12736037.jpg
+image: /images/pexels-gh-c-265556413-12736037.jpg
 tags: sanya renting
 ---
 

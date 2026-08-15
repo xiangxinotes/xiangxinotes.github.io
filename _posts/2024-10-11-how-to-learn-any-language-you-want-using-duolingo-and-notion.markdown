@@ -3,7 +3,7 @@ layout: post
 title: 如何用多邻国+Notion，学会任何你想学的语言？
 date: 2024-10-11 15:38:35 +0800
 description: 想学会任何一门心仪的语言吗？本文将为你揭晓多邻国与 Notion 强强联合的学习秘籍。剖析多邻国丰富的课程资源和 Notion 强大的笔记整理功能，教你如何巧妙搭配使用，制定专属学习计划，从基础词汇积累到复杂语法掌握，全方位助力语言学习，开启高效学习之旅。
-image: duolingo-plus-notion.webp
+image: /images/duolingo-plus-notion.webp
 tags: language-learning
 ---
 

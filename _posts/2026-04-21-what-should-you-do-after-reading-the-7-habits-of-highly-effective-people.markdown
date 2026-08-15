@@ -3,7 +3,7 @@ layout: post
 title: 读完《高效能人士的7个习惯》，有哪些事情可以开始做起来了？
 date: 2026-04-21 19:50:00 +0800
 description: 读完《高效能人士的 7 个习惯》不知道如何落地？本文分享可直接执行的行动：写使命宣言、确定个人原则、明确人生角色与要事、练习右脑与移情倾听，帮你真正做到要事第一、提升个人效能。
-image: pexels-reynaldoyodia-15776496.jpg
+image: /images/pexels-reynaldoyodia-15776496.jpg
 tags: product book
 keywords: "高效能人士的7个习惯,个人效能,要事第一,使命宣言,移情倾听,自我成长,以终为始,什么是要事,什么是效能"
 ---

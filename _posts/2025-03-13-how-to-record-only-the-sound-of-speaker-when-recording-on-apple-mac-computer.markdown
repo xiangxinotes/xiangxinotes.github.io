@@ -3,7 +3,7 @@ layout: post
 title: 「2025最新」Mac 电脑录屏的时候，怎样才能只录制电脑发出的声音呢？（详细教程）
 date: 2025-03-13 20:15:35 +0800
 description: Mac 录屏麦克风选“无”录不到任何声音，选“内置麦克风”又把电脑发出的声音和环境音都录制进去了。用“截屏” App 和 QuickTime Player 都不能只录制电脑发出（扬声器）的声音，Soundflower 停止开发，而且苹果在 macOS Catalina（10.15）之后也不再支持。那怎么只录制扬声器的声音，而不录到环境音呢？本文包含一步一步的行动指南，助你成功录屏。
-image: set-up-multi-output-device-to-record-just-the-speaker.webp
+image: /images/set-up-multi-output-device-to-record-just-the-speaker.webp
 tags: digital-efficiency
 ---
 

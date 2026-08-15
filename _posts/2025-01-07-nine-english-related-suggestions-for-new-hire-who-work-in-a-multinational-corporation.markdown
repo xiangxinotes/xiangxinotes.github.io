@@ -3,7 +3,7 @@ layout: post
 title: 外企新人必知的 9 条英语黄金建议，让你职场沟通无障碍
 date: 2025-01-07 19:07:35 +0800
 description: 如果你是初入外企的新人，或者正准备进入外企工作，那么这篇文章将为你提供 9 条英语黄金建议，帮助你在职场沟通中畅通无阻。本文分享的内容都是我经历了一些疼痛后总结下来的精华，我多希望自己初入外企时能知道这些内容，希望文章对你也能有帮助！
-image: nine-suggestions-for-new-hire-who-work-in-a-multinational-corporation.webp
+image: /images/nine-suggestions-for-new-hire-who-work-in-a-multinational-corporation.webp
 tags: english workplace
 ---
 

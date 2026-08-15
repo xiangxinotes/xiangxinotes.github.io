@@ -3,7 +3,7 @@ layout: post
 title: 如何把输入型爱好变为输出型爱好？
 date: 2025-08-03 18:23:00 +0800
 description: 你认真评估过自己的爱好吗？它们是输入型还是输出型呢？拿我自己举例，除了学英语、看书这两个进行频率比较高的爱好外，我还喜欢拼图、玩保龄球、滑冰等活动，总的来说比较三分钟热度，什么都喜欢尝试。本文就拿我的爱好做分析，讲一讲怎样把输入型爱好变成为输出型爱好。
-image: pexels-picjumbo-com-55570-210661.jpg
+image: /images/pexels-picjumbo-com-55570-210661.jpg
 tags: self-mastery career
 keywords:
   - SQL Wizland

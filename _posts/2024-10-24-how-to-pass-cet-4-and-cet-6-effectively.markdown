@@ -3,7 +3,7 @@ layout: post
 title: 我花了2小时翻遍全国大学英语四、六级考试大纲，只为帮你过四六级！
 date: 2024-10-24 11:06:25 +0800
 description: 四六级考试压力大？别担心！本文作者耗时 2 小时，精心梳理全国大学英语四、六级考试大纲。听、说、读、写、译五方面分析到各类题型解题技巧，全面剖析，为你提炼关键知识点，制定高效备考策略，根据大纲和样卷制定了提升和练习方法。助你轻松通过四六级考试，快来获取这份备考秘籍吧！
-image: pass-cet-4-n-6.png
+image: /images/pass-cet-4-n-6.png
 tags: college-student english language-learning
 ---
 

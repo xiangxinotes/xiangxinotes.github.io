@@ -3,7 +3,7 @@ layout: post
 title: 努力有用吗？｜和自己的深度对话，犀利点醒想找借口摆烂的自己
 date: 2026-05-07 21:33:00 +0800
 description: 这篇文字是和自己的深度对话，用来点醒迷茫、想找借口摆烂的自己。行文语气偏犀利直接，目的只是让自己自省，不针对任何人，路过的朋友不必对号入座。
-image: pexels-jill-wellington-1638660-40192.jpg
+image: /images/pexels-jill-wellington-1638660-40192.jpg
 tags: self-mastery
 keywords: "努力有用吗,努力有用么,努力没用"
 ---

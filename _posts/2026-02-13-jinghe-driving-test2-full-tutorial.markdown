@@ -3,7 +3,7 @@ layout: post
 title: 自动挡科目二全攻略（点位+操作+流程+避坑，实测干货）｜新疆博州精河县
 date: 2026-02-12 20:57:00 +0800
 description: 精河县自动挡科目二新手必看！解决点位不准、转向灯误操作、座椅调节失误等常见挂科问题，实测分享四大项目流程、学车节奏及考试细节，附带视频参考，帮你少走弯路，一把过科二。
-image: pexels-introspectivedsgn-12746322.jpg
+image: /images/pexels-introspectivedsgn-12746322.jpg
 tags: driver's-license
 keywords:
   - 精河

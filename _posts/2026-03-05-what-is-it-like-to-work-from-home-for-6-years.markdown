@@ -3,7 +3,7 @@ layout: post
 title: 居家办公 6 年是种什么体验？真实感受、优缺点与生活全记录
 date: 2026-03-05 17:41:00 +0800
 description: 居家办公 6 年真实体验分享，从时间自由、省钱优势到时间浪费、边界模糊等真实优缺点，记录远程工作 6 年的生活变化与内心成长，那些隐藏的缺点可能超出你的想象。
-image: pexels-ketut-subiyanto-4473893.jpg
+image: /images/pexels-ketut-subiyanto-4473893.jpg
 tags: life-record
 keywords:
   - 居家办公

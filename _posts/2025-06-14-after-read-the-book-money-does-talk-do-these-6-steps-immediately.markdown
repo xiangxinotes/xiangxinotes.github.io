@@ -3,7 +3,7 @@ layout: post
 title: 看完了《小狗钱钱》第一部，有哪些事情可以开始做起来了？
 date: 2025-06-14 21:32:00 +0800
 description: 看完了《小狗钱钱》第一部，也想开始理财，有哪些事情可以做，怎么做？本文总结了《小狗钱钱》中你可以做的六件事，助力你的理财第一步，和向西一起变有钱吧～
-image: pexels-gokul-barman-177743-594306.jpg
+image: /images/pexels-gokul-barman-177743-594306.jpg
 tags: product book early-retirement
 ---
 

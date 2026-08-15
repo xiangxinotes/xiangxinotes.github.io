@@ -3,7 +3,7 @@ layout: post
 title: 提高情商的播客分享｜告别内耗，话术干货直接落地
 date: 2026-03-15 14:21:00 +0800
 description: 还在为沟通不畅内耗？推荐随时可听的播客《高情商沟通话术：自在表达，想说就说》。区别于国外视角的《人性的弱点》，全是适配国内场景的可落地步骤，干货满满，提升沟通顺滑度必听！
-image: pexels-cottonbro-7600898.jpg
+image: /images/pexels-cottonbro-7600898.jpg
 tags: communication-skills
 keywords: 
   - 高情商沟通

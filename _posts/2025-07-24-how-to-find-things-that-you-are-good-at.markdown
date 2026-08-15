@@ -3,7 +3,7 @@ layout: post
 title: 如何找到你擅长的事？3个方法助你实现弯道超车
 date: 2025-07-24 11:10:00 +0800
 description: 虽然不是每一个都能像李如儒、李子柒等人一样，拥有那样的天赋和运气。但我们还是可以找到擅长的事，勤加磨练，在机会到来的时候，实现弯道超车，更甚至实现人生逆转。本文分享让我找到自己擅长之事的3个方法。
-image: pexels-gabby-k-5709063.jpg
+image: /images/pexels-gabby-k-5709063.jpg
 tags: self-mastery
 keywords:
   - 擅长

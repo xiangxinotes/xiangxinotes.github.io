@@ -4,7 +4,7 @@ title: 工作中出现错误怎么挽救？5个场景的实质性应对对策
 date: 2026-05-06 20:51:00 +0800
 last_modified_at: 2026-08-02 15:22:35 +0800
 description: 职场犯错不用慌。本文提供5种常见错误场景的实质性对策与极简处理流程。从自己发现到客户质问，教你当下如何挽救危机、事后如何得体道歉，帮你轻松化解职场失误。
-image: pexels-yankrukov-7640770.jpg
+image: /images/pexels-yankrukov-7640770.jpg
 tags: workplace
 keywords: "职场犯错怎么处理,工作失误应对方法,职场沟通避坑,职场做事原则,工作中犯了错怎么办"
 ---

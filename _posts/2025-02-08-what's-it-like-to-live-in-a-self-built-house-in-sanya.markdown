@@ -3,7 +3,7 @@ layout: post
 title: 【2025最新】在三亚过年，住在自建房里是一种怎样的体验？
 date: 2025-02-08 13:06:35 +0800
 description: 去三亚过年的头等大事就是租房，在三亚有3种房屋类型可供选择：自建房、小区房、别墅，这篇文章将会分享作者本人2025年在三亚过年前住自建房的经历。
-image: alexander-bennington-poGsPJB0vx4-unsplash.jpg
+image: /images/alexander-bennington-poGsPJB0vx4-unsplash.jpg
 tags: sojourn sanya renting
 ---
 

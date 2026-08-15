@@ -3,7 +3,7 @@ layout: post
 title: 你可以从《蔡康永的说话之道》中学到什么？
 date: 2026-08-08 07:26:00 +0800
 description: "从《蔡康永的说话之道》提炼沟通实战技巧：如何把无聊话题聊出花、搞定长辈的“凑趣”心法、利他式双赢话术，以及不让机会跑掉的3步试探法。附生活场景举例。"
-image: pexels-jill-wellington-1638660-40192.jpg
+image: /images/pexels-jill-wellington-1638660-40192.jpg
 image_alt: "一个女生在海边张开双臂，背景是夕阳"
 tags: communication-skills book
 ---

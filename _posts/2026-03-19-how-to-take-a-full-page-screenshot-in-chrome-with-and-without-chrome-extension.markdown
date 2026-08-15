@@ -3,7 +3,7 @@ layout: post
 title: Chrome网页怎么长截图？2个超简单方法：原生指令vs国内可用插件（2026实测有效）
 date: 2026-03-19 12:12:00 +0800
 description: 分享两种 Chrome 全页长截图方法，无需手动拼接，2秒轻松搞定完整网页截图。一种是国内可用浏览器插件，一键截取、支持图片和 PDF 下载；另一种是原生隐藏功能，无需装插件，适配公司电脑，操作简单小白也能上手，写博客、存资料、做文档超实用。
-image: pexels-asphotography-5494323.jpg
+image: /images/pexels-asphotography-5494323.jpg
 tags: digital-efficiency
 keywords: "Chrome 全页截图,Chrome 整页截图,Chrome 整 页 截图,Chrome 长截图方法,Chrome 长截图,Chrome 原生截图,Chrome 插件下载,Chrome 开发者工具截图,Chrome 不装插件长截图,Chrome 电脑截图技巧,2026 Chrome 截图推荐,国内可用 Chrome 扩展,谷歌浏览器全页截图,谷歌浏览器整页截图,谷歌浏览器整 页 截图,谷歌浏览器长截图方法,谷歌浏览器长截图,谷歌浏览器原生截图,谷歌浏览器插件下载,谷歌浏览器开发者工具截图,谷歌浏览器不装插件长截图,谷歌浏览器电脑截图技巧,2026谷歌浏览器截图推荐,国内可用谷歌浏览器扩展,如何截取网页长图,公司电脑截图技巧,网页截图,网页截图插件,截长图,浏览器长截图,全网页截图,Go Full Page 插件"
 ---

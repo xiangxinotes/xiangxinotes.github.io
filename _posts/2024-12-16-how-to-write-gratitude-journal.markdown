@@ -3,7 +3,7 @@ layout: post
 title: 感恩日记无从下笔？一篇文章教你写法，还为你罗列超多可感恩的人和事！
 date: 2024-12-16 15:05:27 +0800
 description: 还在为感恩日记怎么写而发愁吗？本文详细介绍了感恩日记的写作方法，从记录日常小事到表达内心感受，一步步教你开启感恩之旅。包括写作的工具、频率、时间段、内容长短，还有作者的经验分享，助你在2025年成为一个更快乐的人。无论是家人的陪伴、朋友的支持，还是生活中的小确幸，都能成为你笔下的感恩素材。让感恩日记成为你记录生活、沉淀心灵的温暖角落，快来一起学习如何书写感恩吧！
-image: jan-kahanek-fVUl6kzIvLg-unsplash.jpg
+image: /images/jan-kahanek-fVUl6kzIvLg-unsplash.jpg
 tags: mindset-regulation
 ---
 

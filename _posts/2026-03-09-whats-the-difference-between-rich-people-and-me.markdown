@@ -3,7 +3,7 @@ layout: post
 title: 有钱人和我想的到底有啥不一样？读《有钱人和你想的不一样》后我的真实改变
 date: 2026-03-09 20:40:00 +0800
 description: 2021年第一次读《有钱人和你想的不一样》，最近第二次读，我才意识到我竟然真地被这本书改变。从财富蓝图、有钱人脑袋的宣言，到 “两个都要” 的思维，再到 “尝试到成功为止” 的信念，每一点都颠覆了我对金钱和成功的看法。这篇文章分享我真实的思维转变，告诉你这本书为什么值得一读，也希望能帮你打破穷人思维，拥有更有钱的人生。
-image: pexels-tima-miroshnichenko-6694570.jpg
+image: /images/pexels-tima-miroshnichenko-6694570.jpg
 tags: product book career early-retirement
 keywords:
   - secrets of the millionaire mind

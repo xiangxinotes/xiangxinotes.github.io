@@ -3,7 +3,7 @@ layout: post
 title: la boulangerie 与 la pâtisserie 的区别
 date: 2024-12-30 11:33:52 +0800
 description: 深入剖析法语中 la boulangerie 与 la pâtisserie 的差异，精准解读二者在美食店铺内涵方面呈现的不同，助力法语学习者清晰辨别并准确运用相关词汇，提升语言表达的精准度与丰富性。
-image: liene-geidane-PO2GsmeN8hU-unsplash.jpg
+image: /images/liene-geidane-PO2GsmeN8hU-unsplash.jpg
 tags: french
 ---
 

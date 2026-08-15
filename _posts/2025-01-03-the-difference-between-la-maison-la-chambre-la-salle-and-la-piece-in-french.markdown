@@ -3,7 +3,7 @@ layout: post
 title: la maison、la chambre、la pièce 与 la salle 的区别
 date: 2025-01-03 09:07:02 +0800
 description: 深入剖析法语中 La maison、La chambre、La salle 与 La pièce 的差异，精准解读这四个词的差异，通过丰富的解释和例子助力法语学习者清晰辨别并准确运用相关词汇，提升语言表达的精准度与丰富性。
-image: quentin-touvard-VFjxs5yEB0w-unsplash.jpg
+image: /images/quentin-touvard-VFjxs5yEB0w-unsplash.jpg
 tags: french
 ---
 

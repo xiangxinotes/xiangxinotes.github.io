@@ -3,7 +3,7 @@ layout: post
 title: 驾考全流程汇总：费用、时间、考试内容一篇看懂｜新疆博州精河县C2自动挡
 date: 2026-03-04 21:02:00 +0800
 description: 精河县大漠驾校 C2 自动挡驾考全汇总！包含驾考全流程、各科考试时间、费用明细、考场要求、合格标准、考试内容与注意事项，从报名到拿证一篇全覆盖，新手备考超清晰。
-image: pexels-dom-j-7304-45113.jpg
+image: /images/pexels-dom-j-7304-45113.jpg
 tags: driver's-license
 keywords:
   - 大漠驾校

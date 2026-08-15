@@ -3,7 +3,7 @@ layout: post
 title: 自动挡科目三最全攻略｜15 个项目 + 3 条线路 + 上车细节，一把过科三！｜新疆博州精河县
 date: 2026-03-03 15:21:00 +0800
 description: 精河县自动挡科目三超详细攻略！包含上车准备、模拟灯光等 15 个考试项目操作、3 条线路顺序、练车流程和考试注意事项，新手照着做就能稳过。
-image: pexels-didsss-1405665.jpg
+image: /images/pexels-didsss-1405665.jpg
 tags: driver's-license
 keywords:
   - 精河

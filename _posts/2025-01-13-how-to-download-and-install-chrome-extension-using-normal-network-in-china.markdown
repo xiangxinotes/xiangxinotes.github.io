@@ -4,7 +4,7 @@ title: 「2026最新」国内谷歌 Chrome 浏览器扩展程序下载安装方�
 date: 2025-01-13 16:21:00 +0800
 last_modified_at: 2026-05-18 9:19:30 +0800
 description: 还在为国内谷歌 Chrome 浏览器扩展程序的下载安装发愁？2026 最新攻略来袭，一文带你掌握详细安装方法，更有 5 个优质插件下载网站推荐，满足你的多样需求，赶紧收藏！
-image: how-to-download-and-install-chrome-extension-using-normal-network-in-china.webp
+image: /images/how-to-download-and-install-chrome-extension-using-normal-network-in-china.webp
 tags: digital-efficiency
 ---
 

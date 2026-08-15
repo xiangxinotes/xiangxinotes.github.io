@@ -3,7 +3,7 @@ layout: post
 title: 网站图片加载慢怎么办？请收下这份最佳实践指南
 date: 2026-07-25 16:00:00 +0800
 description: "网站图片加载慢？这篇指南分享从图片压缩、格式转换到雪碧图的实战经验，帮你解决图片性能痛点，显著提升网站速度和用户体验。帮你大幅提升PSI评分。"
-image: pexels-castorlystock-4114774.webp
+image: /images/pexels-castorlystock-4114774.webp
 image_alt: "一只手握着一支在等待加载的手机 - 网站图片加载慢的最佳实践"
 tags: digital-efficiency
 ---
@@ -16,7 +16,7 @@ tags: digital-efficiency
 
 所以，如果你的图片加载有了上面这些情况，那么一定要让本文帮你完美解决。
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *永远在等加载 <a href="https://www.pexels.com/photo/iphone-6-connecting-to-internet-4114774/">Photo</a> by Castorly Stock*
 
 我将图片优化分为必须解决的[基础优化]({{page.url}}#必须解决)和锦上添花的[进阶优化]({{page.url}}#锦上添花)，带你一步步让网站飞起来。

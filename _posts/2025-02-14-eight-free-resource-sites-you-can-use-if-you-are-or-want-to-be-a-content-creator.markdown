@@ -4,7 +4,7 @@ title: 「2026最新」做自媒体还在为素材发愁？8个免费商用网�
 date: 2025-02-14 21:56:00 +0800
 last_modified_at: 2026-04-06 22:48:00 +0800
 description: 做自媒体，素材缺乏让你头疼？找图片，商用的贵，免费的差；配音乐，怕侵权；用字体，担心吃官司。难道只能被素材“拿捏”？别慌！今天分享8个免费商用素材网站，字体、图片、音乐全都有，一键解决难题！
-image: pexels-valentinantonucci-1275393.jpg
+image: /images/pexels-valentinantonucci-1275393.jpg
 keywords: "谷歌字体,阿里巴巴字体,思源黑体,Pexels,Unsplash,Bensound,Free Stock Music,Purple Planet Music,iMovie,剪映,自媒体,免费素材,免费商用,高质量"
 ---
 

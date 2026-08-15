@@ -3,7 +3,7 @@ layout: post
 title: "上门探望亲友，如何不伤感情地离场？"
 date: 2026-07-04 14:10:00 +0800
 description: "上门探望亲友时，总是因为聊得太开心或害怕显得生分而难以离场？分享四步收尾公式，帮你体面结束熟人局的对话，既不失礼又能顺利脱身。"
-image: pexels-karola-g-6135180.webp
+image: /images/pexels-karola-g-6135180.webp
 image_alt: "两个女人面对面坐在沙发上聊天，其中一人在说话，另一个人则盯着她看 - 上门探望亲友体面对话的方法"
 tags: end-conversations
 ---
@@ -68,7 +68,7 @@ tags: end-conversations
 
 所以邀请对方去你家坐坐这句话就是在告诉对方“我喜欢你。”
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *探访亲友，与亲友对话 <a href="https://www.pexels.com/photo/two-women-sitting-while-talking-on-a-sofa-6135180/">Photo</a> by www.kaboompics.com*
 
 就这样，只用四步，你就成功地表现出了你的友好和体谅，既没有伤害对方的感情，而且还成功脱身了。

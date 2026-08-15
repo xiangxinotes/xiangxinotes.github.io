@@ -3,7 +3,7 @@ layout: post
 title: 2026 年中总结
 date: 2026-07-11 07:29:57 +0800
 description: "向西的2026年中总结来啦～记录了上半年我做的事和收获的成长，包括博客写作、新项目开发、职场变化、沟通难题梳理、读书、爱自己和减肥。"
-image: pexels-pixabay-459515.webp
+image: /images/pexels-pixabay-459515.webp
 image_alt: "木质桌面上放着一支笔、一个本、一杯拿铁咖啡 - 2026向西的年中总结"
 tags: life-record
 ---
@@ -90,7 +90,7 @@ tags: life-record
 
 我正在读《超级沟通者》。
 
-![{{page.image_alt}}]({{ site.baseurl }}/images/{{page.image}})
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *复盘总结 <a href="https://www.pexels.com/photo/cup-of-latte-beside-spiral-notebook-with-black-pen-459515/">Photo</a> by Pixabay*
 
 ## 爱自己

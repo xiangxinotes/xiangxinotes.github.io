@@ -3,7 +3,7 @@ layout: post
 title: Mr. Money Mustache 总结
 date: 2023-05-03 14:10:35 +0800
 description: Mr. Money Mustache 写下了自己如何跳出猫鼠循环、30岁退休，同时提供了可以行动的建议。我目前读到 Springy Debt instead of a Cash Cushion. 内容很多，记录下来，经常回顾。
-image: dollars.jpg
+image: /images/dollars.jpg
 tags: early-retirement
 ---
 

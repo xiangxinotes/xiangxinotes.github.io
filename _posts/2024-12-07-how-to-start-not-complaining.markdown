@@ -3,7 +3,7 @@ layout: post
 title: 怎样在2025年成为一个不抱怨的人，怎样不抱怨？
 date: 2024-12-07 13:09:13 +0800
 description: 抱怨似乎无孔不入，无论是工作压力、人际关系困扰，还是生活琐事，都成了人们抱怨的 “重灾区”。但是，持续的抱怨不仅无法真正解决问题，还可能给我们的生活带来诸多负面影响。本文将从人为什么抱怨、抱怨的不良后果、为什么要不抱怨、能否做到不抱怨、怎么做可以不抱怨这5个方面展开探讨，希望能帮你更好地理解并践行不抱怨的生活方式，在2025年成为不抱怨的人！
-image: greg-rosenke-bAVKRB5CkH0-unsplash.jpg
+image: /images/greg-rosenke-bAVKRB5CkH0-unsplash.jpg
 tags: mindset-regulation
 ---
 

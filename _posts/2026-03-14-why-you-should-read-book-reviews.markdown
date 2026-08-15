@@ -3,7 +3,7 @@ layout: post
 title: 你为什么应该看书评？不替代原书，却能帮你读懂更多好书
 date: 2026-03-14 13:16:00 +0800
 description: 很多人认为看书评是吃别人咀嚼过的内容，但其实优质书评非常有价值。它不仅能帮你快速筛选好书、避免浪费时间，还能提供你独自阅读时忽略的全新视角，让理解更深刻。书评不是替代阅读，而是辅助你更好地读书、更高效成长。
-image: pexels-markus-winkler-1430818-4160101.jpg
+image: /images/pexels-markus-winkler-1430818-4160101.jpg
 tags: book
 keywords:
   - 书评有必要看吗

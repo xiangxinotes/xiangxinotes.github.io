@@ -3,7 +3,7 @@ layout: post
 title: 想来三亚旅居过年？先回答这3个问题！
 date: 2025-02-01 14:23:35 +0800
 description: 想来三亚旅居过年？请先花一些时间好好思考这3个问题：你能接受高水平的日常消费吗？你能接受人多的地方吗？你能接受长时间日照吗？如果你都能接受，再花时间研究行程吧。
-image: pexels-mouse-30346983.jpg
+image: /images/pexels-mouse-30346983.jpg
 tags: sojourn sanya
 ---
 

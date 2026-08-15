@@ -3,7 +3,7 @@ layout: post
 title: 【详细教程】怎么解决 javascript 访问本地文件时的浏览器跨域报错，实现本地预览？A step to step guide!
 date: 2024-12-02 12:14:13 +0800
 description: 在 js 中访问本地文件（可以是任何文件，但通常是 json 或 js 文件），浏览器却提示：Access to fetch at 'file:///.../xx.json' from origin 'null' has been blocked by CORS policy. Cross origin requests are only supported for protocol schemes. chrome, chrome-extension, chrome-untrusted, data, http, https, isolated-app. GET file:///../xx.json net::ERR_FAILED. Uncaught (in promise) TypeError. Failed to fetch. 本文分享2个方法助你轻松解决报错，实现本地预览！
-image: access-to-fetch-at-file-from-origin-null-has-been-blocked-by-CORS-policy.webp
+image: /images/access-to-fetch-at-file-from-origin-null-has-been-blocked-by-CORS-policy.webp
 tags: digital-efficiency
 ---
 

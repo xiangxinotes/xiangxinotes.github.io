@@ -3,7 +3,7 @@ layout: post
 title: 法语自学资源推荐：B站/播客/真题库（含跟读+双语+测试）
 date: 2026-03-30 22:25:00 +0800
 description: 别再被昂贵的培训班劝退！作为过来人，分享5个私藏的免费法语学习神器：涵盖B站跟读视频、英法双语入门、泛听精听播客及官方真题模拟。附全套学习路径，助你少走弯路。
-image: french-learning-resources-feature.webp
+image: /images/french-learning-resources-feature.webp
 tags: french language-learning
 keywords: "自学法语,法语入门,B站法语,法语听力,法语跟读,法语水平测试,DELF,法语播客,News in Slow French,法语学习网站,法语自学,免费法语资源,DELF真题,多邻国法语,英法双语,lingolia"
 ---

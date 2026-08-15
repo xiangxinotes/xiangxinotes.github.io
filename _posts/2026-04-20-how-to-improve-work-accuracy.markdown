@@ -4,7 +4,7 @@ title: 工作总出错怎么办？2个实用工具大幅提高正确率｜职场
 date: 2026-04-20 18:27:35 +0800
 last_modified_at: 2026-08-02 14:28:35 +0800
 description: "工作总出错被说粗心？本文分享2个亲测有效的实用工具：检查清单与自动化办公。教你从根源减少人为失误，告别粗心大意，轻松提升工作正确率与职场靠谱度。"
-image: pexels-thirdman-7180748.jpg
+image: /images/pexels-thirdman-7180748.jpg
 tags: workplace digital-efficiency
 keywords: "工作正确率,检查清单,自动化办公,Python 自动化,Google Apps Script,Excel 函数,职场效率,减少粗心错误"
 ---

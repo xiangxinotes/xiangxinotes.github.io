@@ -3,7 +3,7 @@ layout: post
 title: 告别焦虑！那些成功的人真的是靠自己的努力成功的吗？
 date: 2025-07-28 20:45:00 +0800
 description: 每年高考后，都有很多准清北生和他们的父母接受采访，大谈自己或自己的孩子为了高考所做的努力，他们是如何“靠自己的努力”考上清北的，那么事实真就如此吗？读完 马尔科姆·格拉德威尔的《异类》之后，你会有自己的答案。
-image: pexels-crazy-motions-80195021-12198522.jpg
+image: /images/pexels-crazy-motions-80195021-12198522.jpg
 tags: product book
 keywords: 
   - 异类
