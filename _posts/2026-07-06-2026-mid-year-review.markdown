@@ -101,7 +101,7 @@ tags: life-record
 
 ### 物质满足
 
-我物欲比较低，但我喜欢拼图，所以我给自己买了4副拼图（[拼图购物总结](http://localhost:4000/2024/11/10/jigsaw-puzzles-i-bought/)请看这里）。
+我物欲比较低，但我喜欢拼图，所以我给自己买了4副拼图（[拼图购物总结](/2024/11/10/jigsaw-puzzles-i-bought/)请看这里）。
 
 面对新疆的高温天气，我也不再忍耐，果断购买了[空调](https://s.click.taobao.com/t?e=m%3D2%26s%3DXr0KD2t6edBw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFo30ZFekjizvuNLoc79lw9P0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Barqydz8nQVkr8aDg6%2B27RpLJJseZIjvA615%2F%2BuhipGV26WEe1KB5Kk%2Byc0qcemaOOX8Utk6HPHx39MNOqNUA01NjQhIsxXl3JwAKUDNv0Ao6flkZCPD95fo%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEwhi12E%2Fp6LI3WcpdptZVkMYOae24fhW0&union_lens=lensId%3APUB%401783697328%40210863f9_0d87_19f4ca54a84_442f%40026KXzIm2ikO49WM4icTVi0p%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_17836973287911433500159){:rel="sponsored nofollow" target="_blank"}（马上到货）。
 
