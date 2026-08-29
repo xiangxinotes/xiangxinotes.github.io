@@ -43,13 +43,70 @@ layout: default
     {%- endif -%}
   {%- endfor -%}
 
-  {%- comment -%} 3. 添加普通文章（记录其在 page.posts 数组中的索引，方便后面直接取用） {%- endcomment -%}
-  {%- for post in page.posts -%}
-    {%- assign ts = post.last_modified_at | default: post.date | date: '%s' -%}
-    {%- assign index = forloop.index0 -%}
-    {%- assign entry = ts | append: '|POST|' | append: index -%}
-    {%- assign sortable_items = sortable_items | push: entry -%}
-  {%- endfor -%}
+  {%- comment -%} 
+    ★★★ 修改点：3. 添加普通文章 / 系列合集（针对 book 标签做特殊处理） ★★★
+  {%- endcomment -%}
+  {%- if tag_name == 'book' -%}
+    {%- comment -%} 
+      情况一（book 专用）：将所有带 series 的文章归为一个合集卡片
+      自动提取该系列对应的子标签（如 supercommunicators），并复用你原有的 collection-card
+    {%- endcomment -%}
+    {%- assign series_names = "" | split: "" -%}
+    {%- for post in page.posts -%}
+      {%- if post.series and post.series != "" -%}
+        {%- unless series_names contains post.series -%}
+          {%- assign series_names = series_names | push: post.series -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- for series_name in series_names -%}
+      {%- assign series_posts = "" | split: "" -%}
+      {%- for post in page.posts -%}
+        {%- if post.series == series_name -%}
+          {%- assign series_posts = series_posts | push: post -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- assign latest_post = series_posts | sort: 'date' | last -%}
+      {%- assign ts = latest_post.last_modified_at | default: latest_post.date | date: '%s' -%}
+      
+      {%- comment -%} 自动识别该系列对应的子标签（剔除 'book'） {%- endcomment -%}
+      {%- assign series_tag = nil -%}
+      {%- for tag in series_posts[0].tags -%}
+        {%- if tag != 'book' -%}
+          {%- assign series_tag = tag -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+      
+      {%- if series_tag -%}
+        {%- assign entry = ts | append: '|COLLECTION|' | append: series_tag -%}
+        {%- assign sortable_items = sortable_items | push: entry -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- comment -%} 添加没有 series 的单篇书评文章（如《小狗钱钱》单篇） {%- endcomment -%}
+    {%- for post in page.posts -%}
+      {%- unless post.series and post.series != "" -%}
+        {%- assign ts = post.last_modified_at | default: post.date | date: '%s' -%}
+        {%- assign index = forloop.index0 -%}
+        {%- assign entry = ts | append: '|POST|' | append: index -%}
+        {%- assign sortable_items = sortable_items | push: entry -%}
+      {%- endunless -%}
+    {%- endfor -%}
+
+  {%- else -%}
+    {%- comment -%} 
+      情况二（其他标签）：原有逻辑，直接按普通文章展示
+      这里会处理 communication-skills、supercommunicators 等所有非 book 页面
+    {%- endcomment -%}
+    {%- for post in page.posts -%}
+      {%- assign ts = post.last_modified_at | default: post.date | date: '%s' -%}
+      {%- assign index = forloop.index0 -%}
+      {%- assign entry = ts | append: '|POST|' | append: index -%}
+      {%- assign sortable_items = sortable_items | push: entry -%}
+    {%- endfor -%}
+  {%- endif -%}
 
   {%- comment -%} 4. 按时间戳倒序排序（最新的在最前面） {%- endcomment -%}
   {%- assign sorted_items = sortable_items | sort | reverse -%}

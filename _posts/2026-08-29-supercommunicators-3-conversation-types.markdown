@@ -6,6 +6,7 @@ description: "客户叫错我名字的那一刻，我突然意识到：工作做
 image: /images/supercommunicators-robot-communication.webp
 image_alt: "高处俯拍，一个机器人脸仰着，微微笑 - 做了7年“沟通机器人”，我才知道对话分3种频道"
 tags: supercommunicators book
+series: supercommunicators
 ---
 
 过去7年，我一直自诩擅长工作沟通。领导交代的任务，我按时交付；跨部门的协作，我逻辑清晰地对接；甲方提出的需求，我精准地执行。
