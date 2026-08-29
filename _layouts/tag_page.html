@@ -23,17 +23,54 @@ layout: default
 {%- endif %}
 
   <section class="articles-section">
-    <div class="articles-container">
-      {%- for item in site.data.featured_tags %}
-        {%- if item[1].parent_tag == tag_name %}
-          {%- assign sub_tag = item[0] -%}
-          {%- assign sub_data = item[1] -%}
-          {% include collection-card.html sub_tag=sub_tag sub_data=sub_data %}
-        {%- endif %}
-      {%- endfor %}
-      {%- for post in page.posts %}
-        {% include article-card.html %}
-      {%- endfor -%}
-    </div>
+  <div class="articles-container">
+  {%- comment -%} 
+    1. 准备一个空数组，用来装所有待排序的条目
+    每个条目格式：时间戳|类型|标识符
+  {%- endcomment -%}
+  {%- assign sortable_items = "" | split: "" -%}
+
+  {%- comment -%} 2. 添加子合集（取每个子合集下最新文章的日期作为该合集的日期） {%- endcomment -%}
+  {%- for item in site.data.featured_tags -%}
+    {%- if item[1].parent_tag == tag_name -%}
+      {%- assign sub_tag = item[0] -%}
+      {%- assign latest_post = site.tags[sub_tag] | sort: 'date' | last -%}
+      {%- if latest_post -%}
+        {%- assign ts = latest_post.last_modified_at | default: latest_post.date | date: '%s' -%}
+        {%- assign entry = ts | append: '|COLLECTION|' | append: sub_tag -%}
+        {%- assign sortable_items = sortable_items | push: entry -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- comment -%} 3. 添加普通文章（记录其在 page.posts 数组中的索引，方便后面直接取用） {%- endcomment -%}
+  {%- for post in page.posts -%}
+    {%- assign ts = post.last_modified_at | default: post.date | date: '%s' -%}
+    {%- assign index = forloop.index0 -%}
+    {%- assign entry = ts | append: '|POST|' | append: index -%}
+    {%- assign sortable_items = sortable_items | push: entry -%}
+  {%- endfor -%}
+
+  {%- comment -%} 4. 按时间戳倒序排序（最新的在最前面） {%- endcomment -%}
+  {%- assign sorted_items = sortable_items | sort | reverse -%}
+
+  {%- comment -%} 5. 遍历排序结果，根据类型分别渲染对应的卡片 {%- endcomment -%}
+  {%- for entry in sorted_items -%}
+    {%- assign parts = entry | split: '|' -%}
+    {%- assign type = parts[1] -%}
+
+    {%- if type == 'COLLECTION' -%}
+      {%- assign sub_tag = parts[2] -%}
+      {%- assign sub_data = site.data.featured_tags[sub_tag] -%}
+      {% include collection-card.html sub_tag=sub_tag sub_data=sub_data %}
+
+    {%- elsif type == 'POST' -%}
+      {%- assign idx = parts[2] | plus: 0 -%}
+      {%- assign current_post = page.posts[idx] -%}
+      {% include article-card.html post=current_post %}
+    {%- endif -%}
+
+  {%- endfor -%}
+  </div>
   </section>
 </main>

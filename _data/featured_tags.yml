@@ -46,4 +46,14 @@ end-conversations:
   parent_view:
     name: "不会结束对话？内向者的脱身指南"
     desc: "本合集帮你解决不会结束对话的社交难题。内向作者结合自己的经验，帮你建立正确的认知，体面结束任何对话！合集提供结束对话的通用话术和暗号、应对话痨的方法，还有职场线上会议和上门探望亲友的脱身攻略。点击查看，即可来去自如～"
-    thumbnail: "pexels-chitokan-2087742.webp"
+    thumbnail: "/images/pexels-chitokan-2087742.webp"
+
+supercommunicators:
+  name: "《超级沟通者》深度解读"
+  title: "《超级沟通者》深度解读：从沟通机器人到超级沟通者"
+  desc: "想升级沟通底层逻辑？「向西笔记」《超级沟通者》深度解读合集，帮你彻底搞懂三种对话频道、匹配原则与理解循环。6篇文章带你逐一拆解社交对话、接住情绪、深度连接和建立边界感，带你从自说自话走向真正被记住。"
+  parent_tag: "communication-skills"
+  parent_view:
+    name: "不会识别对话类型？沟通机器人的转变之路"
+    desc: "认为自己擅长沟通，其实总在自说自话？本合集用6篇文章系统拆解《超级沟通者》，带你从客户叫错名字的真实案例出发，精准匹配三种对话类型从而建立联系、运用理解循环让关系升温和巧用边界感技巧告别沟通内耗。从普通人成长为超级沟通者。"
+    thumbnail: "/images/supercommunicators-robot-communication.webp"

@@ -20,7 +20,7 @@
   <article class="article-card sub-collection-card">
     {%- if card_image %}
     <div class="card-image">
-      <img src="{{ site.baseurl }}/images/{{ card_image }}" alt="{{ card_image_alt | escape }}">
+      <img src="{{ site.baseurl }}{{ card_image }}" alt="{{ card_image_alt | escape }}">
     </div>
     {%- else %}
       {%- assign without-image = 'article-without-image' -%}
