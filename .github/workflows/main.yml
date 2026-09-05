@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["main"]   # 如果你的默认分支是 master，请改为 master
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -20,18 +20,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'   # 可根据需要调整
-          bundler-cache: true
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+          ruby-version: '3.3'        # 与你本地一致
+          bundler-cache: true        # 会自动使用 Gemfile.lock
+
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: bundle exec jekyll build --destination ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
