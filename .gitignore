@@ -2,7 +2,6 @@ _drafts
 _site
 build
 *.DS_Store
-Gemfile.lock
 README_template.md
 styleguide.md
 .sass-cache
