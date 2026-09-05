@@ -105,7 +105,7 @@ series: supercommunicators
 
 如果你也曾在沟通中感到错位、疲惫、明明很努力却总觉得话不投机，不妨先停一下，问问自己：**“此刻，他在哪个频道？而我，又在哪个频道？”**
 
-本文是[「《超级沟通者》深度解读」系列](/tag/supercommunicators/)的第一篇。下一篇我会聊：为什么聊八卦和旅行也是深度社交？
+本文是[「《超级沟通者》深度解读」系列](/tag/supercommunicators/)的第一篇。下一篇我会聊：[为什么聊八卦和旅行也是深度社交？](/2026/09/05/supercommunicators-social-conversation)
 
 如果你想系统升级自己的沟通逻辑，可以看看[《超级沟通者》的官方页面](https://charlesduhigg.com/supercommunicators/){:target="_blank"}，也可以点击[《超级沟通者》购买链接](https://s.click.taobao.com/t?e=m%3D2%26s%3DOd8bIHIhoXJw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFo30ZFekjizvwZRe2Z%2BOxn30JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ban%2FJY8NhJraKIbAueQ3f2N7JJseZIjvA6Z3UdAorGSIUBUq84E21a%2BrtJBrslhdNDEct3J2WwvFU%2BZCUYBb2YkUXklXRpM2eDwi%2FpjhO45mb8B5FyfU1gNbTO8hVXH49zb%2FnUHMQd618NhzelLq1rvON%2BwW71%2F%2Fk6xGRVvwydlHE%3D&union_lens=lensId%3APUB%401787974710%402166cea8_0e47_1a04b98f5d7_cd9f%40024DAWkPkjR12z6yvfclb71Y%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_3_17879747108151433500159%3Bscm%3A1007.30148.329090.pub_search-item_5ac7e5cd-76d4-4474-9980-166c29fc32f6_){:rel="sponsored nofollow" target="_blank"}。
 
