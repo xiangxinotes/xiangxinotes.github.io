@@ -3,7 +3,7 @@ url: "https://xiangxi.work" # the base hostname & protocol for your site, e.g. h
 logo: /images/logo.png
 language: zh-CN # the main language of your site, e.g. en-US
 timezone: Asia/Shanghai # the time zone of your site.
-destination: ./build # to use github actions to build site
+# destination: ./build # in order to use sujaykundu777/jekyll-deploy-action github actions to build site
 
 # Build settings
 markdown: kramdown
