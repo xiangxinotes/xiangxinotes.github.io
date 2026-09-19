@@ -160,7 +160,7 @@ series: supercommunicators
 
 本文是[「《超级沟通者》深度解读」系列](/tag/supercommunicators/)的第三篇。你已经学会了识别三种对话频道、理解社交对话的运作机制，现在又掌握了在三种对话里证明倾听的工具——“理解循环”。
 
-下周六我会更新第四篇：《“脆弱”不是弱点：为什么暴露软肋反而能建立深度连接？》
+下周六我会更新第四篇：[《怎么做才能建立真正的连接？》](/2026/09/19/supercommunicators-mutual-vulnerability/)
 
 如果你想系统升级自己的沟通逻辑，可以看看[《超级沟通者》的官方页面](https://charlesduhigg.com/supercommunicators/){:target="_blank"}，也可以点击[《超级沟通者》购买链接](https://s.click.taobao.com/t?e=m%3D2%26s%3DOd8bIHIhoXJw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFo30ZFekjizvwZRe2Z%2BOxn30JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ban%2FJY8NhJraKIbAueQ3f2N7JJseZIjvA6Z3UdAorGSIUBUq84E21a%2BrtJBrslhdNDEct3J2WwvFU%2BZCUYBb2YkUXklXRpM2eDwi%2FpjhO45mb8B5FyfU1gNbTO8hVXH49zb%2FnUHMQd618NhzelLq1rvON%2BwW71%2F%2Fk6xGRVvwydlHE%3D&union_lens=lensId%3APUB%401787974710%402166cea8_0e47_1a04b98f5d7_cd9f%40024DAWkPkjR12z6yvfclb71Y%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_3_17879747108151433500159%3Bscm%3A1007.30148.329090.pub_search-item_5ac7e5cd-76d4-4474-9980-166c29fc32f6_){:rel="sponsored nofollow" target="_blank"}。
 
