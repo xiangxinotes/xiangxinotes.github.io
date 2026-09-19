@@ -23,7 +23,13 @@
   <title>第{{ paginator.page }}页｜{{ site.title }}</title>
   {%- seo title=false -%}
 {%- else %}
+  {%- if page.seo_title or page.description -%}
+  <title>{{ page.seo_title | default: page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  {%- seo title=false,desc=false -%}
+  {%- else -%}
   {%- seo -%}
+  {%- endif -%}
 {%- endif %}
 {%- if page.keywords -%}<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">{%- endif %}
 {%- if paginator and paginator.page > 1 -%}<meta name="robots" content="noindex, follow">{%- endif %}
