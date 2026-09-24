@@ -2,6 +2,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xiangxi.work" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/logo.png
 language: zh-CN # the main language of your site, e.g. en-US
+lang: zh_CN
 timezone: Asia/Shanghai # the time zone of your site.
 # destination: ./build # in order to use sujaykundu777/jekyll-deploy-action github actions to build site
 
