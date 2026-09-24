@@ -10,12 +10,25 @@
   {%- assign ft = site.data.featured_tags[tag_slug] -%}
   {%- if ft %}
   <title>{{ ft.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ ft.desc }}">
+  <meta name="description" content="{{ ft.desc | escape }}">
+  <meta name="generator" content="Jekyll v4.4.1" />
+  <meta property="og:title" content="{{ ft.title }} | {{ site.title }}" />
+  <meta name="author" content="向西" />
+  <meta property="og:locale" content="zh_CN" />
+  <meta property="og:description" content="{{ ft.desc | escape }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:site_name" content="向西笔记" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ ft.title }} | {{ site.title }}" />
+  <meta name="twitter:description" content="{{ ft.desc | escape }}" />
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"向西"},"description":{{ ft.desc | jsonify }},"headline":"{{ ft.title }} | {{ site.title }}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"{{ site.url }}/images/logo.png"},"name":"向西"},"url":"{{ page.url | absolute_url }}"}</script>
   {%- else %}
   <title>{{ page.tag | capitalize | replace: "-", " "}} | {{ site.title }}</title>
-  <meta name="description" content="{{ page.tag }}标签下的所有文章合集。">
+  {%- seo title=false -%}
   {%- endif -%}
-  {%- seo title=false,desc=false -%}
 {%- elsif page.url == '/' %}
   <title>{{ site.title }}</title>
   {%- seo title=false -%}
@@ -23,10 +36,9 @@
   <title>第{{ paginator.page }}页｜{{ site.title }}</title>
   {%- seo title=false -%}
 {%- else %}
-  {%- if page.seo_title or page.description -%}
+  {%- if page.seo_title -%}
   <title>{{ page.seo_title | default: page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description | escape }}">
-  {%- seo title=false,desc=false -%}
+  {%- seo title=false -%}
   {%- else -%}
   {%- seo -%}
   {%- endif -%}
