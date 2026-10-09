@@ -1,8 +1,10 @@
 ---
 layout: post
+seo_title: "er和ee结尾的英语单词成对整理｜词义区别与例子"
 title: 90% 的人都不知道！掌握 -er 和 -ee 后缀，单词背诵快准狠，英语水平飞跃
 date: 2025-01-13 20:33:38 +0800
-description: 还在为记单词发愁？本文聚焦于 -er 和 -ee 这2个在构建英语名词体系中扮演着非常重要的常见词缀，深入剖析它们在单词构成中的规律与含义。通过丰富的单词实例，展示如何借助这两个词缀快速理解、记忆大量单词，让你告别死记硬背，开启高效记单词的新旅程，轻松提升词汇量。
+last_modified_at: 2026-10-10 16:00:00 +0800
+description: "以-er和-ee结尾的英语单词成对整理，讲清employer/employee、trainer/trainee这些词的区别。-er是动作的执行者，-ee是动作的承受者，弄懂这个规律，记单词会轻松很多。附一个《老友记》里的-er/-ee例子。"
 image: /images/windows-kRWY72TKB0Y-unsplash.webp
 tags: english
 ---
@@ -39,7 +41,7 @@ tags: english
 
 ## -ee
  
--ee 也是名词结尾，但没有 -er 那么常见，而且它和 -ee 有显著区别！
+-ee 也是名词结尾，但没有 -er 那么常见，而且它和 -er 有显著区别！
 
 -ee 是**动作的接收者**，也就是**承受**动作的这一方。一些常见的词有：employee, trainee, referee, addressee, payee, grantee, etc.
 
@@ -54,6 +56,23 @@ tags: english
 
 ![6名雇员围坐在电脑旁的照片]({{ site.baseurl }}/images/windows-kRWY72TKB0Y-unsplash.webp)
 *一群雇员 6 employees Photo by <a href="https://unsplash.com/@windows?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Windows</a> on <a href="https://unsplash.com/photos/woman-in-maroon-sweater-using-laptop-kRWY72TKB0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
+
+## 成对单词
+
+-er 是动作的执行者，-ee 是动作的承受者。下面这些词经常成对出现：
+
+| -er（执行者） | -ee（承受者） | 含义 |
+|---|---|---|
+| employer | employee | 雇主 / 雇员 |
+| trainer | trainee | 培训师 / 受训者 |
+| interviewer | interviewee | 面试官 / 面试者 |
+| addresser | addressee | 发件人 / 收件人 |
+| payer | payee | 付款人 / 收款人 |
+| examiner | examinee | 考官 / 考生 |
+| messer* | messee* | 戏弄别人的人 / 被戏弄的人 |
+
+\* 这对词来自《老友记》第五季第十四集 Chandler 之口："The messers become the messees!" 如果你看中英双语字幕，可能会发现写的是 messies。我觉得按照 -er/-ee 的规律，结尾单词应该是 messees，你认为呢？我录了一期视频专门聊这个发现，如果想和我讨论，可以看看：
+<iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV18vcaeAEjn&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" loading="lazy"> </iframe>
 
 ## 总结
 

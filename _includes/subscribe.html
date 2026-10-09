@@ -1,15 +1,15 @@
 <div class="container">
   <div class="subscribe">
-    <h3 class="subscribe__title">订阅</h3>
-    <p class="subscribe__subtitle">想要查看最新文章？最新、最重要文章直接送到收件箱！</p>
+    <h3 class="subscribe__title">订阅向西笔记</h3>
+    <p class="subscribe__subtitle">每周一篇原创文章，关于成长与自我管理。无垃圾邮件，随时退订。</p>
     <form class="subscribe-form validate" action="{% if site.data.settings.mailchimp %}//{{site.data.settings.mailchimp}}{% else %}#{% endif %}"
       method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
       <div class="subscribe-group">
         <label class="screen-reader-text" for="mce-EMAIL">邮件地址</label>
         <input class="subscribe__email required email" id="mce-EMAIL" type="text" name="EMAIL"
-          placeholder="输入你的邮件地址">
+          placeholder="输入你的邮箱">
       </div>
-      <input class="subscribe__button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="订阅">
+      <input class="subscribe__button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="免费订阅">
     </form>
   </div>
 </div>
