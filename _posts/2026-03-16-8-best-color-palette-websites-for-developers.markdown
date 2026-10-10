@@ -68,6 +68,6 @@ keywords: "配色难看,高级审美,图片配色,免费配色,配色网站,颜�
 原来做出好看的东西，这么简单。
 
 🌟 推荐你可能感兴趣的其他文章：
-- [🎵 分享8个免费商用素材网站，字体、音乐、图片全都有](/2025/02/14/eight-free-resource-sites-you-can-use-if-you-are-or-want-to-be-a-content-creator/)
-- [🎮 分享2个经典红白机游戏网站](/2025/07/19/tow-free-websites-to-play-nintendo-entertainment-system-games-with-no-registration-and-can-play-with-controllers/)
-- [🎮 分享5个免费在线游戏网站](/2026/03/17/five-free-online-game-websites-with-no-registration/)
+- [🎵 8个免费商用素材网站，字体、音乐、图片全都有](/2025/02/14/eight-free-resource-sites-you-can-use-if-you-are-or-want-to-be-a-content-creator/)
+- [🎮 4个经典红白机游戏网站](/2025/07/19/tow-free-websites-to-play-nintendo-entertainment-system-games-with-no-registration-and-can-play-with-controllers/)
+- [🎮 5个免费在线游戏网站](/2026/03/17/five-free-online-game-websites-with-no-registration/)
