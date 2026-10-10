@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你可以从《蔡康永的说话之道》中学到什么？
+title: 从《蔡康永的说话之道》中学到的沟通技巧
 date: 2026-08-08 07:26:00 +0800
 description: "从《蔡康永的说话之道》提炼沟通实战技巧：如何把无聊话题聊出花、搞定长辈的“凑趣”心法、利他式双赢话术，以及不让机会跑掉的3步试探法。附生活场景举例。"
 image: /images/pexels-jill-wellington-1638660-40192.jpg
@@ -10,7 +10,7 @@ tags: communication-skills book
 
 写给未来翻看本文的自己看的～～
 
-**零废话总结**：我从[《蔡康永的说话之道》](https://s.click.taobao.com/t?e=m%3D2%26s%3Dz1vQONfb3RJw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFo30ZFekjizv18hyXkNlw1D0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Ba%2B2iXRyQIS%2B%2FCuhG0r9LexIwe6%2FtGg2%2FR0g4t7YZScZYrcaRkM8Lj7IsEVSxwfBOO8ovEyiCNNFEcewCeNm2MoQTV%2FTWCTRtv5mle1XoR4K3RyUJo0UpM05Wwf%2BOGx9WbcHol32lR%2BtHUqKWYqyfTDM7AMx9cWAx%2BVSYih6AOxRTG2I1kAjs4EnEqY%2Bakgpmw&union_lens=lensId%3APUB%401785551905%400bbb3698_0c9e_19fbb2fe37e_cc9c%40036qNp0ePkmagh4u6axiUBis%40eyJmbG9vcklkIjo4NTQ2Nywiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfZGV0YWlsX2h0bSIsInNyY0Zsb29ySWQiiOiiI4MDY3NCJ9%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_17855519057441433500159%3Bscm%3A1007.30148.329090.pub_search-item_48e388e8-e668-4929-8ea2-a0f0b0d6d8a8_){:rel="sponsored nofollow" target="_blank"}中学到的，希望自己应用的方式方法。
+**零废话总结**：我从《蔡康永的说话之道》中学到的，希望自己应用的方式方法。
 
 虽然很多内容要点其实就是《人性的弱点》里的内容，但是我获得了新的启发。
 
@@ -277,4 +277,4 @@ tags: communication-skills book
 
 --- 
 
-本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。
+本文仅摘录书中沟通技巧，与作者个人立场无关。
