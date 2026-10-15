@@ -72,7 +72,7 @@ tags: life-record
 
 好在，虽然问题的表现形式多种多样，但解决方法却是一样的。
 
-我正在努力解决自己的沟通问题，督促自己实践，并总结方法。[结束对话](/tag/end-conversations)合集里的6篇文章就是这份总结的产物。
+我正在努力解决自己的沟通问题，督促自己实践，并总结方法。[沟通技巧](/tag/communication-skills/)合集里的文章就是这份总结的产物。
 
 ## 读书
 
@@ -103,7 +103,7 @@ tags: life-record
 
 我物欲比较低，但我喜欢拼图，所以我给自己买了4副拼图（[拼图购物总结](/2024/11/10/jigsaw-puzzles-i-bought/)请看这里）。
 
-面对新疆的高温天气，我也不再忍耐，果断购买了[空调](https://s.click.taobao.com/t?e=m%3D2%26s%3DXr0KD2t6edBw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFo30ZFekjizvuNLoc79lw9P0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Barqydz8nQVkr8aDg6%2B27RpLJJseZIjvA615%2F%2BuhipGV26WEe1KB5Kk%2Byc0qcemaOOX8Utk6HPHx39MNOqNUA01NjQhIsxXl3JwAKUDNv0Ao6flkZCPD95fo%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEwhi12E%2Fp6LI3WcpdptZVkMYOae24fhW0&union_lens=lensId%3APUB%401783697328%40210863f9_0d87_19f4ca54a84_442f%40026KXzIm2ikO49WM4icTVi0p%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_17836973287911433500159){:rel="sponsored nofollow" target="_blank"}（马上到货）。
+面对新疆的高温天气，我也不再忍耐，果断购买了[空调](https://s.click.taobao.com/t?e=m%3D2%26s%3DXr0KD2t6edBw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFo30ZFekjizvuNLoc79lw9P0JlhLk0Jl4W51WRknh2iJSQ2p8KpMHEzUKmkzOudPbBY5YNFuLb7rteL7p5k0R00IazGbjx72GR8X7G7Q37Barqydz8nQVkr8aDg6%2B27RpLJJseZIjvA615%2F%2BuhipGV26WEe1KB5Kk%2Byc0qcemaOOX8Utk6HPHx39MNOqNUA01NjQhIsxXl3JwAKUDNv0Ao6flkZCPD95fo%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHEwhi12E%2Fp6LI3WcpdptZVkMYOae24fhW0&union_lens=lensId%3APUB%401783697328%40210863f9_0d87_19f4ca54a84_442f%40026KXzIm2ikO49WM4icTVi0p%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_17836973287911433500159){:rel="sponsored nofollow" target="_blank"}（马上到货）。空调虽然是我买的，但妈妈付的钱。直播间买的时候还抽到了红包，超开心！
 
 就算是减肥，有想吃的东西也会作为放纵餐买给自己。
 
@@ -119,13 +119,13 @@ tags: life-record
 
 更让我感到解脱的是，我终于不再纠结**辞职还是创业**了。
 
-过去几年，我总在辞职没钱与不创业不甘心之间反复拉扯。
+过去几年，我总在**辞职没钱**与**不创业不甘心**之间反复拉扯。
 
 但现在我想通了：两者完全可以兼顾。我有能力在做好本职工作的同时，尝试自己的创业构想。
 
 我决定给自己两年的时间，去充分尝试各种可能性，验证自己到底能否成功。
 
-在过去的3个月里，我也发现：不行动，有不行动的焦虑；行动，有行动的焦虑。因为你必须直面行动了仍然会失败的可能性。
+在过去的3个月里，我也发现：不行动，有不行动的焦虑；行动，有行动的焦虑。（因为你必须直面**行动了仍然会失败**的可能性。）
 
 但当我逼着自己继续行动后，焦虑就消失了，取而代之的，是行动带来的爽感。
 
@@ -133,7 +133,7 @@ tags: life-record
 
 在结束两个项目、完成博客全面更新后，我短暂地陷入无事可做的空虚期。由于每周只需更新一篇博客，我多出了很多空余时间。
 
-我害怕自己会重回缺乏行动力的状态。于是，我打开了自己梳理的四大目标，发现“改变外在形象”是其中一项。
+我害怕自己会重回缺乏行动力的状态。于是，我打开了自己梳理的四大目标，发现**改变外在形象**是其中一项。
 
 自从居家办公以来，我的体重持续上升。因此，我果断从减肥入手，总结了自己的体态问题、身体围度及体重目标，并借助AI制定了减肥计划。
 
@@ -143,12 +143,12 @@ tags: life-record
 
 夏天气温高，整个人每天都懒懒地不想动；加之近期家中人员变动，每天熬夜让我毫无精力。
 
-这也让我意识到：当身体状态不佳时，再完美的计划也难以落地。所以，不要苛责自己，要在接纳中稳步调整。
+这也让我意识到：**当身体状态不佳时，再完美的计划也难以落地。**所以，不要苛责自己，要在接纳中稳步调整。
 
 ---
 
 下半年要做的事已构思好，只待执行。虽然会遇到难题，但我会像上半年一样，全部解决掉的。
 
-那年中总结就到这里，我们自豪地在年终总结见啦！
+那年中总结就到这里，我们自豪地在[三季度总结](/2026/10/17/2026-q3-review/)见啦！
 
 本文部分商品链接为淘宝联盟推广链接，购买后本站可获得小额佣金，不影响您的购买价格。
