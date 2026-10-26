@@ -1,0 +1,99 @@
+{%- assign tmpl = include.template -%}
+
+<!-- ================= 抓图与容错逻辑 ================= -->
+{%- assign card_image = tmpl.image -%}
+{%- if card_image == nil and tmpl.guide_url -%}
+  {%- assign clean_guide_url = tmpl.guide_url | remove_last: '/' -%}
+  {%- for post in site.posts -%}
+    {%- assign clean_post_url = post.url | remove_last: '/' -%}
+    {%- if clean_post_url == clean_guide_url or post.url contains tmpl.guide_url -%}
+      {%- assign card_image = post.image | default: post.thumbnail -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+<article class="article-card template-card">
+  <!-- ================= 图片区 ================= -->
+  <div class="card-image {% if card_image == nil %}no-image-placeholder{% endif %}">
+    {% if card_image %}
+      {% if card_image contains 'http' %}
+        <img src="{{ card_image }}" alt="{{ tmpl.title | escape }}" loading="lazy" onerror="this.style.display='none'">
+      {% else %}
+        <img src="{{ site.baseurl }}{{ card_image }}" alt="{{ tmpl.title | escape }}" loading="lazy" onerror="this.style.display='none'">
+      {% endif %}
+    {% endif %}
+    
+    <!-- 标签 -->
+    {% if tmpl.category == 'original' %}
+      <span class="badge badge-original">原创工具</span>
+    {% else %}
+      <span class="badge badge-share">资源分享</span>
+    {% endif %}
+  </div>
+  
+  <!-- ================= 内容区 ================= -->
+  <div class="card-content">
+    <div class="text-content">
+      <h2 class="card-title">
+        <!-- ★ 核心：给标题链接加上 class="stretched-link" -->
+        <!-- 整卡点击默认跳转到“使用指南”（如果没有，就跳第一个购买链接） -->
+        <a href="{% if tmpl.guide_url %}{{ site.baseurl }}{{ tmpl.guide_url }}{% elsif tmpl.url %}{{ tmpl.url }}{% elsif tmpl.versions[0].url %}{{ tmpl.versions[0].url }}{% endif %}" 
+           class="stretched-link" 
+           {% unless tmpl.guide_url %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+          {{ tmpl.title }}
+        </a>
+      </h2>
+      <p class="card-excerpt">{{ tmpl.desc }}</p>
+    </div>
+    
+    <!-- 底部交互区 (由于遮罩层的原因，必须加 relative 和 z-index 提升层级) -->
+    <div class="card-footer-area">
+      {% if tmpl.guide_url %}
+        <a href="{{ site.baseurl }}{{ tmpl.guide_url }}" class="guide-link">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+          {{ tmpl.guide_text | default: "阅读配套博文与说明" }}
+        </a>
+      {% endif %}
+
+      <div class="action-area">
+        {% if tmpl.category == 'original' %}
+        <a href="{% if tmpl.shop_url %}{{ tmpl.shop_url }}{% else %}{{ tmpl.versions[0].url }}{% endif %}" target="_blank" rel="noopener noreferrer" class="price-display">
+          <span class="p-symbol">¥</span>
+          <span class="p-amount">{{ tmpl.versions[0].price }}</span>
+          {% if tmpl.versions.size > 1 %}
+          <span class="p-start">起</span>
+          {% else %}
+          <span class="p-start">元</span>
+          {% endif %}
+        </a>
+          
+        <div class="button-group">
+          {% for v in tmpl.versions %}
+            {% if forloop.last %}
+            <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-pro">
+              <span class="v-name">{{ v.name }}</span>
+            </a>
+            {% else %}
+            <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-standard">
+              <span class="v-name">{{ v.name }}</span>
+            </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+          
+        {% else %}
+        <a href="{{ tmpl.url }}" target="_blank" rel="noopener noreferrer" class="price-display free-display">
+          <span class="p-free-text">免费下载</span>
+        </a>
+          
+        <div class="button-group">
+          <a href="{{ tmpl.url }}" target="_blank" rel="noopener noreferrer" class="btn-free-action">
+            <span>前往获取</span>
+          </a>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>   
+</article>

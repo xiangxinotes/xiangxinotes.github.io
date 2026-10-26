@@ -1,0 +1,299 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
+/* --- 商品卡片：终极重构版 --- */
+
+.template-card {
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  /* 默认状态：非常轻微的阴影和边框 */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03); 
+  border: 1px solid #eef2f5;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.template-card:hover {
+  transform: none !important;
+  /* Hover 状态：阴影明显变大、变深，边框稍微加深 */
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1); 
+  border-color: #e2e8f0; 
+}
+
+/* 图片与占位符 */
+.template-card .card-image {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: #e2e8f0;
+}
+
+.template-card .card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* 没图时的优雅渐变背景 */
+.template-card .card-image.no-image-placeholder {
+  background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.template-card .placeholder-content {
+  font-size: 18px;
+  font-weight: 800;
+  color: #cbd5e1;
+  letter-spacing: 2px;
+}
+
+/* 标签 */
+.template-card .badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.badge-original { 
+  background: #2b8db3; 
+  color: #fff; 
+  box-shadow: 0 2px 4px rgba(43,141,179,0.3); 
+}
+
+.badge-share { 
+  background: #ffffff; 
+  color: #475569; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05); 
+}
+
+/* 内容区 */
+.template-card .card-content {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.template-card .card-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.template-card .card-excerpt {
+  font-size: 0.85rem;
+  color: #64748b;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 底部交互区 */
+.card-footer-area {
+  margin-top: auto;
+  padding-top: 15px;
+  border-top: 1px solid #f1f5f9;
+}
+
+.guide-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: 13px;
+  color: #2b8db3;
+  text-decoration: none;
+  margin-bottom: 15px;
+}
+
+/* ★ 提取出来的 SVG 图标间距 */
+.guide-link svg {
+  margin-right: 4px;
+}
+
+.guide-link:hover {
+  text-decoration: underline;
+}
+
+/* ================= 核心：价格与按钮 ================= */
+
+.action-area {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* 1. 价格区 */
+.price-display {
+  display: flex;
+  align-items: baseline;
+}
+
+.price-display .p-symbol {
+  font-size: 16px;
+  font-weight: 700;
+  margin-right: 2px;
+  color: #D93B3B; /* 高级红 */
+}
+
+.price-display .p-amount {
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: #D93B3B; /* 高级红 */
+}
+
+.price-display .p-start {
+  font-size: 13px;
+  color: #94a3b8;
+  margin-left: 6px;
+  font-weight: 500;
+}
+
+.price-display .p-free-text {
+  font-size: 24px;
+  font-weight: 800;
+  color: #047857;
+  letter-spacing: 0.5px;
+}
+
+/* 2. 并排按钮容器：强制等高 */
+.button-group {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  height: 42px;
+}
+
+/* 3. 三个按钮的通用基础样式 */
+.btn-standard, .btn-pro, .btn-free-action {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+  box-sizing: border-box;
+}
+
+/* 基础版（白底线框） */
+.btn-standard {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  color: #475569 !important;
+}
+
+.btn-standard:hover {
+  border-color: #2b8db3;
+  color: #2b8db3 !important;
+}
+
+/* 高阶版（实心品牌色） */
+.btn-pro {
+  background: #2b8db3;
+  border: 1px solid #2b8db3;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(43, 141, 179, 0.3);
+}
+
+.btn-pro:hover {
+  background: #1e6d8e;
+  border-color: #1e6d8e;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(43, 141, 179, 0.4);
+}
+
+/* 免费按钮（白底绿框，弱化视觉） */
+.btn-free-action {
+  background: #ffffff;
+  border: 1px solid #059669;
+  color: #059669 !important;
+}
+
+.btn-free-action:hover {
+  background: #f0fdf4;
+  border-color: #047857;
+  color: #047857 !important;
+}
+
+.template-card .card-title a {
+  color: #1e293b; /* 保持原本的深色 */
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.template-card .card-title a:hover {
+  color: #2b8db3; /* Hover 时变成你的主题青色 */
+}
+
+/* --- 淘宝级整卡可点（Stretched Link）与微交互 --- */
+
+.template-card {
+  position: relative; /* 必须：作为遮罩层的定位参考 */
+}
+
+/* 1. 幽灵遮罩层：覆盖全卡 */
+.template-card .stretched-link::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1; /* 盖在图片和文字之上，但低于按钮 */
+  cursor: pointer;
+}
+
+/* 2. 提升底部交互区层级，确保按钮和指南不被遮罩层挡住 */
+.template-card .guide-link,
+.template-card .price-display,
+.template-card .button-group {
+  position: relative;
+  z-index: 2; /* 确保只有这些真正的按钮能拦截点击 */
+}
+
+/* 3. 淘宝级 Hover 效果：图片微微放大 */
+.template-card .card-image img {
+  transition: transform 0.4s ease;
+}
+.template-card:hover .card-image img {
+  transform: scale(1.05); /* 鼠标放在卡片上，图片温柔地放大一点点 */
+}
+
+/* 4. 标题 Hover 变色（既然整卡可点，标题也可以给个反馈） */
+.template-card .stretched-link {
+  color: #1e293b;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.template-card:hover .stretched-link {
+  color: #2b8db3; /* 鼠标放在卡片上时，标题变青色 */
+}
+
+/* 5. 干掉主题自带的“全卡点击” Hack，我们只用我们自己的 */
+.template-card .stretched-link::before {
+  display: none !important;
+}
+
+.template-card .price-display {
+  user-select: none; /* 防止用户去选中价格文字导致误触 */
+}
