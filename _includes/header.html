@@ -6,6 +6,7 @@
       <!-- begin header -->
       <header class="header">
         <div class="logo">
+          <!-- Logo 直接回首页 -->
           <a class="logo__link" href="{{site.baseurl}}/">
           {%- if site.logo %}
             <img width="900" height="262" class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="向西笔记 - 返回首页">
@@ -21,28 +22,47 @@
             </div>
             <div class="nav__title">菜单</div>
             <ul class="nav__list list-reset">
+              
+              <!-- 1. 模板资源 -->
               <li class="nav__item">
-                <a href="{{site.baseurl}}/" class="nav__link{% if page.url == '/' %} isactive{% endif %}">主页</a>
+                <a href="{{site.baseurl}}/templates/" class="nav__link{% if page.url contains '/templates/' %} isactive{% endif %}">模板资源</a>
               </li>
+
+              <!-- 2. 沟通技巧 -->
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/product/" class="nav__link{% if page.url == '/tag/product/' %} isactive{% endif %}">好物推荐</a>
+                <a href="{{site.baseurl}}/tag/communication-skills/" class="nav__link{% if page.url contains '/tag/communication-skills/' %} isactive{% endif %}">沟通技巧</a>
               </li>
+
+              <!-- 3. 好物推荐 -->
               <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/early-retirement/" class="nav__link{% if page.url == '/tag/early-retirement/' %} isactive{% endif %}">提早退休</a>
+                <a href="{{site.baseurl}}/tag/product/" class="nav__link{% if page.url contains '/tag/product/' %} isactive{% endif %}">好物推荐</a>
               </li>
-              <li class="nav__item">
-                <a href="{{site.baseurl}}/tag/sojourn/" class="nav__link{% if page.url == '/tag/sojourn/' %} isactive{% endif %}">开启旅居</a>
+
+              <!-- 4. 更多探索 (收纳所有其他内容) -->
+              <li class="nav__item nav__item--dropdown">
+                <span class="nav__link">更多探索 <ion-icon name="chevron-down-outline" style="font-size: 12px; vertical-align: middle; margin-left: 2px;"></ion-icon></span>
+                <ul class="dropdown-menu">
+                  <!-- 固定的 Tag 合集 -->
+                  <li><a href="{{site.baseurl}}/tag/workplace/">职场成长</a></li>
+                  <li><a href="{{site.baseurl}}/tag/self-mastery/">个人管理</a></li>
+                  <li><a href="{{site.baseurl}}/tag/early-retirement/">提早退休</a></li>
+                  <li><a href="{{site.baseurl}}/tag/sojourn/">开启旅居</a></li>
+                  
+                  <!-- 自动遍历其他页面 (如：关于我) -->
+                  {%- assign sorted_pages = site.pages | sort: "nav_order" %}
+                  {%- for p in sorted_pages %}
+                    <!-- 排除不需要出现在下拉菜单里的特殊页面 -->
+                    {%- unless p.name == 'tags.html' or p.name == '404.html' or p.url == '/templates/' or p.url == '/' %}
+                      {%- if p.menu_nav == true %}
+                      <li>
+                        <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+                      </li>
+                      {%- endif %}
+                    {%- endunless %}
+                  {%- endfor %}
+                </ul>
               </li>
-              {%- assign sorted_pages = site.pages | sort: "nav_order" %}
-              {%- for p in sorted_pages %}
-                {%- unless p.name == 'tags.html' or p.name == '404.html' %}
-              {%- if p.menu_nav == true %}
-              <li class="nav__item">
-                <a href="{{ p.url | prepend: site.baseurl }}" class="nav__link{% if page.url contains p.url%} isactive{% endif %}">{{ p.title }}</a>
-              </li>
-              {%- endif %}
-                {%- endunless %}
-              {%- endfor %}
+              
             </ul>
           </div>
         </nav>
