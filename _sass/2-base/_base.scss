@@ -76,24 +76,46 @@ h6 {
 // }
 
 blockquote {
-  margin: 30px -100px;
-  font-size: 1.75em;
-  line-height: 22.8em;
-  letter-spacing: 0.5px;
+//  margin: 2em 0;
+  padding: 0.9em 1.25em;
+  border-left: 4px solid variables.$brand-color;
+  border-radius: 0 4px 4px 0;      /* 可选 */
+  background: #f8f8f8;
+  line-height: 1.7;
+  letter-spacing: 0.3px;
   font-style: normal;
-  text-align: center;
+  text-align: left;
+  color: #444;
+
+  > :first-child { margin-top: 0; }
+  > :last-child  { margin-bottom: 0; }
+
+  p {
+    margin: 0;
+  }
+
+  .quote-author {
+    margin-top: 0.6em;
+    font-size: 0.85em;
+    color: #666;
+    text-align: right;
+  }
 
   @media only screen and (max-width: grid.$tablet) {
-    margin: 30px 0;
-    font-size: 1.5em;
-    line-height: 2.375em;
+//    margin: 1.5em 0;
+    padding: 0.8em 1em;
   }
+}
+
+blockquote pre {
+  background: #fff;   /* 或你的代码块背景 */
+  border-radius: 4px;
 }
 
 pre {
   overflow: auto;
   padding: 15px;
-  margin-bottom: 0;
+//  margin-bottom: 0;
   font-size: 1em;
   white-space: pre-wrap;
   word-wrap: break-word;
