@@ -51,9 +51,12 @@ keywords: "成功日记怎么写,怎么写成功日记,成功日记,成功日记
 
 不过我发现，自己总是把注意力放到离目标还有85步上，**很气馁，老是想放弃**。所以我几乎每天都在提醒自己，我已经走了15步了，**今天即使一步也没走也没关系**。
 
-后来我看到了尼基·甘贝尔 (Nicky Gumbel)的一句话：
+后来我看到了尼基·甘贝尔的一句话：
 
-“The reason why people give up so fast is because they tend to look at how far they still have to go, instead of how far they have come.”
+> <span lang="en">The reason why people give up so fast is because they tend to look at how far they still have to go, instead of how far they have come.</span>
+> 
+> —— <span lang="en">Nicky Gumbel</span>
+> {:.quote-author}
 
 我就果断把它加到日记开头了！
 
