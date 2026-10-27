@@ -5,7 +5,11 @@ layout: null
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 	<loc>{{ site.url }}</loc>
+	{% if site.posts.first %}
+	<lastmod>{{ site.posts.first.date | date_to_xmlschema }}</lastmod>
+	{% else %}
 	<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+	{% endif %}
 	<changefreq>weekly</changefreq>
 	<priority>1.0</priority>
 </url>
@@ -23,21 +27,26 @@ layout: null
 {% if site.data.featured_tags[page.tag] %}
 <url>
 	<loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
-	{% if page.last_modified_at -%}
-	<lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
-	{% else -%}
+	{%- assign tag_posts = site.tags[page.tag] -%}
+	{%- if tag_posts and tag_posts.size > 0 -%}
+	<lastmod>{{ tag_posts.first.date | date_to_xmlschema }}</lastmod>
+	{%- elsif page.date -%}
+	<lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+	{%- else -%}
 	<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-	{% endif -%}
+	{%- endif -%}
 	<changefreq>weekly</changefreq>
 	<priority>{{ page.priority | default: 0.6 }}</priority>
 </url>
 {%- endif -%}
 {%- else -%}
-{%- unless page.url contains 'page/' or page.url contains 'assets/' or page.url == '/404.html' or page.url == '/index.html' or page.url == '/' or page.url == '/sitemap.xml' or page.url == '/feed.xml' or page.url contains '.json' -%}
+{%- unless page.sitemap == false or page.url contains 'page/' or page.url contains 'assets/' or page.url == '/404.html' or page.url == '/index.html' or page.url == '/' or page.url == '/sitemap.xml' or page.url == '/feed.xml' or page.url contains '.json' -%}
 <url>
 	<loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
 	{% if page.last_modified_at -%}
 	<lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+	{% elsif page.date -%}
+	<lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
 	{% else -%}
 	<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 	{% endif -%}
