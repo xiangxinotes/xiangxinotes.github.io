@@ -1,8 +1,30 @@
 <div class="prev post__nav__card">
-   <h2 class="post__nav__title post__general__navigation">向西笔记</h2>
-   <ul>
-     <li><a href="{{ site.baseurl }}/tag/product/">让你生活变美好的商品</a></li>
-     <li><a href="{{ site.baseurl }}/tag/workplace/">让你从工作中获得更多</a></li>
-     <li><a href="{{ site.baseurl }}/tag/book/">改变你一生的书单</a></li>
-     <li><a href="{{ site.baseurl }}/tag/sojourn/">当你旅居时</a></li>
-   </ul>
+  <h2 class="post__nav__title post__general__navigation">向西笔记</h2>
+  <ul>
+    {% assign display_tags = "communication-skills,book,self-mastery,product" | split: "," %}
+     {% assign empty_array = "" | split: "" %}
+
+     {% for tag_name in display_tags %}
+       {% assign collected_posts = empty_array %}
+       {% assign main_posts = site.tags[tag_name] %}
+       {% if main_posts %}
+         {% assign collected_posts = collected_posts | concat: main_posts %}
+       {% endif %}
+       {% for tag_item in site.data.featured_tags %}
+         {% assign sub_key = tag_item[0] %}
+         {% assign sub_value = tag_item[1] %}
+         {% if sub_value.parent_tag == tag_name %}
+           {% assign sub_posts = site.tags[sub_key] %}
+           {% if sub_posts %}
+             {% assign collected_posts = collected_posts | concat: sub_posts %}
+           {% endif %}
+         {% endif %}
+       {% endfor %}
+       {% assign total_size = collected_posts.size %}
+       {% assign tag_info = site.data.featured_tags[tag_name] %}
+       {% assign display_name = tag_info.name | default: tag_name %}
+       <li>
+         <a href="{{ site.baseurl }}/tag/{{ tag_name }}/">{{ display_name }} ({{ total_size }})</a>
+       </li>
+     {% endfor %}     
+  </ul>

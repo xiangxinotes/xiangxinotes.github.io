@@ -104,9 +104,8 @@ layout: default
     </div>
       {% else %}
       {% include card.html %}
-      <a class="link__to__home" href="/">
-      查看所有文章
-      <i class="ion ion-md-arrow-forward"></i>
+      <a class="link__to__home" href="/templates/">
+      ✨ 精选模板与资源 {% if site.data.templates.size >= 5 %}({{ site.data.templates.size }}){% else %} (持续上新中) {% endif %} ✨
       </a>
     </div>
     {%- endif %}
