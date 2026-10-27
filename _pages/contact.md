@@ -2,7 +2,7 @@
 layout: page
 title: "联系我"
 description: "想和向西聊聊？这里提供了最直接的联系方式。欢迎来信探讨沟通技巧、模板资源、好物推荐，或者只是简单地打个招呼，期待你的来信！"
-date: 2026-10-27 17:10:00 +0800
+date: 2026-10-27 17:14:00 +0800
 permalink: /contact/
 menu_nav: true
 ---

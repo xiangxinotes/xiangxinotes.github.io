@@ -2,6 +2,7 @@
 layout: page
 title: 关于我
 description: "我是向西，10年外企经验，好奇心旺盛的独立开发者与旅居者。在这里分享我的独立项目、生活复盘、高效购物指南与阅读感悟。"
+date: 2026-08-15 22:46:00 +0800
 permalink: /about/
 image: /images/me.webp
 menu_nav: true
