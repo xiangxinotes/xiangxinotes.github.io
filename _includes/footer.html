@@ -1,17 +1,70 @@
 <!-- begin footer -->
 <footer class="footer">
   <div class="container">
-{%- if site.data.settings.mailchimp %}
-{% include subscribe.html %}
-{%- endif %}
-{%- if site.data.settings.instagram %}
-{% include instagram.html %}
-{%- endif %}
-{%- if site.data.settings.projects %}
-{% include projects-footer.html %}
-{%- endif %}
-<!-- {% include contact-link.html %} -->
-    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.title }}</a> — All Rights Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
-</div>
+    
+    <div class="footer-main">
+      <div class="footer-brand">
+        <a href="/" class="footer-logo">{{ site.title }}</a>
+        <p class="footer-desc">{{ site.footer_desc | default: site.subtitle }}</p>
+        <div class="footer-socials">
+          {% if site.data.settings.weibo %}
+          <a href="{{ site.data.settings.weibo }}" target="_blank" title="微博" class="social-icon"><i class="fa-brands fa-weibo"></i></a>
+          {% endif %}
+          {% if site.data.settings.bilibili %}
+          <a href="{{ site.data.settings.bilibili }}" target="_blank" title="Bilibili" class="social-icon"><i class="fa-brands fa-bilibili"></i></a>
+          {% endif %}
+          <a href="javascript:location.href='mailto:' + 'xiangxi' + '@' + 'xiangxi.work'" title="邮箱" class="social-icon">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+          </a>
+          <a href="/feed.xml" target="_blank" title="RSS 订阅" class="social-icon">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-12.083 19h-2.917v-2.917h2.917v2.917zm5.507 0h-2.75v-2.595c0-3.082-2.504-5.586-5.587-5.586v-2.75c4.603 0 8.337 3.734 8.337 8.336v2.595zm5.593 0h-2.75v-2.884c0-5.483-4.462-9.944-9.944-9.944v-2.75c7 0 12.694 5.694 12.694 12.694v2.884z"/></svg>
+          </a>
+        </div>
+      </div>
+      <div class="footer-columns">
+        <div class="footer-column">
+          <h4 class="footer-title">关于本站</h4>
+          <ul class="footer-links">
+            <li><a href="/about/">关于我</a></li>
+            <li><a href="/contact/">联系我</a></li>
+            <li><a href="/privacy/">隐私政策</a></li>
+          </ul>
+        </div>
+        <div class="footer-column">
+          <h4 class="footer-title">独立产品</h4>
+          <ul class="footer-links">
+            {%- for item in site.data.settings.projects %}
+            <li>
+              <a href="{{ item.url }}/?utm_source=xiangxi.work&utm_medium=referral&utm_content=footer" target="_blank">
+                {{ item.title }}
+              </a>
+            </li>
+            {%- endfor %}
+          </ul>
+        </div>
+        <div class="footer-column">
+          <h4 class="footer-title">精选干货</h4>
+          <ul class="footer-links">
+            <li><a href="/templates/">高质量模板下载</a></li>
+            <li><a href="/tag/end-conversations/">结束对话系列</a></li>
+            <li><a href="/tag/self-mastery/">个人成长思考</a></li>
+          </ul>
+        </div>
+        <div class="footer-column">
+          <h4 class="footer-title">订阅与支持</h4>
+          <ul class="footer-links">
+            <li><a href="/newsletter/">订阅 Newsletter</a></li>
+            {% for item in site.donation.platforms %}
+            <li><a href="{{ item.url }}" target="_blank">{{ item.name }}支持</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.title }}</a> — All Rights Reserved. Powered by <a href="https://jekyllrb.com/">Jekyll</a>.
+    </div>
+
+  </div>
 </footer>
 <!-- end footer -->
