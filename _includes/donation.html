@@ -6,13 +6,11 @@
   </p>
 
   <div class="donation-buttons">
-    {%- if site.donation.afdian %}
-    <a href="{{ site.donation.afdian }}" target="_blank" rel="noopener" class="btn-afdian btn-donation">⚡️ 爱发电 (CNY)</a>
-    {%- endif %}
-
-    {%- if site.donation.paypal %}
-    <a href="{{ site.donation.paypal }}" target="_blank" rel="noopener" class="btn-paypal btn-donation">🌍 PayPal (USD/Global)</a>
-    {%- endif %}
+    {%- for item in site.donation.platforms %}
+    <a href="{{ item.url }}" target="_blank" rel="noopener" class="btn-donation btn-{{ item.title }}">
+      {{ item.icon }} {{ item.name }} ({{item.currency}})
+    </a>
+    {%- endfor %}
   </div>
 </div>
 {%- endif %}

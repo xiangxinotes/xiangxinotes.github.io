@@ -76,4 +76,4 @@ google-adsense: ca-pub-2729616959486829 # Add your publisher id.
 
 #-------------------------------
 # Newsletter
-# mailchimp: github.us13.list-manage.com/subscribe/post?u=aea9cafd5d3e466749d1ddf6e&amp;id=10cf18c315&amp;f_id=00b0e4e2f0 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: github.us13.list-manage.com/subscribe/post?u=aea9cafd5d3e466749d1ddf6e&amp;id=10cf18c315&amp;f_id=00b0e4e2f0 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
