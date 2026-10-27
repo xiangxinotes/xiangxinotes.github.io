@@ -524,6 +524,10 @@ scroll-nav__sub-link {
   background-color: #0070ba;
 }
 
+.btn-mdb {
+  background-color: #fdab0e;
+}
+
 .btn-donation:hover {
   transform: translateY(-2px);
   color: white;
@@ -537,4 +541,9 @@ scroll-nav__sub-link {
 .btn-paypal:hover {
   background-color: #005ea6;
   box-shadow: 0 5px 12px rgba(0, 112, 186, 0.3);
+}
+
+.btn-mdb:hover {
+  background-color: #e69b0d;
+  box-shadow: 0 5px 12px rgba(253, 171, 14, 0.3);
 }

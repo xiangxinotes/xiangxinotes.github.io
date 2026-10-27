@@ -40,6 +40,7 @@ $link-color-hover: color.adjust($dark, $lightness: 15%);
 // Button
 $button-color: $white;
 $button-background-color: $brand-color;
+$button-background-color-hover: color.adjust($brand-color, $lightness: -5%);
 
 // Border
 $border-color: $light-gray;
