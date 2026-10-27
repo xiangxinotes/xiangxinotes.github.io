@@ -68,3 +68,190 @@
     }
   }
 }
+
+/* ========================================= */
+/* Newsletter 页面专属样式 */
+/* ========================================= */
+.newsletter-page {
+  margin: 40px auto;
+  text-align: center;
+  padding: 0 20px; /* 手机端防止左右贴边 */
+}
+
+.newsletter-header h2 {
+  color: #222;
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.newsletter-header p {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.subscribe-wrapper {
+  background: transparent;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+}
+
+.newsletter-page .subscribe-form {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  width: 100%; /* 确保表单占满父容器 */
+}
+
+/* 加上这行，让外层的 div 也撑开 */
+.newsletter-page .subscribe-group {
+  flex: 1;
+  max-width: 400px;
+}
+
+.newsletter-page .subscribe__email {
+  width: 100%; /* 输入框占满撑开的组 */
+  padding: 14px 20px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s;
+  background: #fff;
+  color: #333;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05); 
+}
+
+.newsletter-page .subscribe__email::placeholder {
+  color: #bbb; 
+}
+
+.newsletter-page .subscribe__email:focus {
+  border-color: #00505e;
+  box-shadow: 0 0 0 3px rgba(0, 80, 94, 0.1);
+}
+
+.newsletter-page .subscribe__button {
+  padding: 14px 30px;
+  background-color: variables.$brand-color; 
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+
+.newsletter-page .subscribe__button:hover {
+  //filter: brightness(0.85);
+  background-color: variables.$button-background-color-hover;
+}
+
+.privacy-note {
+  font-size: 0.85rem;
+  color: #aaa;
+  margin-top: 5px;
+}
+
+.privacy-note a {
+  text-decoration: underline; 
+  color: #aaa;
+}
+
+@media (max-width: 600px) {
+  .newsletter-page {
+    margin: 30px auto;
+  }
+  
+  .newsletter-page .subscribe-form {
+    flex-direction: column;
+  }
+  
+  .newsletter-page .subscribe__email {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .newsletter-page .subscribe__button {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+/* ========================================= */
+/* 订阅成功页面专属样式 */
+/* ========================================= */
+.success-page {
+  max-width: 600px;
+  margin: 80px auto;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.success-icon svg {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+  /* 给图标加一点轻微的弹跳动画，更有惊喜感 */
+  animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+@keyframes popIn {
+  0% { transform: scale(0.5); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.success-title {
+  font-size: 2.2rem;
+  color: #222;
+  font-weight: 800;
+  margin-bottom: 15px;
+}
+
+.success-desc {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.success-alert {
+  background: #fdfaf2;
+  border: 1px solid #f2e3c6;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: left;
+  font-size: 0.95rem;
+  color: #665c4d;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+
+.success-alert p {
+  margin-bottom: 5px;
+}
+
+.success-alert p:last-child {
+  margin-bottom: 0;
+}
+
+.btn-home {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: variables.$brand-color; /* 用你的品牌色 */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: all 0.3s;
+
+  &:hover {
+    background-color: variables.$dark;
+    color: #fff;
+  }
+}
