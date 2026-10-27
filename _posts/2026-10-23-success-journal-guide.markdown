@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "成功日记怎么写？"
+title: "成功日记怎么写？232篇后我总结的模板和避坑指南"
+seo_title: "成功日记怎么写？232篇后总结的模板和注意事项"
 date: 2026-10-24 16:00:00 +0800
-description: "写了232篇成功日记后，我总结了成功日记怎么写：明确目的是建立自信、不自我批评、不跟别人比、记录自己走了多远，并附上我自用的成功日记模板。"
+description: "写了232篇成功日记后，我总结了成功日记怎么写：目的是建立自信、不自我批评、不跟别人比、记录自己走了多远。附我自用模板，可下载PDF和TXT。"
 image: /images/success-journal-guide-seedling.webp
 image_alt: "一棵刚破土而出的绿色幼苗，象征从小事开始积累成长"
 tags: self-mastery
@@ -80,6 +81,8 @@ keywords: "成功日记怎么写,怎么写成功日记,成功日记,成功日记
 - 
 - 
 ```
+
+如果你想要排版好的打印版，我把自己在用的版本整理成了[成功日记模板：1页 PDF + 可复制 TXT](https://mbd.pub/o/bread/YZaWkp1vaw==){:target="_blank" rel="noopener"}。直接打印 PDF 即可；TXT 内容则可直接复制到任意日记软件。模板需付费，请按需购买哦～
 
 ### 注意事项
 
