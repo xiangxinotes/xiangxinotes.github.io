@@ -2,6 +2,7 @@
 layout: post
 title: 我花了2小时翻遍全国大学英语四、六级考试大纲，只为帮你过四六级！
 date: 2024-10-24 11:06:25 +0800
+last_modified_at: 2026-10-29 22:40:00 +0800
 description: 四六级考试压力大？别担心！本文作者耗时 2 小时，精心梳理全国大学英语四、六级考试大纲。听、说、读、写、译五方面分析到各类题型解题技巧，全面剖析，为你提炼关键知识点，制定高效备考策略，根据大纲和样卷制定了提升和练习方法。助你轻松通过四六级考试，快来获取这份备考秘籍吧！
 image: /images/pass-cet-4-n-6.png
 tags: college-student english language-learning
@@ -10,7 +11,7 @@ tags: college-student english language-learning
 如果你更喜欢看视频，请直接看下面这个视频：
  <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1Fv1VY4E8m&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
 
-本文作者（我）已通读[全国大学英语四、六级考试大纲](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf){}！
+本文作者（我）已通读[全国大学英语四、六级考试大纲](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf){:rel="noreferrer nofollow" target="_blank"}！
 
 ## 四六级介绍
 
@@ -33,7 +34,7 @@ tags: college-student english language-learning
 
 四六级口试的报名费和笔试报名费是分开的，而且四六级口语考试内容形式不一样，形式都是上机考。
 
-如果你准备考口语，那先看看教育考试院提供的[流程视频](https://cet.neea.edu.cn/html1/category/16123/566-1.htm)吧。熟悉一下到时候整个流程是什么样的，到时候就不慌了。
+如果你准备考口语，那先看看教育考试院提供的[流程视频](https://cet.neea.edu.cn/html1/category/16123/566-1.htm){:rel="noreferrer nofollow" target="_blank"}吧。熟悉一下到时候整个流程是什么样的，到时候就不慌了。
 
 说（口语）的部分其实没什么好说的，我个人认为**没必要考**。因为就业的时候，如果企业对口语有要求，那你面试的时候肯定要开口讲的，没人看证书上的等级。如果企业没要求，那更不用考了，也不会要求你开口说。
 
@@ -62,8 +63,8 @@ tags: college-student english language-learning
 我用过一个网站：可可英语，去听模拟题和真题。一遍听不懂就多听几遍，有时间了可以自己照着文稿读。
 
 听力链接入口：
-* [英语四级听力](https://www.kekenet.com/cet4/tl/)
-* [英语六级听力](https://www.kekenet.com/cet6/ljtl/)
+* [英语四级听力](https://www.kekenet.com/cet4/tl/){:rel="noreferrer nofollow" target="_blank"}
+* [英语六级听力](https://www.kekenet.com/cet6/ljtl/){:rel="noreferrer nofollow" target="_blank"}
 
 ## 读（阅读理解）
 
@@ -74,7 +75,7 @@ tags: college-student english language-learning
 
 阅读题不可避免地包含大量单词。所以，你至少要知道这些词的意思，或者可以根据上下文推测出它的意思来。
 
-背单词不可避免，如果你没时间每天背一点儿了，那就用泛背的方法快速的背单词吧！可以在B站上搜具体的方法。我看过一个相关视频：[【学英语】北大学姐的高效背单词法！不看亏大了！1小时竟能背100多个？](https://www.bilibili.com/video/BV1g7411T7Py)（我没试过，但你可以试一下）。
+背单词不可避免，如果你没时间每天背一点儿了，那就用泛背的方法快速的背单词吧！可以在B站上搜具体的方法。我看过一个相关视频：[【学英语】北大学姐的高效背单词法！不看亏大了！1小时竟能背100多个？](https://www.bilibili.com/video/BV1g7411T7Py){:rel="noreferrer nofollow" target="_blank"}（我没试过，但你可以试一下）。
 
 👇下面介绍的是针对不同题型的解题思路：
 
@@ -111,7 +112,7 @@ H) overstated |
 
 你可以按照我的方法试一下<u>27</u>这个空。
 
-选词填空题入口：[样卷](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf#page=176)
+选词填空题入口：[样卷](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf#page=176){:rel="noreferrer nofollow" target="_blank"}
 
 ### 段落匹配
 
@@ -124,7 +125,7 @@ H) overstated |
 	* 对于一般性的句子，使用**略读**策略，快速浏览段落，得知段落主要内容即可。
 1. 哪一个段落和句子信息点一致就选上。
 
-段落匹配题篇幅较大，我就不整个复制过来了。如果想要看到更直观的解释，请直接看[视频解说](https://www.bilibili.com/video/BV1Fv1VY4E8m?t=515.5)吧。
+段落匹配题篇幅较大，我就不整个复制过来了。如果想要看到更直观的解释，请直接看[视频解说](https://www.bilibili.com/video/BV1Fv1VY4E8m?t=515.5){:rel="noreferrer nofollow" target="_blank"}吧。
 
 下面我用文字简单地讲一下：
 
@@ -138,14 +139,14 @@ H) overstated |
 
 如果你想自己试试：
 
-[样卷段落匹配题入口](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf#page=177)
+[样卷段落匹配题入口](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf#page=177){:rel="noreferrer nofollow" target="_blank"}
 
 
 ### 阅读单选
 
 仔细阅读就是从高中一直做的那种最常见的阅读题，不做过多介绍。
 
-[样卷阅读单选题入口](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf#page=180)
+[样卷阅读单选题入口](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf#page=180){:rel="noreferrer nofollow" target="_blank"}
 
 
 ## 译（段落翻译）
@@ -165,9 +166,9 @@ H) overstated |
 所以放过自己吧！不必因为没译出专有名词、成语和诗句而看轻自己。
 
 但如果你非要学这些词，那下面这些方法可以用：
-- 文化：[China Daily Culture](https://www.chinadaily.com.cn/culture)
+- 文化：[China Daily Culture](https://www.chinadaily.com.cn/culture){:rel="noreferrer nofollow" target="_blank"}
 - 历史：看纪录片
-- 社会发展：[China Daily News](https://www.chinadaily.com.cn/)
+- 社会发展：[China Daily News](https://www.chinadaily.com.cn/){:rel="noreferrer nofollow" target="_blank"}
 
 其次，我看了评分标准。最高的一个档次，也只要求准确表达原文意思。译文流畅、结构清晰、用词贴切，基本无语言错误。可以有个别小错。
 
@@ -190,5 +191,11 @@ H) overstated |
 声明：本文并**未**接受 可可英语和China Daily 任何形式的赞助。
 
 ---
+
+> 💡 **在用多邻国学语言？**
+> 
+> 我曾用 Notion 搭建过一套自动学习复习系统，和多邻国绝配，我用它记住了超多法语单词。👉 这里，免费领取这套 [**Notion 模板**](https://xiangxi.work/duolingo-notion-template/){:rel="noreferrer nofollow" target="_blank"}。
+> 
+> 如果你想知道我是怎么使用这套系统的，请查看[如何用多邻国+Notion，学会任何你想学的语言？](/2024/10/11/how-to-learn-any-language-with-duolingo-and-notion/)
 
 有什么问题，都欢迎在评论区提问哦。
