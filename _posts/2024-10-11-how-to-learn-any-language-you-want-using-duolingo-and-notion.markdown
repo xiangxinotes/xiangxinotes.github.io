@@ -2,6 +2,7 @@
 layout: post
 title: 如何用多邻国+Notion，学会任何你想学的语言？
 date: 2024-10-11 15:38:35 +0800
+last_modified_at: 2026-10-29 22:25:35 +0800
 description: 想学会任何一门心仪的语言吗？本文将为你揭晓多邻国与 Notion 强强联合的学习秘籍。剖析多邻国丰富的课程资源和 Notion 强大的笔记整理功能，教你如何巧妙搭配使用，制定专属学习计划，从基础词汇积累到复杂语法掌握，全方位助力语言学习，开启高效学习之旅。
 image: /images/duolingo-plus-notion.webp
 tags: language-learning
@@ -10,7 +11,7 @@ tags: language-learning
 如果你更喜欢看视频，请直接看下面这个视频：
  <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1Fa26YTE7K&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
 
-我用多邻国学法语到今天已经645天了。在这一年多的时间里，我的学习方法也经过了多次迭代，这篇文章就来分享一下，如何用多邻国+Notion，学会任何你想学的语言？
+我曾经用多邻国坚持学了645天的法语。在那一年多的时间里，我的学习方法经过了多次迭代，这篇文章就来分享一下，如何用多邻国 + Notion，学会任何你想学的语言？
 
 ## 学语言的心态
 
@@ -39,9 +40,9 @@ tags: language-learning
 
 这一次我是从中文学法语，因为英语->法语的记录怎么都删不掉，删不掉就不能从头开始。
 
-到现在我断断续续地学了645天。我偶尔会对着客厅里的物品说它们的法语单词来确定我真的学到了东西！
+当时我断断续续地学到了645天。我偶尔会对着客厅里的物品说它们的法语单词来确定我真的学到了东西！
 
-然后我就意识到我现在知道很多东西的法语了，比如说：le canape, les croissants, les chaises. 我也可以说一些简单的句子了，比如说：Il y a beaucoup d'argent.
+然后我就意识到我知道了很多东西的法语表达，比如说：le canape, les croissants, les chaises. 我也可以说一些简单的句子了，比如说：Il y a beaucoup d'argent.
 
 分享这些，只希望你不用自己付出这样惨痛的代价，直接从我的经历里吸收教训：**调整心态，专注于学到的知识，而不是打卡天数。**
 
@@ -101,6 +102,10 @@ Duolingo的使用比较简单，所以在这里只介绍Notion。
 
 ---
 
-如果你想用上文提到的 Notion Page 来学你想学的语言，我把它做成了[模板](https://blush-amount-161.notion.site/a2ed9e55cbb64cc6839aa2c5a0402dfc)，你可以把它复制到自己的notion账户里。
+> 💡 **想要直接使用这套语言学习系统？**
+> 
+> 这套系统曾帮我度过了法语入门的最难阶段，我把它做成了标准模板**免费分享**。👉 领取 [**Notion 模板**](https://xiangxi.work/duolingo-notion-template/){:rel="noreferrer nofollow" target="_blank"}。
+> 
+> 直接复制，Notion 新手也能轻松搭建属于自己的语言学习库。
 
-关于[Notion模板](https://blush-amount-161.notion.site/a2ed9e55cbb64cc6839aa2c5a0402dfc)有什么问题，可以在评论区提问哦。
+🌟 如果你正在寻找四六级大纲、公共场所标识英文译写规范等高质量文档，欢迎去我的[**模板与资源库**](/templates/)逛逛。

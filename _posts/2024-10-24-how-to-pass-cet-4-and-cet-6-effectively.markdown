@@ -10,7 +10,7 @@ tags: college-student english language-learning
 如果你更喜欢看视频，请直接看下面这个视频：
  <iframe class="video_frame bilibili" src="//player.bilibili.com/player.html?bvid=BV1Fv1VY4E8m&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
 
-本文作者（我）已通读[全国大学英语四、六级考试大纲](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf)！
+本文作者（我）已通读[全国大学英语四、六级考试大纲](https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf){}！
 
 ## 四六级介绍
 

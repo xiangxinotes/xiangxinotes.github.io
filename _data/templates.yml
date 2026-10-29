@@ -54,3 +54,15 @@
   guide_text: "查看向西的四六级避坑指南"
   platform: "官方文档"
   url: "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf"
+
+- title: "多邻国 + Notion 语言学习系统"
+  category: "original"
+  image: "/images/duolingo-notion-cover.webp"
+  desc: "一套让你真正记住单词的 Notion 记忆系统。包含自动过滤视图的 Database，新手也能轻松搭建自己的学习库。"
+  guide_url: "/2024/10/11/how-to-learn-any-language-you-want-using-duolingo-and-notion/" 
+  guide_text: "查看系统使用方法"
+  platform: "面包多"
+  versions:
+    - name: "Notion 模板"
+      price: "0"
+      url: "https://mbd.pub/o/bread/YZaWk5pybQ=="
