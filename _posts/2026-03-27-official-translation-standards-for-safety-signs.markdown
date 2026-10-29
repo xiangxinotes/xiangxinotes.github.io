@@ -4,6 +4,7 @@ title: 工作要翻译电梯安全标识？直接用2026最新官方规范（附
 date: 2026-03-27 14:32:00 +0800
 description: 接到电梯安全标识英译任务？机翻尴尬、自译纠结，其实国家与地方有官方译写规范。本文直接给出2026最新权威文档链接、电梯专用译文位置，并教你三步在全国标准信息公共服务平台查询最新现行版本，从此做安全标识翻译规范又省心。
 image: /images/official-translation-standards-for-safety-signs-photo-on-elevator-translation.webp
+image_alt: "我在昆明某电梯里看到的安全提示信息译文-展露出使用官方规范的重要性"
 tags: digital-efficiency
 keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电梯安全标识翻译,面向轿厢门进出注意轿厢位置 翻译,电梯轿厢内标志标识 英文,电梯安全标识英文翻译,电梯标志语大全中英,电梯警示标识英文,电梯安全标识英文
 电梯轿厢内标志标识,面向轿厢门进出注意轿厢位置 英语"
@@ -42,7 +43,7 @@ keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电
 
 像这样：
 
-![我在昆明某电梯里看到的安全提示信息译文]({{ site.baseurl }}/images/official-translation-standards-for-safety-signs-photo-on-elevator-translation.webp)
+![{{page.image_alt}}]({{ site.baseurl }}{{page.image}})
 *我在昆明某电梯里看到的安全提示信息译文*
 
 其实，你**无需费力**就能惊艳所有人。
@@ -59,7 +60,7 @@ keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电
 
 先把你需要的电梯安全提示信息文档给你：
 
-1. 打开[公共场所中文标识英文译写规范通则（北京市地方标准）](https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/bjdfbz/202002/P020210106708457191200.pdf){:target="_blank"}
+1. 打开[公共场所中文标识英文译写规范通则（北京市地方标准）](https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/bjdfbz/202002/P020210106708457191200.pdf){:rel="noreferrer nofollow" target="_blank"}
 1. 翻到此pdf的第26页
 1. 查看表 B.2 即可
 
@@ -79,16 +80,16 @@ keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电
 
 你当然可以拿关键词去百度上搜索，但我推荐你在这里搜索：
 
-https://std.samr.gov.cn
+[https://std.samr.gov.cn](https://std.samr.gov.cn){:rel="noreferrer nofollow" target="_blank"}
 
 这是全国标准信息公共服务平台，你可以在上面查到所有国家标准和地方标准文档。
 
-如果你在2026年看到这篇文章，那么现行的《公共服务领域英文译写规范》可以在这里快速找到：https://ling.whu.edu.cn/view/25054.html
+如果你在2026年看到这篇文章，那么现行的《公共服务领域英文译写规范》可以在这里快速找到：[https://ling.whu.edu.cn/view/25054.html](https://ling.whu.edu.cn/view/25054.html){:rel="noreferrer nofollow" target="_blank"}
 
 ## 怎么查看最新版标准
 
 只需三步：
-1. 在[全国标准信息公共服务平台**官网**](https://std.samr.gov.cn){:target="_blank"}搜索对应标准名或标准号，
+1. 在[全国标准信息公共服务平台**官网**](https://std.samr.gov.cn){:rel="noreferrer nofollow" target="_blank"}搜索对应标准名或标准号，
 1. 使用检索过滤器筛选标准状态为**现行**，
 1. 在标准的网页中点击**查看文本**。
 
@@ -100,9 +101,9 @@ https://std.samr.gov.cn
 
 提供以下两个公共场所译写规范入口，供你快速跳转：
 - [《公共服务领域英文译写规范》的最新版](https://std.samr.gov.cn/search/std?q=%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E9%A2%86%E5%9F%9F%E8%8B%B1%E6%96%87%E8%AF%91%E5%86%99%E8%A7%84%E8%8C%83
-){:target="_blank"}
+){:rel="noreferrer nofollow" target="_blank"}
 - [《公共场所中文标识英文译写规范》的最新版](https://std.samr.gov.cn/search/std?q=%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E4%B8%AD%E6%96%87%E6%A0%87%E8%AF%86%E8%8B%B1%E6%96%87%E8%AF%91%E5%86%99%E8%A7%84%E8%8C%83
-){:target="_blank"}
+){:rel="noreferrer nofollow" target="_blank"}
 
 记得自己调整检索过滤器哦～
 
