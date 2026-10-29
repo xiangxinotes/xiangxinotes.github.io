@@ -3,7 +3,7 @@ layout: default
 title: "精选效率模板与官方规范库" 
 description: "向西笔记的私人工具箱。包含亲测有效的成功日记模板、沟通问题清单、梦想家行动指南等原创效率工具，以及免费分享的公共场所英文译写官方规范。附带详细的实战心法与保姆级教程。"
 date: 2026-10-26 23:08:00 +0800
-last_modified_at: 2026-10-29 20:58:00 +0800
+last_modified_at: 2026-10-29 21:09:00 +0800
 permalink: /templates/
 image: /images/templates.webp
 menu_nav: false
