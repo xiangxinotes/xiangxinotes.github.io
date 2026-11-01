@@ -66,3 +66,18 @@
     - name: "Notion 模板"
       price: "0"
       url: "https://mbd.pub/o/bread/YZaWk5pybQ=="
+
+- title: "梦想家行动指南模板"
+  category: "original"
+  image: "/images/dreamers-action-cover.webp"
+  desc: "待办清单满满却总是不行动？用这套SOP帮你剔除假目标、扫清行动障碍，告别拖延内耗，让计划真正落地。"
+  guide_url: "/2026/03/06/dreamers-action-guide/"
+  guide_text: "看我是如何2天完成拖延2.5个月文章的"
+  platform: "面包多"
+  versions:
+    - name: "PDF 打印版"
+      price: "9.9"
+      url: "https://mbd.pub/o/bread/YZaWlJZubQ=="
+    - name: "PDF + 在线版 + 路线图"
+      price: "19.9"
+      url: "https://mbd.pub/o/bread/YZaWlJZvZA=="
