@@ -89,7 +89,7 @@ keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电
 
 ### 北京市地方标准
 
-- **文档链接**：[公共场所中文标识英文译写规范通则（北京市地方标准）](https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/bjdfbz/202002/P020210106708457191200.pdf){:rel="noreferrer nofollow" target="_blank"}
+- **文档链接**：[公共场所中文标识英文译写规范通则（北京市地方标准）](https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/bjdfbz/202002/P020210106708457191200.pdf){:rel="noopener" target="_blank"}
 - **文档标准号**：DB11/T 334-2020
 - **电梯译法位置**：第26页，**表 B.2**
 
@@ -98,7 +98,7 @@ keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电
 
 ### 珠海市地方标准
 
-- **文档链接**：[公共场所中文标识英文译写规范通则（珠海市地方标准）](https://www.zhuhai.gov.cn/attachment/0/392/392335/3752170.pdf){:rel="noreferrer nofollow" target="_blank"}
+- **文档链接**：[公共场所中文标识英文译写规范通则（珠海市地方标准）](https://www.zhuhai.gov.cn/attachment/0/392/392335/3752170.pdf){:rel="noopener" target="_blank"}
 - **文档标准号**：DB4404/T 73.1—2024
 - **电梯译法位置**：第28页，**表 B.2**
 
@@ -114,12 +114,12 @@ keywords: "公共场所提示语,电梯安全标识,翻译电梯安全标识,电
 
 本文更新于{{ page.last_modified_at | date: "%Y年%-m月%-d日" }}，官方标准通常几年修订一次。
 
-最保险的做法，是自己去官方平台查**现行**版本。戳链接[《公共场所中文标识英文译写规范》现行版本查询](https://std.samr.gov.cn/search/std?q=公共场所中文标识英文译写规范){:rel="noreferrer nofollow" target="_blank"}快速检查。只要你看到的标准号和上面列出的一样，就说明没有变。
+最保险的做法，是自己去官方平台查**现行**版本。戳链接[《公共场所中文标识英文译写规范》现行版本查询](https://std.samr.gov.cn/search/std?q=公共场所中文标识英文译写规范){:rel="noopener" target="_blank"}快速检查。只要你看到的标准号和上面列出的一样，就说明没有变。
 
 ### 如何查询更多现行标准？
 
 查询步骤如下：
-1. 打开 [全国标准信息公共服务平台](https://std.samr.gov.cn){:rel="noreferrer nofollow" target="_blank"}
+1. 打开 [全国标准信息公共服务平台](https://std.samr.gov.cn){:rel="noopener" target="_blank"}
 2. 搜索标准名或标准号（如“公共服务领域英文译写规范”）。
 3. 在检索过滤器中，将状态筛选为 **“现行”**。
 4. 在标准详情页点击 **“查看文本”** 即可在线浏览或下载。
