@@ -9,9 +9,6 @@
     - name: "PDF 打印版 + TXT 可复制版"
       price: "9.9"
       url: "https://mbd.pub/o/bread/YZaWkp1vaw=="
-    # - name: "在线编辑版"
-    #   price: "12.9"
-    #   url: "https://mianbaoduo.com/xxx2"
 
 - title: "沟通问题表模板"
   category: "original"
@@ -31,11 +28,15 @@
 - title: "公共场所标识英文译写规范"
   category: "free"
   image: "/images/english-standard-cover.webp"
-  desc: "北京市地方标准官方原版 PDF（电梯译文见26页）。附保姆级查询教程，帮你搞定公共场所英文译写。"
+  desc: "包含北京、珠海两市官方原版 PDF（电梯译文分别在第26、28页）。附保姆级查询教程，帮你搞定公共场所英文译写。"
   guide_url: "/2026/03/27/official-translation-standards-for-safety-signs/" 
   guide_text: "阅读官方出处与查询教程"
   platform: "官方文档"
-  url: "https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/bjdfbz/202002/P020210106708457191200.pdf"
+  versions:
+    - name: "北京标准"
+      url: "https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/bjdfbz/202002/P020210106708457191200.pdf"
+    - name: "珠海标准"
+      url: "https://www.zhuhai.gov.cn/attachment/0/392/392335/3752170.pdf"
 
 - title: "免费商用字体合集"
   category: "free"
@@ -63,7 +64,7 @@
   guide_text: "查看系统使用方法"
   platform: "面包多"
   versions:
-    - name: "Notion 模板"
+    - name: "一键免费复制"
       price: "0"
       url: "https://mbd.pub/o/bread/YZaWk5pybQ=="
 
