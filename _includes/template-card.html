@@ -36,8 +36,6 @@
   <div class="card-content">
     <div class="text-content">
       <h2 class="card-title">
-        <!-- ★ 核心：给标题链接加上 class="stretched-link" -->
-        <!-- 整卡点击默认跳转到“使用指南”（如果没有，就跳第一个购买链接） -->
         <a href="{% if tmpl.guide_url %}{{ site.baseurl }}{{ tmpl.guide_url }}{% elsif tmpl.url %}{{ tmpl.url }}{% elsif tmpl.versions[0].url %}{{ tmpl.versions[0].url }}{% endif %}" 
            class="stretched-link" 
            {% unless tmpl.guide_url %}target="_blank" rel="noopener noreferrer"{% endunless %}>
@@ -47,7 +45,7 @@
       <p class="card-excerpt">{{ tmpl.desc }}</p>
     </div>
     
-    <!-- 底部交互区 (由于遮罩层的原因，必须加 relative 和 z-index 提升层级) -->
+    <!-- 底部交互区 -->
     <div class="card-footer-area">
       {% if tmpl.guide_url %}
         <a href="{{ site.baseurl }}{{ tmpl.guide_url }}" class="guide-link">
@@ -57,41 +55,70 @@
       {% endif %}
 
       <div class="action-area">
-        {% if tmpl.category == 'original' %}
-        <a href="{% if tmpl.shop_url %}{{ tmpl.shop_url }}{% else %}{{ tmpl.versions[0].url }}{% endif %}" target="_blank" rel="noopener noreferrer" class="price-display">
-          <span class="p-symbol">¥</span>
-          <span class="p-amount">{{ tmpl.versions[0].price }}</span>
-          {% if tmpl.versions.size > 1 %}
-          <span class="p-start">起</span>
+        {% if tmpl.versions and tmpl.versions.size > 0 %}
+          
+          {% if tmpl.category == 'original' %}
+            <!-- 核心逻辑：判断是否所有版本全免费，找出最低价 -->
+            {%- assign all_free = true -%}
+            {%- assign min_price = 999999 -%}
+            {%- for v in tmpl.versions -%}
+              {%- assign p_num = v.price | plus: 0 -%}
+              {%- if p_num > 0 -%}
+                {%- assign all_free = false -%}
+              {%- endif -%}
+              {%- if p_num < min_price -%}
+                {%- assign min_price = p_num -%}
+              {%- endif -%}
+            {%- endfor -%}
+
+            <a href="{% if tmpl.shop_url %}{{ tmpl.shop_url }}{% else %}{{ tmpl.versions[0].url }}{% endif %}" target="_blank" rel="noopener noreferrer" class="price-display">
+              
+              {% if all_free %}
+                <!-- 全免费：显示蓝色免费分享 -->
+                <span class="p-free-text" style="color: #0097b2; font-size: 24px; font-weight: 800;">免费分享</span>
+              {% else %}
+                <!-- 有收费：显示最低价起 -->
+                <span class="p-symbol">¥</span>
+                <span class="p-amount">{{ min_price }}</span>
+                {% if tmpl.versions.size > 1 %}
+                <span class="p-start">起</span>
+                {% else %}
+                <span class="p-start">元</span>
+                {% endif %}
+              {% endif %}
+            </a>
+            
           {% else %}
-          <span class="p-start">元</span>
+            <div class="price-display free-display">
+              <span class="p-free-text">免费下载</span>
+            </div>
           {% endif %}
-        </a>
+            
+          <div class="button-group">
+            {% for v in tmpl.versions %}
+              {% if tmpl.category == 'original' %}
+                {% if forloop.last %}
+                <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-pro"><span class="v-name">{{ v.name }}</span></a>
+                {% else %}
+                <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-standard"><span class="v-name">{{ v.name }}</span></a>
+                {% endif %}
+              {% else %}
+                <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-free-action" style="{% if tmpl.versions.size > 1 %}flex: 1; margin: 0 4px; padding: 10px 0;{% endif %}">
+                  <span class="v-name">{{ v.name }}</span>
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
           
-        <div class="button-group">
-          {% for v in tmpl.versions %}
-            {% if forloop.last %}
-            <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-pro">
-              <span class="v-name">{{ v.name }}</span>
-            </a>
-            {% else %}
-            <a href="{{ v.url }}" target="_blank" rel="noopener noreferrer" class="btn-standard">
-              <span class="v-name">{{ v.name }}</span>
-            </a>
-            {% endif %}
-          {% endfor %}
-        </div>
-          
-        {% else %}
-        <a href="{{ tmpl.url }}" target="_blank" rel="noopener noreferrer" class="price-display free-display">
-          <span class="p-free-text">免费下载</span>
-        </a>
-          
-        <div class="button-group">
-          <a href="{{ tmpl.url }}" target="_blank" rel="noopener noreferrer" class="btn-free-action">
-            <span>前往获取</span>
+        {% elsif tmpl.url %}
+          <a href="{{ tmpl.url }}" target="_blank" rel="noopener noreferrer" class="price-display free-display">
+            <span class="p-free-text">免费下载</span>
           </a>
-        </div>
+          <div class="button-group">
+            <a href="{{ tmpl.url }}" target="_blank" rel="noopener noreferrer" class="btn-free-action">
+              <span>前往获取</span>
+            </a>
+          </div>
         {% endif %}
       </div>
     </div>
