@@ -82,3 +82,15 @@
     - name: "PDF + 在线版 + 路线图"
       price: "19.9"
       url: "https://mbd.pub/o/bread/YZaWlJZvZA=="
+
+- title: "小红书满分租房模板"
+  category: "original"
+  image: "/images/rent-post-cover.webp"
+  desc: "发了帖子没人看？天天被无效问询烦死？这份纯文本填空模板，帮你把招租帖写得清清楚楚，高效筛选靠谱租客，即拿即用。"
+  guide_url: "/2025/02/11/how-to-publish-a-post-to-rent-your-house/"
+  guide_text: "查收我看了300+篇帖子总结的招租指南"
+  platform: "面包多"
+  versions:
+    - name: "TXT 填空模板 + 满分示例"
+      price: "9.9"
+      url: "https://mbd.pub/o/bread/YZaWlJtsZQ=="
