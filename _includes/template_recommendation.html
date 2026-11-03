@@ -1,0 +1,55 @@
+{% assign matched_templates = "" | split: "" %}
+
+{% for tmpl in site.data.templates %}
+  {% unless tmpl.category == 'original' %}{% continue %}{% endunless %}
+  {% if tmpl.guide_url == page.url %}{% continue %}{% endif %}
+
+  {% assign guide_post = nil %}
+  {% for post in site.posts %}
+    {% if post.url == tmpl.guide_url %}
+      {% assign guide_post = post %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if guide_post %}
+    {% assign has_match = false %}
+    {% for t_tag in guide_post.tags %}
+      {% if page.tags contains t_tag %}
+        {% assign has_match = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% if has_match %}
+      {% assign matched_templates = matched_templates | push: tmpl %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if matched_templates.size > 0 %}
+  {% assign sorted_templates = matched_templates | sort: "weight" | reverse %}
+  {% assign best_tmpl = sorted_templates.first %}
+
+  <div class="recommend-section">
+    <h4 class="recommend-title-heading">📁 或许能帮到你</h4>
+    
+    <a href="{{ site.baseurl }}/templates/" class="recommend-card">
+      <div class="recommend-content">
+        <div class="recommend-icon">
+          {{ best_tmpl.title | slice: 0 }}
+        </div>
+        <div class="recommend-text">
+          <div class="recommend-title">{{ best_tmpl.title }}</div>
+          <div class="recommend-desc">
+            {{ best_tmpl.short_desc | default: best_tmpl.desc | strip_html | truncate: 35 }}
+          </div>
+        </div>
+      </div>
+
+      <div class="recommend-action">
+        去逛逛 &rarr;
+      </div>
+    </a>
+  </div>
+{% endif %}

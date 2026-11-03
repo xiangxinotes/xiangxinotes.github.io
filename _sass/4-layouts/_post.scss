@@ -547,3 +547,88 @@ scroll-nav__sub-link {
   background-color: #e69b0d;
   box-shadow: 0 5px 12px rgba(253, 171, 14, 0.3);
 }
+
+/* --- 文章底部智能推荐模板卡片 --- */
+.recommend-section {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #f8fafc;
+  border: 1px solid #eef2f5;
+  border-radius: 12px;
+}
+
+.recommend-title-heading {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #1e293b;
+  font-size: 16px;
+}
+
+.recommend-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 12px 16px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  text-decoration: none;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-color: #2b8db3; /* 替代了原来的 onmouseover 内联 JS */
+  }
+}
+
+.recommend-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+  min-width: 0; /* 防止长文本撑破容器 */
+}
+
+.recommend-icon {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  background: #eef7fa;
+  color: #2b8db3;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.recommend-text {
+  min-width: 0; /* 确保截断生效 */
+}
+
+.recommend-title {
+  font-weight: 700;
+  color: #1e293b;
+  font-size: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.recommend-desc {
+  font-size: 13px;
+  color: #64748b;
+  margin-top: 2px;
+  /* 兜底方案：防止 short_desc 写太长，自动截断为一行 */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.recommend-action {
+  flex-shrink: 0;
+  color: #2b8db3;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  padding-left: 10px;
+}
