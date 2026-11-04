@@ -45,6 +45,7 @@ $(document).ready(function() {
 
   function searchOpen() {
     searchBox.addClass("is-visible");
+    $(".search__text").focus(); 
   }
 
   function searchClose() {
