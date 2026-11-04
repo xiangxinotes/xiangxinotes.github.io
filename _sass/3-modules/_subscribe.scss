@@ -1,70 +1,73 @@
 @use "../0-settings/variables";
 @use "../1-tools/grid";
 
-.subscribe {
-  width: 430px;
-  max-width: 100%;
-  margin: 0 auto 80px;
-  text-align: center;
-
-  .subscribe__title {
-    margin-bottom: 10px;
-    font-size: 37px;
-    line-height: 57px;
+.dark-subscribe-section {
+  background-color: variables.$dark !important; 
+  padding: 24px;
+  border-radius: 8px;
+  
+  .recommend-title-heading {
+    color: variables.$white;
+    margin-bottom: 8px;
   }
 
-  .subscribe__subtitle {
-    margin-bottom: 30px;
-    font-size: 17px;
-    line-height: 27px;
+  .subscribe__desc {
+    font-size: 0.85rem;
+    color: variables.$light-gray;
+    margin-top: 0;
+    margin-bottom: 16px;
   }
 
   .subscribe-form {
-
-    .subscribe-group {
-      margin-bottom: 30px;
-    }
-
-    .subscribe__email {
-      width: 100%;
-      padding: 17px;
-      font-size: 16px;
-      text-align: center;
-      outline: none;
-      border: none;
-      border-bottom: 3px solid variables.$light-gray;
-
-      &::placeholder {
-        font-size: 18px;
-        color: variables.$light-gray;
-      }
-    }
-
-    .subscribe__button {
-      width: 127px;
-      height: 57px;
-      font-size: 1em;
-      font-weight: 700;
-      letter-spacing: 0.5px;
-      border-radius: 30px;
-      border: none;
-      background: variables.$light-gray;
-      cursor: pointer;
-      transition: all .35s;
-
-      &:hover {
-        color: variables.$white;
-        background: variables.$dark;
-      }
+    display: flex;
+    gap: 12px;
+    
+    @media (max-width: 600px) {
+      flex-direction: column;
+      gap: 10px;
     }
   }
 
-  @media only screen and (max-width: grid.$mobile) {
-    margin: 0 auto 40px;
+  .subscribe__email {
+    flex: 1;
+    height: 42px;
+    min-height: 42px;
+    padding: 0 14px;
+    font-size: 0.95rem;
+    background-color: rgba(255, 255, 255, 0.08);; 
+    color: variables.$white;
+    border: 1px solid rgba(255, 255, 255, 0.2);;
+    border-radius: 6px;
+    outline: none;
+    box-sizing: border-box;
 
-    .subscribe__subtitle {
-      font-size: 16px;
-      line-height: 26px;
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.5); 
+    }
+
+    &:focus {
+      background-color: rgba(255, 255, 255, 0.12); /* 聚焦时稍微亮一点点 */
+    }
+  }
+
+  .subscribe__button {
+    height: 42px;
+    padding: 0 24px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    
+    /* 幽灵按钮风格 */
+    color: variables.$white; 
+    background-color: transparent; 
+    border: 1px solid rgba(255, 255, 255, 0.4); /* 半透明白色边框 */
+    border-radius: 6px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.3s;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.1); /* 悬停时微微泛白 */
+      border-color: variables.$white;
     }
   }
 }
@@ -104,12 +107,13 @@
   gap: 12px;
   justify-content: center;
   width: 100%; /* 确保表单占满父容器 */
+  max-width: 540px;
+  margin: 0 auto;
 }
 
 /* 加上这行，让外层的 div 也撑开 */
 .newsletter-page .subscribe-group {
   flex: 1;
-  max-width: 400px;
 }
 
 .newsletter-page .subscribe__email {
