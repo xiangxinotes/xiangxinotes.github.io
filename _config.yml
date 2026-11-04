@@ -44,7 +44,7 @@ tag_permalink_style: pretty
 
 donation:
   enable: true
-  text_zh: "如果我的想法对你有所启发，欢迎请我喝杯咖啡。☕️"
+  text_zh: "如果本文对你有用，欢迎请我喝杯咖啡支持持续创作。☕️"
   text_en: "If you found my thoughts helpful, consider buying me a coffee. ☕️"
   platforms:
     - name: 爱发电

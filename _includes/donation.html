@@ -1,16 +1,18 @@
 {%- if site.donation.enable %}
-<div class="blog-donation">
-  <p class="donation-text">
-    {{ site.donation.text_zh }} <br>
-    <span>{{ site.donation.text_en }}</span>
-  </p>
-
-  <div class="donation-buttons">
-    {%- for item in site.donation.platforms %}
-    <a href="{{ item.url }}" target="_blank" rel="noopener" class="btn-donation btn-{{ item.title }}">
-      {{ item.icon }} {{ item.name }} ({{item.currency}})
-    </a>
-    {%- endfor %}
+<details style="text-align:center; margin: 20px 0; font-size: 0.85rem; color: #888;">
+  <summary style="cursor:pointer;">{{ site.donation.text_zh }}</summary>
+  <div class="blog-donation">
+<!--     <p class="donation-text">
+      {{ site.donation.text_zh }} <br>
+      <span>{{ site.donation.text_en }}</span>
+    </p> -->
+    <div class="donation-buttons">
+      {%- for item in site.donation.platforms %}
+      <a href="{{ item.url }}" target="_blank" rel="noopener" class="btn-donation btn-{{ item.title }}">
+        {{ item.icon }} {{ item.name }} ({{item.currency}})
+      </a>
+      {%- endfor %}
+    </div>
   </div>
-</div>
+</details>
 {%- endif %}
