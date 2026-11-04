@@ -4,6 +4,7 @@
 .header {
   position: relative;
   height: 100px;
+  z-index: 99;
 
   .header__overlay {
     position: fixed;
@@ -244,6 +245,20 @@
 
 /* ================= 移动端适配 ================= */
 @media only screen and (max-width: grid.$desktop) {
+  .main-nav .nav__list .nav__item .nav__link {
+    display: block !important;
+    box-sizing: border-box;
+    transition: all 0.2s ease;
+    &:hover {
+      background: #f8fafc; 
+      color: #2b8db3; 
+    }
+  }
+
+  .main-nav .nav__list .nav__item--dropdown > .nav__link {
+    display: none !important; 
+  }
+
   /* 移动端不需要动画，直接静态平铺展示 */
   .dropdown-menu {
     position: static;
@@ -252,16 +267,20 @@
     visibility: visible !important;
     transform: none !important;
     box-shadow: none;
+    background: transparent;
     border: none;
     padding: 0;
     margin-top: 0;
-    margin-left: 15px; 
+    margin-left: 0px; 
 
-    &::before { display: none; }
-  }
-
-  /* 隐藏下拉菜单的父级文字（如“更多探索”），只显示里面的项 */
-  .nav__item--dropdown > .nav__link {
-    display: none; 
+    li a {
+        text-align: left;
+        padding: 10px 30px;
+        font-size: 1em;
+        font-weight: 700;
+        letter-spacing: .5px;
+        transition: all .2s ease;
+        cursor: pointer;
+    }
   }
 }

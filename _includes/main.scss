@@ -63,7 +63,6 @@
 // 1.6 Zoom
 @use '1-tools/zoom';
 
-
 /* >>>>>>>>>>>>>> :: 2-Base Styles <<<<<<<<<<<<<<< */
 
 // 2.1 Base
@@ -118,3 +117,7 @@
 
 // 4.6 Templates Page
 @use '4-layouts/templates';
+
+// >>>>>>>>>>>>>> 放在最后，覆盖所有前面的样式 <<<<<<<<<<<<<<<
+// 1.7 Dark Mode
+@use '1-tools/dark-mode';
