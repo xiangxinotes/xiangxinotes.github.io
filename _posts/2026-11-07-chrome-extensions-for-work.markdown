@@ -3,7 +3,7 @@ layout: post
 title: "外企人电脑里必装的4个神仙 Chrome 插件｜附安装链接"
 date: 2026-11-07 16:00:00 +0800
 description: "在外企工作，每天面对海量英文文档和邮件？推荐4款外企打工人必备的神仙 Chrome 插件：沉浸式翻译、Gmail提醒、Momentum新标签页与无障碍字体，附国内一键安装链接。"
-image: /images/Momentum.webp
+image: /images/momentum.webp
 image_alt: "Momentum插件页面截图，写着：Slow progress is better than no progress."
 tags: digital-efficiency
 ---

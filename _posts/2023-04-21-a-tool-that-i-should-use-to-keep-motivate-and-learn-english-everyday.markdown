@@ -41,7 +41,7 @@ Quote 是英文的，所以我每天会看一看当天的 Quote，如果有不�
 
 我确实相信：缓慢的进步总好过没有进步。（哈哈，刚好就是今天的 Quote 了！）
 
-![Momentum插件页面截图]({{ site.baseurl }}/images/Momentum.webp)
+![Momentum插件页面截图]({{ site.baseurl }}/images/momentum.webp)
 *Slow progress is better than no progress.*
 
 ## 如何使用？
