@@ -2,7 +2,7 @@
 layout: post
 title: "Chrome扩展国内下载安装｜2026可用谷歌浏览器插件下载网站推荐"
 date: 2025-01-13 16:21:00 +0800
-last_modified_at: 2026-09-19 17:10:10 +0800
+last_modified_at: 2026-11-07 15:59:00 +0800
 description: "Chrome Web Store打不开？整理2026年国内可用的谷歌浏览器扩展程序下载网站、离线crx安装步骤和常见问题，含插件迷、Crx搜搜等5个站点。"
 image: /images/how-to-download-and-install-chrome-extension-using-normal-network-in-china.webp
 tags: digital-efficiency
@@ -50,6 +50,8 @@ Chrome 应用商店的官方链接如下：
 
 如果上面的安装步骤过时或者不适用，请参考相关网站给出的步骤和方法。
 
+如果你在外企工作，需要面对大量英文网页和文档、时刻关注邮件，我整理了[外企人电脑里必装的4个神仙 Chrome 插件](/2026/11/07/chrome-extensions-for-work/)，欢迎查看。
+
 ## Chrome 浏览器下载地址
 
 搜索引擎虽然返回了海量结果，但其中的大多数并不是真的谷歌浏览器，下载这样的浏览器有可能会导致你的隐私数据被盗用，而且这样的浏览器也不会经常更新，所以我推荐从官方渠道下载。
@@ -75,5 +77,8 @@ Chrome 浏览器设置的默认搜索引擎是[谷歌](https://www.google.com){:
 *更改默认搜索引擎*
 
 ---
+
+**🌟 延伸阅读：**
+如果你想整个网页截图，却不知道怎么截。我在[Chrome 网页长截图教程](/2026/03/19/how-to-take-a-full-page-screenshot-in-chrome-with-and-without-chrome-extension/)中分享了一个Chrome插件和一个原生指令。所以就算公司电脑不让安装插件，也能轻松解决网页长截图的需求，有需求的可以看一看。
 
 声明：本文并未接受 Chrome 浏览器、插件迷、Crx搜搜、极简插件、UU在线工具、iLoveChrome 任何形式的赞助。
