@@ -44,17 +44,17 @@ keywords: "配色难看,高级审美,图片配色,免费配色,配色网站,颜�
 
 赶快收藏本文，你总有一天用得上。
 
-## 9个免费配色网站
+## 九个免费配色网站
 
-- https://color.adobe.com/zh/trends 适合图片取色、做品牌主题色。
-- ❤️ https://colorpalettes.net/ 适合做**温柔干净**的网页、博客主题。
-- ❤️ https://colors.muz.li/ 适合新手。
-- https://coolors.co/
-- https://www.color-hex.com/color-palettes/ 适合快速找大量配色参考。
-- https://colorpalettes.com/ 适合找日常通用配色、柔和舒服的组合。
-- 💎 https://flatuicolors.com/ 适合做按钮、卡片、**UI** 界面。
-- 💎 https://colorbrewer2.org/ 适合做**数据面板、图表**、后台系统配色。
-- 💎 https://www.uigradients.com/ 适合背景**渐变**、标题渐变、banner 设计。
+- [https://color.adobe.com/zh/trends](https://color.adobe.com/zh/trends){:rel="noreferrer noopener" target="_blank"} 适合图片取色、做品牌主题色。
+- ❤️ [https://colorpalettes.net/](https://colorpalettes.net/){:rel="noreferrer noopener" target="_blank"} 适合做**温柔干净**的网页、博客主题。
+- ❤️ [https://colors.muz.li/](https://colors.muz.li/){:rel="noreferrer noopener" target="_blank"} 适合新手。
+- [https://coolors.co/](https://coolors.co/){:rel="noreferrer noopener" target="_blank"}
+- [https://www.color-hex.com/color-palettes/](https://www.color-hex.com/color-palettes/){:rel="noreferrer noopener" target="_blank"} 适合快速找大量配色参考。
+- [https://colorpalettes.com/](https://colorpalettes.com/){:rel="noreferrer noopener" target="_blank"} 适合找日常通用配色、柔和舒服的组合。
+- 💎 [https://flatuicolors.com/](https://flatuicolors.com/){:rel="noreferrer noopener" target="_blank"} 适合做按钮、卡片、**UI** 界面。
+- 💎 [https://colorbrewer2.org/](https://colorbrewer2.org/){:rel="noreferrer noopener" target="_blank"} 适合做**数据面板、图表**、后台系统配色。
+- 💎 [https://www.uigradients.com/](https://www.uigradients.com/){:rel="noreferrer noopener" target="_blank"} 适合背景**渐变**、标题渐变、banner 设计。
 
 最推荐的标❤️，适合单一领域的标💎。
 
